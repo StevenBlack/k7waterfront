@@ -1,5 +1,6 @@
 # Site settings
 title: K7Waterfront.org
+organization: K7Waterfront
 email: steve@k7Waterfront.org
 description: Celebrating and watching the Kingston Ontario waterfront
 
@@ -10,3 +11,4 @@ github_username:  StevenBlack/k7waterfront
 
 # Build settings
 markdown: kramdown
+
