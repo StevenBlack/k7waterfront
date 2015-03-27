@@ -1,5 +1,1 @@
-{{ post.subject }}{% unless post.sting == blank %}  — <small>{{ post.sting }}</small>{% endunless %}
-
-
-
-
+<span class="text-uppercase">{{ post.subject }}</span>{% unless post.sting == blank %} — <span class="text-capitalize">{{ post.sting }}</span>{% endunless %}
