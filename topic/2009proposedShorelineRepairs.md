@@ -1,0 +1,12 @@
+---
+layout: topic
+permalink: "/topic/2009proposedShorelineRepairs/"
+title: "2009proposedShorelineRepairs"
+
+---
+
+##Area of proposed Summer 2009 shoreline repairs</div>
+
+<a href="http://www.flickr.com/photos/k7waterfront/3626802368/" title="Click for larger version, on Flickr"><img src="http://farm4.static.flickr.com/3397/3626802368_4ec2188859.jpg" height="375" alt="Kingston ON Shoreline 2009" class="floatleft" /></a><a href="http://www.flickr.com/photos/k7waterfront/3625983877/" title="Click for larger version, on Flickr"><img src="http://farm3.static.flickr.com/2421/3625983877_561e507050.jpg" height="375" alt="Kingston ON Shoreline 2009" class="floatleft" /></a><a href="http://www.flickr.com/photos/k7waterfront/3625982047/" title="Click for larger version, on Flickr"><img src="http://farm3.static.flickr.com/2483/3625982047_fc85b796f6.jpg" height="375" alt="Kingston ON Shoreline 2009" class="floatleft" /></a><a href="http://www.flickr.com/photos/k7waterfront/3626794054/" title="Click for larger version, on Flickr"><img src="http://farm3.static.flickr.com/2427/3626794054_e1223c47bc.jpg" height="375" alt="Kingston ON Shoreline 2009" class="floatleft" /></a><a href="http://www.flickr.com/photos/k7waterfront/3626791888/" title="Click for larger version, on Flickr"><img src="http://farm4.static.flickr.com/3403/3626791888_2291c94368.jpg" height="375" alt="Kingston ON Shoreline 2009" class="floatleft" /></a><a href="http://www.flickr.com/photos/k7waterfront/3625970321/" title="Click for larger version, on Flickr"><img src="http://farm4.static.flickr.com/3332/3625970321_2cd50ddaea.jpg" height="375" alt="Kingston ON Shoreline 2009" class="floatleft" /></a><a href="http://www.flickr.com/photos/k7waterfront/3625965827/" title="Click for larger version, on Flickr"><img src="http://farm3.static.flickr.com/2475/3625965827_9be86492d8.jpg" height="375" alt="Kingston ON Shoreline 2009" class="floatleft" /></a><a href="http://www.flickr.com/photos/k7waterfront/3626782452/" title="Click for larger version, on Flickr"><img src="http://farm4.static.flickr.com/3375/3626782452_71e8280af1.jpg" height="375" alt="Kingston ON Shoreline 2009" class="floatleft" /></a><a href="http://www.flickr.com/photos/k7waterfront/3625960163/" title="Click for larger version, on Flickr"><img src="http://farm3.static.flickr.com/2441/3625960163_e9cde0d73d.jpg" height="375" alt="Kingston ON Shoreline 2009" class="floatleft" /></a>
+
+
