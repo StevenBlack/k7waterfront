@@ -26,7 +26,7 @@ title: "WolfeIslandFerry"
 </div>
 <img src="images/aerial/WolfeIslandFerryKingstonDockAerial.jpg" title="Wolfe Island ferry Kingston dock areal photo"><br>
 Aerial photo of the Kingston dock.  Looks like a few waiting cars won't be aboard for this trip.
-<div class="clearboth"></div>
+
 <div class="span-18">
 #INSERTTOPIC:__GoogleMapKingstonWolfeIslandFerryDock
 </div>

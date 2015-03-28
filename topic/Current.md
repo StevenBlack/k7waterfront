@@ -25,13 +25,13 @@ Looking at the bottom profile in the diagrams of Kingston Harbour below, it's ea
 ''Therefore'', in most prevailing breezes (S, SW, W, NW), current favours the South side of Kingston Harbour (left) when sailing upwind, and current favours the North side of Kingston Harbour when sailing downwind.
 <img src="http://K7Waterfront.org/Images/ChartCurrent02.jpg">
 
-<div class="clearboth"></div>
+
 ##Bathymetry with 2m Contours
 [[http://map.ngdc.noaa.gov/website/mgg/greatlakesbathy/viewer.htm source]]
 
 <img src="images/KingstonHarbourAreaBathymetry2mContours.jpg">
 
-<div class="clearboth"></div>
+
 
 
 

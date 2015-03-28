@@ -20,7 +20,7 @@ See the [[http://www.cityofkingston.ca/residents/recreation/marinas/ports.asp PO
 
 <a href="http://www.cityofkingston.ca/residents/recreation/marinas/ports.asp"><img src="http://www.cityofkingston.ca/img/maps/parks/olymharb.gif" border="0"></a>
 
-<div class="clearboth"></div>
+
 <a name="hoist">
 [[Image:POH2TonCrane.jpg|caption=2-Ton Crane at Portsmouth Olympic Harbour|size=400px]]
 

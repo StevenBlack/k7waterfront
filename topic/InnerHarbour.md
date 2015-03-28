@@ -20,4 +20,4 @@ Home to
 <li> [[Locks|Kingston Mills Locks]]
 
 
-<div class="clearboth"></div>
+

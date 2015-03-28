@@ -101,7 +101,7 @@ title: "__ListOfMajorRegattasInKingston"
 <a href="http://www.youthworlds2007.org/Results/gwin.html">Girl’s Windsurfer</a> (Laura Linares, ITA)
 <a href="http://www.youthworlds2007.org/Results/hobie.html">Open Multihull: Hobie Cat 16 Race Spinnaker</a> (Richard Glover, Andrew Glover, GBR)
 </div>
-<div class="clearboth"></div>
+
 2008: <a href="http://cork.org/results2008/CTW.HTM">Contender World Championships (August 18 – 23)</a> (Markus Hamilton, AUS) <UPDATED=2454703>
 
 ''2009: Byte CII World Championshops'' (August 23-27)
@@ -325,7 +325,7 @@ title: "__ListOfMajorRegattasInKingston"
 <a href="http://www.youthworlds2007.org/Results/gwin.html">Girl’s Windsurfer</a> (Laura Linares, ITA)
 <a href="http://www.youthworlds2007.org/Results/hobie.html">Open Multihull: Hobie Cat 16 Race Spinnaker</a> (Richard Glover, Andrew Glover, GBR)
 </div>
-<div class="clearboth"></div>
+
 2007: [[http://kingstonyachtclub.com/racing/results/2007/index.cfm?result=regatta/Shark%20North%20Americans%202007.htm Shark North Americans (KYC Aug 4-6)]] (David O'Sullivan, David Foy, and Jamie Foy, CAN, Britannia Yacht Club) <UPDATED=2454319>
 2007: [[http://www.cork.org/results2007/LA2.HTM Laser 2 North Americans]] (Lauren David, Diane Tomalty CAN Kingston Yacht Club) <UPDATED=2454336>
 2007: [[http://www.cork.org/results2007/BYS.HTM Byte North Americans]]  (Brenda Bowskill CAN) <UPDATED=2454336>

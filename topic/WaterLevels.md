@@ -16,7 +16,7 @@ See also http://www.waterlevels.gc.ca/C&A/bulletin_e.html
 USA Source: http://www.glerl.noaa.gov/data/now/wlevels/plots/ontario.gif
 <a href="http://www.glerl.noaa.gov/data/now/wlevels/plots/ontario.gif"><img src="http://www.glerl.noaa.gov/data/now/wlevels/plots/ontario.gif"></a>
 
-<div class="clearboth"></div>
+
 
 USA Source: http://www.glerl.noaa.gov/data/now/wlevels/plots/ont_lvl.gif
 <a href="http://www.glerl.noaa.gov/data/now/wlevels/plots/ont_lvl.gif"><img src="http://www.glerl.noaa.gov/data/now/wlevels/plots/ont_lvl.gif"></a>

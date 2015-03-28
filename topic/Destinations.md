@@ -64,7 +64,7 @@ In Brown's Bay on Wolfe Island, the Inn possesses a good dock and the best water
 
 
 
-<div class="clearboth"></div>
+
 
 <style type="text/css">.reduced {height:100px;} h2{background:#eee;padding:0.5em 0 0.5em 0.25em;clear:both;}.topicinsert,.insertedit {background-color: #fff;clear:both;} .halfbox img {border-bottom:0;} h3 a:link {color:maroon}</style>
 

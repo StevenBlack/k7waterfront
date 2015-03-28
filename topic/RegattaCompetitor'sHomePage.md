@@ -53,5 +53,5 @@ title: "RegattaCompetitor'sHomePage"
 The transition from gray to green isn't great by any means, but it <i>may</i> provide some insight on surface friction.
 
 <img src="http://K7Waterfront.org/Images/AerialHarbourFlatNorthShore.jpg">
-<div class="clearboth"></div>
+
 

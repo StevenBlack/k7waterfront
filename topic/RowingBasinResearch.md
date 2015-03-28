@@ -21,7 +21,7 @@ Source:   http://www.avironmontreal.com/en/club/basin_history.html
 <li> 2,180m x 110 m with a constant depth of 2.3 m
 <li> Interesting: To diminish wind action in the competition zone, the water in the basin can be maintained at a level lower than that of the St. Lawrence River.
 <li> One of the best equipped rowing and canoeing basins in the world.
-<div class="clearboth"></div>
+
 
 <hr class="clearboth">
 

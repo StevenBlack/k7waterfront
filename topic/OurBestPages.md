@@ -52,6 +52,6 @@ Useful for people quickly passing through, or for first-time visitors to get a s
 </ul>
 We also have [[Rss Feeds]] for those of you, like many of us, who surf the web using [[http://blogspace.com/rss/readers news readers]].
 </div>
-<div class="clearboth"></div>
+
 {{importantstub}}
 

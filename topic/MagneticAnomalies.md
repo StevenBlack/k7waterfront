@@ -15,12 +15,12 @@ an underground deposit of magnetite
 that runs deeper towards the East.
 <img src="http://K7Waterfront.org/Images/MagneticAnomalyExplanation01.jpg">
 </div>
-<div class="clearboth"></div>
+
 <hr>
-<div class="clearboth"></div>
+
 ###Here's what the navigation charts of Kingston Harbour say:
 <img src="http://k7waterfront.org/images/MagneticAnomaly2.jpg">
-<div class="clearboth"></div>
+
 ###Somewhat related background:
 <li> [[http://www.geocities.com/magnetic_declination/ Magnetic Declination FAQ]]
 <li> [[http://gsc.nrcan.gc.ca/geomag/field/pdf/magnetic_declination_chart.canada.2000.pdf Magnetic <i>declination</i> chart of North America]] -- Declination at Kingston is 13 degrees West.

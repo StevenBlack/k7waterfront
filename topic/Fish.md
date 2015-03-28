@@ -15,7 +15,7 @@ See also [[Fishing]]
 <p>A number of once common species are now no longer found in the lake, including the deepwater sculpin (once so numerous they were considered a nuisance), blue walleye, bridle shiner, kiyi and blackfin cisco.
 <p>Though still present, ''lake trout'' and ''lake whitefish'' are no longer very common. At present the most abundant native species include ''yellow and brown bullhead'', ''American eel'', ''northern pike'', ''yellow perch'', ''walleye'', ''sauger'', ''smallmouth'' and ''largemouth bass''.
 <p>Various species of amphibians and reptiles are common in wetland areas. Although ring-billed gulls dominate the water bird fauna of this region by a wide margin, there are also small colonies of herring gulls, double-crested cormorants, Caspian and and common terns, great blue herons and black-crowned night herons. Significant numbers of waterfowl -- Canada geese, black ducks, mallards, canvasbacks, redheads and scaups -- stage in the region both in spring and fall. Numerous birds winter where open water permits, mainly gulls and various ducks.
-<p>Source: http://www.pc.gc.ca/progs/amnc-nmca/plan/gla6_E.asp</a><div class="clearboth"></div>
+<p>Source: http://www.pc.gc.ca/progs/amnc-nmca/plan/gla6_E.asp</a>
 </blockquote>
 
 [[http://www.mnr.gov.on.ca/MNR/fishing/threat.html Stop the Invasion!]] -- Harmful Exotic Species: Ontario's waters are threatened by exotic species that can be spread unknowingly by anglers and boaters.

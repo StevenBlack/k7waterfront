@@ -14,6 +14,6 @@ Website: http://www.rideau-info.com/canal/locks/46-49-kingstonmills.html
 <a href="http://www.flickr.com/photos/21982851@N00/" class="imagelink"><img src="http://K7Waterfront.org/Images/KingstonMillsTomRutledge.jpg" alt="Photo of Kingston Mills by Tom Rutledge" class="bottom"></a>
 <div class="photoattrib"><p>Photo: <a href="http://www.flickr.com/photos/21982851@N00/">Tom Rutledge</a></div>
 </div>
-<div class="clearboth"></div>
+
 <img src="http://k7waterfront.org/Images/Chart-KingstonMillsSwim.jpg" alt="Chart of Kingston Mills locks">
 

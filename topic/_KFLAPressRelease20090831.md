@@ -12,9 +12,9 @@ After the signs at a number of local beaches were removed last week when the tes
 “As with the other posted beaches, , we are not sure of the cause of the high levels of organisms in the water at Collingwood Beach, but we are sure that it’s not a safe place for swimmers,” said Penny Lavalley, Director of the Infectious Disease Prevention Program at KFL&A Public Health. “These beaches have been posted as unsafe for swimmers and we will continue to resample the water and will reopen these beaches once we have consistently safe results.”
 
 Posted beaches are marked with a large format sign that reads “WARNING THE WATER AT THIS LOCATION IS NOT SAFE FOR SWIMMING. DO NOT SWIM.”
-<div class="clearboth"></div>
+
 <img src="http://www.kflapublichealth.ca/files/news/do_no_swim.jpg">
-<div class="clearboth"></div>
+
 
 ###=Links
 Beach Report
