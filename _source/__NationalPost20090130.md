@@ -11,7 +11,7 @@ title: "__NationalPost20090130"
 Allison Hanes, National Post
 Published: Friday, January 30, 2009
 
-<div class="column2">
+
 
 Toronto is focusing on the suburbs in its bid for the 2015 Pan Am Games, aiming to build infrastructure in the city's neglected corners and also further city hall's social agenda by investing heavily in poor neighbourhoods.
 
@@ -35,7 +35,7 @@ Etobicoke would get $1-million to resurface the track and develop new throwing a
 
 Councillor Denzil Min-nan-Wong (Don Valley East), championed a major reinvestment in Toronto's community centres and sports facilities during the capital budget process in December. He said the plan under consideration would go some distance in tackling a multi-billion-dollar repair backlog -- and for once suburban neighbourhoods appear to be top of the list.
 
-</div>
+
 
 ahanes@nationalpost.com
 

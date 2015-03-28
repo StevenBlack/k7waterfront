@@ -8,7 +8,7 @@ title: "__BrockvilleRecorderTimes20090114"
 ##Dive shop seeks city's help finding new locationBy Michael Jiggins
 Janyary 14 2009
 
-<div class="column2">
+
 
 The owner of Brockville's only dive shop appealed to a city council committee Tuesday to work with her in finding a new home for her business.
 
@@ -78,7 +78,7 @@ An ongoing waterfront study and the official plan review - which will both exami
 
 Meanwhile, acting parks and recreation director Valerie Harvey expressed some concern with the St. Lawrence Park proposal, noting parking is already a problem there.
 
-</div>
+
 
 Article ID# 1387789
 

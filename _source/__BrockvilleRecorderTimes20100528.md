@@ -10,7 +10,7 @@ By LJ MATHESON
 
 ''Photo:'' Ian Coristine and his dog, Molly, enjoy a quiet moment on his island off the mainland at Mallorytown. Coristine's new book, The Very Best of Ian Coristine s 1000 Islands, will be out in June and on Friday at the Brockville Arts Centre, he will present his new book while joined by The Great Lake Swimmers, who will perform a concert that evening at 7 p.m.
 
-<div class="column2">
+
 
 If you love the 1000 Islands, you will adore Ian Coristine's fifth and final masterpiece - The Very Best of Ian Coristine's 1000 Islands,which is due out next month.
 
@@ -60,5 +60,5 @@ His 1000 Islands photos have been featured internationally, in Canadian Geograph
 
 Coristine has since sold his plane ... and so with this book, the series of photos bound inside padded covers trimmed in gold comes to an end. This is a legacy that will live long after the sun sets on the St. Lawrence River.
 
-</div>
+
 Article ID# 2595340

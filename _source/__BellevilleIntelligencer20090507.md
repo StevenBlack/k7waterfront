@@ -9,7 +9,7 @@ title: "__BellevilleIntelligencer20090507"
 
 By W. BRICE MCVICAR, THE INTELLIGENCER
 
-<div class="column2">
+
 
 Approximately 100 boats are land locked after the former Belle Harbour Marina was placed into receivership and the property gated off due to insurance concerns.
 
@@ -43,5 +43,5 @@ He said though the company is in discussion with a local operator interested in 
 
 "The mandate of the receiver is to comply with the court order," Pearl said. "Our main mandate is to sell the property."
 
-</div>
+
 
