@@ -25,7 +25,7 @@ title: "PattersonPark-WolfeIslandWindProjectCable"
 {{_contents}}
 
 
-<NEW=2454167>  See also [[Wolfe Island Wind Project Cable 10 Day Notice]]
+  See also [[Wolfe Island Wind Project Cable 10 Day Notice]]
 
 <strong>This topic contains background material related to the landing of the ~230 kV cable from the proposed [[Wolfe Island Wind Project]] through a very popular swimming spot and fantastic windsurfing wave break off [[Patterson Park]].  This is a long page, so scroll.</strong>
 

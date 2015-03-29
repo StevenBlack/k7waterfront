@@ -7,7 +7,7 @@ title: "_ChecklistForShippingContainersToKingstonSidebar"
 
 <div class="sidebar" style="width: 350px;">
 
-<NEW=2454524> See also:
+ See also:
 [[http://www.29ernorthamerican.org/howto/29erContainer.pdf How to pack 4 29ers in a container (9 pages)]]
 
 <strong>Other Helpful Info</strong>

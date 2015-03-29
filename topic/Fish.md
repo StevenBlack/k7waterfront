@@ -25,15 +25,15 @@ See the [[Trout and Salmon Identification Guide]].
 [[http://users.aol.com/nyanglers/species.html Fresh Water Fish Species]]
 
 <h3> From The [[http://www.glfc.org/lakecom/loc/mgmt_unit/ Lake Ontario Management Unit]]
-<NEW=2453705>  [[http://www.glfc.org/lakecom/loc/mgmt_unit/02_Ch1.pdf Lake Ontario Pelagic Fish 1: Prey Fish]]
-<NEW=2453705>  [[http://www.glfc.org/lakecom/loc/mgmt_unit/02_Ch2.pdf Lake Ontario Pelagic Fish 2: Salmon and Trout]]
-<NEW=2453705>  [[http://www.glfc.org/lakecom/loc/mgmt_unit/02_Ch3.pdf Lake Ontario Offshore Benthic Fish]]
-<NEW=2453705>  [[http://www.glfc.org/lakecom/loc/mgmt_unit/02_Ch4.pdf Lake Ontario Nearshore Fish]]
-<NEW=2453705>  [[http://www.glfc.org/lakecom/loc/mgmt_unit/02_Ch5.pdf St. Lawrence River Fish]]
-<NEW=2453705>  [[http://www.glfc.org/lakecom/loc/mgmt_unit/02_Ch6.pdf Lake Ontario Commercial Fishery]]
-<NEW=2453705>  [[http://www.glfc.org/lakecom/loc/mgmt_unit/02_Ch8.pdf Bay of Quinte Recreational Fishery]]
-<NEW=2453705>  [[http://www.glfc.org/lakecom/loc/mgmt_unit/02_Ch10.pdf Two Decades of Commercial Fishery Management on Lake Ontario, 1981-2001]]
-<NEW=2453705>  [[http://www.glfc.org/lakecom/loc/mgmt_unit/02_Ch12.pdf Atlantic Salmon Restoration in Lake Ontario]]
+  [[http://www.glfc.org/lakecom/loc/mgmt_unit/02_Ch1.pdf Lake Ontario Pelagic Fish 1: Prey Fish]]
+  [[http://www.glfc.org/lakecom/loc/mgmt_unit/02_Ch2.pdf Lake Ontario Pelagic Fish 2: Salmon and Trout]]
+  [[http://www.glfc.org/lakecom/loc/mgmt_unit/02_Ch3.pdf Lake Ontario Offshore Benthic Fish]]
+  [[http://www.glfc.org/lakecom/loc/mgmt_unit/02_Ch4.pdf Lake Ontario Nearshore Fish]]
+  [[http://www.glfc.org/lakecom/loc/mgmt_unit/02_Ch5.pdf St. Lawrence River Fish]]
+  [[http://www.glfc.org/lakecom/loc/mgmt_unit/02_Ch6.pdf Lake Ontario Commercial Fishery]]
+  [[http://www.glfc.org/lakecom/loc/mgmt_unit/02_Ch8.pdf Bay of Quinte Recreational Fishery]]
+  [[http://www.glfc.org/lakecom/loc/mgmt_unit/02_Ch10.pdf Two Decades of Commercial Fishery Management on Lake Ontario, 1981-2001]]
+  [[http://www.glfc.org/lakecom/loc/mgmt_unit/02_Ch12.pdf Atlantic Salmon Restoration in Lake Ontario]]
 
 ----
 

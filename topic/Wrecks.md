@@ -13,7 +13,7 @@ title: "Wrecks"
 
 See also the <a href="http://dolphinscubaclub.blogspot.com/">CFB Kingston Dolphin Scuba Club</a> blog
 
-* [[http://www.boatnerd.com/swayze/shipwreck/ The Great Lakes Shipwreck File: Total Losses of Great Lakes Ships 1679 - 1999]] -- A good one, many of these wrecks are indexed and described.<NEW=2453821>
+* [[http://www.boatnerd.com/swayze/shipwreck/ The Great Lakes Shipwreck File: Total Losses of Great Lakes Ships 1679 - 1999]] -- A good one, many of these wrecks are indexed and described.
 *  http://www.scubaq.ca/ontarioscubadiving/kingston.htm -- good selection of local dives.
 
 *  http://durhamdivers.com/sections/ShowDiveSites.asp -- ditto

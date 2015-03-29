@@ -48,7 +48,7 @@ Useful for people quickly passing through, or for first-time visitors to get a s
 <ul>
 <li> Our [[RecentChanges]] list the topics that -- you guessed it -- have recently changed.
 
-<li> <NEW=2453892>  [[ShorelineSensitivityToWaterLevels|Shoreline Sensitivity To Water Levels]]
+<li>   [[ShorelineSensitivityToWaterLevels|Shoreline Sensitivity To Water Levels]]
 </ul>
 We also have [[Rss Feeds]] for those of you, like many of us, who surf the web using [[http://blogspace.com/rss/readers news readers]].
 </div>

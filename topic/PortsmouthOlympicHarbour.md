@@ -12,7 +12,7 @@ Approximately 100 transient visits in 2007. [[http://k7waterfront.org/files/RFPf
 
 Transient boaters length of stay averages between 1.6 and 1.8 nights in 2007 [[http://k7waterfront.org/files/RFPforMarinaDevelopmentStrategyandBusinessPlan.pdf#page=20 (2)]]</div>
 
-<NEW=2454550>  Currently ([[http://k7waterfront.org/files/RFPforMarinaDevelopmentStrategyandBusinessPlan.pdf#page=9 2008]]) Portsmouth Olympic Harbour has <strong>230 seasonal berths</strong> and approximately <strong>20 slips for transient boaters</strong>.
+  Currently ([[http://k7waterfront.org/files/RFPforMarinaDevelopmentStrategyandBusinessPlan.pdf#page=9 2008]]) Portsmouth Olympic Harbour has <strong>230 seasonal berths</strong> and approximately <strong>20 slips for transient boaters</strong>.
 
 <img src="http://home.ca.inter.net/~gkmd/portsmouth.jpg"><br><b>Portsmouth Olympic Harbour
 

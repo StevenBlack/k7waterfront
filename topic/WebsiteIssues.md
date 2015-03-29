@@ -15,7 +15,7 @@ title: "WebsiteIssues"
 <li> Suggestion: A style sheet for printing.
 <li> Camtasia videos of the site operations.
 <li> Page should not crash if a duplicate marker label is used
-<li> <NEW=2453738>  It would be nice to default some Google Maps to "Satellite" view.
+<li>   It would be nice to default some Google Maps to "Satellite" view.
 
 
 

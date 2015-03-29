@@ -22,7 +22,7 @@ title: "ListOfShoreDives"
 * [[http://dolphinscubaclub.blogspot.com/search/label/Navy%20Bay Navy Bay]]
 * [[http://dolphinscubaclub.blogspot.com/2007/09/fun-on-wolfe-islander-ii.html Wolfe Islander]], from the winter dock
 * [[http://dolphinscubaclub.blogspot.com/search/label/KPH Waterlily aka K.P.H.]]
-* [[http://powkingston.blogspot.com/2008/08/line-laid-to-wreck-offshore-from-kgh.html K.G.H.]] <NEW=2454708>
+* [[http://powkingston.blogspot.com/2008/08/line-laid-to-wreck-offshore-from-kgh.html K.G.H.]] 
 * [[http://dolphinscubaclub.blogspot.com/search/label/Stacked%20Hulls Stacked hulls]] and POH
 * [[http://dolphinscubaclub.blogspot.com/search/label/Tett%20Centre Domino Theatre (Tett Centre)]]
 * [[http://highway15divequarry.blogspot.com/ Highway 15 Dive Quarry]] (no wreck)

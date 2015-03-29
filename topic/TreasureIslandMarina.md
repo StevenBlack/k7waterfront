@@ -19,7 +19,7 @@ They also offer Crane service for launch and haul out requirements.
 
 The Marina offers full marine services for all boating mechanical needs, power or sail.
 
-<NEW=2455573>  Any other info to share?  Let me know! [[Steven Black]]
+  Any other info to share?  Let me know! [[Steven Black]]
 
 Located in the St Lawrence River a few miles East of Kingston, tucked in beside [[Treasure Island]]
 

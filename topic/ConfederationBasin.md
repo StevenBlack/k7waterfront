@@ -21,7 +21,7 @@ The <b><i>Flora MacDonald Confederation Basin</b></i> is usually referred to as 
 
 Major expansion in 1988.  Currently 384 slips.   There is no fuel, and no pumpout, at Confederation basin.
 
-<NEW=2454550>  Currently ([[http://k7waterfront.org/files/RFPforMarinaDevelopmentStrategyandBusinessPlan.pdf#page=9 2008]]) Confederation Basin consists of <strong>160 seasonal berths</strong> and approximately <strong>215 slips for transient traffic</strong>.
+  Currently ([[http://k7waterfront.org/files/RFPforMarinaDevelopmentStrategyandBusinessPlan.pdf#page=9 2008]]) Confederation Basin consists of <strong>160 seasonal berths</strong> and approximately <strong>215 slips for transient traffic</strong>.
 
 <img class="chartsegment" src="images\Chart-Confed.jpg"><img class="chartsegment" src="images\Chart-HistConfed.jpg">
 

@@ -28,7 +28,7 @@ title: "__ONaturelWhiteBoard"
 ##DONE
 <li> Dyneema primary halyard, secondary kevlar halyard and external spinn halyard installed
 <li> New amsteel 2:1 main halyard installed
-<li> <NEW=2453732>  #3 Genoa tracks installed
+<li>   #3 Genoa tracks installed
 <li> Mast thwart repair done!
 <li> Fabricate and install floor board
 <li> Install antenna

@@ -19,7 +19,7 @@ title: "RegattaCompetitor'sHomePage"
 <li> Notes on Kingston's traditional sailing competition zones:
 <ul  class="simplebullet">
 <img src="http://K7Waterfront.org/Images/PhysicalGeographyTopology2.jpg" class="span-13 right">
-<li> [[Courses Map]]: An overview of all CORK's competition circles. <NEW=2456151>
+<li> [[Courses Map]]: An overview of all CORK's competition circles. 
 <li> [[Course Alpha]]: Kingston's premiere circle.
 <li> [[Course Charlie]]: Traditionally used for smaller dinghies.
 <li> [[Course Foxtrot]]: Championship circle, further out into the lake.
@@ -49,7 +49,7 @@ title: "RegattaCompetitor'sHomePage"
 
 <a href="http://www.flickr.com/photos/k7waterfront/462434656/" title="Photo Sharing"><img src="http://farm1.static.flickr.com/227/462434656_c945b4d6b4_o.jpg" width="908" height="596" alt="Kingston Harbour" /></a>
 
-<NEW=2454305> Here's an interesting look at the physical geography of the region, that <i>may</i> provide insight into wind flows around Kingston.
+ Here's an interesting look at the physical geography of the region, that <i>may</i> provide insight into wind flows around Kingston.
 The transition from gray to green isn't great by any means, but it <i>may</i> provide some insight on surface friction.
 
 <img src="http://K7Waterfront.org/Images/AerialHarbourFlatNorthShore.jpg">

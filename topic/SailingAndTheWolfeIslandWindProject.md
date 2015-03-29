@@ -7,7 +7,7 @@ title: "SailingAndTheWolfeIslandWindProject"
 
 ##A place for notes on the effect of the [[Wolfe Island Wind Project]] on sailing in Kingston
 
-<NEW=2454190>  See Also [[Wind Turbine Aerodynamics]].
+  See Also [[Wind Turbine Aerodynamics]].
 
 <h3>From the perspective of sailboat racing...</h3>
 <img src="http://K7Waterfront.org/Images/WolfeIslandWindProjectKingstonWindRose.jpg" class="image1px floatright">

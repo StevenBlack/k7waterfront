@@ -9,7 +9,7 @@ title: "BigSandyBay"
 
 <b>Big Sandy Bay</b> is a stunning beach on the South West corner of [[Wolfe Island]].
 
-<NEW=2453757>  Some [[http://groups.msn.com/KingstonWindsurfingGroup/bigsandybay.msnw boardsailing photos]] at Big Sandy Bay.
+  Some [[http://groups.msn.com/KingstonWindsurfingGroup/bigsandybay.msnw boardsailing photos]] at Big Sandy Bay.
 
 #INSERTTOPIC:__GoogleMapBigSandyBay
 

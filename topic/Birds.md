@@ -7,9 +7,9 @@ title: "Birds"
 
 <h1>Waterfowl in the Kingston area</h1>
 
-<NEW=2453812>  Here's a blog by a local bird enthusiast: http://nightofthekingfisher.blogspot.com/
+  Here's a blog by a local bird enthusiast: http://nightofthekingfisher.blogspot.com/
 
-<NEW=2453757>  [[http://www.wolfeisland.com/mtbirdwatching/ Wolfe Island birdwatching]] including the [[http://www.wolfeisland.com/mtbirdwatching/images/birdsofwolfeisland_04.pdf Birds of Wolfe Island Checklist (PDF)]].
+  [[http://www.wolfeisland.com/mtbirdwatching/ Wolfe Island birdwatching]] including the [[http://www.wolfeisland.com/mtbirdwatching/images/birdsofwolfeisland_04.pdf Birds of Wolfe Island Checklist (PDF)]].
 
 [[http://www.kingstonfieldnaturalists.org/checklists/kingstonbirds.pdf Kingston Field Naturalists 2004 Checklist of Birds (368 species)]]
 
