@@ -9,7 +9,7 @@ title: "Wrecks"
 
 <div class="sidebar"  style="width:300px">
 #INSERTTOPIC:ListOfShoreDives
-</div>
+
 
 See also the <a href="http://dolphinscubaclub.blogspot.com/">CFB Kingston Dolphin Scuba Club</a> blog
 
@@ -28,10 +28,10 @@ and [[http://www.pec.on.ca/other/scuba.html#wrecks Prince Edward County informat
 and: [[http://www.greatcanadianlakes.com/ontario/lake_ontario/his_page3.htm Great Canadian Lakes: The Graveyards of Lake Ontario]]
 
 #INSERTTOPIC:__GoogleDataMapWrecks
-<div class="halfbox">
+
 Here's a general [[http://www.ecophotoexplorers.com/images/kingston_divemap.gif dive map schematic]] of the Kingston Area.
-<a href="http://www.ecophotoexplorers.com/images/kingston_divemap.gif"><img src="http://k7waterfront.org/Images/th_ecophotoexplorers.jpg" class="imagelink" alt="Wrecks"></a></div>
-<div class="halfbox">
+<a href="http://www.ecophotoexplorers.com/images/kingston_divemap.gif"><img src="http://k7waterfront.org/Images/th_ecophotoexplorers.jpg" class="imagelink" alt="Wrecks"></a>
+
 Here's [[http://dive.kingston.net/kingston.htm another]]:
 <a href="http://dive.kingston.net/kingston.htm"><img src="http://k7waterfront.org/Images/th_divekingstonnet.gif" alt="wrecks" class="imagelink"></a></div>
 
