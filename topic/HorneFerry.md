@@ -9,7 +9,7 @@ title: "HorneFerry"
 
 Located less than 10 miles from Downtown Kingston.
 <div class="sidebar">
-<p>''Cape Vincent, New York to Wolfe Island, Ontario.''
+<p>**Cape Vincent, New York to Wolfe Island, Ontario.**
 <p>Operates May to mid-October.
 Fares apply.
 http://www.hornesferry.com/

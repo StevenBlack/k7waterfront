@@ -19,7 +19,7 @@ Kingston's most active harbour on most summer days.  Grab a guest dock (call ahe
 ##In Kingston Harbour west
 
 ###[[Portsmouth Olympic Harbour]]
-A large serviced marina adjacent to the ''Portsmouth Tavern''.
+A large serviced marina adjacent to the **Portsmouth Tavern**.
 
 ##In Kingston Harbour south
 

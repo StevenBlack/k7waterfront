@@ -27,16 +27,16 @@ Executive Director
 
 ###Executive Summary of the proposed Regulations:
 
-''Issue:'' Each year, approximately 150 Canadians die as a result of boating accidents aboard small vessels. The Small Vessel Regulations (the Regulations) are the principal means by which the Government of Canada regulates the safety of these vessels. As a part of regulatory reform under the new Canada Shipping Act, 2001 (CSA 2001), which replaced the former Canada Shipping Act (CSA) in July 2007, the Regulations are being modernized to address a number of outstanding issues respecting the safety of small vessels.
+**Issue:** Each year, approximately 150 Canadians die as a result of boating accidents aboard small vessels. The Small Vessel Regulations (the Regulations) are the principal means by which the Government of Canada regulates the safety of these vessels. As a part of regulatory reform under the new Canada Shipping Act, 2001 (CSA 2001), which replaced the former Canada Shipping Act (CSA) in July 2007, the Regulations are being modernized to address a number of outstanding issues respecting the safety of small vessels.
 
-''Description:'' The proposed Regulations have been updated in order to
+**Description:** The proposed Regulations have been updated in order to
 
 * Better reflect the nature of the small vessel fleet in Canada.
 * Ensure consistency with international standards respecting lifesaving equipment, vessel construction and compliance notices (otherwise known as Capacity or Conformity Labels).
 * Incorporate new requirements to enhance safety, especially operational requirements on small vessels that are not pleasure craft.
 * Provide alternatives for the construction and stability of small vessels.
 
-''Cost-benefit statement:'' Compliance with the proposed Regulations will reduce the number of small vessel accidents and incidents, resulting in fewer fatalities and injuries and reduced property damage to small vessels in Canada.
+**Cost-benefit statement:** Compliance with the proposed Regulations will reduce the number of small vessel accidents and incidents, resulting in fewer fatalities and injuries and reduced property damage to small vessels in Canada.
 
 The quantifiable costs to manufacturers, owners and government are not excessive when compared to the benefits.
 
@@ -45,10 +45,10 @@ Business and consumer impacts: The proposed Regulations will reduce the administ
 * Transferring to them, from Transport Canada (TC), the responsibility for the production of compliance notices that certify that small vessels are constructed according to regulated standards.
 * Harmonizing the construction requirements for pleasure craft and non-pleasure vessels six metres and less in length.
 
-''Domestic and international coordination and cooperation:'' The proposed Regulations provide a number of alternatives (including references to United States and European standards) for the construction and stability of small vessels that were not previously permitted. The proposed Regulations also specify processes for certification of small vessel construction that are consistent with the United States and Europe. Consequently, it will be easier to build and certify small vessels for both domestic and foreign sales.
+**Domestic and international coordination and cooperation:** The proposed Regulations provide a number of alternatives (including references to United States and European standards) for the construction and stability of small vessels that were not previously permitted. The proposed Regulations also specify processes for certification of small vessel construction that are consistent with the United States and Europe. Consequently, it will be easier to build and certify small vessels for both domestic and foreign sales.
 
 
-''Performance measurement and evaluation plan:'' TC uses a number of sources, such as the Canadian Coast Guard (CCG), Canadian Red Cross, Lifesaving Society and Transportation Safety Board (TSB) databases to assess the efficacy of prevention and enforcement activities related to small vessels. Since injuries and property damage are difficult to measure, TC has focused on fatalities as the key indicator of the success of its programs.
+**Performance measurement and evaluation plan:** TC uses a number of sources, such as the Canadian Coast Guard (CCG), Canadian Red Cross, Lifesaving Society and Transportation Safety Board (TSB) databases to assess the efficacy of prevention and enforcement activities related to small vessels. Since injuries and property damage are difficult to measure, TC has focused on fatalities as the key indicator of the success of its programs.
 
 Annual information and trends are easily extracted from these databases, and regulatory programs focused in order to address the portion of the population most at risk.
 

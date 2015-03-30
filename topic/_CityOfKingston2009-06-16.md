@@ -5,7 +5,7 @@ title: "_CityOfKingston2009-06-16"
 
 ---
 
-''For Immediate Release''
+**For Immediate Release**
 Jun. 16, 2009, 10:04 a.m.
 
 ##City To Restore Shoreline Section, Improve Pathway###Construction To Start This Summer; Design Available For Review

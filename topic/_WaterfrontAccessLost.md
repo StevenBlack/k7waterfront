@@ -34,7 +34,7 @@ A favorite downtown fishing spot is [[http://k7waterfront.org/Topic/__Whig200708
 
 
 <h3>Anchoring prohibited inside Confederation Basin  (since 2005 (?))</h3>
-Though there's plenty of room for moorings, there are none.  Furthermore, since about 2005, anchoring isn't permitted behind the breakwall.  Boating to Kingston?  ''Tight, noisy docks only''.
+Though there's plenty of room for moorings, there are none.  Furthermore, since about 2005, anchoring isn't permitted behind the breakwall.  Boating to Kingston?  **Tight, noisy docks only**.
 
 
 <a href="http://dolphinscubaclub.blogspot.com/2007/05/logging-dive-at-marine-museum.html"><img src="http://k7waterfront.org/Images/MarMusAccess100h.jpg" class="floatright"></a><h3>Diving from the Marine Museum<br>(since 2007)</h3>

@@ -9,7 +9,7 @@ title: "2011-04-CityPriorityMatrix"
 ##Waterfront Items on the City of Kingston Priority Status Matrix April 2011
 Posted for the [[http://www.cityofkingston.ca/pdf/council/agenda/2011/COU_Agenda-0911.pdf April 5 2011 Council Meeting]], this [[http://www.cityofkingston.ca/pdf/council/agenda/2011/COU_A0911-11120.pdf 78-item priority matrix]]
 
-''Summary:'' 7 of 78 items concern waterfront and, of those, just three (Richardson Beach, Cataraqui River Trail, and Lake Ontario Park) involve access and recreation.  One of the seven items, the Tett Centre, is likely to be a significant [[http://k7waterfront.org/KingstonWaterfrontNews092010.html#4208 accessibility downgrade]] -- see also [[http://k7waterfront.org/KingstonWaterfrontNews032009.html#3958 here]] -- despite early noise otherwise.
+**Summary:** 7 of 78 items concern waterfront and, of those, just three (Richardson Beach, Cataraqui River Trail, and Lake Ontario Park) involve access and recreation.  One of the seven items, the Tett Centre, is likely to be a significant [[http://k7waterfront.org/KingstonWaterfrontNews092010.html#4208 accessibility downgrade]] -- see also [[http://k7waterfront.org/KingstonWaterfrontNews032009.html#3958 here]] -- despite early noise otherwise.
 
 <table class="bordertable">
 	<tr>

@@ -13,7 +13,7 @@ See the [[http://ablesailkingston.ca Able Sail Website]].
 Email: ask@kingstonyachtclub.com
 
 
-''ASK offers two learn to sail programs:''
+**ASK offers two learn to sail programs:**
 <ul>
 <li>The Youth program offers complete integration with the [[http://kingstonyachtclub.com/lts/js.cfm KYC Junior Sailing program]]. The sessions mirror the Junior Sailing 2 week session but are flexible to meet the needs of the sailor.
 <li>The Adult program provides supervised or instructional courses offered starting each June 5th. Course times are flexible and can be personalized to fit your schedule.
@@ -27,7 +27,7 @@ In summer 2006 Able Sail Kingston had a dozen adult sailors in the program, seve
 
 The program is open to anyone with a disability. We have sailors whose disability ranges from spinal injuries, to MS. It is committed to getting anyone into the boats, no matter their disability.
 
-''ASK boats can be steered''
+**ASK boats can be steered**
 * manually,
 * with an electronic joystick used for sheering,
 * with a windlass system to operate the main and jib sheets,
@@ -45,7 +45,7 @@ Address:
  Kingston, ON K7L 2V3
 
 
-''See also a good photo set of [[http://flickr.com/photos/ablesailkingston/ Able Sail Kingston on Flickr]]''
+**See also a good photo set of [[http://flickr.com/photos/ablesailkingston/ Able Sail Kingston on Flickr]]**
 ----
 MetaDescription: Able Sail Kingston is an adapted sailing program based at the Kingston Yacht Club
 MetaKeywords: Adapted Sailing, Kingston Yacht Club, Kingston, Kingston Ontario

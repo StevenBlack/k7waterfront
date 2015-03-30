@@ -10,7 +10,7 @@ title: "PressRelease-CORK-2008-11-10"
 
 Kingston hosts the annual <a href="http://cork.org">CORK</a> regattas and a number of other major events, including the 2007 VOLVO Youth Sailing ISAF World Championship. We are committed to deliver excellence in regatta management, encouraging the development of youth and elite athletes, volunteers and officials.
 
-''To better focus the events'', the August CORK event format has been modified to include three major events, each with their own focus;
+**To better focus the events**, the August CORK event format has been modified to include three major events, each with their own focus;
 
 ###August 19 - 22, 2009: CORK International Event
 
@@ -24,7 +24,7 @@ This event includes Olympic and invited development classes, focusing on high pe
 
 This includes the traditional Offshore (PHRF) event, one design Keelboats, Able Sail and international dinghy classes. This event will feature enhanced social package. -- The Blues Festival is on in Kingston at the same time and will provide excellent opportunities to enjoy the Kingston night life.
 
-The CORK events include ''events for all ages and experience levels''. The new format will provide  appropriate challenges for the diverse fleets we have in each event. The change will enable us to better align each event with the skill level and focus of the participants. Based on feedback from the Sailing Community, volunteers and partners, the Board of CORK/Sail Kingston has decided to modify the competition format as described.
+The CORK events include **events for all ages and experience levels**. The new format will provide  appropriate challenges for the diverse fleets we have in each event. The change will enable us to better align each event with the skill level and focus of the participants. Based on feedback from the Sailing Community, volunteers and partners, the Board of CORK/Sail Kingston has decided to modify the competition format as described.
 
 The three events combine to include all ages and experience levels, providing skill appropriate events for developing athletes and elite athletes as well as the lifelong sailor.
 

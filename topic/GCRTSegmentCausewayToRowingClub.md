@@ -14,16 +14,16 @@ title: "GCRTSegmentCausewayToRowingClub"
 
 From the La Salle Causeway, the trail may proceed:
 
-''Plan A:'' west through DND property to the fire route by Frontenac Village, then along the fire route to the OHIP parking lot, or
+**Plan A:** west through DND property to the fire route by Frontenac Village, then along the fire route to the OHIP parking lot, or
 
-''Plan B:'' continue on Ontario St, right on Place d'Armes and right again on King St to the OHIP parking lot.
+**Plan B:** continue on Ontario St, right on Place d'Armes and right again on King St to the OHIP parking lot.
 From the OHIP parking lot, north on Wellington St to Doug Fluhrer Park.
 
 North along the waterfront to the Woolen Mill and then either:
 
-''Plan A:'' along the Woolen Mill waterfront trail, or
+**Plan A:** along the Woolen Mill waterfront trail, or
 
-''Plan B:'' left and back to Wellington St, north along Wellington St, then right on Cataraqui St to the Rowing Club.
+**Plan B:** left and back to Wellington St, north along Wellington St, then right on Cataraqui St to the Rowing Club.
 
 ###Exciting Features
 

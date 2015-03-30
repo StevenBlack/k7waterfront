@@ -9,7 +9,7 @@ title: "RegattaCompetitors-WhatToExpect"
 
 <div class="floatright" style="width: 500px; margin-left:10px;"><img src="http://farm2.static.flickr.com/1373/1394474190_5f28f8ddc7_d.jpg" class="floatright image1px" style="margin-left: 10px;"><div class="photoattrib" style="width: 200px;"><p>Photo: <a href="http://www.flickr.com/photos/wavemiranda/sets/72157602048654591/" onclick="javascript:urchinTracker ('/outgoing/http://www.flickr.com/photos/wavemiranda/sets/72157602048654591/'); " target="_blank" class="imagelink">Miranda Beninger</a></div></div>
 
-This page serves to provide ''general information for first-time competitors'' who come to Kingston for a sailing regatta.
+This page serves to provide **general information for first-time competitors** who come to Kingston for a sailing regatta.
 
 For details specifically related to sailing, see the [[regatta competitors home page]].
 

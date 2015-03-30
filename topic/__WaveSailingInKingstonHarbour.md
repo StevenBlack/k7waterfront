@@ -5,10 +5,13 @@ title: "__WaveSailingInKingstonHarbour"
 
 ---
 
-<p>This map of wave sailing spots was put together by long time wave sailor ''Phil Harvey''.   It shows the location of the sites, and arrows indicate the best wind directions for each site. </p>
-<p>In the text below, the normal wave heights at each site are the expected values for these directions in 25 knots of wind. </p>
+This map of wave sailing spots was put together by long time wave sailor **Phil Harvey**.   It shows the location of the sites, and arrows indicate the best wind directions for each site.
+
+In the text below, the normal wave heights at each site are the expected values for these directions in 25 knots of wind.
 <a name="Map Top"></a>
+
 Map is Clickable<br>
+
 <map name="surfsites">
 <area onmouseover="West Everett Break" shape="RECT" target="" alt="West Everett Break" coords="177,52,299,74" href="#West Everett Break">
 <area onmouseover="Brothers Shoal Break" shape="RECT" target="" alt="Brothers Shoal Break" coords="41,138,172,160" href="#Brothers Shoal Break">

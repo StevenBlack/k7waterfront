@@ -16,5 +16,5 @@ See Water Lots.  Nearby precedents: Rockport, and Horne's.
 In Kingston, the Marine Museum's outer wharves?
 
 
-<!-- <h3>Parking at the King St filtration plant<br>(since 2008)</h3>A waterside parking area is being arbitrarily managed, sometimes open, sometimes gated.  This really affects board/kite sailors, but other park users as well.  Getting a straight answer on this from ''Utilities Kingston'' is apparently too much to ask. -->
+<!-- <h3>Parking at the King St filtration plant<br>(since 2008)</h3>A waterside parking area is being arbitrarily managed, sometimes open, sometimes gated.  This really affects board/kite sailors, but other park users as well.  Getting a straight answer on this from **Utilities Kingston** is apparently too much to ask. -->
 

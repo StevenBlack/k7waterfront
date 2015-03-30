@@ -43,7 +43,7 @@ Course Alpha is usually the "inside" race circle when sailing instructions provi
 Here is a diagram of the pleasure boat traffic patterns on Alpha Course.
 
 
-There are ''two main causes of traffic'' on Alpha course:
+There are **two main causes of traffic** on Alpha course:
 
 <ul>
 <li> Boats coming and going to the Boat Channel, which is a channel on the South side of Simcoe Island, which is a flat-water shortcut to Lake Ontario.

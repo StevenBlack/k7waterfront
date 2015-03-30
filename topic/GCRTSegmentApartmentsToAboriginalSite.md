@@ -16,9 +16,9 @@ title: "GCRTSegmentApartmentsToAboriginalSite"
 
 If and when the third crossing happens, the proposed trail will be integrated with it and proceed across to the east side of the Great Cataraqui River to integrate with the existing cycling paths there.
 
-''Plan A'': The proposed trail would proceed from John Counter Blvd. along the waterfront through what is currently the Music Marina.  It would then proceed north along the waterfront through the Outer Station Archaeological Site.
+**Plan A**: The proposed trail would proceed from John Counter Blvd. along the waterfront through what is currently the Music Marina.  It would then proceed north along the waterfront through the Outer Station Archaeological Site.
 
-''Plan B'':  If the marina route is not available, the trail would proceed from John Counter Blvd. through the River Park Housing Complex and its playground and then proceed north along the waterfront through the Outer Station Archaeological Site.
+**Plan B**:  If the marina route is not available, the trail would proceed from John Counter Blvd. through the River Park Housing Complex and its playground and then proceed north along the waterfront through the Outer Station Archaeological Site.
 
 ###Exciting Features
 The views across the river are lovely.

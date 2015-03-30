@@ -5,13 +5,13 @@ title: "_Annapolis-BermudaRace2008Reports"
 
 ---
 
-''Bermuda June 19, 2008  2:30 pm''
+**Bermuda June 19, 2008  2:30 pm**
 
 Boys and Girls Club of Canada wins her class in the Bermuda Ocean Race!
 
-Skipper Nathan Baron and crew Greg Vanrossem ''finished 16th overall, out of 27 starters in the Bermuda Ocean Race'' in the their first go.
+Skipper Nathan Baron and crew Greg Vanrossem **finished 16th overall, out of 27 starters in the Bermuda Ocean Race** in the their first go.
 
-''WELL DONE BOYS!!!!!''  You guys are amazing!!!!
+**WELL DONE BOYS!!!!!**  You guys are amazing!!!!
 
 The Boys and Girls Club of Kingston, Kingston Yacht Club and Canada are immensely proud.
 

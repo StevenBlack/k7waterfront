@@ -10,7 +10,7 @@ title: "MagneticAnomalies"
 <h3>Magnetic Declination Diagram of Kingston Harbour</h3>
 <p>With thanks to <a href="http://www.google.com/search?num=100&hl=en&lr=&newwindow=1&safe=off&c2coff=1&q=Newitt+site%3Anrcan.gc.ca+&btnG=Search">Larry R. Newett of Natural Resources Canada</a>.  From The Canadian Surveyor, Vol. 34, No. 4. December 1980: Newitt, L.R. and Dawson, Edward. "Kingston Harbour Magnetic Anomaly."</p><img src="http://K7Waterfront.org/Images/MagneticAnomaly01b.jpg" class="floatleft">
 <div class="imagewrap floatleft">
-''One way to picture this'' is to imagine
+**One way to picture this** is to imagine
 an underground deposit of magnetite
 that runs deeper towards the East.
 <img src="http://K7Waterfront.org/Images/MagneticAnomalyExplanation01.jpg">

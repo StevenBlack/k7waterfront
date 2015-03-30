@@ -104,7 +104,7 @@ title: "__ListOfMajorRegattasInKingston"
 
 2008: <a href="http://cork.org/results2008/CTW.HTM">Contender World Championships (August 18 – 23)</a> (Markus Hamilton, AUS) <UPDATED=2454703>
 
-''2009: Byte CII World Championshops'' (August 23-27)
+**2009: Byte CII World Championshops** (August 23-27)
 
 <h3>North American Championships</h3>
 1978: [[http://www.laserinternational.org/archives/arcna.htm Laser North Americans]] (Andrew Menkart)
@@ -141,20 +141,20 @@ title: "__ListOfMajorRegattasInKingston"
 2007: [[http://www.cork.org/results2007/LA2.HTM Laser 2 North Americans]] (Lauren David, Diane Tomalty CAN Kingston Yacht Club) <UPDATED=2454336>
 2007: [[http://www.cork.org/results2007/BYS.HTM Byte North Americans]]  (Brenda Bowskill CAN) <UPDATED=2454336>
 2007: [[http://www.cork.org/results2007/29G.HTM 29er North Americans]]  (Ryan Judge, Hans Henken ARG) <UPDATED=2454336>
-''2008: [[http://cork.org/results2008/29G.HTM 29er North American Championship (August 16 – 20)]]'' (Fraser, Maxwell,  David Liebenberg, USA) <UPDATED=2454700>
-''2008: [[http://cork.org/results2008/470.HTM 470 North American Championships (August 16 – 20)]]'' ( Allison Jolly, Zack Marks, USA) <UPDATED=2454700>
-''2008: [[http://cork.org/results2008/L2R.HTM Laser II North American Championships]]'' (Cameron Roblin, Erin Murray (BSBC, Burlington, CAN)
-''2008: [[http://cork.org/results2008/BYT.HTM Byte Standard North American Championships]]'' (Christie Nicoll, Halifax, CAN)
-''2008: [[http://cork.org/results2008/BYT.HTM Byte CII North American Championships]]'' (Thomas Nicholson RKYC, Saint John, CAN)
-''2008: [[http://cork.org/results2008/FLD.HTM Flying Dutchman North American Championship]]'' (Aug 22-24) (Paul Scoffin, Pavel Ruzi NZL)
+**2008: [[http://cork.org/results2008/29G.HTM 29er North American Championship (August 16 – 20)]]** (Fraser, Maxwell,  David Liebenberg, USA) <UPDATED=2454700>
+**2008: [[http://cork.org/results2008/470.HTM 470 North American Championships (August 16 – 20)]]** ( Allison Jolly, Zack Marks, USA) <UPDATED=2454700>
+**2008: [[http://cork.org/results2008/L2R.HTM Laser II North American Championships]]** (Cameron Roblin, Erin Murray (BSBC, Burlington, CAN)
+**2008: [[http://cork.org/results2008/BYT.HTM Byte Standard North American Championships]]** (Christie Nicoll, Halifax, CAN)
+**2008: [[http://cork.org/results2008/BYT.HTM Byte CII North American Championships]]** (Thomas Nicholson RKYC, Saint John, CAN)
+**2008: [[http://cork.org/results2008/FLD.HTM Flying Dutchman North American Championship]]** (Aug 22-24) (Paul Scoffin, Pavel Ruzi NZL)
 
-''2009: Hobie 16 Women's North Americans (July 17-19)''
-''2009: Hobie 16 Youth North Americans (July 17-19)''
-''2009: Hobie 16 North Americans (July 20-24)''
-''2009: Finn North Americans (August 23-27)''
-''2009: 470 North Americans (August 23-27)''
-''2009: 29er North Americans (August 23-27)''
-''2009: 49er North Americans (August 23-27)''
+**2009: Hobie 16 Women's North Americans (July 17-19)**
+**2009: Hobie 16 Youth North Americans (July 17-19)**
+**2009: Hobie 16 North Americans (July 20-24)**
+**2009: Finn North Americans (August 23-27)**
+**2009: 470 North Americans (August 23-27)**
+**2009: 29er North Americans (August 23-27)**
+**2009: 49er North Americans (August 23-27)**
 
 <h3>List by year</h3>
 1898: [[http://www.lyrawaters.org/History/Previousregattas/past_sites.htm LYRA]]
@@ -333,28 +333,28 @@ title: "__ListOfMajorRegattasInKingston"
 2007: [[http://cork.org/results2007/110.HTM International 110 Canadian Championships]] (Steven Clancy  John Murphy USA)
 
 
-''2008: [[http://www3.sympatico.ca/bruce.rand/EYC2004.htm EYC]]'' (Big boat, multiple classes)
-''2008: [[http://www.kingstonyachtclub.com/racing/results/2008/index.cfm?result=regatta/29er%20Canadians.htm 29er Canadian Championship]]'' (Martin Lefebvre, Thierry Chalifour CAN RSTLYC)
-''2008: [[http://cork.org/results2008/ETC.HTM Etchells – Canadian Championship]]''  (Tim Patton BER)
-''2008: [[http://cork.org/results2008/CTD.HTM Contender Canadian Championships (August 15 – 17)]]'' (Marcus Hamilton, AUS) <UPDATED=2454700>
-''2008: <a href="http://cork.org/results2008/CTW.HTM">Contender World Championships (August 18 – 23)</a>'' (Markus Hamilton, AUS) <UPDATED=2454703>
-''2008: [[http://cork.org/results2008/29G.HTM 29er North American Championship (August 16 – 20)]]'' (Fraser, Maxwell,  David Liebenberg, USA) <UPDATED=2454700>
-''2008: [[http://cork.org/results2008/470.HTM 470 North American Championships (August 16 – 20)]]'' ( Allison Jolly, Zack Marks, USA) <UPDATED=2454700>
-''2008: [[http://cork.org/results2008/L2R.HTM Laser II North American Championships]]'' (Cameron Roblin, Erin Murray BSBC, Burlington, CAN)
-''2008: [[http://cork.org/results2008/BYT.HTM Byte Standard North American Championships]]'' (Christie Nicoll, Halifax, CAN)
-''2008: [[http://cork.org/results2008/BYT.HTM Byte CII North American Championships]]'' (Thomas Nicholson RKYC, Saint John, CAN)
-''2008: [[http://cork.org/results2008/FLD.HTM Flying Dutchman North American Championship]]'' (Aug 22-24) (Paul Scoffin, Pavel Ruzi NZL)
-''2008: [[http://cork.org/results2008/49R.HTM 49er Canadian Championship]]'' (August 21 – 24) (Billy Gooderham, Ian Hogan RCYC CAN)
-''2008: [[http://cork.org/results2008/F18.HTM F 18 Canadian Championship]]'' (Aug 22-24) (L-Phillipe Éthier, Maxime Loiselle CAN)
-''2008: [[http://cork.org/results2008/505.HTM 505 Canadian Championships]]'' (Chris Behm,  Andrew Buttner USA)
-''2008: [[http://cork.org/results2008/fall/ALB.HTM Albacore Canadian Championships]]'' (Teresa Miolla, Carter George CAN)
+**2008: [[http://www3.sympatico.ca/bruce.rand/EYC2004.htm EYC]]** (Big boat, multiple classes)
+**2008: [[http://www.kingstonyachtclub.com/racing/results/2008/index.cfm?result=regatta/29er%20Canadians.htm 29er Canadian Championship]]** (Martin Lefebvre, Thierry Chalifour CAN RSTLYC)
+**2008: [[http://cork.org/results2008/ETC.HTM Etchells – Canadian Championship]]**  (Tim Patton BER)
+**2008: [[http://cork.org/results2008/CTD.HTM Contender Canadian Championships (August 15 – 17)]]** (Marcus Hamilton, AUS) <UPDATED=2454700>
+**2008: <a href="http://cork.org/results2008/CTW.HTM">Contender World Championships (August 18 – 23)</a>** (Markus Hamilton, AUS) <UPDATED=2454703>
+**2008: [[http://cork.org/results2008/29G.HTM 29er North American Championship (August 16 – 20)]]** (Fraser, Maxwell,  David Liebenberg, USA) <UPDATED=2454700>
+**2008: [[http://cork.org/results2008/470.HTM 470 North American Championships (August 16 – 20)]]** ( Allison Jolly, Zack Marks, USA) <UPDATED=2454700>
+**2008: [[http://cork.org/results2008/L2R.HTM Laser II North American Championships]]** (Cameron Roblin, Erin Murray BSBC, Burlington, CAN)
+**2008: [[http://cork.org/results2008/BYT.HTM Byte Standard North American Championships]]** (Christie Nicoll, Halifax, CAN)
+**2008: [[http://cork.org/results2008/BYT.HTM Byte CII North American Championships]]** (Thomas Nicholson RKYC, Saint John, CAN)
+**2008: [[http://cork.org/results2008/FLD.HTM Flying Dutchman North American Championship]]** (Aug 22-24) (Paul Scoffin, Pavel Ruzi NZL)
+**2008: [[http://cork.org/results2008/49R.HTM 49er Canadian Championship]]** (August 21 – 24) (Billy Gooderham, Ian Hogan RCYC CAN)
+**2008: [[http://cork.org/results2008/F18.HTM F 18 Canadian Championship]]** (Aug 22-24) (L-Phillipe Éthier, Maxime Loiselle CAN)
+**2008: [[http://cork.org/results2008/505.HTM 505 Canadian Championships]]** (Chris Behm,  Andrew Buttner USA)
+**2008: [[http://cork.org/results2008/fall/ALB.HTM Albacore Canadian Championships]]** (Teresa Miolla, Carter George CAN)
 
-''2009: Hobie 16 Women's North Americans'' (July 17-19)
-''2009: Hobie 16 Youth North Americans'' (July 17-19)
-''2009: Hobie 16 North Americans'' (July 20-24)
-''2009: Byte CII World Championships'' (August 23-27)
-''2009: Finn North Americans'' (August 23-27)
-''2009: 470 North Americans'' (August 23-27)
-''2009: 29er North Americans'' (August 23-27)
-''2009: 49er North Americans'' (August 23-27)
+**2009: Hobie 16 Women's North Americans** (July 17-19)
+**2009: Hobie 16 Youth North Americans** (July 17-19)
+**2009: Hobie 16 North Americans** (July 20-24)
+**2009: Byte CII World Championships** (August 23-27)
+**2009: Finn North Americans** (August 23-27)
+**2009: 470 North Americans** (August 23-27)
+**2009: 29er North Americans** (August 23-27)
+**2009: 49er North Americans** (August 23-27)
 

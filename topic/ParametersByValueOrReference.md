@@ -96,7 +96,7 @@ lcString = UPPER(ALLTRIM(tcstring))
 * and try this:
 LPARAMETER tcString
 LOCAL lcString
-lcString = IIF( PCOUNT() < 1 .OR. TYPE(tcString) <> 'C', '', UPPER(ALLTRIM(tcstring)))
+lcString = IIF( PCOUNT() < 1 .OR. TYPE(tcString) <> 'C', **, UPPER(ALLTRIM(tcstring)))
 IF EMPTY( lcString )
   *!* Do some exception handling here
   RETURN .F.

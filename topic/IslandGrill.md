@@ -9,9 +9,9 @@ title: "IslandGrill"
 
 <i>The Grill</i> is a friendly and unpretentious bar and restaurant a few steps East of the [[Wolfe Island Ferry]] dock on the [[Wolfe Island]] side.
 
-They have ''two outdoor patios'' and, or course, ''indoor service'' too.
+They have **two outdoor patios** and, or course, **indoor service** too.
 
-At the end of July 2006 there appears to be ''six feet of water at the outer dock'', and about five feet at the second finger dock in.
+At the end of July 2006 there appears to be **six feet of water at the outer dock**, and about five feet at the second finger dock in.
 
 Website: http://www.wolfeislandgrill.com/
 

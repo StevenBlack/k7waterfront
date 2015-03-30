@@ -7,7 +7,7 @@ title: "Current"
 
 ##There is current in Kingston Harbour
 <img src="http://K7Waterfront.org/Images/ChartCurrent01.jpg" class="floatright image1px" alt="Chart of Kingston Harbour">
-Not a lot, but ''it varies across the harbour''.
+Not a lot, but **it varies across the harbour**.
 <h3>Basic patterns</h3>
 <ul>
  <li> Generally surface current sets from West to East as Lake Ontario flows into the St. Lawrence River.
@@ -22,7 +22,7 @@ Looking at the bottom profile in the diagrams of Kingston Harbour below, it's ea
  <li> the South side of Kingston harbour is protected by large shoals to the West.
 </ul>
 
-''Therefore'', in most prevailing breezes (S, SW, W, NW), current favours the South side of Kingston Harbour (left) when sailing upwind, and current favours the North side of Kingston Harbour when sailing downwind.
+**Therefore**, in most prevailing breezes (S, SW, W, NW), current favours the South side of Kingston Harbour (left) when sailing upwind, and current favours the North side of Kingston Harbour when sailing downwind.
 <img src="http://K7Waterfront.org/Images/ChartCurrent02.jpg">
 
 
