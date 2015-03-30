@@ -7,5 +7,12 @@
 	<div class="panel-body">
 		{{ post.excerpt }}
 	</div>
-	<div class="panel-footer text-right small">Posted: {{ post.date | date: "%B %-d, %Y" }}</div>
+	<div class="panel-footer small">
+		{% if post.category %}
+		Category: {{ post.category }}
+		{% endif %}
+		<span class="pull-right">
+			Posted: {{ post.date | date: "%B %-d, %Y" }}
+		</span>
+	</div>
 </div>
