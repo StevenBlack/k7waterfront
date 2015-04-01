@@ -20,7 +20,7 @@ A central square for sailing resources in the Kingston area.
 
 ##Dinghy sailing
 <h3>Racing</h3>
-<li> The [[Kingston Yacht Club]] has scheduled dinghy racing on Wednesday evenings and Saturday afternoons throughout July into early August..  See [[http://kingstonyachtclub.com/racing/dinghy.cfm this page]] for details. <UPDATED=2453834>
+<li> The [[Kingston Yacht Club]] has scheduled dinghy racing on Wednesday evenings and Saturday afternoons throughout July into early August..  See [[http://kingstonyachtclub.com/racing/dinghy.cfm this page]] for details. 
 <li> Many members of the Canada and Ontario sailing teams train and tune based out of [[Portsmouth Olympic Harbour]].
 <li> See our [[regattas]] page.
 <h3>Learning</h3>

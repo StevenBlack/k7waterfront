@@ -60,7 +60,7 @@ title: "__ONaturelWhiteBoard"
 O naturel Crew
 Bruce	255
 Geo	225
-Steve	205 <UPDATED=2453742>what happened if you broke 200 again?
+Steve	205 what happened if you broke 200 again?
 Hub	165
 ?
 Actual	850

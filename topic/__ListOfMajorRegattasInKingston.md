@@ -60,15 +60,15 @@ title: "__ListOfMajorRegattasInKingston"
 </table>
 1972: [[http://www.shark24.org/membership/wchamps.htm Shark World Championships]] (Horst Shaunbacher, GER)
 1977: [[http://www.albacore.org/WorldsResults.asp Albacore World Championships]] (Barry Poyntz, Gary Poyntz CAN)
-1980: [[http://www.laserinternational.org/archives/arcwld.htm Laser World Championships]] (Gold: Ed Baird USA, Silver:José Barcel Dias BRA, Bronze: John Curler NZL) <UPDATED=2453744>
+1980: [[http://www.laserinternational.org/archives/arcwld.htm Laser World Championships]] (Gold: Ed Baird USA, Silver:José Barcel Dias BRA, Bronze: John Curler NZL)
 1980: [[http://sports123.com/sai/ww-lra.html Women's Laser Radial World Championships]] (Gold:Marit Söderström SWE, Silver: Lynne Jewell USA, Bronze: Cheryl Smith NZL)
-1983: [[http://www.hickoksports.com/history/worldsailing.shtml#mws Windsurfing World Championships]] (Stephan van den Berg, NED) <UPDATED=2453744>
+1983: [[http://www.hickoksports.com/history/worldsailing.shtml#mws Windsurfing World Championships]] (Stephan van den Berg, NED)
 1984: [[http://www.optiworld.org/ioda-worldhistory.html Optimist World Championships]] Gold:Serge Kats (NED) Silver:Jussi Wikstrom (FIN) Bronze:Xavier Garcia (ESP) Girl:Veronique Ravet (FRA) Team:(DEN)
 1985: [[http://www.i14.org/trophies/World/Worlds_Trophy.html International 14 World Championships]] (Jamie Kidd and Hugh Kidd, CAN)
-1987: [[http://sports123.com/sai/mw-boa.html Div II Board Men's World Championships]] (Heavy: Gold: Georg Kendler AUT, Silver: Jean Luc Lochus FRA, Bronze: L. de Pedrini ITA.  Light: Gold: Michel Quentin FRA, Hervé Piegelin FRA, Robert Nagy FRA) <UPDATED=2453744>
+1987: [[http://sports123.com/sai/mw-boa.html Div II Board Men's World Championships]] (Heavy: Gold: Georg Kendler AUT, Silver: Jean Luc Lochus FRA, Bronze: L. de Pedrini ITA.  Light: Gold: Michel Quentin FRA, Hervé Piegelin FRA, Robert Nagy FRA)
 1987:  [[http://sports123.com/sai/ww-boa.html Div II Board Women's World Championships]] (Gold: Jorunn Horgen NOR, Silver: Valérie Capart FRA, Bronze: Penny Way GBR)
 1989: [[http://www.albacore.org/WorldsResults.asp Albacore World Championships]] (John Clark, Jaime Day CAN)
-1989: [[http://www.hickoksports.com/history/worldsailing.shtml#oj24 J24 World Championships]] (Larry Klein, USA). See also [[http://sports123.com/sai/ow-j24.html here]]. <UPDATED=2453744>
+1989: [[http://www.hickoksports.com/history/worldsailing.shtml#oj24 J24 World Championships]] (Larry Klein, USA). See also [[http://sports123.com/sai/ow-j24.html here]].
 1989: Laser II World Championships (Charlie Hancock, John Curtis, CAN)
 1989: Dufour World Championships
 1990: [[http://hem.passagen.se/waterat/kingston90r.htm 505 World Championships]] (Jørgen Schønherr, A. Kaempe, DEN) ([[http://hem.passagen.se/waterat/kingston90.htm Account]])
@@ -86,23 +86,23 @@ title: "__ListOfMajorRegattasInKingston"
 1999: [[http://www.byteclass.org/racing/results_98-00/Results_98-99/1999%20Byte%20Worlds.htm Byte World Championships]] (Eric Holden, CAN)
 2001: [[http://cork.org/archive/results_2001.html#CONCSV Contender World Championships]] (Gold: Arthur Brett AUS, Silver: Andrea Bonezzi ITA, Bronze: Nigel Walbank GBR).  See also [[http://sports123.com/sai/ow-con.html here]].
 2001: [[http://finn.wikis.com Finn Master World Championships]] (Overall: Lawrence Lemieux, CAN  40-49: Lawrence Lemieux, CAN  50-59: Luksa Cicarelli, CRO  60+: Louie Nady USA)
-2001: [[http://cork.org/archive/results_2001.html#29ergold 29er World Championships]] (John Pink, Tom Weeks GBR).  See also [[http://sports123.com/sai/ow-29.html here]]. <UPDATED=2453744>
-2002: [[http://www.hickoksports.com/history/worldsailing.shtml#oj24 J24 World Championships]] (Brad Read, Randy Borges, David McClintock, Paul Grenaver, Will Jeffers  USA ). See also [[http://sports123.com/sai/ow-j24.html here]]. <UPDATED=2453744>
+2001: [[http://cork.org/archive/results_2001.html#29ergold 29er World Championships]] (John Pink, Tom Weeks GBR).  See also [[http://sports123.com/sai/ow-29.html here]].
+2002: [[http://www.hickoksports.com/history/worldsailing.shtml#oj24 J24 World Championships]] (Brad Read, Randy Borges, David McClintock, Paul Grenaver, Will Jeffers  USA ). See also [[http://sports123.com/sai/ow-j24.html here]].
 2003: [[http://cork.org/archive/results_2003.html#alb Albacore World Championships]] (Barney Harris, David Byron, USA)
 2005: [[http://cork.org/results2005/L2W.HTM Laser II World Championships]] (Trevor McEwen, Ian McEwen, Kingston, CAN)
 <div class="floatleft" style="border: 1px dashed black; margin: 3px; padding: 3px; width:80%;">
 <strong>2007: Volvo Youth Sailing ISAF World Championships</strong>
 <img src="http://k7waterfront.org/Images/VolvoYouth2007.jpg" class="floatleft" alt="Volvo Youth Worlds">
-<a href="http://www.youthworlds2007.org/Results/blas.html">Boy’s One Person Dinghy: Laser</a> (Pavlos Kontides, Cyprus)
-<a href="http://www.youthworlds2007.org/Results/grad.html">Girl’s One Person Dinghy: Laser Radial</a> (Gabrielle King, AUS)
-<a href="http://www.youthworlds2007.org/Results/b29.html">Boy’s Two Person Dinghy: 29’er</a> (Henrik Sogaard, Soren Kristensen, DEN)
-<a href="http://www.youthworlds2007.org/Results/g29.html">Girl’s Two Person Dinghy: 29’er</a> (Emily Dellenbaugh, Briana Provancha, USA)
-<a href="http://www.youthworlds2007.org/Results/bwin.html">Boy’s Windsurfer</a> (Pierre Le Coq, FRA)
-<a href="http://www.youthworlds2007.org/Results/gwin.html">Girl’s Windsurfer</a> (Laura Linares, ITA)
+<a href="http://www.youthworlds2007.org/Results/blas.html">Boy's One Person Dinghy: Laser</a> (Pavlos Kontides, Cyprus)
+<a href="http://www.youthworlds2007.org/Results/grad.html">Girl's One Person Dinghy: Laser Radial</a> (Gabrielle King, AUS)
+<a href="http://www.youthworlds2007.org/Results/b29.html">Boy's Two Person Dinghy: 29'er</a> (Henrik Sogaard, Soren Kristensen, DEN)
+<a href="http://www.youthworlds2007.org/Results/g29.html">Girl's Two Person Dinghy: 29'er</a> (Emily Dellenbaugh, Briana Provancha, USA)
+<a href="http://www.youthworlds2007.org/Results/bwin.html">Boy's Windsurfer</a> (Pierre Le Coq, FRA)
+<a href="http://www.youthworlds2007.org/Results/gwin.html">Girl's Windsurfer</a> (Laura Linares, ITA)
 <a href="http://www.youthworlds2007.org/Results/hobie.html">Open Multihull: Hobie Cat 16 Race Spinnaker</a> (Richard Glover, Andrew Glover, GBR)
 </div>
 
-2008: <a href="http://cork.org/results2008/CTW.HTM">Contender World Championships (August 18 – 23)</a> (Markus Hamilton, AUS) <UPDATED=2454703>
+2008: <a href="http://cork.org/results2008/CTW.HTM">Contender World Championships (August 18 – 23)</a> (Markus Hamilton, AUS)
 
 **2009: Byte CII World Championshops** (August 23-27)
 
@@ -137,12 +137,12 @@ title: "__ListOfMajorRegattasInKingston"
 2005: [[http://kingstonyachtclub.com/racing/results/2005/index.cfm?result=regatta/505%20North%20Americans.htm 505 North American Championships]] (Nelson / Moore USA)
 2006: [[http://cork.org/results2006/BYS.HTM Byte North American Championships]] (Jean-Luc Robitaille, CAN)
 2006: [[http://cork.org/results2006/29R.HTM 29er North American Championships]]  (Jen Glass, Genny Tulloch USA)  (See also [[http://www.29erxx.org/news/2006/8/29erxx-north-american-series.html here]])
-2007: [[http://kingstonyachtclub.com/racing/results/2007/index.cfm?result=regatta/Shark%20North%20Americans%202007.htm Shark North Americans (KYC Aug 4-6)]] (David O'Sullivan, David Foy, and Jamie Foy, CAN, Britannia Yacht Club) <UPDATED=2454319>
-2007: [[http://www.cork.org/results2007/LA2.HTM Laser 2 North Americans]] (Lauren David, Diane Tomalty CAN Kingston Yacht Club) <UPDATED=2454336>
-2007: [[http://www.cork.org/results2007/BYS.HTM Byte North Americans]]  (Brenda Bowskill CAN) <UPDATED=2454336>
-2007: [[http://www.cork.org/results2007/29G.HTM 29er North Americans]]  (Ryan Judge, Hans Henken ARG) <UPDATED=2454336>
-**2008: [[http://cork.org/results2008/29G.HTM 29er North American Championship (August 16 – 20)]]** (Fraser, Maxwell,  David Liebenberg, USA) <UPDATED=2454700>
-**2008: [[http://cork.org/results2008/470.HTM 470 North American Championships (August 16 – 20)]]** ( Allison Jolly, Zack Marks, USA) <UPDATED=2454700>
+2007: [[http://kingstonyachtclub.com/racing/results/2007/index.cfm?result=regatta/Shark%20North%20Americans%202007.htm Shark North Americans (KYC Aug 4-6)]] (David O'Sullivan, David Foy, and Jamie Foy, CAN, Britannia Yacht Club)
+2007: [[http://www.cork.org/results2007/LA2.HTM Laser 2 North Americans]] (Lauren David, Diane Tomalty CAN Kingston Yacht Club)
+2007: [[http://www.cork.org/results2007/BYS.HTM Byte North Americans]]  (Brenda Bowskill CAN)
+2007: [[http://www.cork.org/results2007/29G.HTM 29er North Americans]]  (Ryan Judge, Hans Henken ARG)
+**2008: [[http://cork.org/results2008/29G.HTM 29er North American Championship (August 16 – 20)]]** (Fraser, Maxwell,  David Liebenberg, USA)
+**2008: [[http://cork.org/results2008/470.HTM 470 North American Championships (August 16 – 20)]]** ( Allison Jolly, Zack Marks, USA)
 **2008: [[http://cork.org/results2008/L2R.HTM Laser II North American Championships]]** (Cameron Roblin, Erin Murray (BSBC, Burlington, CAN)
 **2008: [[http://cork.org/results2008/BYT.HTM Byte Standard North American Championships]]** (Christie Nicoll, Halifax, CAN)
 **2008: [[http://cork.org/results2008/BYT.HTM Byte CII North American Championships]]** (Thomas Nicholson RKYC, Saint John, CAN)
@@ -195,7 +195,7 @@ title: "__ListOfMajorRegattasInKingston"
 
 1986: [[http://www.laserinternational.org/archives/arccan.htm Laser Canadian Championships]] (Hank Lammens, CAN)
 
-1987: [[http://sports123.com/sai/mw-boa.html Div II Board Men's World Championships]] (Heavy: Gold: Georg Kendler AUT, Silver: Jean Luc Lochus FRA, Bronze: L. de Pedrini ITA.  Light: Gold: Michel Quentin FRA, Hervé Piegelin FRA, Robert Nagy FRA) <UPDATED=2453744>
+1987: [[http://sports123.com/sai/mw-boa.html Div II Board Men's World Championships]] (Heavy: Gold: Georg Kendler AUT, Silver: Jean Luc Lochus FRA, Bronze: L. de Pedrini ITA.  Light: Gold: Michel Quentin FRA, Hervé Piegelin FRA, Robert Nagy FRA)
 1987:  [[http://sports123.com/sai/ww-boa.html Div II Board Women's World Championships]] (Gold: Jorunn Horgen NOR, Silver: Valérie Capart FRA, Bronze: Penny Way GBR)
 1987: [[http://www.laserinternational.org/archives/arccan.htm Laser Canadian Championships]] (Jason Rhodes, CAN)
 1987: [[http://www.sailing.org/bio.asp?ID=CANRM1&Tkn=914717 J-24 Canadian Championships]]
@@ -227,7 +227,7 @@ title: "__ListOfMajorRegattasInKingston"
 
 1995: [[http://www.albacore.org/WorldsResults.asp Albacore World Championships]] (Mike McNamara, Mike Gifford GBR)
 1995: [[http://www.soling.com/results/ShowResults.asp?ID=288 Soling World Championships]] (L. Doreste, Manrique, Vera ESP)
-1995: [[http://www.hickoksports.com/history/worldsailing.shtml#otorn Tornado World Championships]] (Walter Pirinoli, Marco Pirinoli, ITA).  See also [[http://sports123.com/sai/ow-tor.html here]]. <UPDATED=2453744>
+1995: [[http://www.hickoksports.com/history/worldsailing.shtml#otorn Tornado World Championships]] (Walter Pirinoli, Marco Pirinoli, ITA).  See also [[http://sports123.com/sai/ow-tor.html here]].
 1995: [[http://www.sailing.org/bio.asp?ID=CANRM1&Tkn=914717 International 14 Canadians]]
 
 1996: [[http://sports123.com/sai/ow-fir.html Fireball World Championships]] (Gold: Colin Goodman,Jim Turner GBR, Silver: Erich Moser, Rüdi Moser SWI, Bronze: Tof Nicoll-Griffith, Kelly CAN)
@@ -304,42 +304,42 @@ title: "__ListOfMajorRegattasInKingston"
 2005: [[http://kingstonyachtclub.com/racing/results/2005/index.cfm?result=regatta/Shark%20Canadians%202005.htm Shark Canadian Championships]] (Tof Nicoll-Griffith, Hugh Strudwick, Kai Nicoll-Griffith CAN)
 2005: [[http://www.king.igs.net/%7Evanrossem/2005%20IOM%20Canadian%20Championship%20Regatta.html IOM Canadian Championships]] (Peter Van Rossem, Kingston, CAN)
 
-2006: <UPDATED=2453968>  [[http://cork.org/results2006/J22.HTM J22 Canadians (Aug 11-13)]] (Ron Harris, David Harris, Pete Amos, Hudson QC CAN)
-2006: <UPDATED=2453968>  [[http://cork.org/results2006/F18.HTM F18 Canadians (Aug 12-13)]] (Maxime Loiselle, Quebec City CAN)
+2006:   [[http://cork.org/results2006/J22.HTM J22 Canadians (Aug 11-13)]] (Ron Harris, David Harris, Pete Amos, Hudson QC CAN)
+2006:   [[http://cork.org/results2006/F18.HTM F18 Canadians (Aug 12-13)]] (Maxime Loiselle, Quebec City CAN)
 2006: [[http://cork.org/results2006/BYS.HTM Byte North American Championships (Aug 19-23)]] (Jean-Luc Robitaille, CAN)
 2006: [[http://cork.org/results2006/29R.HTM 29er North American Championships (Aug 19-23)]]  (Jen Glass, Genny Tulloch USA) (See also [[http://www.29erxx.org/news/2006/8/29erxx-north-american-series.html here]])
 2006: [[http://cork.org/results2006/49R.HTM 49'er Canadians (Aug 24-27)]]  (Dan Cunningham, Rob Paterson  CAN)
 2006: [[http://cork.org/results2006/FIR.HTM Fireball Canadians (Aug 24-27)]] (Robert Levy, Stephen Waldie CAN)
 
-2007: [[http://kingstonyachtclub.com/racing/results/2007/index.cfm?result=regatta/505%20Canadians%202007.htm 505 Canadians (6/30-7/2)]] (Tyler Moore, Jessie Falsone USA) <UPDATED=2454288>
+2007: [[http://kingstonyachtclub.com/racing/results/2007/index.cfm?result=regatta/505%20Canadians%202007.htm 505 Canadians (6/30-7/2)]] (Tyler Moore, Jessie Falsone USA)
 
 <div class="floatleft" style="border: 1px dashed black; margin: 3px; padding: 3px; width:80%;">
 
 <strong>2007: Volvo Youth Sailing ISAF World Championships</strong>
 <img src="http://k7waterfront.org/Images/VolvoYouth2007.jpg" class="floatleft" alt="Volvo Youth Worlds">
-<a href="http://www.youthworlds2007.org/Results/blas.html">Boy’s One Person Dinghy: Laser</a> (Pavlos Kontides, Cyprus)
-<a href="http://www.youthworlds2007.org/Results/grad.html">Girl’s One Person Dinghy: Laser Radial</a> (Gabrielle King, AUS)
-<a href="http://www.youthworlds2007.org/Results/b29.html">Boy’s Two Person Dinghy: 29’er</a> (Henrik Sogaard, Soren Kristensen, DEN)
-<a href="http://www.youthworlds2007.org/Results/g29.html">Girl’s Two Person Dinghy: 29’er</a> (Emily Dellenbaugh, Briana Provancha, USA)
-<a href="http://www.youthworlds2007.org/Results/bwin.html">Boy’s Windsurfer</a> (Pierre Le Coq, FRA)
-<a href="http://www.youthworlds2007.org/Results/gwin.html">Girl’s Windsurfer</a> (Laura Linares, ITA)
+<a href="http://www.youthworlds2007.org/Results/blas.html">Boy's One Person Dinghy: Laser</a> (Pavlos Kontides, Cyprus)
+<a href="http://www.youthworlds2007.org/Results/grad.html">Girl's One Person Dinghy: Laser Radial</a> (Gabrielle King, AUS)
+<a href="http://www.youthworlds2007.org/Results/b29.html">Boy's Two Person Dinghy: 29'er</a> (Henrik Sogaard, Soren Kristensen, DEN)
+<a href="http://www.youthworlds2007.org/Results/g29.html">Girl's Two Person Dinghy: 29'er</a> (Emily Dellenbaugh, Briana Provancha, USA)
+<a href="http://www.youthworlds2007.org/Results/bwin.html">Boy's Windsurfer</a> (Pierre Le Coq, FRA)
+<a href="http://www.youthworlds2007.org/Results/gwin.html">Girl's Windsurfer</a> (Laura Linares, ITA)
 <a href="http://www.youthworlds2007.org/Results/hobie.html">Open Multihull: Hobie Cat 16 Race Spinnaker</a> (Richard Glover, Andrew Glover, GBR)
 </div>
 
-2007: [[http://kingstonyachtclub.com/racing/results/2007/index.cfm?result=regatta/Shark%20North%20Americans%202007.htm Shark North Americans (KYC Aug 4-6)]] (David O'Sullivan, David Foy, and Jamie Foy, CAN, Britannia Yacht Club) <UPDATED=2454319>
-2007: [[http://www.cork.org/results2007/LA2.HTM Laser 2 North Americans]] (Lauren David, Diane Tomalty CAN Kingston Yacht Club) <UPDATED=2454336>
-2007: [[http://www.cork.org/results2007/BYS.HTM Byte North Americans]]  (Brenda Bowskill CAN) <UPDATED=2454336>
-2007: [[http://www.cork.org/results2007/29G.HTM 29er North Americans]]  (Ryan Judge, Hans Henken ARG) <UPDATED=2454336>
+2007: [[http://kingstonyachtclub.com/racing/results/2007/index.cfm?result=regatta/Shark%20North%20Americans%202007.htm Shark North Americans (KYC Aug 4-6)]] (David O'Sullivan, David Foy, and Jamie Foy, CAN, Britannia Yacht Club)
+2007: [[http://www.cork.org/results2007/LA2.HTM Laser 2 North Americans]] (Lauren David, Diane Tomalty CAN Kingston Yacht Club)
+2007: [[http://www.cork.org/results2007/BYS.HTM Byte North Americans]]  (Brenda Bowskill CAN)
+2007: [[http://www.cork.org/results2007/29G.HTM 29er North Americans]]  (Ryan Judge, Hans Henken ARG)
 2007: [[http://cork.org/results2007/110.HTM International 110 Canadian Championships]] (Steven Clancy  John Murphy USA)
 
 
 **2008: [[http://www3.sympatico.ca/bruce.rand/EYC2004.htm EYC]]** (Big boat, multiple classes)
 **2008: [[http://www.kingstonyachtclub.com/racing/results/2008/index.cfm?result=regatta/29er%20Canadians.htm 29er Canadian Championship]]** (Martin Lefebvre, Thierry Chalifour CAN RSTLYC)
 **2008: [[http://cork.org/results2008/ETC.HTM Etchells – Canadian Championship]]**  (Tim Patton BER)
-**2008: [[http://cork.org/results2008/CTD.HTM Contender Canadian Championships (August 15 – 17)]]** (Marcus Hamilton, AUS) <UPDATED=2454700>
-**2008: <a href="http://cork.org/results2008/CTW.HTM">Contender World Championships (August 18 – 23)</a>** (Markus Hamilton, AUS) <UPDATED=2454703>
-**2008: [[http://cork.org/results2008/29G.HTM 29er North American Championship (August 16 – 20)]]** (Fraser, Maxwell,  David Liebenberg, USA) <UPDATED=2454700>
-**2008: [[http://cork.org/results2008/470.HTM 470 North American Championships (August 16 – 20)]]** ( Allison Jolly, Zack Marks, USA) <UPDATED=2454700>
+**2008: [[http://cork.org/results2008/CTD.HTM Contender Canadian Championships (August 15 – 17)]]** (Marcus Hamilton, AUS)
+**2008: <a href="http://cork.org/results2008/CTW.HTM">Contender World Championships (August 18 – 23)</a>** (Markus Hamilton, AUS)
+**2008: [[http://cork.org/results2008/29G.HTM 29er North American Championship (August 16 – 20)]]** (Fraser, Maxwell,  David Liebenberg, USA)
+**2008: [[http://cork.org/results2008/470.HTM 470 North American Championships (August 16 – 20)]]** ( Allison Jolly, Zack Marks, USA)
 **2008: [[http://cork.org/results2008/L2R.HTM Laser II North American Championships]]** (Cameron Roblin, Erin Murray BSBC, Burlington, CAN)
 **2008: [[http://cork.org/results2008/BYT.HTM Byte Standard North American Championships]]** (Christie Nicoll, Halifax, CAN)
 **2008: [[http://cork.org/results2008/BYT.HTM Byte CII North American Championships]]** (Thomas Nicholson RKYC, Saint John, CAN)

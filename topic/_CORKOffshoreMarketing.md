@@ -40,7 +40,7 @@ Hi Everyone:
 
 
 
-I am considering creating a Great Lakes Regional Website for Olson 30 owners racing on the Great Lakes. The purpose of the site would be to encourage communication amongst owners and growth of the Great Lakes Fleet. In addition, I would like to start an Olson 30 Great Lakes Regatta which would be held annually at various venues across the region. I propose that the 2006 regatta be held in Kingston, Ontario as part of the CORK event which is held in mid August. We now have three boats actively racing in Kingston and I’m confident that we can get at least three more making the inaugural event a respectable fleet of six or more.
+I am considering creating a Great Lakes Regional Website for Olson 30 owners racing on the Great Lakes. The purpose of the site would be to encourage communication amongst owners and growth of the Great Lakes Fleet. In addition, I would like to start an Olson 30 Great Lakes Regatta which would be held annually at various venues across the region. I propose that the 2006 regatta be held in Kingston, Ontario as part of the CORK event which is held in mid August. We now have three boats actively racing in Kingston and I'm confident that we can get at least three more making the inaugural event a respectable fleet of six or more.
 
 
 
@@ -48,7 +48,7 @@ The website address will be: www.pridemarine.com/Olson30GreatLakesFleet.htm
 
 
 
-Please respond with your feedback and let me know if you’d like your boat information listed on the site?
+Please respond with your feedback and let me know if you'd like your boat information listed on the site?
 
 
 

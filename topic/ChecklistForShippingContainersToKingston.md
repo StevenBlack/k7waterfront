@@ -74,10 +74,10 @@ title: "ChecklistForShippingContainersToKingston"
   Kingston, Ontario
   Tel. 613-544-5626</pre>
 <ul>
-<li><s>They have a ramp where a truck can back up, and the container can be be unloaded without taking the container off the truck.</s> <UPDATED=2455271>
-           <li><s>This is especially useful for Coach boats which are too heavy to lift in and out of a container.</s><UPDATED=2455271>
-           <li><s>Most dinghies can be loaded and unloaded with muscle power.</s><UPDATED=2455271>
-           <li><s>It is only about 3 minutes drive from [[Portsmouth Olympic Harbour]].</s> <UPDATED=2455271>
+<li><s>They have a ramp where a truck can back up, and the container can be be unloaded without taking the container off the truck.</s> 
+           <li><s>This is especially useful for Coach boats which are too heavy to lift in and out of a container.</s>
+           <li><s>Most dinghies can be loaded and unloaded with muscle power.</s>
+           <li><s>It is only about 3 minutes drive from [[Portsmouth Olympic Harbour]].</s> 
 #INSERTTOPIC:__GoogleDataMapContainering
          </ul>
       </ul>
