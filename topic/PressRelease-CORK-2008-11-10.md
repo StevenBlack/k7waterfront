@@ -6,7 +6,7 @@ title: "Press Release- CORK-2008-11-10"
 ---
 
 ##New for the 2009 August CORK Events
-<div class="column2">
+
 
 Kingston hosts the annual <a href="http://cork.org">CORK</a> regattas and a number of other major events, including the 2007 VOLVO Youth Sailing ISAF World Championship. We are committed to deliver excellence in regatta management, encouraging the development of youth and elite athletes, volunteers and officials.
 
@@ -42,4 +42,4 @@ For further information; check the CORK website at www.cork.org, contact the COR
 * August 23-27 - CORK Olympic Classes Event
 * August 28-30 - CORK Offshore, One Design Keelboat and Dinghy Event
 * September 19-20 - CORK Fall Regatta
-</div>
+

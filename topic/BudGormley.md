@@ -8,7 +8,7 @@ title: "Bud Gormley"
 ##The best mayor Kingston never had###Russell (Bud) Gormley earned praise for his work during '76 Olympics
 BY IAN ELLIOT WHIG-STANDARD STAFF WRITER  June 18 2008
 
-<div class="column2">
+
 
 The year 1976 might have been the only time in history that Kingston had two mayors.
 
@@ -58,5 +58,5 @@ Gormley was also commodore of the Kingston Yacht Club in 1983 and 1984. The curr
 
 "Bud was a good sailor, a good friend and a good shipmate."
 
-</div>
+
 

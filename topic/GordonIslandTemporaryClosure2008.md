@@ -5,7 +5,7 @@ title: "Gordon Island Temporary Closure2008"
 
 ---
 
-<div class="column2">
+
 ##Gordon Island Temporary Closure for Public Safety
 Questions & Answers
 
@@ -32,5 +32,5 @@ St. Lawrence Islands National Park
 Parks Canada
 (613) 923-5261
 
-</div>
+
 

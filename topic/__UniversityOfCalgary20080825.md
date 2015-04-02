@@ -9,7 +9,7 @@ title: "__UniversityOfCalgary20080825"
 Source: http://www.ucalgary.ca/news/aug2008/batdeaths
 
 ###Extreme pressure changes near blades injures bat lungs, U of C study finds
-<div class="column2">
+
 
 Watch the video.
 
@@ -42,4 +42,4 @@ University of Calgary
 Phone: (403) 220-7722
 Cell: (403) 651-2515
 Email: gsemmens@ucalgary.ca
-</div>
+

@@ -1,11 +1,9 @@
 ---
 layout: topic
 permalink: "/topic/WaterLevels/"
-title: "Water Levels"
+title: "Present and Comparative Water Levels"
 
 ---
-
-<h3>Current and comparative water levels -- Lake Ontario <h3>
 
 Canada source: [[http://chswww.bur.dfo.ca/danp/bulletin_e.html Current Water Levels Bulletin]] and [[http://chswww.bur.dfo.ca/danp/back-arrieres_e.html Back Issues of the Bulletin]]
 
@@ -24,11 +22,12 @@ USA Source: http://www.glerl.noaa.gov/data/now/wlevels/plots/ont_lvl.gif
 Historical levels:
 <img src="http://www.waterlevels.gc.ca/C&A/network_means_files/netmeanOnt.gif" alt="Historical Lake Ontario water levels">
 
-<div class="clear"></div>##Upstream
+##Upstream
 
 <a href="http://www.glerl.noaa.gov/data/now/wlevels/mic_lvl.gif"><img src="http://www.glerl.noaa.gov/data/now/wlevels/mic_lvl.gif"></a>
 
 <a href="http://www.glerl.noaa.gov/data/now/wlevels/sup_lvl.gif"><img src="http://www.glerl.noaa.gov/data/now/wlevels/sup_lvl.gif"></a>
+
 
 #NEWSITEMS:Water Levels
 

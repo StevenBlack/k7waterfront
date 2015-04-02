@@ -13,6 +13,6 @@ title: "__KingstonMarinaPhotos"
 a {padding-right: 0px !important; background: none !important; text-decoration: none;}
 </style>
 <div class="flickr_badge"><script type="text/javascript" src="http://www.flickr.com/badge_code_v2.gne?count=10&display=random&size=m&layout=x&source=user_set&user=45336357%40N00&set=72157594484984836&context=in%2Fset-72157594474235107%2F"></script>
-</div><div class="clear"></div>
+</div>
 <!-- End of Flickr Badge -->
 

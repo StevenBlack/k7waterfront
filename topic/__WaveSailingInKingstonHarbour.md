@@ -26,7 +26,7 @@ Map is Clickable<br>
 <area onmouseover="Point Pleasant Break" shape="POLY" target="" alt="Point Pleasant Break" coords="325,105,343,105,342,83,428,44,422,32,327,74,326,104,326,104" href="#Point Pleasant Break">
 <area shape="RECT" coords="0,0,0,0">
 </map><img height="414" alt="Kingston Harbour Surf Sites" src="images/surfsites.jpg" width="653" usemap="#surfsites" border="0">
-<div class="column2">
+
 <a name="Amherst Inside Break" href="#Map Top"></a>##Amherst Inside Break
 <p>4-5ft; Clean, long, waves and side-onshore starboard jumping conditions. Great jumps and rides, and good inside transitions in smooth water near shore. Really long rides (100 m) are possible if you make the connection from the shoal to the surf in the shallower water toward the Brothers rock bar.
 This shallow shoal is a good depth for small surf all year round, and never shallow enough to have to worry about your fin. </p>
@@ -53,7 +53,7 @@ the early season. </p>
 <a name="Snake Shoal Break"></a>##Snake Shoal Break
 <p>6-8ft; Straight onshore conditions and nice long rides straight downwind. Jumps on either tack. This shallow shoal is good even in the early season high water. At low water, I wouldn't try to sail straight across this shoal. Instead, ride the surf down either side. </p>
 
-</div>
+
 
 <p>Copyright © 2004 Kingston Boardsailing Association</p>
 

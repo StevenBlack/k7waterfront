@@ -11,7 +11,7 @@ RANDY BOSWEL
 
 Published: Saturday, August 23
 
-<div class="column2">
+
 A Lake Ontario shipwreck hunter claims to have discovered a legendary vessel from the War of 1812 - the 32-metre sloop HMS Wolfe, star of one of the most dramatic naval battles on the Great Lakes at the height of the U.S. invasion of Canada.
 
 The ship, renamed HMS Montreal later in the war, was the Canadian-made flagship of Commodore James Yeo, commander of the inland British fleet during the crucial struggle against the Americans for control of the lakes.
@@ -49,7 +49,7 @@ The historian debunked a popular tale that the British ships had actually vaulte
 
 "Yeo's Lake Ontario naval squadron survived the scrape of 28 September as strong as ever," Williamson wrote. "In fact, it went on the offensive in the following spring and helped to capture Fort Oswego. ... By maintaining the integrity of his squadron, Yeo played a far more important role in the events of the War of 1812 that shaped our future than generations of historians have been prepared to grant him."
 
-</div>
+
 
 © The Gazette (Montreal) 2008
 
