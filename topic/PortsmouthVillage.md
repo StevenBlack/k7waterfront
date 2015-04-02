@@ -1,7 +1,7 @@
 ---
 layout: topic
 permalink: "/topic/PortsmouthVillage/"
-title: "PortsmouthVillage"
+title: "Portsmouth Village"
 
 ---
 

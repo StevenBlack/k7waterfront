@@ -1,7 +1,7 @@
 ---
 layout: topic
 permalink: "/topic/KingstonYachtClub/"
-title: "KingstonYachtClub"
+title: "Kingston Yacht Club"
 
 ---
 

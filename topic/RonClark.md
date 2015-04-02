@@ -1,7 +1,7 @@
 ---
 layout: topic
 permalink: "/topic/RonClark/"
-title: "RonClark"
+title: "Ron Clark"
 
 ---
 

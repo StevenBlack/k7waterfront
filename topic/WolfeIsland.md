@@ -1,7 +1,7 @@
 ---
 layout: topic
 permalink: "/topic/WolfeIsland/"
-title: "WolfeIsland"
+title: "Wolfe Island"
 
 ---
 

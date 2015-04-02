@@ -1,7 +1,7 @@
 ---
 layout: topic
 permalink: "/topic/HubSteenbakkers/"
-title: "HubSteenbakkers"
+title: "Hub Steenbakkers"
 
 ---
 

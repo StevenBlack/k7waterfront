@@ -1,7 +1,7 @@
 ---
 layout: topic
 permalink: "/topic/TreasureIsland/"
-title: "TreasureIsland"
+title: "Treasure Island"
 
 ---
 

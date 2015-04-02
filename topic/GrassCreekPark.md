@@ -1,7 +1,7 @@
 ---
 layout: topic
 permalink: "/topic/GrassCreekPark/"
-title: "GrassCreekPark"
+title: "Grass Creek Park"
 
 ---
 

@@ -1,7 +1,7 @@
 ---
 layout: topic
 permalink: "/topic/LasalleCauseway/"
-title: "LasalleCauseway"
+title: "Lasalle Causeway"
 
 ---
 

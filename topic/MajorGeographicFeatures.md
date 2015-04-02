@@ -1,7 +1,7 @@
 ---
 layout: topic
 permalink: "/topic/MajorGeographicFeatures/"
-title: "MajorGeographicFeatures"
+title: "Major Geographic Features"
 
 ---
 

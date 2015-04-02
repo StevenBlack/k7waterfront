@@ -1,7 +1,7 @@
 ---
 layout: topic
 permalink: "/topic/ParametersByValueOrReference/"
-title: "ParametersByValueOrReference"
+title: "Parameters By Value Or Reference"
 
 ---
 

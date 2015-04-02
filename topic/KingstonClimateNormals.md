@@ -1,7 +1,7 @@
 ---
 layout: topic
 permalink: "/topic/KingstonClimateNormals/"
-title: "KingstonClimateNormals"
+title: "Kingston Climate Normals"
 
 ---
 

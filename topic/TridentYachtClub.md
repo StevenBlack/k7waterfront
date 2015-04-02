@@ -1,7 +1,7 @@
 ---
 layout: topic
 permalink: "/topic/TridentYachtClub/"
-title: "TridentYachtClub"
+title: "Trident Yacht Club"
 
 ---
 

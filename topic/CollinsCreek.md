@@ -1,7 +1,7 @@
 ---
 layout: topic
 permalink: "/topic/CollinsCreek/"
-title: "CollinsCreek"
+title: "Collins Creek"
 
 ---
 

@@ -1,7 +1,7 @@
 ---
 layout: topic
 permalink: "/topic/GreatCataraquiRiver/"
-title: "GreatCataraquiRiver"
+title: "Great Cataraqui River"
 
 ---
 

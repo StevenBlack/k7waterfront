@@ -1,7 +1,7 @@
 ---
 layout: topic
 permalink: "/topic/MartelloTowers/"
-title: "MartelloTowers"
+title: "Martello Towers"
 
 ---
 

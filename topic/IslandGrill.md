@@ -1,7 +1,7 @@
 ---
 layout: topic
 permalink: "/topic/IslandGrill/"
-title: "IslandGrill"
+title: "Island Grill"
 
 ---
 

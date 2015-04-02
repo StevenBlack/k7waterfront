@@ -1,7 +1,7 @@
 ---
 layout: topic
 permalink: "/topic/Cruiser'sHomePage/"
-title: "Cruiser'sHomePage"
+title: "Cruiser's Home Page"
 
 ---
 

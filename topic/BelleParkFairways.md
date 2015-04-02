@@ -1,7 +1,7 @@
 ---
 layout: topic
 permalink: "/topic/BelleParkFairways/"
-title: "BelleParkFairways"
+title: "Belle Park Fairways"
 
 ---
 

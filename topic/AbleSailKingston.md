@@ -1,7 +1,7 @@
 ---
 layout: topic
 permalink: "/topic/AbleSailKingston/"
-title: "AbleSailKingston"
+title: "Able Sail Kingston"
 
 ---
 

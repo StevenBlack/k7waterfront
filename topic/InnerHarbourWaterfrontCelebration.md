@@ -1,7 +1,7 @@
 ---
 layout: topic
 permalink: "/topic/InnerHarbourWaterfrontCelebration/"
-title: "InnerHarbourWaterfrontCelebration"
+title: "Inner Harbour Waterfront Celebration"
 
 ---
 

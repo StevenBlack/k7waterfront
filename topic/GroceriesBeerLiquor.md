@@ -1,7 +1,7 @@
 ---
 layout: topic
 permalink: "/topic/GroceriesBeerLiquor/"
-title: "GroceriesBeerLiquor"
+title: "Groceries Beer Liquor"
 
 ---
 

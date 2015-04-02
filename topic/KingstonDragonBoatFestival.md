@@ -1,7 +1,7 @@
 ---
 layout: topic
 permalink: "/topic/KingstonDragonBoatFestival/"
-title: "KingstonDragonBoatFestival"
+title: "Kingston Dragon Boat Festival"
 
 ---
 

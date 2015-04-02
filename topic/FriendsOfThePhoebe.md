@@ -1,7 +1,7 @@
 ---
 layout: topic
 permalink: "/topic/FriendsOfThePhoebe/"
-title: "FriendsOfThePhoebe"
+title: "Friends Of The Phoebe"
 
 ---
 

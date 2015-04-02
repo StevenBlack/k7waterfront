@@ -1,7 +1,7 @@
 ---
 layout: topic
 permalink: "/topic/RichardsonBeach/"
-title: "RichardsonBeach"
+title: "Richardson Beach"
 
 ---
 

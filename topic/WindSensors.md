@@ -1,7 +1,7 @@
 ---
 layout: topic
 permalink: "/topic/WindSensors/"
-title: "WindSensors"
+title: "Wind Sensors"
 
 ---
 

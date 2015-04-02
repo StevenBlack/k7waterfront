@@ -1,7 +1,7 @@
 ---
 layout: topic
 permalink: "/topic/BigSandyBay/"
-title: "BigSandyBay"
+title: "Big Sandy Bay"
 
 ---
 

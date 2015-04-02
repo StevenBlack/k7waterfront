@@ -1,7 +1,7 @@
 ---
 layout: topic
 permalink: "/topic/FishingHomePage/"
-title: "FishingHomePage"
+title: "Fishing Home Page"
 
 ---
 

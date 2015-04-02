@@ -1,7 +1,7 @@
 ---
 layout: topic
 permalink: "/topic/AlwingtonPlaceBeach/"
-title: "AlwingtonPlaceBeach"
+title: "Alwington Place Beach"
 
 ---
 

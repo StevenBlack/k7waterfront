@@ -1,7 +1,7 @@
 ---
 layout: topic
 permalink: "/topic/CataraquiRegionConservationAuthority/"
-title: "CataraquiRegionConservationAuthority"
+title: "Cataraqui Region Conservation Authority"
 
 ---
 

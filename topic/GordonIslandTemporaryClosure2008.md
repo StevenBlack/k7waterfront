@@ -1,7 +1,7 @@
 ---
 layout: topic
 permalink: "/topic/GordonIslandTemporaryClosure2008/"
-title: "GordonIslandTemporaryClosure2008"
+title: "Gordon Island Temporary Closure2008"
 
 ---
 

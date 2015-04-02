@@ -1,7 +1,7 @@
 ---
 layout: topic
 permalink: "/topic/LoyalistCoveYachtClub/"
-title: "LoyalistCoveYachtClub"
+title: "Loyalist Cove Yacht Club"
 
 ---
 

@@ -1,7 +1,7 @@
 ---
 layout: topic
 permalink: "/topic/WaveSailingSpots/"
-title: "WaveSailingSpots"
+title: "Wave Sailing Spots"
 
 ---
 

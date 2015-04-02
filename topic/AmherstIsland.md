@@ -1,7 +1,7 @@
 ---
 layout: topic
 permalink: "/topic/AmherstIsland/"
-title: "AmherstIsland"
+title: "Amherst Island"
 
 ---
 

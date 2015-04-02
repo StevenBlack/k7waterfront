@@ -1,7 +1,7 @@
 ---
 layout: topic
 permalink: "/topic/MetalCraftMarine/"
-title: "MetalCraftMarine"
+title: "Metal Craft Marine"
 
 ---
 

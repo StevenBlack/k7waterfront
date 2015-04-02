@@ -1,7 +1,7 @@
 ---
 layout: topic
 permalink: "/topic/MarineMuseumAlexHenry50YearAnniversary/"
-title: "MarineMuseumAlexHenry50YearAnniversary"
+title: "Marine Museum Alex Henry50 Year Anniversary"
 
 ---
 

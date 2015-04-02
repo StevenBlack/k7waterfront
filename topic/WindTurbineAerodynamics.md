@@ -1,7 +1,7 @@
 ---
 layout: topic
 permalink: "/topic/WindTurbineAerodynamics/"
-title: "WindTurbineAerodynamics"
+title: "Wind Turbine Aerodynamics"
 
 ---
 

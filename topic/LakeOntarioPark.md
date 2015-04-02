@@ -1,7 +1,7 @@
 ---
 layout: topic
 permalink: "/topic/LakeOntarioPark/"
-title: "LakeOntarioPark"
+title: "Lake Ontario Park"
 
 ---
 

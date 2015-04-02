@@ -1,7 +1,7 @@
 ---
 layout: topic
 permalink: "/topic/Stakeholder'sHomePage/"
-title: "Stakeholder'sHomePage"
+title: "Stakeholder's Home Page"
 
 ---
 

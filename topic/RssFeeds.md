@@ -1,7 +1,7 @@
 ---
 layout: topic
 permalink: "/topic/RssFeeds/"
-title: "RssFeeds"
+title: "Rss Feeds"
 
 ---
 

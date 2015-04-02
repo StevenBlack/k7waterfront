@@ -1,7 +1,7 @@
 ---
 layout: topic
 permalink: "/topic/GCRTSegmentBelleParkToApartments/"
-title: "GCRTSegmentBelleParkToApartments"
+title: "GCRT Segment Belle Park To Apartments"
 
 ---
 

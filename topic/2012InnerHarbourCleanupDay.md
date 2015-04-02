@@ -1,7 +1,7 @@
 ---
 layout: topic
 permalink: "/topic/2012InnerHarbourCleanupDay/"
-title: "2012InnerHarbourCleanupDay"
+title: "2012 Inner Harbour Cleanup Day"
 
 ---
 

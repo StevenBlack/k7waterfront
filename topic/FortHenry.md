@@ -1,7 +1,7 @@
 ---
 layout: topic
 permalink: "/topic/FortHenry/"
-title: "FortHenry"
+title: "Fort Henry"
 
 ---
 

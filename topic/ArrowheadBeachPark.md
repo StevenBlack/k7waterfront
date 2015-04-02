@@ -1,7 +1,7 @@
 ---
 layout: topic
 permalink: "/topic/ArrowheadBeachPark/"
-title: "ArrowheadBeachPark"
+title: "Arrowhead Beach Park"
 
 ---
 

@@ -1,7 +1,7 @@
 ---
 layout: topic
 permalink: "/topic/ElevatorBay/"
-title: "ElevatorBay"
+title: "Elevator Bay"
 
 ---
 

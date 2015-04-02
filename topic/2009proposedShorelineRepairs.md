@@ -1,7 +1,7 @@
 ---
 layout: topic
 permalink: "/topic/2009proposedShorelineRepairs/"
-title: "2009proposedShorelineRepairs"
+title: "2009proposed Shoreline Repairs"
 
 ---
 

@@ -1,7 +1,7 @@
 ---
 layout: topic
 permalink: "/topic/WarOf1812Wrecks/"
-title: "WarOf1812Wrecks"
+title: "War Of1812 Wrecks"
 
 ---
 

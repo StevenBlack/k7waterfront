@@ -1,7 +1,7 @@
 ---
 layout: topic
 permalink: "/topic/MagneticAnomalies/"
-title: "MagneticAnomalies"
+title: "Magnetic Anomalies"
 
 ---
 

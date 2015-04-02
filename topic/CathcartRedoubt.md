@@ -1,7 +1,7 @@
 ---
 layout: topic
 permalink: "/topic/CathcartRedoubt/"
-title: "CathcartRedoubt"
+title: "Cathcart Redoubt"
 
 ---
 

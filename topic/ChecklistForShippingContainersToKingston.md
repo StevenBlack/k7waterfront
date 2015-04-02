@@ -1,7 +1,7 @@
 ---
 layout: topic
 permalink: "/topic/ChecklistForShippingContainersToKingston/"
-title: "ChecklistForShippingContainersToKingston"
+title: "Checklist For Shipping Containers To Kingston"
 
 ---
 

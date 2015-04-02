@@ -1,7 +1,7 @@
 ---
 layout: topic
 permalink: "/topic/BudGormley/"
-title: "BudGormley"
+title: "Bud Gormley"
 
 ---
 

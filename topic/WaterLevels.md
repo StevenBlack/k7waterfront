@@ -1,7 +1,7 @@
 ---
 layout: topic
 permalink: "/topic/WaterLevels/"
-title: "WaterLevels"
+title: "Water Levels"
 
 ---
 

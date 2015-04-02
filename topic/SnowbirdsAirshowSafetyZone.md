@@ -1,7 +1,7 @@
 ---
 layout: topic
 permalink: "/topic/SnowbirdsAirshowSafetyZone/"
-title: "SnowbirdsAirshowSafetyZone"
+title: "Snowbirds Airshow Safety Zone"
 
 ---
 

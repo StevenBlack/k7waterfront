@@ -1,7 +1,7 @@
 ---
 layout: topic
 permalink: "/topic/BooksAboutKingstonWind/"
-title: "BooksAboutKingstonWind"
+title: "Books About Kingston Wind"
 
 ---
 

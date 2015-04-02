@@ -1,7 +1,7 @@
 ---
 layout: topic
 permalink: "/topic/UpcomingEvents/"
-title: "UpcomingEvents"
+title: "Upcoming Events"
 
 ---
 

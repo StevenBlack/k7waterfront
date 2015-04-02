@@ -1,7 +1,7 @@
 ---
 layout: topic
 permalink: "/topic/Resident'sHomePage/"
-title: "Resident'sHomePage"
+title: "Resident's Home Page"
 
 ---
 

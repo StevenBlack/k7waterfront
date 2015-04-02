@@ -1,7 +1,7 @@
 ---
 layout: topic
 permalink: "/topic/KingstonOntarioWaterfront/"
-title: "KingstonOntarioWaterfront"
+title: "Kingston Ontario Waterfront"
 
 ---
 

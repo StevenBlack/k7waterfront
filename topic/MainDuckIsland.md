@@ -1,7 +1,7 @@
 ---
 layout: topic
 permalink: "/topic/MainDuckIsland/"
-title: "MainDuckIsland"
+title: "Main Duck Island"
 
 ---
 

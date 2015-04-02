@@ -1,7 +1,7 @@
 ---
 layout: topic
 permalink: "/topic/KingstonPowerAndSailSquadron2010-02-01/"
-title: "KingstonPowerAndSailSquadron2010-02-01"
+title: "Kingston Power And Sail Squadron2010-02-01"
 
 ---
 

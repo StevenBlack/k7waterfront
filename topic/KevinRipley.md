@@ -1,7 +1,7 @@
 ---
 layout: topic
 permalink: "/topic/KevinRipley/"
-title: "KevinRipley"
+title: "Kevin Ripley"
 
 ---
 

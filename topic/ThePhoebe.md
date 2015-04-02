@@ -1,7 +1,7 @@
 ---
 layout: topic
 permalink: "/topic/ThePhoebe/"
-title: "ThePhoebe"
+title: "The Phoebe"
 
 ---
 

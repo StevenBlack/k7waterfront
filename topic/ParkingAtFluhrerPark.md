@@ -1,7 +1,7 @@
 ---
 layout: topic
 permalink: "/topic/ParkingAtFluhrerPark/"
-title: "ParkingAtFluhrerPark"
+title: "Parking At Fluhrer Park"
 
 ---
 

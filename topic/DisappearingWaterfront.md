@@ -1,7 +1,7 @@
 ---
 layout: topic
 permalink: "/topic/DisappearingWaterfront/"
-title: "DisappearingWaterfront"
+title: "Disappearing Waterfront"
 
 ---
 

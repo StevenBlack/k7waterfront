@@ -1,7 +1,7 @@
 ---
 layout: topic
 permalink: "/topic/KingstonRowingClub/"
-title: "KingstonRowingClub"
+title: "Kingston Rowing Club"
 
 ---
 

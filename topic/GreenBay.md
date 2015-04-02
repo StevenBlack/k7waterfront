@@ -1,7 +1,7 @@
 ---
 layout: topic
 permalink: "/topic/GreenBay/"
-title: "GreenBay"
+title: "Green Bay"
 
 ---
 

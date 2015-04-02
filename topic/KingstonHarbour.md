@@ -1,7 +1,7 @@
 ---
 layout: topic
 permalink: "/topic/KingstonHarbour/"
-title: "KingstonHarbour"
+title: "Kingston Harbour"
 
 ---
 

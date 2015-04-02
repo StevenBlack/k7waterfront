@@ -1,7 +1,7 @@
 ---
 layout: topic
 permalink: "/topic/MarineMuseum/"
-title: "MarineMuseum"
+title: "Marine Museum"
 
 ---
 

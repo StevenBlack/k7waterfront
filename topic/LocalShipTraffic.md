@@ -1,7 +1,7 @@
 ---
 layout: topic
 permalink: "/topic/LocalShipTraffic/"
-title: "LocalShipTraffic"
+title: "Local Ship Traffic"
 
 ---
 

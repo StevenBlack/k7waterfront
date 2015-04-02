@@ -1,7 +1,7 @@
 ---
 layout: topic
 permalink: "/topic/UnitedStatesCoastGuardSafetyZones/"
-title: "UnitedStatesCoastGuardSafetyZones"
+title: "United States Coast Guard Safety Zones"
 
 ---
 

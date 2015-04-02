@@ -1,7 +1,7 @@
 ---
 layout: topic
 permalink: "/topic/GeoffWebster/"
-title: "GeoffWebster"
+title: "Geoff Webster"
 
 ---
 

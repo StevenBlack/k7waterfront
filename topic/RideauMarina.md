@@ -1,7 +1,7 @@
 ---
 layout: topic
 permalink: "/topic/RideauMarina/"
-title: "RideauMarina"
+title: "Rideau Marina"
 
 ---
 

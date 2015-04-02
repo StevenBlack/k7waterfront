@@ -1,7 +1,7 @@
 ---
 layout: topic
 permalink: "/topic/GCRTSegmentAborignalSiteTo401/"
-title: "GCRTSegmentAborignalSiteTo401"
+title: "GCRT Segment Aborignal Site To401"
 
 ---
 

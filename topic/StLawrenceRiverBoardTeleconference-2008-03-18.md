@@ -1,7 +1,7 @@
 ---
 layout: topic
 permalink: "/topic/StLawrenceRiverBoardTeleconference-2008-03-18/"
-title: "StLawrenceRiverBoardTeleconference-2008-03-18"
+title: "St Lawrence River Board Teleconference-2008-03-18"
 
 ---
 

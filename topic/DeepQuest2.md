@@ -1,7 +1,7 @@
 ---
 layout: topic
 permalink: "/topic/DeepQuest2/"
-title: "DeepQuest2"
+title: "Deep Quest2"
 
 ---
 

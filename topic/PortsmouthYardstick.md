@@ -1,7 +1,7 @@
 ---
 layout: topic
 permalink: "/topic/PortsmouthYardstick/"
-title: "PortsmouthYardstick"
+title: "Portsmouth Yardstick"
 
 ---
 

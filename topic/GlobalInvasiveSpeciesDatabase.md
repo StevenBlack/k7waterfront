@@ -1,7 +1,7 @@
 ---
 layout: topic
 permalink: "/topic/GlobalInvasiveSpeciesDatabase/"
-title: "GlobalInvasiveSpeciesDatabase"
+title: "Global Invasive Species Database"
 
 ---
 

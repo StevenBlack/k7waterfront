@@ -1,7 +1,7 @@
 ---
 layout: topic
 permalink: "/topic/CataraquiRiverHeritageTrail/"
-title: "CataraquiRiverHeritageTrail"
+title: "Cataraqui River Heritage Trail"
 
 ---
 

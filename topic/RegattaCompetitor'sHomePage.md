@@ -1,7 +1,7 @@
 ---
 layout: topic
 permalink: "/topic/RegattaCompetitor'sHomePage/"
-title: "RegattaCompetitor'sHomePage"
+title: "Regatta Competitor's Home Page"
 
 ---
 

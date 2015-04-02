@@ -1,7 +1,7 @@
 ---
 layout: topic
 permalink: "/topic/TettCentre/"
-title: "TettCentre"
+title: "Tett Centre"
 
 ---
 

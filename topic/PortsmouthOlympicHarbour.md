@@ -1,7 +1,7 @@
 ---
 layout: topic
 permalink: "/topic/PortsmouthOlympicHarbour/"
-title: "PortsmouthOlympicHarbour"
+title: "Portsmouth Olympic Harbour"
 
 ---
 

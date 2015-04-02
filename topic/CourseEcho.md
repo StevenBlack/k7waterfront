@@ -1,7 +1,7 @@
 ---
 layout: topic
 permalink: "/topic/CourseEcho/"
-title: "CourseEcho"
+title: "Course Echo"
 
 ---
 

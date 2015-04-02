@@ -1,7 +1,7 @@
 ---
 layout: topic
 permalink: "/topic/CourseBravo/"
-title: "CourseBravo"
+title: "Course Bravo"
 
 ---
 

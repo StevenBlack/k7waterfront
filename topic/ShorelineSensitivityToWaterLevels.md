@@ -1,7 +1,7 @@
 ---
 layout: topic
 permalink: "/topic/ShorelineSensitivityToWaterLevels/"
-title: "ShorelineSensitivityToWaterLevels"
+title: "Shoreline Sensitivity To Water Levels"
 
 ---
 

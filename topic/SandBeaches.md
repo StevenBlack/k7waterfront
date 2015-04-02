@@ -1,7 +1,7 @@
 ---
 layout: topic
 permalink: "/topic/SandBeaches/"
-title: "SandBeaches"
+title: "Sand Beaches"
 
 ---
 

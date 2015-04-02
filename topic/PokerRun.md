@@ -1,7 +1,7 @@
 ---
 layout: topic
 permalink: "/topic/PokerRun/"
-title: "PokerRun"
+title: "Poker Run"
 
 ---
 

@@ -1,7 +1,7 @@
 ---
 layout: topic
 permalink: "/topic/MassSwim2008/"
-title: "MassSwim2008"
+title: "Mass Swim2008"
 
 ---
 

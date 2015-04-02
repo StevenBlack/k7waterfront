@@ -1,7 +1,7 @@
 ---
 layout: topic
 permalink: "/topic/AnneMilinaOutlookPoint/"
-title: "AnneMilinaOutlookPoint"
+title: "Anne Milina Outlook Point"
 
 ---
 

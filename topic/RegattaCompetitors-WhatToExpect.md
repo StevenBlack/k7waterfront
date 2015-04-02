@@ -1,7 +1,7 @@
 ---
 layout: topic
 permalink: "/topic/RegattaCompetitors-WhatToExpect/"
-title: "RegattaCompetitors-WhatToExpect"
+title: "Regatta Competitors- What To Expect"
 
 ---
 

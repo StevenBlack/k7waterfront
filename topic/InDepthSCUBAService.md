@@ -1,7 +1,7 @@
 ---
 layout: topic
 permalink: "/topic/InDepthSCUBAService/"
-title: "InDepthSCUBAService"
+title: "In Depth SCUBA Service"
 
 ---
 

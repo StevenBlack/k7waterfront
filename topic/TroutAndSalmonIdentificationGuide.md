@@ -1,7 +1,7 @@
 ---
 layout: topic
 permalink: "/topic/TroutAndSalmonIdentificationGuide/"
-title: "TroutAndSalmonIdentificationGuide"
+title: "Trout And Salmon Identification Guide"
 
 ---
 

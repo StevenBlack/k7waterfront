@@ -1,7 +1,7 @@
 ---
 layout: topic
 permalink: "/topic/KingstonBoardsailingAssociation/"
-title: "KingstonBoardsailingAssociation"
+title: "Kingston Boardsailing Association"
 
 ---
 

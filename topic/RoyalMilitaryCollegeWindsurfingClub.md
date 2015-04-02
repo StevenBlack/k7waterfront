@@ -1,7 +1,7 @@
 ---
 layout: topic
 permalink: "/topic/RoyalMilitaryCollegeWindsurfingClub/"
-title: "RoyalMilitaryCollegeWindsurfingClub"
+title: "Royal Military College Windsurfing Club"
 
 ---
 

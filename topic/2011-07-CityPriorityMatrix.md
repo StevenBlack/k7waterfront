@@ -1,7 +1,7 @@
 ---
 layout: topic
 permalink: "/topic/2011-07-CityPriorityMatrix/"
-title: "2011-07-CityPriorityMatrix"
+title: "2011-07- City Priority Matrix"
 
 ---
 

@@ -1,7 +1,7 @@
 ---
 layout: topic
 permalink: "/topic/LemoinePoint/"
-title: "LemoinePoint"
+title: "Lemoine Point"
 
 ---
 

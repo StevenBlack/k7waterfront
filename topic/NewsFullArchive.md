@@ -1,7 +1,7 @@
 ---
 layout: topic
 permalink: "/topic/NewsFullArchive/"
-title: "NewsFullArchive"
+title: "News Full Archive"
 
 ---
 

@@ -1,7 +1,7 @@
 ---
 layout: topic
 permalink: "/topic/IntlJointCommissionPrimer/"
-title: "IntlJointCommissionPrimer"
+title: "Intl Joint Commission Primer"
 
 ---
 

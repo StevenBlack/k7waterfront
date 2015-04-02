@@ -1,7 +1,7 @@
 ---
 layout: topic
 permalink: "/topic/CollinsBayMarina/"
-title: "CollinsBayMarina"
+title: "Collins Bay Marina"
 
 ---
 

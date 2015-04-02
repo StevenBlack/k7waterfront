@@ -1,7 +1,7 @@
 ---
 layout: topic
 permalink: "/topic/WolfeIslandWindProjectCable10DayNotice/"
-title: "WolfeIslandWindProjectCable10DayNotice"
+title: "Wolfe Island Wind Project Cable10 Day Notice"
 
 ---
 

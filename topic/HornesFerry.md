@@ -1,7 +1,7 @@
 ---
 layout: topic
 permalink: "/topic/HornesFerry/"
-title: "HornesFerry"
+title: "Hornes Ferry"
 
 ---
 

@@ -1,7 +1,7 @@
 ---
 layout: topic
 permalink: "/topic/2013KYCYouthAthletes/"
-title: "2013KYCYouthAthletes"
+title: "2013 KYC Youth Athletes"
 
 ---
 

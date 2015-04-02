@@ -1,7 +1,7 @@
 ---
 layout: topic
 permalink: "/topic/CFBKingston/"
-title: "CFBKingston"
+title: "CFB Kingston"
 
 ---
 

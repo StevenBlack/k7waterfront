@@ -1,7 +1,7 @@
 ---
 layout: topic
 permalink: "/topic/HighwayTraveler'sHomePage/"
-title: "HighwayTraveler'sHomePage"
+title: "Highway Traveler's Home Page"
 
 ---
 

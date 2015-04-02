@@ -1,7 +1,7 @@
 ---
 layout: topic
 permalink: "/topic/PatersonPark/"
-title: "PatersonPark"
+title: "Paterson Park"
 
 ---
 

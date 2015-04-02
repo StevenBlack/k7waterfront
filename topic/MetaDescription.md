@@ -1,7 +1,7 @@
 ---
 layout: topic
 permalink: "/topic/MetaDescription/"
-title: "MetaDescription"
+title: "Meta Description"
 
 ---
 

@@ -1,7 +1,7 @@
 ---
 layout: topic
 permalink: "/topic/DeadmanBay/"
-title: "DeadmanBay"
+title: "Deadman Bay"
 
 ---
 

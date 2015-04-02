@@ -1,7 +1,7 @@
 ---
 layout: topic
 permalink: "/topic/CollinsBayYachtClub/"
-title: "CollinsBayYachtClub"
+title: "Collins Bay Yacht Club"
 
 ---
 

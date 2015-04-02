@@ -1,7 +1,7 @@
 ---
 layout: topic
 permalink: "/topic/OurBestPages/"
-title: "OurBestPages"
+title: "Our Best Pages"
 
 ---
 

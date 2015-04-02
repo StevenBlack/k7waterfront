@@ -1,7 +1,7 @@
 ---
 layout: topic
 permalink: "/topic/WolfeIslandWindProjectTowers/"
-title: "WolfeIslandWindProjectTowers"
+title: "Wolfe Island Wind Project Towers"
 
 ---
 

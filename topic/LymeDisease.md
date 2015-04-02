@@ -1,7 +1,7 @@
 ---
 layout: topic
 permalink: "/topic/LymeDisease/"
-title: "LymeDisease"
+title: "Lyme Disease"
 
 ---
 

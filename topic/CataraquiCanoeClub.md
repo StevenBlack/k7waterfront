@@ -1,7 +1,7 @@
 ---
 layout: topic
 permalink: "/topic/CataraquiCanoeClub/"
-title: "CataraquiCanoeClub"
+title: "Cataraqui Canoe Club"
 
 ---
 

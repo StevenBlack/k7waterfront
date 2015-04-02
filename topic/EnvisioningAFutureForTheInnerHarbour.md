@@ -1,7 +1,7 @@
 ---
 layout: topic
 permalink: "/topic/EnvisioningAFutureForTheInnerHarbour/"
-title: "EnvisioningAFutureForTheInnerHarbour"
+title: "Envisioning A Future For The Inner Harbour"
 
 ---
 

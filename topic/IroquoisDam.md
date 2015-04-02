@@ -1,7 +1,7 @@
 ---
 layout: topic
 permalink: "/topic/IroquoisDam/"
-title: "IroquoisDam"
+title: "Iroquois Dam"
 
 ---
 

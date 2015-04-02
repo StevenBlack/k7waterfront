@@ -1,7 +1,7 @@
 ---
 layout: topic
 permalink: "/topic/SimcoeIsland/"
-title: "SimcoeIsland"
+title: "Simcoe Island"
 
 ---
 

@@ -1,7 +1,7 @@
 ---
 layout: topic
 permalink: "/topic/ConfederationBasin/"
-title: "ConfederationBasin"
+title: "Confederation Basin"
 
 ---
 

@@ -1,7 +1,7 @@
 ---
 layout: topic
 permalink: "/topic/ClubRacingMarks/"
-title: "ClubRacingMarks"
+title: "Club Racing Marks"
 
 ---
 

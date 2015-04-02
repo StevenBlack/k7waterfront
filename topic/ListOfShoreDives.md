@@ -1,7 +1,7 @@
 ---
 layout: topic
 permalink: "/topic/ListOfShoreDives/"
-title: "ListOfShoreDives"
+title: "List Of Shore Dives"
 
 ---
 

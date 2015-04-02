@@ -1,7 +1,7 @@
 ---
 layout: topic
 permalink: "/topic/GreatCataraquiMarsh/"
-title: "GreatCataraquiMarsh"
+title: "Great Cataraqui Marsh"
 
 ---
 

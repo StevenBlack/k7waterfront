@@ -1,7 +1,7 @@
 ---
 layout: topic
 permalink: "/topic/GCRTSegmentApartmentsToAboriginalSite/"
-title: "GCRTSegmentApartmentsToAboriginalSite"
+title: "GCRT Segment Apartments To Aboriginal Site"
 
 ---
 

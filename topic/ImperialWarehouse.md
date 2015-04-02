@@ -1,7 +1,7 @@
 ---
 layout: topic
 permalink: "/topic/ImperialWarehouse/"
-title: "ImperialWarehouse"
+title: "Imperial Warehouse"
 
 ---
 

@@ -1,7 +1,7 @@
 ---
 layout: topic
 permalink: "/topic/QueensSailingTeam/"
-title: "QueensSailingTeam"
+title: "Queens Sailing Team"
 
 ---
 

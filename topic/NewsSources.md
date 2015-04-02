@@ -1,7 +1,7 @@
 ---
 layout: topic
 permalink: "/topic/NewsSources/"
-title: "NewsSources"
+title: "News Sources"
 
 ---
 

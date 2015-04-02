@@ -1,7 +1,7 @@
 ---
 layout: topic
 permalink: "/topic/WaterfrontTrail/"
-title: "WaterfrontTrail"
+title: "Waterfront Trail"
 
 ---
 

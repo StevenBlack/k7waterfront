@@ -1,7 +1,7 @@
 ---
 layout: topic
 permalink: "/topic/HealthUnitNewsArchive/"
-title: "HealthUnitNewsArchive"
+title: "Health Unit News Archive"
 
 ---
 

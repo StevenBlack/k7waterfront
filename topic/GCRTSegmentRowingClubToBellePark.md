@@ -1,7 +1,7 @@
 ---
 layout: topic
 permalink: "/topic/GCRTSegmentRowingClubToBellePark/"
-title: "GCRTSegmentRowingClubToBellePark"
+title: "GCRT Segment Rowing Club To Belle Park"
 
 ---
 

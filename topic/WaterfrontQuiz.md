@@ -1,7 +1,7 @@
 ---
 layout: topic
 permalink: "/topic/WaterfrontQuiz/"
-title: "WaterfrontQuiz"
+title: "Waterfront Quiz"
 
 ---
 

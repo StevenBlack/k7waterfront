@@ -1,7 +1,7 @@
 ---
 layout: topic
 permalink: "/topic/K7WaterfrontWebsite/"
-title: "K7WaterfrontWebsite"
+title: "K7 Waterfront Website"
 
 ---
 

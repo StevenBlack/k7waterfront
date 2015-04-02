@@ -1,7 +1,7 @@
 ---
 layout: topic
 permalink: "/topic/InnerHarbour/"
-title: "InnerHarbour"
+title: "Inner Harbour"
 
 ---
 

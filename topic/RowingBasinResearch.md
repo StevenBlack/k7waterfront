@@ -1,7 +1,7 @@
 ---
 layout: topic
 permalink: "/topic/RowingBasinResearch/"
-title: "RowingBasinResearch"
+title: "Rowing Basin Research"
 
 ---
 

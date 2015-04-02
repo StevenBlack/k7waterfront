@@ -1,7 +1,7 @@
 ---
 layout: topic
 permalink: "/topic/2012PreserveOurWrecksAnnualGeneralMeeting/"
-title: "2012PreserveOurWrecksAnnualGeneralMeeting"
+title: "2012 Preserve Our Wrecks Annual General Meeting"
 
 ---
 

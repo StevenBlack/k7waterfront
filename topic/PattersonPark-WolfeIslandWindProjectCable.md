@@ -1,7 +1,7 @@
 ---
 layout: topic
 permalink: "/topic/PattersonPark-WolfeIslandWindProjectCable/"
-title: "PattersonPark-WolfeIslandWindProjectCable"
+title: "Patterson Park- Wolfe Island Wind Project Cable"
 
 ---
 

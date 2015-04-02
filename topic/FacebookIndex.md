@@ -1,7 +1,7 @@
 ---
 layout: topic
 permalink: "/topic/FacebookIndex/"
-title: "FacebookIndex"
+title: "Facebook Index"
 
 ---
 

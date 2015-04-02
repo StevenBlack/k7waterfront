@@ -1,7 +1,7 @@
 ---
 layout: topic
 permalink: "/topic/WaterTemperatures/"
-title: "WaterTemperatures"
+title: "Water Temperatures"
 
 ---
 

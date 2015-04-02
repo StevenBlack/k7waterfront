@@ -1,7 +1,7 @@
 ---
 layout: topic
 permalink: "/topic/KingstonMillsLocks/"
-title: "KingstonMillsLocks"
+title: "Kingston Mills Locks"
 
 ---
 

@@ -1,7 +1,7 @@
 ---
 layout: topic
 permalink: "/topic/CourseCharlie/"
-title: "CourseCharlie"
+title: "Course Charlie"
 
 ---
 

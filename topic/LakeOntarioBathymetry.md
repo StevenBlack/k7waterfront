@@ -1,7 +1,7 @@
 ---
 layout: topic
 permalink: "/topic/LakeOntarioBathymetry/"
-title: "LakeOntarioBathymetry"
+title: "Lake Ontario Bathymetry"
 
 ---
 

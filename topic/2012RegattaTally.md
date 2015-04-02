@@ -1,7 +1,7 @@
 ---
 layout: topic
 permalink: "/topic/2012RegattaTally/"
-title: "2012RegattaTally"
+title: "2012 Regatta Tally"
 
 ---
 
