@@ -7,7 +7,7 @@ title: "Groceries Beer Liquor"
 
 ##Where to get Groceries, Beer, and Liquor near the Kingston waterfront
 
-We can't sugar-coat this, and it probably qualifies as a [[Disappointments|disappointment]], but if you need supplies while docking in Kingston, from most [[marinas]] you'll need to hike or take a cab.  There is simply nothing within convenient walking distance for you.
+We can't sugar-coat this, and it probably qualifies as a [disappointment][disappointments], but if you need supplies while docking in Kingston, from most [marinas][marinas] you'll need to hike or take a cab.  There is simply nothing within convenient walking distance for you.
 
 Well, one bright spot. The grocery store in 'downtown' Bath now sells beer & wine. If you stop at Loyalist Cove Marina, its maybe a twenty minute hike. (Hardly convenient, I agree. What's twenty minutes for a beer? Oh! They also have groceries.)
 

@@ -5,7 +5,7 @@ title: "Wind Turbine Aerodynamics"
 
 ---
 
-##A place for links and discussions about wind turbine aerodynamics, specifically related to [[Sailing And The Wolfe Island Wind Project]]
+##A place for links and discussions about wind turbine aerodynamics, specifically related to [Sailing And The Wolfe Island Wind Project][sailingandthewolfeislandwindproject]
 
 <ul>
 <li> Link: <a href="http://www.fluent.com/about/news/newsletters/02v11i1/a1.htm">In the Wake of a Wind Turbine</a>.

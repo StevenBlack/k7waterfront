@@ -22,7 +22,7 @@ The family acquired their first motor boat in 1910.  They owned the ferry Jacque
 
 Sources: Whig Standard 15/iii/03, 17/iv/03; Cosgrove; Palmer2; KYS97; KYS04
 
-See also [[Ferries|other ferries in the region]].
+See also [other ferries in the region][ferries].
 <div id="sched" class="floatright"></div>
 <div class="span-18">
 #INSERTTOPIC:__GoogleDataMapHorneFerry

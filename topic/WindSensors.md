@@ -7,7 +7,7 @@ title: "Wind Sensors"
 
 {{_contents}}
 
-See also, more generally, our [[Wind]] topic.
+See also, more generally, our [Wind][wind] topic.
 
 ##Online Wind Sensors in the Kingston Area
 #INSERTTOPIC:__GoogleDataMapWindSensors

@@ -9,14 +9,14 @@ title: "_ForeseeableWaterfrontLosses"
 
 <a class="imageLink" href="http://www.cityofkingston.ca/residents/development/wellington/index.asp">
 <img src="http://k7Waterfront.org/Images/WellingtonStExtension100h.jpg" alt="Wellingston Street Extension" class="floatright"></a><h3>Doug Fluhrer Park</h3>
-The **[[http://www.cityofkingston.ca/residents/development/wellington/index.asp Wellington Street Extension]]** will be like laying Taylor Kidd Blvd through this waterfront park.
+The **[http://www.cityofkingston.ca/residents/development/wellington/index.asp](Wellington Street Extension)** will be like laying Taylor Kidd Blvd through this waterfront park.
 
 
 <a class="imageLink" href="http://k7Waterfront.org/files/RFPforMarinaDevelopmentStrategyandBusinessPlan.pdf">
 <img style="width: 79px; height: 100px;" src="http://k7Waterfront.org/Images/RFPforMarinaDevelopmentStrategyandBusinessPlan.jpg" class="floatright" alt="Kingston Marinas RFP"></a><h3>City marinas  (2009)</h3>
 Offloading Confederation Basin and Portsmouth Olympic Harbour to the private sector.  **Done deal?**
-* [[http://k7waterfront.org/KingstonWaterfrontNews082006.html#3078 August 2006 RFI]].
-* [[http://k7waterfront.org/KingstonWaterfrontNews032008.html#3749 April 2008 RFP]].
+* [http://k7waterfront.org/KingstonWaterfrontNews082006.html#3078](August 2006 RFI).
+* [http://k7waterfront.org/KingstonWaterfrontNews032008.html#3749](April 2008 RFP).
 
 
 <h3>Rideau Marina</h3>

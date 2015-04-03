@@ -6,7 +6,7 @@ title: "Brown's Bay Inn"
 ---
 
 <div class="notice"><strong>Updated June 10 2010</strong>:  The Brown's Bay Inn has been sold and plans are to turn it into a yoga resort.</div>
-The Brown's Bay Inn is a restaurant and lodge located just 3.4 nautical miles from [[Confederation Basin]] on the shore of [[Brown's Bay]].
+The Brown's Bay Inn is a restaurant and lodge located just 3.4 nautical miles from [Confederation Basin][confederationbasin] on the shore of [Brown's Bay][brown'sbay].
 
 The Inn offers both indoor and patio dining, as well as a small bar.  The best summer sunsets in the area are seen from the Brown's Bay Inn patio.  You can overnight in one of several rooms and cabins, including one with private dock and deck that extends into the bay.
 

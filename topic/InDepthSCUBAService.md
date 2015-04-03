@@ -19,6 +19,6 @@ Services offered: service and repairs to breathing regulators and diving equipme
 
 ----
 
-In March 2006 Kevin replaced the gaskets on my old Helly Hansen drysuit and I'm very happy with the quality of work and the service he provided. -- [[Steven Black]]
+In March 2006 Kevin replaced the gaskets on my old Helly Hansen drysuit and I'm very happy with the quality of work and the service he provided. -- [Steven Black][stevenblack]
 
 {% include routes.html %}

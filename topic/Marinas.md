@@ -9,15 +9,15 @@ title: "Marinas"
 
 #INSERTTOPIC:__GoogleDataMapMarinas
 
-[[CFB Kingston Yacht Club]]
-[[Collins Bay Marina]]
-[[Confederation Basin]]
-[[Kingston Yacht Club]]
-[[Portsmouth Olympic Harbour]]
-[[Rideau Marina]]
-[[Treasure Island Marina]]
-[[Loyalist Cove Yacht Club]]
-[[Kingston Marina]]
+[CFB Kingston Yacht Club][cfbkingstonyachtclub]
+[Collins Bay Marina][collinsbaymarina]
+[Confederation Basin][confederationbasin]
+[Kingston Yacht Club][kingstonyachtclub]
+[Portsmouth Olympic Harbour][portsmoutholympicharbour]
+[Rideau Marina][rideaumarina]
+[Treasure Island Marina][treasureislandmarina]
+[Loyalist Cove Yacht Club][loyalistcoveyachtclub]
+[Kingston Marina][kingstonmarina]
 
 #NEWSITEMS:Marina
 ----

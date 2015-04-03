@@ -6,7 +6,7 @@ title: "Points"
 ---
 
 ##Points of land in the Kingston region
-See also the [[bays]] topic.
+See also the [bays][bays] topic.
 #INSERTTOPIC:__GoogleDataMapPoints
 
 {% include routes.html %}

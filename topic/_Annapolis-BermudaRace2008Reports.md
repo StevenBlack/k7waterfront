@@ -21,7 +21,7 @@ The first 25 hours was 25+ knots on the nose and progress was slow. Once out in 
 
 Two nights ago another gale hit.  "The physical demands were intense" said Nathan.  We are very glad to be on dry land but I am totally pumped about this boat!  It handled so well!"
 
-Most of the race was a close reach once out in the Ocean.  The top speed was 22 knots!!!!  This was achieved with the spinnaker up.  For those [[http://charthorizon.com/races/2008_annapolis_bermuda/htdocs/ following the race]] that was when they appeared to go wide of the rhumb line.
+Most of the race was a close reach once out in the Ocean.  The top speed was 22 knots!!!!  This was achieved with the spinnaker up.  For those [http://charthorizon.com/races/2008_annapolis_bermuda/htdocs/](following the race) that was when they appeared to go wide of the rhumb line.
 
 "During the first gale we were reefed and then the wind suddenly died. It was the middle of the night.  We knew we must be in the eye of the storm so we did not shake the reef out.  Sure enough the wind came back and we were glad to have the reef." (Nathan)
 

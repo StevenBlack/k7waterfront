@@ -5,7 +5,7 @@ title: "Milton Island"
 
 ---
 
-See also [[Islands]] and [[Gunkhole|Gunkholing]].
+See also [Islands][islands] and [Gunkholing][gunkhole].
 
 
 

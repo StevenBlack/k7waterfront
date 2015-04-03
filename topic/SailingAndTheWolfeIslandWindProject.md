@@ -5,9 +5,9 @@ title: "Sailing And The Wolfe Island Wind Project"
 
 ---
 
-##A place for notes on the effect of the [[Wolfe Island Wind Project]] on sailing in Kingston
+##A place for notes on the effect of the [Wolfe Island Wind Project][wolfeislandwindproject] on sailing in Kingston
 
-  See Also [[Wind Turbine Aerodynamics]].
+  See Also [Wind Turbine Aerodynamics][windturbineaerodynamics].
 
 <h3>From the perspective of sailboat racing...</h3>
 <img src="http://K7Waterfront.org/Images/WolfeIslandWindProjectKingstonWindRose.jpg" class="image1px floatright">
@@ -35,7 +35,7 @@ These things seem immediately evident:
 <h3>From the perspective tourism and/or Kingston's reputation for good winds</h3>
 
 <ul>
-<li>The visibility of this wind farm from the Kingston waterfront and in the media can only enhance Kingston's reputation for [[Wind|good winds]].  This alone may result in an increased interest in sailing in the Kingston area.</li>
+<li>The visibility of this wind farm from the Kingston waterfront and in the media can only enhance Kingston's reputation for [good winds][wind].  This alone may result in an increased interest in sailing in the Kingston area.</li>
 </ul>
 
 <h3>From the perspective of kiteboarding in Brown's Bay...</h3>

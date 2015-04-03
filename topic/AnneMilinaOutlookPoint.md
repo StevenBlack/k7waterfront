@@ -7,7 +7,7 @@ title: "Anne Milina Outlook Point"
 
 **Anne Milina Outlook Point** is a small and rather new park at the end of the road that runs along the West side of Kingston Penitentiary.  It is named in honour of Anne Milina who, for many years, was a force for the preservation and beautification of the Portsmouth Village area of Kingston.
 
-The park sits at the entrance of [[Portsmouth Olympic Harbour]].
+The park sits at the entrance of [Portsmouth Olympic Harbour][portsmoutholympicharbour].
 
 The park was officially opened on June 15th 2008.
 

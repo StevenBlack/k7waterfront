@@ -9,7 +9,7 @@ title: "Rocky Beaches"
 
 #INSERTTOPIC:__GoogleDataMapRockyBeaches
 
-See also: [[Richardson Beach]]
+See also: [Richardson Beach][richardsonbeach]
 
 #INSERTTOPIC:RichardsonBeach
 

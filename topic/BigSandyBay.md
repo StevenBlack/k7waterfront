@@ -7,9 +7,9 @@ title: "Big Sandy Bay"
 
 ##Big Sandy Bay
 
-<b>Big Sandy Bay</b> is a stunning beach on the South West corner of [[Wolfe Island]].
+<b>Big Sandy Bay</b> is a stunning beach on the South West corner of [Wolfe Island][wolfeisland].
 
-  Some [[http://groups.msn.com/KingstonWindsurfingGroup/bigsandybay.msnw boardsailing photos]] at Big Sandy Bay.
+  Some [http://groups.msn.com/KingstonWindsurfingGroup/bigsandybay.msnw](boardsailing photos) at Big Sandy Bay.
 
 #INSERTTOPIC:__GoogleMapBigSandyBay
 
@@ -19,11 +19,11 @@ Beware that Big Sandy bay is a lee shore with dodgy anchoring due to a fine sand
 Beware that the bottom at Long Point is very shallow.  Red can MH4 is a full nautical mile offshore.  Depending on your draft you can "cut the corner" at Long Point but anything inside 1500 feet from the point is simply not advisable.  Go real slow, and keep watch.
 
 <h3>Big Sandy Bay by car</h3>
-The [[http://www.bigsandybay.ca/ Friends of Big Sandy Bay]] maintains [[http://www.bigsandybay.ca/about_big_sandy_bay/how_to_get_there.php this page]] of directions from Kingston and Cape Vincent, NY.
+The [http://www.bigsandybay.ca/](Friends of Big Sandy Bay) maintains [http://www.bigsandybay.ca/about_big_sandy_bay/how_to_get_there.php](this page) of directions from Kingston and Cape Vincent, NY.
 
 <h3>Links</h3>
 <ul>
-<li>[[http://www.bigsandybay.ca/ Friends of Big Sandy Bay]]
+<li>[http://www.bigsandybay.ca/](Friends of Big Sandy Bay)
 </ul>
 
 #NEWSITEMS:Big Sandy Bay

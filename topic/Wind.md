@@ -9,15 +9,15 @@ title: "Wind"
 
 <strong>Here are wind normals for Kingston, Ontario.</strong>
 
-Source: [[http://climate.weatheroffice.ec.gc.ca/ Canadian Climate Normals, Environment Canada]].  Speeds therein are given in km/h, and those are converted and displayed here in <b>knots</b>.
+Source: [http://climate.weatheroffice.ec.gc.ca/](Canadian Climate Normals, Environment Canada).  Speeds therein are given in km/h, and those are converted and displayed here in <b>knots</b>.
 
 The weather station is located on top of Point Henry which is bounded by Deadman's Bay to the southeast and Navy Bay to the southwest with the point of land projecting into the St. Lawrence River.
 
-<strong>Anemometer exposure is good in all directions except the north</strong> which is [[http://muzzles-for-dogs.com/basket-dog-muzzle.html sheltered]] from trees around staff dwellings.
+<strong>Anemometer exposure is good in all directions except the north</strong> which is [http://muzzles-for-dogs.com/basket-dog-muzzle.html](sheltered) from trees around staff dwellings.
 
 Height of anemometer: 13.4m
 
-See also [[Wind Sensors]]
+See also [Wind Sensors][windsensors]
 
 <strong>Percent Frequency </strong>
 <table class="bordertable">

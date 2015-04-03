@@ -7,6 +7,6 @@ title: "CFB Kingston"
 
 <b>Canadian Forces Base Kingston</b> fronts a lot of waterfront just East of Kingston.
 
-See [[CFB Kingston Yacht Club]], [[Deadman's Bay]],
+See [CFB Kingston Yacht Club][cfbkingstonyachtclub], [Deadman's Bay][deadman'sbay],
 
 {% include routes.html %}

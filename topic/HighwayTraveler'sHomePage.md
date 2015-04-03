@@ -9,8 +9,8 @@ title: "Highway Traveler's Home Page"
 <div class="context">
 <p>You're passing Kingston on the highway.  Maybe you've got kids with you, or maybe not.  It's a nice day.  You could stop for a few minutes, or an hour or two.</p><p class="bottom">Are there any economical water-related options? Discuss.
 </div>
-<h3> [[KingstonMillsLocks|Kingston Mills]]</h3><a href="http://K7Waterfront.org/Topic/KingstonMillsLocks"><img src="http://K7Waterfront.org/Images/KingstonMillLocksHighwayMap.jpg" class="floatright image1px"></a>
-<ul><li> See our [[Kingston Mills Locks]] page.
+<h3> [Kingston Mills][kingstonmillslocks]</h3><a href="http://K7Waterfront.org/Topic/KingstonMillsLocks"><img src="http://K7Waterfront.org/Images/KingstonMillLocksHighwayMap.jpg" class="floatright image1px"></a>
+<ul><li> See our [Kingston Mills Locks][kingstonmillslocks] page.
 <li> North of Highway 401, just 1 km from the Highway 15 exit, or 2.6 km from the Montreal Street exit, on Kingston Mills road.
 <li> The parking lot is just West of the swing bridge that spans the locks.
 <li> You'll find a park with picnic tables, shade trees, grassy areas, trails.
@@ -24,12 +24,12 @@ title: "Highway Traveler's Home Page"
 <li> It's very pretty, interesting for kids, free, and it's all just a minute from the 401.
 </ul>
 #INSERTTOPIC:__RideTheWolfeIslandFerry
-<h3> Chill in one of many [[Parks|waterfront parks]]</h3><a href="http://K7Waterfront.org/Topic/Parks"><img src="http://K7Waterfront.org/Images/ParksMap.jpg" class="floatright image1px"></a>
+<h3> Chill in one of many [waterfront parks][parks]</h3><a href="http://K7Waterfront.org/Topic/Parks"><img src="http://K7Waterfront.org/Images/ParksMap.jpg" class="floatright image1px"></a>
 <ul>
-<li> See our [[Parks|waterfront parks]] page
+<li> See our [waterfront parks][parks] page
 <li> All have picnic tables and benches
 <li> Kingston's parks maintenance is spotty.  Most are clean and fine, but a few suffer from neglect.  On balance the waterfront parks are better maintained than the rest.
-<li> See our [[beaches]] topic, though don't be surprised to find a beach is posted.
+<li> See our [beaches][beaches] topic, though don't be surprised to find a beach is posted.
 </ul>
 <h3><a href="http://www.ahoyrentals.com/">Ahoy Rentals</a></h3><a href="http://www.ahoyrentals.com/" class="imagelink"><img src="http://K7Waterfront.org/Images/AhoyRentalsMap.jpg" class="floatright image1px"></a>
 <ul>
@@ -38,7 +38,7 @@ title: "Highway Traveler's Home Page"
 <li> Sailboat rentals
 <li> Canoe and Kayak rentals
 <li> Bicycle rentals
-<li> [[http://www.ahoyrentals.com/packages.htm Skippered sailing packages]]
+<li> [http://www.ahoyrentals.com/packages.htm](Skippered sailing packages)
 </ul>
 
 {% include routes.html %}

@@ -8,22 +8,22 @@ premise: "You're on a boat in Kingston with family or friends. <span class='text
 
 ##In Kingston Harbour central
 
-###[[Confederation Basin]]
+###[Confederation Basin][confederationbasin]
 
 The town docks, right downtown, give access to shopping, eating, and strolling.
 
 
-###[[Kingston Yacht Club]]
+###[Kingston Yacht Club][kingstonyachtclub]
 Kingston's most active harbour on most summer days.  Grab a guest dock (call ahead to check if one's open). Bar food,
 
 ##In Kingston Harbour west
 
-###[[Portsmouth Olympic Harbour]]
+###[Portsmouth Olympic Harbour][portsmoutholympicharbour]
 A large serviced marina adjacent to the **Portsmouth Tavern**.
 
 ##In Kingston Harbour south
 
-### The [[Island Grill]]
+### The [Island Grill][islandgrill]
 On Wolfe Island, immediately east of the Wolfe Island Ferry dock.  Small finger docks and moorings, serving food both indoors and out.
 
 
@@ -32,23 +32,23 @@ Walkable, cycleable, interesting.
 
 ##Kingston Harbour south west
 
-###[[Under Simcoe]]
+###[Under Simcoe][undersimcoe]
 
 
-###[[In behind Horseshoe Island]]
+###[In behind Horseshoe Island][inbehindhorseshoeisland]
 
-##North of the [[Lasalle Causeway]]
+##North of the [Lasalle Causeway][lasallecauseway]
 
-###[[Kingston Marina]] and [[Anglin Bay]]
+###[Kingston Marina][kingstonmarina] and [Anglin Bay][anglinbay]
 
 
-###[[Kingston Mills Locks]]
+###[Kingston Mills Locks][kingstonmillslocks]
 
 
 
 ##Inland Lakes
 
-###[[http://www.loughboroughinn.on.ca/ The Loughborough Inn]]
+###[http://www.loughboroughinn.on.ca/](The Loughborough Inn)
 One of Ontario’s luxury resorts located on pristine Loughborough Lake and only minutes from Kingston.  Offers exclusive access to a variety of Kingston area attractions, exquisite Ontario hiking trails and some of the best fishing in Ontario.
 
 
@@ -56,16 +56,16 @@ One of Ontario’s luxury resorts located on pristine Loughborough Lake and only
 
 ##St Lawrence River
 
-###[[Cedar Island]]
+###[Cedar Island][cedarisland]
 
 
-###[[Milton Island]]
+###[Milton Island][miltonisland]
 
 
-### [[Brown's Bay Inn]]
+### [Brown's Bay Inn][brown'sbayinn]
 In Brown's Bay on Wolfe Island, the Inn possesses a good dock and the best waterfront patio in the region.
 
 
-###[[Treasure Island]]
+###[Treasure Island][treasureisland]
 
 {% include routes.html %}

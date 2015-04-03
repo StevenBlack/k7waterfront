@@ -10,14 +10,14 @@ title: "Course Foxtrot"
 
 <strong>Course Foxtrot</strong> is Kingston's open water sailing regatta circle that is used for many world and continental championships.
 
-Over the years, [[ListOfMajorRegattasInKingston|many major championships]] have been hosted on Course Foxtrot.
+Over the years, [many major championships][listofmajorregattasinkingston] have been hosted on Course Foxtrot.
 
-Course Foxtrot is usually the "outside" race circle when sailing instructions provide for racing "inside" (in the harbour) or "outside" (beyond [[Snake Island]]) at the discretion of the Race Committee.
+Course Foxtrot is usually the "outside" race circle when sailing instructions provide for racing "inside" (in the harbour) or "outside" (beyond [Snake Island][snakeisland]) at the discretion of the Race Committee.
 
 <h2 class="plain">For competitors
-* Course Foxtrot is quite some sailing distance from [[Portsmouth Olympic Harbour]].
+* Course Foxtrot is quite some sailing distance from [Portsmouth Olympic Harbour][portsmoutholympicharbour].
 <h2 class="plain">For race officers
-* There is a popular [[Wrecks|SCUBA dive wreck]], really it's two wrecks, the <i>Aloha</i> and the <i>Effie Mae</i> in the vicinity.  The general area is fairly large and you have options when you set-up racing and both racing and diving activities can be accommodated.
+* There is a popular [SCUBA dive wreck][wrecks], really it's two wrecks, the <i>Aloha</i> and the <i>Effie Mae</i> in the vicinity.  The general area is fairly large and you have options when you set-up racing and both racing and diving activities can be accommodated.
 * If no SCUBA activity is evident or expected then you can set your course over the wreck, which is about 55-feet down.
 * <strong>both 1 1/4-mile and 1 1/2-mile diameter SAMPLE circles</strong> are shown in the diagram.  Weather legs up to 2-miles in length or longer are possible on Course Foxtrot.
 

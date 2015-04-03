@@ -5,7 +5,7 @@ title: "Kingston Dragon Boat Festival"
 
 ---
 
-A yearly dragon boat festival held in the [[Great Cataraqui River]] that attracts over 70 teams.  2007 date: Saturday, June 9th, 2007.
+A yearly dragon boat festival held in the [Great Cataraqui River][greatcataraquiriver] that attracts over 70 teams.  2007 date: Saturday, June 9th, 2007.
 
 Website: http://www.dragonboats.org
 

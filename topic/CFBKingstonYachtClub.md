@@ -6,7 +6,7 @@ title: "CFB Kingston Yacht Club"
 ---
 
 ##CFB Kingston Yacht Club
-CFB Kingston Yacht Club is located in Kingston, Ontario on [[Deadman Bay]] ~ nestled between historic [[Fort Henry]] and [[Cedar Island]].
+CFB Kingston Yacht Club is located in Kingston, Ontario on [Deadman Bay][deadmanbay] ~ nestled between historic [Fort Henry][forthenry] and [Cedar Island][cedarisland].
 
 Website: http://www.cfbkyc.com/
 

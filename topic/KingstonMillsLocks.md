@@ -6,7 +6,7 @@ title: "Kingston Mills Locks"
 ---
 
 ##Kingston Mills Locks
-A really nice boating destination up the [[Cataraqui River]], about 7.5 km North of the [[Lasalle Causeway]].
+A really nice boating destination up the [Cataraqui River][cataraquiriver], about 7.5 km North of the [Lasalle Causeway][lasallecauseway].
 
 Website: http://www.rideau-info.com/canal/locks/46-49-kingstonmills.html
 

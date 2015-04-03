@@ -9,17 +9,17 @@ title: "Great Cataraqui River"
 
 <h3>Major features of the Cataraqui River
 <ul>
-<li>[[Kingston Mills Locks]]
-<li>[[Great Cataraqui Marsh]]
-<li>[[Kingston Rowing Club]]
-<li>[[The Wollen Mill]]
-<li>[[Anglin Bay]]
-<li>The [[Inner Harbour]]
-<li>[[Lasalle Causeway]]
-<li>[[Green Bay]]
+<li>[Kingston Mills Locks][kingstonmillslocks]
+<li>[Great Cataraqui Marsh][greatcataraquimarsh]
+<li>[Kingston Rowing Club][kingstonrowingclub]
+<li>[The Wollen Mill][thewollenmill]
+<li>[Anglin Bay][anglinbay]
+<li>The [Inner Harbour][innerharbour]
+<li>[Lasalle Causeway][lasallecauseway]
+<li>[Green Bay][greenbay]
 </ul>
 <h3>Navigation Buoys Maintained by Parks Canada
-The navigation buoys in the Great Cataraqui River are maintained by Parks Canada since this stretch is part of the [[Rideau Canal System]]
+The navigation buoys in the Great Cataraqui River are maintained by Parks Canada since this stretch is part of the [Rideau Canal System][rideaucanalsystem]
 <img src="Images/ParksCanadaGreatCataraquiRiverMarks.jpg">
 
 ----

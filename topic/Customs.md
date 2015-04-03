@@ -11,11 +11,11 @@ title: "Customs"
 
 Once you arrive call the following number to report to Canada Customs: <strong>1-888-CANPASS</strong>
 
-Kingston is served by the [[http://www.cbsa-asfc.gc.ca/contact/listing/offices/office171-e.html Canada Border Services Agency Office #420]] which is located in Trenton.
+Kingston is served by the [http://www.cbsa-asfc.gc.ca/contact/listing/offices/office171-e.html](Canada Border Services Agency Office #420) which is located in Trenton.
 
 You can speak directly to an agent during regular business hours, Monday to Friday (08:00 - 16:00 local time / except holidays).  Press "0" to speak to an agent.
 
-<strong>[[http://www.cbsa-asfc.gc.ca/contact/listing/offices/office171-e.html The Canada Border Services Agency Office in Kingston has the following services:]]</strong>
+<strong>[http://www.cbsa-asfc.gc.ca/contact/listing/offices/office171-e.html](The Canada Border Services Agency Office in Kingston has the following services:)</strong>
 
 
 * Commercial Vessel (C/VESS)
@@ -25,19 +25,19 @@ You can speak directly to an agent during regular business hours, Monday to Frid
 **The Canada Border Services Agency Office in Kingston office serves the following points of entry locations:**
 
 * Anchorage Bay, CFB Kingston
-* [[Collins Bay Marina]]
-* [[Confederation Basin]]
-* [[Kingston Marina]]
-* [[Kingston Mills Locks|Kingston Mills]]
-* [[Kingston Yacht Club]]
-* [[Loyalist Cove Yacht Club]] (in Bath, ON)
+* [Collins Bay Marina][collinsbaymarina]
+* [Confederation Basin][confederationbasin]
+* [Kingston Marina][kingstonmarina]
+* [Kingston Mills][kingston mills locks]
+* [Kingston Yacht Club][kingstonyachtclub]
+* [Loyalist Cove Yacht Club][loyalistcoveyachtclub] (in Bath, ON)
 * Norman Rogers Municipal Airport
-* [[Portsmouth Olympic Harbour]]
-* [[Rideau Marina]]
+* [Portsmouth Olympic Harbour][portsmoutholympicharbour]
+* [Rideau Marina][rideaumarina]
 * RMC Yacht Club
 
 
-<strong>TAKE NOTE</strong>: The [[http://www.cbsa-asfc.gc.ca/contact/listing/indexpages/index1282-e.html#d1282 LANSDOWNE (Thousand Islands Bridge) office]] serves these locations just East of Kingston:
+<strong>TAKE NOTE</strong>: The [http://www.cbsa-asfc.gc.ca/contact/listing/indexpages/index1282-e.html#d1282](LANSDOWNE (Thousand Islands Bridge) office) serves these locations just East of Kingston:
 
 * Treasure Island Marina and eastwards which includes
 * Trident Yacht Club
@@ -45,12 +45,12 @@ You can speak directly to an agent during regular business hours, Monday to Frid
 
 The LANSDOWNE (Thousand Islands Bridge) office is much larger, runs 24/7, and has way more services like  Commercial Office, Export Office, Duty Free Shop (SHOP), Electronic Data Interchange (EDI), Free and Secure Trade (FAST), Highway - Land Border Office (HWY/B) and Immigration (IMM).
 
-See [[http://www.cbsa-asfc.gc.ca/travel/canpass/privateboat-e.html Telephone Reporting - Recreational Boaters]] by the Canadian Border Services Agency.
+See [http://www.cbsa-asfc.gc.ca/travel/canpass/privateboat-e.html](Telephone Reporting - Recreational Boaters) by the Canadian Border Services Agency.
 
 **Currently:**
 
 * **American Residents** may take home $800 (U.S. funds) worth of merchandise duty-free if they have been in Canada more than 48 hours. This includes one carton of cigarettes and one liter of alcoholic beverages. If they have visited Canada for less than 48 hours, or made more than one trip to Canada within 30 days, there is a $200 (U.S. funds) individual exemption. Any alcohol or tobacco bought in Canada or at a Duty Free Store on trips of less than 48 hours is subject to duty.
 
-* **Canadian Residents** may take home $50 (Canadian funds) if they have been out of the country 24 hours or more. If the absence is 48 hours or [[http://trackerdogcollars.com/spiked-dog-collars.html more]], Canadian citizens make bring home $200 (Canadian Funds) worth of merchandise. If they have been away for a week or more Canadian Citizens may bring back $750 (Canadian funds)
+* **Canadian Residents** may take home $50 (Canadian funds) if they have been out of the country 24 hours or more. If the absence is 48 hours or [http://trackerdogcollars.com/spiked-dog-collars.html](more), Canadian citizens make bring home $200 (Canadian Funds) worth of merchandise. If they have been away for a week or more Canadian Citizens may bring back $750 (Canadian funds)
 
 {% include routes.html %}

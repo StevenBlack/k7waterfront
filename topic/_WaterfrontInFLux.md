@@ -7,7 +7,7 @@ title: "_WaterfrontInFLux"
 
 ##Waterfront In Flux
 <h3>The water lots (Since 2006)</h3>
-Since 2006 it's been known that [[__Whig20061204|the Federal Government intends to rid itself of 7.5km of water lots]] between Belle Island in the Cataraqui River to Lake Ontario Park in Kingston's west end. A change in ownership of these water lots can potentially mean lots of changes in how these are used, or can be used.
+Since 2006 it's been known that [the Federal Government intends to rid itself of 7.5km of water lots][__whig20061204] between Belle Island in the Cataraqui River to Lake Ontario Park in Kingston's west end. A change in ownership of these water lots can potentially mean lots of changes in how these are used, or can be used.
 
 
 <h3>Federal wharves</h3>

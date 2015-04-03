@@ -21,6 +21,6 @@ title: "Garden Island"
 
 <img class="chartsegment" src="Images/GardenIsland.jpg">
 
-See also [[Islands]]
+See also [Islands][islands]
 
 {% include routes.html %}

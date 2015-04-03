@@ -11,7 +11,7 @@ title: "Regatta Competitors- What To Expect"
 
 This page serves to provide **general information for first-time competitors** who come to Kingston for a sailing regatta.
 
-For details specifically related to sailing, see the [[regatta competitors home page]].
+For details specifically related to sailing, see the [regatta competitors home page][regattacompetitorshomepage].
 
 <strong>Background</strong>
 What's written here is general, and may or may not reflect the some of the conditions of your particular event.

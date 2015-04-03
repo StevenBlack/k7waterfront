@@ -12,7 +12,7 @@ title: "Gunkhole"
 #INSERTTOPIC:__GoogleDataMapBays
 
 
-See also [[Prinyers Cove]]
+See also [Prinyers Cove][prinyerscove]
 
 <br>
 

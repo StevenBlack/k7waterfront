@@ -11,7 +11,7 @@ title: "Collins Bay"
 
 #INSERTTOPIC:__GoogleMapCollinsBay
 
-<li> [[Collins Bay Marina]]
+<li> [Collins Bay Marina][collinsbaymarina]
 
 <h4>External links:</h4>
 <li> http://www.boldts.net/KingstonD.shtml

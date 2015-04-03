@@ -5,12 +5,12 @@ title: "Mass Swim2008"
 
 ---
 
-##MASS SWIM  -  July 22, 6pm  -  [[Richardson Beach]]
+##MASS SWIM  -  July 22, 6pm  -  [Richardson Beach][richardsonbeach]
 ###(Please circulate widely)
 
 **PUBLIC SPACE -- PUBLIC WATER**
 
-Come out and show your support for **restoring Richardson Beach** (just east of [[Murney Tower]], at the foot of Emily St).
+Come out and show your support for **restoring Richardson Beach** (just east of [Murney Tower][murneytower], at the foot of Emily St).
 The purpose of this event is to demonstrate the need for improvements that would allow for safe, public access to Lake Ontario.
 The swim will take place **rain or shine**.
 

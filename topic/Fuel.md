@@ -9,10 +9,10 @@ title: "Fuel"
 
 #INSERTTOPIC:__GoogleDataMapFuel
 
-<li> [[Kingston Marina]]
-<li> [[Rideau Marina]]
-<li> [[Kingston Yacht Club]]
-<li> [[Collins Bay Marina]]
-<li> [[Treasure Island Marina]]
+<li> [Kingston Marina][kingstonmarina]
+<li> [Rideau Marina][rideaumarina]
+<li> [Kingston Yacht Club][kingstonyachtclub]
+<li> [Collins Bay Marina][collinsbaymarina]
+<li> [Treasure Island Marina][treasureislandmarina]
 
 {% include routes.html %}

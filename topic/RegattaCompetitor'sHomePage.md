@@ -11,38 +11,38 @@ title: "Regatta Competitor's Home Page"
 </div>
 <h2 class="plain">Sailing
 <ul  class="simplebullet">
-<li> [[RegattaCompetitors-WhatToExpect|What to expect]], for first-time competitors.
-<li> [[Wind|Kingston's wind]] and local [[wind sensors]]
-<li> [[Water Temperatures|Surface water temperatures]]: updated daily.
-<li> [[Current]]
-<li> [[Magnetic anomalies]]: Why, where, and how much.
+<li> [What to expect][regattacompetitors-whattoexpect], for first-time competitors.
+<li> [Kingston's wind][wind] and local [wind sensors][windsensors]
+<li> [Surface water temperatures][water temperatures]: updated daily.
+<li> [Current][current]
+<li> [Magnetic anomalies][magneticanomalies]: Why, where, and how much.
 <li> Notes on Kingston's traditional sailing competition zones:
 <ul  class="simplebullet">
 <img src="http://K7Waterfront.org/Images/PhysicalGeographyTopology2.jpg" class="span-13 right">
-<li> [[Courses Map]]: An overview of all CORK's competition circles. 
-<li> [[Course Alpha]]: Kingston's premiere circle.
-<li> [[Course Charlie]]: Traditionally used for smaller dinghies.
-<li> [[Course Foxtrot]]: Championship circle, further out into the lake.
-<li> Kingston Harbour is festooned with [[Club racing marks]].
+<li> [Courses Map][coursesmap]: An overview of all CORK's competition circles. 
+<li> [Course Alpha][coursealpha]: Kingston's premiere circle.
+<li> [Course Charlie][coursecharlie]: Traditionally used for smaller dinghies.
+<li> [Course Foxtrot][coursefoxtrot]: Championship circle, further out into the lake.
+<li> Kingston Harbour is festooned with [Club racing marks][clubracingmarks].
 </ul>
 
 </ul>
 <h2 class="plain">Sailing Regatta history
 <ul  class="simplebullet">
-<li> Our [[ListOfMajorRegattasInKingston|Regatta History]] lists past winners, people to consult.
+<li> Our [Regatta History][listofmajorregattasinkingston] lists past winners, people to consult.
 </ul>
 
 <h2 class="plain">Logistics
 <ul  class="simplebullet">
-<li> [[http://cork.org CORK]]
-<li> [[Clubs]] and [[Marinas]], all with facilities.
-<li> [[Cranes]]
-<li> [[Checklist For Shipping Containers To Kingston]].  Everything you need to plan.
+<li> [http://cork.org](CORK)
+<li> [Clubs][clubs] and [Marinas][marinas], all with facilities.
+<li> [Cranes][cranes]
+<li> [Checklist For Shipping Containers To Kingston][checklistforshippingcontainerstokingston].  Everything you need to plan.
 </ul>
 
 <h2 class="plain">Dragon Boats
 <ul  class="simplebullet">
-<li> [[http://k7waterfront.org/Topic/KingstonDragonBoatFestival Kingston Dragon Boat Festival]]
+<li> [http://k7waterfront.org/Topic/KingstonDragonBoatFestival](Kingston Dragon Boat Festival)
 </ul>
 
 #INSERTTOPIC:BooksAboutKingstonWind

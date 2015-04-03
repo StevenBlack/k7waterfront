@@ -6,9 +6,9 @@ title: "2011-07- City Priority Matrix"
 ---
 
 ##Waterfront Items on the City of Kingston Priority Status Matrix July 2011
-Posted for the [[http://www.cityofkingston.ca/pdf/council/agenda/2011/COU_Agenda-1611.pdf July 19 2011 Council Meeting]], this [[http://www.cityofkingston.ca/pdf/council/agenda/2011/COU_A1611-11206.pdf 86-item priority matrix]]
+Posted for the [http://www.cityofkingston.ca/pdf/council/agenda/2011/COU_Agenda-1611.pdf](July 19 2011 Council Meeting), this [http://www.cityofkingston.ca/pdf/council/agenda/2011/COU_A1611-11206.pdf](86-item priority matrix)
 
-**Summary:** 7 of 86 items concern waterfront and, of those, just three (Richardson Beach, Cataraqui River Trail, and Lake Ontario Park) involve access and recreation.  One of the seven items, the Tett Centre, is likely to be a significant [[http://k7waterfront.org/KingstonWaterfrontNews092010.html#4208 accessibility downgrade]] -- see also [[http://k7waterfront.org/KingstonWaterfrontNews032009.html#3958 here]] -- despite early noise otherwise.
+**Summary:** 7 of 86 items concern waterfront and, of those, just three (Richardson Beach, Cataraqui River Trail, and Lake Ontario Park) involve access and recreation.  One of the seven items, the Tett Centre, is likely to be a significant [http://k7waterfront.org/KingstonWaterfrontNews092010.html#4208](accessibility downgrade) -- see also [http://k7waterfront.org/KingstonWaterfrontNews032009.html#3958](here) -- despite early noise otherwise.
 
 Since the April 2011 version of this, the only waterfront change is the Richardson Bath House and landscaping work is complete.
 
@@ -39,7 +39,7 @@ Since the April 2011 version of this, the only waterfront change is the Richards
 	</tr>
 	<tr>
 		<td>43</td>
-		<td>Feasibility of a [[http://k7waterfront.org/Topic/GreatCataraquiRiverTrail Multipurpose Trail]] on the West Side of the Greater Cataraqui River from the LaSalle Causeway to Kingston Mills Road</td>
+		<td>Feasibility of a [http://k7waterfront.org/Topic/GreatCataraquiRiverTrail](Multipurpose Trail) on the West Side of the Greater Cataraqui River from the LaSalle Causeway to Kingston Mills Road</td>
 		<td>2011 Q2</td>
 		<td></td>
 	</tr>

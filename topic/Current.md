@@ -27,7 +27,7 @@ Looking at the bottom profile in the diagrams of Kingston Harbour below, it's ea
 
 
 ##Bathymetry with 2m Contours
-[[http://map.ngdc.noaa.gov/website/mgg/greatlakesbathy/viewer.htm source]]
+[http://map.ngdc.noaa.gov/website/mgg/greatlakesbathy/viewer.htm](source)
 
 <img src="images/KingstonHarbourAreaBathymetry2mContours.jpg">
 

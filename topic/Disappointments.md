@@ -7,9 +7,9 @@ title: "Disappointments"
 
 ##Disappointing things on the Kingston waterfront
 
-(See also some of our more serious full-blown [[Disgraces]].)
+(See also some of our more serious full-blown [Disgraces][disgraces].)
 
-In General: There are [[Camping|nearly zero camping facilities]] on water in the Kingston area.
+In General: There are [nearly zero camping facilities][camping] on water in the Kingston area.
 
 
 ##Map of some disappointments

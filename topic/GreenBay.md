@@ -5,7 +5,7 @@ title: "Green Bay"
 
 ---
 
-<b>Green Bay</b> is a small bay at the South Eastern end of the [[Great Cataraqui River]], just East of the [[Lasalle Causeway]].
+<b>Green Bay</b> is a small bay at the South Eastern end of the [Great Cataraqui River][greatcataraquiriver], just East of the [Lasalle Causeway][lasallecauseway].
 
 Shallow and, in places, extremely weedy.  You never see larger boats in here.
 

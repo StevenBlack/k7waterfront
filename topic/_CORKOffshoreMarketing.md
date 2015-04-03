@@ -9,7 +9,7 @@ Olson fleet
 
 <img src="/files/racing/olson fleet/clip_image002.gif">
 
-I found, cleaned, and sorted some more [[_OlsonFleetList|Olson data]].  -- [[Steven Black]]
+I found, cleaned, and sorted some more [Olson data][_olsonfleetlist].  -- [Steven Black][stevenblack]
 
 Thanks for the up date Steve!
 

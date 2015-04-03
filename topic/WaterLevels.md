@@ -5,7 +5,7 @@ title: "Present and Comparative Water Levels"
 
 ---
 
-Canada source: [[http://chswww.bur.dfo.ca/danp/bulletin_e.html Current Water Levels Bulletin]] and [[http://chswww.bur.dfo.ca/danp/back-arrieres_e.html Back Issues of the Bulletin]]
+Canada source: [http://chswww.bur.dfo.ca/danp/bulletin_e.html](Current Water Levels Bulletin) and [http://chswww.bur.dfo.ca/danp/back-arrieres_e.html](Back Issues of the Bulletin)
 
 See also http://www.waterlevels.gc.ca/C&A/bulletin_e.html
 

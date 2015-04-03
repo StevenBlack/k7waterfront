@@ -8,7 +8,7 @@ title: "Treasure Island Marina"
 ##Treasure Island Marina / Driftwood Restaurant
 <div class="floatright" style="width: 430px;">
 <iframe width="425" height="350" frameborder="no" scrolling="no" marginheight="0" marginwidth="0" src="http://maps.google.com/maps?f=q&hl=en&geocode=&q=Treasure+Island+Marina&sll=37.0625,-95.677068&sspn=46.677964,116.71875&ie=UTF8&t=k&om=1&ll=44.263796,-76.378176&spn=0.002593,0.007124&output=embed&s=AARTsJpHz7ugUG5ke4Qj-5IqxH99qwwyTw"></iframe><br/><a href="http://maps.google.com/maps?f=q&hl=en&geocode=&q=Treasure+Island+Marina&sll=37.0625,-95.677068&sspn=46.677964,116.71875&ie=UTF8&t=k&om=1&ll=44.263796,-76.378176&spn=0.002593,0.007124&source=embed" style="color:#0000FF;text-align:left;font-size:small">View Larger Map</a></div>
-See too the [[http://www.treasureislandmarina.com/ Treasure Island Marina website]]
+See too the [http://www.treasureislandmarina.com/](Treasure Island Marina website)
 
 Treasure Island Marina has new owners and have made some great improvements this year.
 
@@ -19,9 +19,9 @@ They also offer Crane service for launch and haul out requirements.
 
 The Marina offers full marine services for all boating mechanical needs, power or sail.
 
-  Any other info to share?  Let me know! [[Steven Black]]
+  Any other info to share?  Let me know! [Steven Black][stevenblack]
 
-Located in the St Lawrence River a few miles East of Kingston, tucked in beside [[Treasure Island]]
+Located in the St Lawrence River a few miles East of Kingston, tucked in beside [Treasure Island][treasureisland]
 
 * Dockage for 150 boats
 * Shore Power and Water
@@ -43,6 +43,6 @@ Located in the St Lawrence River a few miles East of Kingston, tucked in beside 
 <img src="http://k7Waterfront.org/Images/TreasureIslandMarina02.JPG"><br>
 
 <img src="http://k7Waterfront.org/Images/TreasureIslandLaunchRamp.JPG"><br>
-Launch ramp at [[Treasure Island Marina]].  Note the $15.00 charge.
+Launch ramp at [Treasure Island Marina][treasureislandmarina].  Note the $15.00 charge.
 
 {% include routes.html %}

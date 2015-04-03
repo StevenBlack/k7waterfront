@@ -15,6 +15,6 @@ Source: http://simcoeisland.com
 </div>
 
 
-See also [[Islands]]
+See also [Islands][islands]
 
 {% include routes.html %}

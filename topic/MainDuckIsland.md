@@ -8,7 +8,7 @@ title: "Main Duck Island"
 <img class="chartsegment" src="Images\MainDuck-Yorkshire.jpg">
 <img src="Images\MainDuckIslandLight.jpg">
 ----
-See also [[Islands]]
+See also [Islands][islands]
 
 <div class="item">
 Source: http://gkmacdonald.limewebs.com/sail/mainduckisland.htm

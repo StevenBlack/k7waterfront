@@ -38,12 +38,12 @@ title: "Cataraqui River Heritage Trail"
     <div class="box roundCorners">
 <h2 class="top">Trail Segments
 The proposed trail along the Great Cataraqui River can be divided into logical segments.
-* [[GCRTSegmentCausewayToRowingClub|Lasalle Causeway To RowingClub]]
-* [[GCRTSegmentRowingclubToBellePark|Kingston Rowing Club To Belle Park]]
-* [[GCRTSegmentBelleParkToApartments|Belle Park To Apartments]]
-* [[GCRTSegmentApartmentsToAboriginalSite|John Counter Bldv Apartments To Aboriginal Site]]
-* [[GCRTSegmentAborignalSiteTo401|Aborignal Site To 401]]
-* [[GCRTSegment401ToKingstonMills|401 To Kingston Mills]]
+* [Lasalle Causeway To RowingClub][gcrtsegmentcausewaytorowingclub]
+* [Kingston Rowing Club To Belle Park][gcrtsegmentrowingclubtobellepark]
+* [Belle Park To Apartments][gcrtsegmentbelleparktoapartments]
+* [John Counter Bldv Apartments To Aboriginal Site][gcrtsegmentapartmentstoaboriginalsite]
+* [Aborignal Site To 401][gcrtsegmentaborignalsiteto401]
+* [401 To Kingston Mills][gcrtsegment401tokingstonmills]
 
 
 <object width="480" height="385"><param name="movie" value="http://www.youtube.com/v/j1iIgUGZF-w?fs=1&hl=en_US"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/j1iIgUGZF-w?fs=1&hl=en_US" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="360" height="287"></embed></object>

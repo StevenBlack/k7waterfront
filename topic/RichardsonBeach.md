@@ -7,7 +7,7 @@ title: "Richardson Beach"
 
 ##Richardson Beach
 
-Not really a beach since it's made of limestone shelf-rock. It's located at the foot of Emily Street near the [[Kingston Yacht Club]].
+Not really a beach since it's made of limestone shelf-rock. It's located at the foot of Emily Street near the [Kingston Yacht Club][kingstonyachtclub].
 
 Richardson Beach, also known as "Emily Street", is a favorite location for windsurfers in the Kingston area.  Richardson Beach has parking, changerooms (closed), a grassy rigging area, and very enthusiastic boardsailors.
 

@@ -45,7 +45,7 @@ title: "__ONaturelWhiteBoard"
 <li> Outhaul - Bruce to get swage fitting - DONE
 
 ##2006 schedule  - http://collinsbaymarina.com/cbyc/allcal.html
-<li> [[__Full Moons 2006]]
+<li> [__Full Moons 2006][__fullmoons2006]
 <li> CBYC  TBA
 <li> CORK  Aug 10-13(Olson great lakes championship)
 <li> EYC   July 12-15

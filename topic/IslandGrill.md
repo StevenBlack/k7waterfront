@@ -7,7 +7,7 @@ title: "Island Grill"
 
 ##The Island Grill
 
-<i>The Grill</i> is a friendly and unpretentious bar and restaurant a few steps East of the [[Wolfe Island Ferry]] dock on the [[Wolfe Island]] side.
+<i>The Grill</i> is a friendly and unpretentious bar and restaurant a few steps East of the [Wolfe Island Ferry][wolfeislandferry] dock on the [Wolfe Island][wolfeisland] side.
 
 They have **two outdoor patios** and, or course, **indoor service** too.
 
@@ -32,6 +32,6 @@ Website: http://www.wolfeislandgrill.com/
 
 ----
 
-See also more [[Restaurants|waterfront restaurants]] in the Kingston region.
+See also more [waterfront restaurants][restaurants] in the Kingston region.
 
 {% include routes.html %}
