@@ -27,3 +27,4 @@ Here's where it is, as nautical charts currently don't show the Inn's dock.
 
 <img src="http://k7waterfront.org/Images/Chart-BrownsBayInn.jpg">
 
+{% include routes.html %}

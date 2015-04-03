@@ -7,7 +7,4 @@ title: "Shop"
 
 <h1>Shopping near the waterfront in the Kingston area</h1>
 
-
-
-
-
+{% include routes.html %}

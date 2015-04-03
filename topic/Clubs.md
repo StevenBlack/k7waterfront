@@ -18,3 +18,4 @@ title: "Clubs"
 ##Trident Yacht Club
 http://k7waterfront.org/Topic/TridentYachtClub
 
+{% include routes.html %}

@@ -72,3 +72,4 @@ Map is Clickable
 <AREA shape=RECT coords=0,0,0,0></MAP>
 <IMG height=414 alt="Kingston Harbour Surf Sites" src="http://www.geocities.com/kingstonboardsailing/maps/philspots_files/surfsites.jpg" width=653 useMap=#surfsites border=0>
 
+{% include routes.html %}

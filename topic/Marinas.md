@@ -24,3 +24,4 @@ title: "Marinas"
 MetaDescription: Marinas in Kingston Ontario: List, descriptions, map.
 MetaKeywords: Marinas, Kingston, Kingston Ontario, harbours, boating
 
+{% include routes.html %}

@@ -7,3 +7,4 @@ title: "CORK"
 
 #REDIRECT http://www.cork.org
 
+{% include routes.html %}

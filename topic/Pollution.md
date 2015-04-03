@@ -22,6 +22,4 @@ Google[Kingston overflow sewage]
 
 See http://www.pollutionwatch.org/index_lakebasin.jsp
 
-
-
-
+{% include routes.html %}

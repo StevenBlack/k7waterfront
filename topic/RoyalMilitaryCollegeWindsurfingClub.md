@@ -10,3 +10,4 @@ title: "Royal Military College Windsurfing Club"
 
 Link: http://www.rmcwindsurfing.com/
 
+{% include routes.html %}

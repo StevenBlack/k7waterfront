@@ -53,3 +53,4 @@ Interesting: [[http://www.communityrowing.org/handbook/charlesriver.htm Charles 
 <h3>From [[http://www.worldrowing.com/index.php?pageid=71 FISA]]</h3>
 <a href="http://www.worldrowing.com/index.php?pageid=71"><img src="http://k7waterfront.org/Images/FISARulesOfRacing.jpg"></a>
 
+{% include routes.html %}

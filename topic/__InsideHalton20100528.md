@@ -58,3 +58,5 @@ Miller reminds dog owners that animal feces can contaminate the water.
 "If animals go to the bathroom on the beach, the E. coli from the excrement could wash into the water and be a potential hazard," Miller said. "We strongly encourage them not to take their animal on the beach."
 
 Burlington bylaw states that dogs and other animals are not permitted in the water or on the beach at any point. Waterfront ambassador staff will be speaking to dog owners on the beach regarding the bylaw, and animal control officers will be enforcing the bylaw if needed.
+
+{% include routes.html %}

@@ -74,3 +74,4 @@ $("#flickrBadgeTarget").append(foo);
 $("#flickr_badge_uber_wrapper").remove();
 </script>
 
+{% include routes.html %}

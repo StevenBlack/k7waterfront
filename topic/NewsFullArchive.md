@@ -12,3 +12,4 @@ title: "News Full Archive"
 
 </div>
 
+{% include routes.html %}

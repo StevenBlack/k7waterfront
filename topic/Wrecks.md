@@ -35,6 +35,4 @@ Here's a general [[http://www.ecophotoexplorers.com/images/kingston_divemap.gif 
 Here's [[http://dive.kingston.net/kingston.htm another]]:
 <a href="http://dive.kingston.net/kingston.htm"><img src="http://k7waterfront.org/Images/th_divekingstonnet.gif" alt="wrecks" class="imagelink"></a></div>
 
-
-
-
+{% include routes.html %}

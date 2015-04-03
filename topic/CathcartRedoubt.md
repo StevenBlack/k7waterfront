@@ -14,3 +14,4 @@ See also http://www.boldts.net/Kingston4.shtml
 
 #INSERTTOPIC:__GoogleDataMapCathcartRedoubt
 
+{% include routes.html %}

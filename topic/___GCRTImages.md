@@ -30,3 +30,4 @@ title: "___GCRTImages"
 [[Image:http://k7Waterfront.org/GCRTrail/images/RowingclubToBellePark_OldRrLineToBellePark.jpg|caption=Old RR line to Belle Park|size=440px]]
 [[Image:http://k7Waterfront.org/GCRTrail/images/RowingclubToBellePark_TanneryLands.jpg|caption=Tannery Lands|size=440px]]
 
+{% include routes.html %}

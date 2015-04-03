@@ -20,3 +20,4 @@ title: "Snake Island"
 <p>According to the New York State Department of Environmental Conservation, 1,344 Double-crested Cormorants nested on Snake Island in 2000,  In 2001, 1,160 cormorant nests were counted there. </p></blockquote>
 <p align="center"><img class="chartsegment" src="http://home.ca.inter.net/~gkmd/snakechart.jpg"></p>
 
+{% include routes.html %}

@@ -9,5 +9,4 @@ title: "Kingston Harbour"
 
 <img src="http://k7waterfront.org/Images/Chart-KingstonHarbour2.jpg" border="0">
 
-
-
+{% include routes.html %}

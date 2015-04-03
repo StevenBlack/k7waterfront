@@ -7,5 +7,4 @@ title: "Sponsors"
 
 ##These fine people and organizations contribute to keeping this website online
 
-
-
+{% include routes.html %}

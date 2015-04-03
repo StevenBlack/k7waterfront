@@ -28,3 +28,4 @@ title: "Horseshoe Island"
 </td></tr></table>
 <!-- End of Flickr Badge -->
 
+{% include routes.html %}

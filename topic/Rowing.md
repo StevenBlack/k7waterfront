@@ -9,5 +9,4 @@ title: "Rowing"
 
 <img src="Images\Rowing.JPG">
 
-
-
+{% include routes.html %}

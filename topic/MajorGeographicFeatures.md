@@ -12,3 +12,5 @@ title: "Major Geographic Features"
 #INSERTTOPIC:Points
 #INSERTTOPIC:Beaches
 <a href="http://www.resumesplanet.com/services.php">resume</a>
+
+{% include routes.html %}

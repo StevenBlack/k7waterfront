@@ -38,3 +38,5 @@ Useful for people quickly passing through, or for first-time visitors to get a s
 * [[List of major regattas in Kingston]]: The racing history.  
 
 [Bays]: \topics\bays
+
+{% include routes.html %}

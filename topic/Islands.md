@@ -10,4 +10,4 @@ title: "Islands"
 #INSERTTOPIC:__GoogleDataMapIslands
 See also [[ThousandIslands]], [[Wolfe Island]], [[Cedar Island]], [[Garden Island]], [[Milton Island]], [[Simcoe Island]], [[Amherst Island]], [[Main Duck Island]]
 
-
+{% include routes.html %}

@@ -109,4 +109,4 @@ title: "Checklist For Shipping Containers To Kingston"
 
 <h3>If you are coming from Asia</h3>
 
-
+{% include routes.html %}

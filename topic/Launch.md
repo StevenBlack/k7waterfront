@@ -12,8 +12,4 @@ title: "Launch"
 
 #INSERTTOPIC:Cranes
 
-
-
-
-
-
+{% include routes.html %}

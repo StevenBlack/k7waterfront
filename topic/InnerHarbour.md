@@ -19,5 +19,4 @@ Home to
 <li> [[Great Cataraqui Marsh]]
 <li> [[Locks|Kingston Mills Locks]]
 
-
-
+{% include routes.html %}

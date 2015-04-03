@@ -57,3 +57,4 @@ the early season. </p>
 
 <p>Copyright © 2004 Kingston Boardsailing Association</p>
 
+{% include routes.html %}

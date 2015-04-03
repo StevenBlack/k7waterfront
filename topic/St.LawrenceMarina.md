@@ -7,3 +7,4 @@ title: "St. Lawrence Marina"
 
 #REDIRECT KingstonMarina
 
+{% include routes.html %}

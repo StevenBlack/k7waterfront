@@ -11,3 +11,4 @@ title: "Water Temperatures"
 
 <img src="http://www.coastwatch.msu.edu/ontario/o2.gif">
 
+{% include routes.html %}

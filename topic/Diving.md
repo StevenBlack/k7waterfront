@@ -15,5 +15,4 @@ There's a lively diving scene in the Kingston area.
 
 #NEWSITEMS:Diving,Wreck
 
-
-
+{% include routes.html %}

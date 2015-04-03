@@ -19,3 +19,5 @@ title: "__RideTheWolfeIslandFerry"
 <li> All told, this is a  great way to get on water and see the waterfront.
 <li> All this (except for food and souvenirs) is free.
 </ul>
+
+{% include routes.html %}

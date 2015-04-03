@@ -45,3 +45,4 @@ Located in the St Lawrence River a few miles East of Kingston, tucked in beside 
 <img src="http://k7Waterfront.org/Images/TreasureIslandLaunchRamp.JPG"><br>
 Launch ramp at [[Treasure Island Marina]].  Note the $15.00 charge.
 
+{% include routes.html %}

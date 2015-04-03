@@ -35,3 +35,4 @@ From [[http://www.boatnerd.com/facts-figures/lkont.htm BoatNerd, facts and figur
 
 [[http://mapserver.maptech.com/bp/mapserver/index.cfm?lat=44.22859369956094&lon=-76.47965213410899&scale=500000&zoom=100&type=2&icon=0&CFID=2258571&CFTOKEN=71882696&scriptfile=http://mapserver.maptech.com/bp/mapserver/index.cfm&latlontype=DMS <img src="Images/MaptechAero.jpg">]]
 
+{% include routes.html %}

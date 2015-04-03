@@ -20,5 +20,4 @@ Media contact information:
 Cindie Ashton, Communications Officer 613-546-4291, ext. 3116 (cell 329-3462);
 The City of Kingston's media hotline is 613-546-4291, ext. 2300.
 
-
-
+{% include routes.html %}

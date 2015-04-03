@@ -28,7 +28,4 @@ title: "Anchor"
 
 ##East breeze
 
-
-
-
-
+{% include routes.html %}

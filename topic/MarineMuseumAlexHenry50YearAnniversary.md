@@ -14,3 +14,4 @@ Let's see how quickly we can sell out this celebratory brew! Brew Pub entrees ru
 
 For those who prefer to keep with fine naval tradition (and aren't working during the day!), the actual launch of the brew will occur at 11 am on the 17th, also at the Brew Pub.
 
+{% include routes.html %}

@@ -33,4 +33,4 @@ Music marina isn't big but it's **the only place in North Kingston with access t
 <h3>Probable: fences at Kingston's main wharves</h3>
 May be coming as part of **homeland security** measures.
 
-
+{% include routes.html %}

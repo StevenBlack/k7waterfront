@@ -11,3 +11,4 @@ title: "Pigeon Island"
 <p> Today, a 65 foot tall metal tower supports an automatic light. From 1871 to 1909, a permanent lighthouse keeper manned the island.
 <p> Pigeon Island supports a mixed-species colony of about 6,200 bird pairs of five species. It is an Ontario provincial bird sanctuary.<br></blockquote>
 
+{% include routes.html %}

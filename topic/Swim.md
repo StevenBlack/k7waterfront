@@ -7,6 +7,4 @@ title: "Swim"
 
 <h1>Waterfront swimming places in the Kingston area</h1>
 
-
-
-
+{% include routes.html %}

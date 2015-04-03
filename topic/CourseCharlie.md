@@ -47,3 +47,4 @@ If boat traffic is a problem, there is no great way to mitigate on Charlie other
 
 <img src="http://K7Waterfront.org/Images/ChartCourseCharlieTraffic.jpg" alt="Traffic patterns on Course Charlie in Kingston Harbour" class="image1px">
 
+{% include routes.html %}

@@ -23,3 +23,4 @@ title: "__StartingPages"
   </ul>
 </ul>
 
+{% include routes.html %}

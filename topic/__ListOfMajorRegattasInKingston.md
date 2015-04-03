@@ -358,3 +358,4 @@ title: "__ListOfMajorRegattasInKingston"
 **2009: 29er North Americans** (August 23-27)
 **2009: 49er North Americans** (August 23-27)
 
+{% include routes.html %}

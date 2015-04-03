@@ -33,3 +33,4 @@ This "starting page" is designed to help and orient people who are planning to v
 <li> Here's a list of all the [[Alphabetic Topic List|topics in this website]].
 </ul>
 
+{% include routes.html %}

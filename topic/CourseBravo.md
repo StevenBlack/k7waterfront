@@ -9,3 +9,4 @@ title: "Course Bravo"
 
 #INSERTTOPIC:__RegattaCourseMenu
 
+{% include routes.html %}

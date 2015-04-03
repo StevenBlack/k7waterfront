@@ -31,3 +31,4 @@ Aerial photo of the Kingston dock.  Looks like a few waiting cars won't be aboar
 #INSERTTOPIC:__GoogleMapKingstonWolfeIslandFerryDock
 </div>
 
+{% include routes.html %}

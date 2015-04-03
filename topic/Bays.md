@@ -11,4 +11,4 @@ There are many interesting bays in the Kingston region.  See also the [[Gunkhole
 
 See also [[Big Sandy Bay]], [[Brown's Bay]], [[Collins Bay]], [[Deadman Bay]], [[Brakey Bay]]
 
-
+{% include routes.html %}

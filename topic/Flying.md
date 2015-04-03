@@ -9,3 +9,4 @@ title: "Flying"
 * <a href="http://www.kingstonflyingclub.com/">Kingston Flying Club</a>
 * <a href="http://www.offtraining.com/">Ontario Fun Flyers</a>
 
+{% include routes.html %}

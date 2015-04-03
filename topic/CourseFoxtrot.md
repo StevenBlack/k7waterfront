@@ -26,3 +26,4 @@ Expect pleasure boat traffic on Foxtrot to be light as much traffic between King
 
 <img src="http://K7Waterfront.org/Images/ChartCourseFoxtrotTraffic.jpg" alt="Traffic patterns on Course Foxtrot in Kingston Harbour" class="image1px">
 
+{% include routes.html %}

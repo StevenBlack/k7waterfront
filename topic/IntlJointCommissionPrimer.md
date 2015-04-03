@@ -26,3 +26,4 @@ title: "Intl Joint Commission Primer"
 </ol>
 For reference, in early May 2008 we're seeing water levels [[http://k7waterfront.org/KingstonWaterfrontNews042008.html#3783 45 inches above chart datum]] or a level of **247 feet**.
 
+{% include routes.html %}

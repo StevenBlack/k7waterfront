@@ -24,3 +24,4 @@ So, whether you're just interested in learning to sail, casual cruising through 
 
 Website: [[http://www.CollinsBayMarina.com/CBYC/]]
 
+{% include routes.html %}

@@ -17,3 +17,4 @@ Here's a map (still under development) of where to go.
 
 #INSERTTOPIC:__GoogleDataMapGrocsBeerLiquor
 
+{% include routes.html %}

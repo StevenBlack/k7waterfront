@@ -67,3 +67,5 @@ In Brown's Bay on Wolfe Island, the Inn possesses a good dock and the best water
 
 
 ###[[Treasure Island]]
+
+{% include routes.html %}

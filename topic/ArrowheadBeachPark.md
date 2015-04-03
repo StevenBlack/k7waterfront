@@ -16,7 +16,4 @@ title: "Arrowhead Beach Park"
 The beach is a great 'swimming hole' in front of several acres of well kept grass and mature pines. There is a small playground above the beach.
 </blockquote>
 
-
-
-
-
+{% include routes.html %}

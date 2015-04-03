@@ -42,3 +42,4 @@ Skype: curtis.law.mediation.coaching
 
 Information about Mediation and Conflict Coaching: www.mediatecentre.com
 
+{% include routes.html %}

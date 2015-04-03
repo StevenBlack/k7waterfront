@@ -13,3 +13,4 @@ Website: http://www.dragonboats.org
 
 <img src="http://k7Waterfront.org/Images/DragonBoatsSitePlan.gif">
 
+{% include routes.html %}

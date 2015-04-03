@@ -27,3 +27,4 @@ Kingston Marina is operated by the adjacent [[MetalCraft Marine]], builders of h
 
 See also: [[Marinas]], [[Fuel]]
 
+{% include routes.html %}

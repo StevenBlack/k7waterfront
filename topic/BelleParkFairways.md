@@ -16,3 +16,4 @@ An image from the [[http://www.cityofkingston.ca/residents/recreation/parks/inde
 <img src="Images/BellIslandPark01.jpg"><br>
 Bell Island Park, looking South from the boat channel in the Cataraqui River (April 2005).
 
+{% include routes.html %}

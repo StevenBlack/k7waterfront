@@ -26,3 +26,5 @@ Speakers:  Kurt Streicher, Owner of [[http://www.downundersolar.ca/ Downunder So
 Chris Weissflog, Founder [[http://www.ecogenenergy.ca/ EcoGen Energy Inc]], Kemptville
 
 Information: http://kingston.cps-ecp.org
+
+{% include routes.html %}

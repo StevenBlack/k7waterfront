@@ -7,3 +7,4 @@ title: "Kevin Ripley"
 
 #REDIRECT InDepthSCUBAService
 
+{% include routes.html %}

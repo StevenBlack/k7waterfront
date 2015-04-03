@@ -10,6 +10,4 @@ title: "Loyalist Cove Yacht Club"
 
 Website: [[http://www.loyalistcovemarina.com/LCYC.htm]]
 
-
-
-
+{% include routes.html %}

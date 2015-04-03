@@ -62,3 +62,4 @@ Posted for the [[http://www.cityofkingston.ca/pdf/council/agenda/2011/COU_Agenda
 	</tr>
 </table>
 
+{% include routes.html %}

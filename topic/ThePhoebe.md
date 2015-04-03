@@ -14,3 +14,4 @@ See the [[http://db.library.queensu.ca/phoebe/friends/friends.html Friends of Th
 [[http://db.library.queensu.ca/phoebe/friends/photographsheading.htm <img src="http://db.library.queensu.ca/phoebe/friends/photographs/cityhall.jpg" border="0">]]
 <br>The Phoebe leaving Confederation Basin in 1982 at the 150th anniversary of the Rideau Canal, on her way to Ottawa. In Ottawa she led the parade of historic boats. Sponsored by Parks Canada. Photo credit: Roger Compton, Kinston, ON.  [[http://db.library.queensu.ca/phoebe/friends/photographsheading.htm More Phoebe photos]]
 
+{% include routes.html %}

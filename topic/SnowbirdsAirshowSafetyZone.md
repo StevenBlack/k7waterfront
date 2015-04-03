@@ -19,3 +19,4 @@ The safety zone is created and patrolled by several supporting organizations inc
 <a href="http://K7Waterfront.org/Images/SnowBirds049.jpg">Click</a> for a larger version.
 <a href="http://K7Waterfront.org/Images/SnowBirds049.jpg"><img src="http://k7Waterfront.org/Images/SnowBirds049-1000.jpg"></a>
 
+{% include routes.html %}

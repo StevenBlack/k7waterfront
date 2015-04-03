@@ -21,3 +21,4 @@ You can also **send scoops** to steve@k7waterfront.org
 
 **Want to help?** First learn [[about website housekeeping]]. Then keep your eye out for little messes, especially in [[Recent Changes]], and clean them up the best you can. Finally, if you like, add your name to this list of volunteers.
 
+{% include routes.html %}

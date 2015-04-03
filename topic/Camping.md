@@ -13,4 +13,4 @@ Two of the three sites on the map below require boats to access.
 
 #INSERTTOPIC:__GoogleDataMapCamping
 
-
+{% include routes.html %}

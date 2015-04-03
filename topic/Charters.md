@@ -9,5 +9,4 @@ title: "Charters"
 
 [[http://www.ahoyrentals.com/ Ahoy Rentals]]: Sailboats of all sizes, canoes, kayaks, bikes.
 
-
-
+{% include routes.html %}

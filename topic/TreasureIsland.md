@@ -21,7 +21,4 @@ See [[http://maps.google.com/maps?q=Kingston,+ON&ll=44.258233,-76.369400&spn=0.0
 
 <img src="Images\Aerial\TreasureIslandAerial.jpg">
 
-
-
-
-
+{% include routes.html %}

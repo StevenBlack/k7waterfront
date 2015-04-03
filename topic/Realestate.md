@@ -7,6 +7,4 @@ title: "Realestate"
 
 <h1>Waterfront real-estate in the Kingston area</h1>
 
-
-
-
+{% include routes.html %}

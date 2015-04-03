@@ -12,5 +12,4 @@ Here's the inventory of marine-related crane services in the immediate Kingston 
 #INSERTTOPIC:PortsmouthOlympicHarbour#hoist
 #INSERTTOPIC:RideauMarina#hoist
 
-
-
+{% include routes.html %}

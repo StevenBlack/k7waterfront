@@ -58,5 +58,4 @@ Gormley was also commodore of the Kingston Yacht Club in 1983 and 1984. The curr
 
 "Bud was a good sailor, a good friend and a good shipmate."
 
-
-
+{% include routes.html %}

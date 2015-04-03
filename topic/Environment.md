@@ -9,3 +9,4 @@ title: "Environment"
 
 {{stub}}
 
+{% include routes.html %}

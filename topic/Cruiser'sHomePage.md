@@ -12,3 +12,4 @@ title: "Cruiser's Home Page"
 #INSERTTOPIC:__GoogleDataMapIslands
 #INSERTTOPIC:Anchor
 
+{% include routes.html %}

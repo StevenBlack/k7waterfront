@@ -30,5 +30,4 @@ For more information contact (613) 542-2261 or surf to www.marmuseum.ca
 <h3>VIRTUAL KINGSTON</h3>
 Virtual tours of the museums in Kingston, Ontario, Canada and it's surrounding area using an interactive map. www.virtualkingston.ca
 
-
-
+{% include routes.html %}

@@ -12,3 +12,5 @@ title: "Cruising"
 #INSERTTOPIC:Marinas
 
 #NEWSITEMS:Cruising,Beach,Marina,Fishing,Holiday
+
+{% include routes.html %}

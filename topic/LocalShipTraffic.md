@@ -24,3 +24,4 @@ $("#localShiptraffic").html(
   + '&'+'am'+'p;notation=true'
   + '&'+'am'+'p;mmsi=0">Browser does not support IFRAME. Visit directly <a href="http://www.marinetraffic.com/ais/">www.marinetraffic.com</a></iframe>');});</script>
 
+{% include routes.html %}

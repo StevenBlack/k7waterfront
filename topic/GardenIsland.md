@@ -23,3 +23,4 @@ title: "Garden Island"
 
 See also [[Islands]]
 
+{% include routes.html %}

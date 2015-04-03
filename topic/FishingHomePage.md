@@ -5,5 +5,4 @@ title: "Fishing Home Page"
 
 ---
 
-
-
+{% include routes.html %}

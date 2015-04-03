@@ -9,5 +9,4 @@ title: "Lemoine Point"
 <li> http://www.cataraquiregion.on.ca/lands/lemoine.htm
 <li> http://www.boldts.net/KingstonE.shtml
 
-
-
+{% include routes.html %}

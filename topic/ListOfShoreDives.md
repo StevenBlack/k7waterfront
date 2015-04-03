@@ -27,3 +27,4 @@ title: "List Of Shore Dives"
 * [[http://dolphinscubaclub.blogspot.com/search/label/Tett%20Centre Domino Theatre (Tett Centre)]]
 * [[http://highway15divequarry.blogspot.com/ Highway 15 Dive Quarry]] (no wreck)
 
+{% include routes.html %}

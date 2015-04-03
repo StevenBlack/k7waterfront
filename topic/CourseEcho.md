@@ -9,3 +9,4 @@ title: "Course Echo"
 
 #INSERTTOPIC:__RegattaCourseMenu
 
+{% include routes.html %}

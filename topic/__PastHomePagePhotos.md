@@ -53,4 +53,4 @@ href="http://flickr.com/photos/wavespire/tags/kingstonwaterfront/"><img border="
 <h3 class="clearboth">2005-Spring 2006</h3>
 <img border="0" src="K7RegionHome375.jpg" width="375" height="139">
 
-
+{% include routes.html %}

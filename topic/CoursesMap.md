@@ -9,3 +9,4 @@ title: "Courses Map"
 #INSERTTOPIC:__RegattaCourseMenu
 <img src="http://k7waterfront.org/images/CORK-Course-Circles.jpg" alt="Overview of the race courses used at CORK" />
 
+{% include routes.html %}

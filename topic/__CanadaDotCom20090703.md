@@ -21,3 +21,5 @@ Waterlife -- which won a special jury prize at this year's Hot Docs festival -  
 
 For Jay Stone's weekly movie podcast, go to www.canada.com/moviereviews.
 Copyright (c) Canwest News Service
+
+{% include routes.html %}

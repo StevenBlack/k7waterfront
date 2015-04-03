@@ -53,3 +53,4 @@ Other costs:
 
 The dock door is probably the weakest link in the whole deal, followed by the two crumbling concrete extensions of the original dock (you can take out concrete with your hands).  Everyone seems to think the actual historic limestone drydock, the part nearest the lake, is probably solid since the one at Esquimalt built by the same contractor, to roughly the same design, at almost the same time, is still in almost daily use. After all, the stones weigh 3 tons, and up, each and the dock was designed to be empty for months at a time.
 
+{% include routes.html %}

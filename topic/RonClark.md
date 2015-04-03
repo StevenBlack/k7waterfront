@@ -76,3 +76,4 @@ A Service of Remembrance will be held Wednesday at 1 p. m. at St. Paul's Anglica
 
 Nor could he outlive George Clark. Both died at age 63.
 
+{% include routes.html %}

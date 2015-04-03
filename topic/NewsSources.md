@@ -22,3 +22,4 @@ title: "News Sources"
 <li> [[http://www.coastwatch.msu.edu/ontario/o2.html Eastern Lake Ontario Surface Temperatures]].
 <li> [[http://www.coastwatch.msu.edu/ontario/o23.html Henderson Harbour to Cape Vincent Surface Temperature]].
 
+{% include routes.html %}

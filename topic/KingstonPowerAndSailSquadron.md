@@ -6,3 +6,5 @@ title: "Kingston Power And Sail Squadron"
 ---
 
 #REDIRECT http://kingston.cps-ecp.org/
+
+{% include routes.html %}

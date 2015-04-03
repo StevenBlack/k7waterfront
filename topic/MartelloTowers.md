@@ -11,3 +11,4 @@ See http://www.boldts.net/Kingston4.shtml
 
 {{ImportantStub}}
 
+{% include routes.html %}

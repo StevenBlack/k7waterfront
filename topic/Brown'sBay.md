@@ -12,4 +12,4 @@ A popular destination on Browns Bay is the [[Brown's Bay Inn]].
 
 <img src="http://k7waterfront.org/Images/Chart-BrownsBay.jpg">
 
-
+{% include routes.html %}

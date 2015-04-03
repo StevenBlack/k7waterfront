@@ -11,3 +11,4 @@ title: "__FlickrBadgeSovietBlocks"
 <script type="text/javascript" src="http://www.flickr.com/badge_code_v2.gne?count=5&display=random&size=m&layout=h&source=user_tag&user=27658349%40N00&tag=pucwaterfrontdisgrace"></script>
 </tr></table></td></tr></table><!-- End of Flickr Badge -->
 
+{% include routes.html %}

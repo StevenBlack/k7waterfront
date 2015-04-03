@@ -43,3 +43,4 @@ Phone: (403) 220-7722
 Cell: (403) 651-2515
 Email: gsemmens@ucalgary.ca
 
+{% include routes.html %}

@@ -24,3 +24,4 @@ Website: http://www.cfbkyc.com/
 
 {{stub}}
 
+{% include routes.html %}

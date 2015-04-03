@@ -38,3 +38,4 @@ Kingston's waterfront resource is, if anything, **a spectacular underachievement
 
 **Related**:  KEDCO's grossly misleading (and ultimately botched) [[http://k7waterfront.org/KingstonWaterfrontNews012008.html#3687 waterfront promotion website]].
 
+{% include routes.html %}

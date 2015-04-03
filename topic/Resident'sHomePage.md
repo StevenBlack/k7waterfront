@@ -65,4 +65,4 @@ The reason Kingston's waterfront is fundamentally ruined is because citizens in 
 <li> Be aware of, and consider working towards improving, our waterfront-related [[disappointments]] and [[disgraces]].
 </ul>
 
-
+{% include routes.html %}

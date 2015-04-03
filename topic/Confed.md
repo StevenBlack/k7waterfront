@@ -6,3 +6,5 @@ title: "Confed"
 ---
 
 #REDIRECT ConfederationBasin
+
+{% include routes.html %}

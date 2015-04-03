@@ -26,3 +26,5 @@ Here's a [[http://www.glerl.noaa.gov/pubs/fulltext/2001/20010012.pdf paper discu
 
 ----
 * See [[http://lighthouse.boatnerd.com/gallery/Ontario/EastCharityShoal.htm East Charity Shoal light<br> <img src="http://k7waterfront.org/Images/EastCharityShoalLight.jpg">]].
+
+{% include routes.html %}

@@ -9,6 +9,4 @@ title: "CFB Kingston"
 
 See [[CFB Kingston Yacht Club]], [[Deadman's Bay]],
 
-
-
-
+{% include routes.html %}

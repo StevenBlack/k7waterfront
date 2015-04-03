@@ -54,4 +54,4 @@ The transition from gray to green isn't great by any means, but it <i>may</i> pr
 
 <img src="http://K7Waterfront.org/Images/AerialHarbourFlatNorthShore.jpg">
 
-
+{% include routes.html %}

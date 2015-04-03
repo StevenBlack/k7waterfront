@@ -19,3 +19,4 @@ Members will enjoy the bonus of a $10 deduction from their breakfast costs. You 
 
 If you care about the protection and preservation of Kingston's underwater heritage, please consider joining POW, or at least coming along to the AGM.
 
+{% include routes.html %}

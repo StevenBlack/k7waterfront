@@ -22,4 +22,4 @@ photoone@ihorizons.net
 
 Sailing photographs are available on DVD or individual prints may be ordered by contacting the photographer. All photographs are protected by copyright and may not be reproduced in any form without prior written consent from the photographer.
 
-
+{% include routes.html %}

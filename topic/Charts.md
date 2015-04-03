@@ -23,3 +23,4 @@ title: "Charts"
 <img src="http://k7waterfront.org/Images/Chart-Confed.jpg">
 <img src="http://k7waterfront.org/Images/CharityShoal.jpg">
 
+{% include routes.html %}

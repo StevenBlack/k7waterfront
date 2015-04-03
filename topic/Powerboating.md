@@ -11,7 +11,4 @@ Training in operation of a Power Boat is available by contacting Bill Visser of 
 
 Anyone needing their PCOC (Pleasure Craft Operator Card) may also contact Bill to arrange for training and / or testing.
 
-
-
-
-
+{% include routes.html %}

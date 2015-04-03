@@ -21,5 +21,4 @@ Velocity magnitude in the wake of a wind turbine
 
 </ul>
 
-
-
+{% include routes.html %}

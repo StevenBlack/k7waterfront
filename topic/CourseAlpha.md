@@ -52,4 +52,4 @@ There are **two main causes of traffic** on Alpha course:
 
 If boat traffic is a problem, you can mitigate by strategically placing safety vessels, or get help from the spectator fleet, to notify boats coming from these places to try and stay clear of boats racing.
 
-
+{% include routes.html %}

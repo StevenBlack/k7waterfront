@@ -43,3 +43,4 @@ However, he said "Nature Canada's stance is probably right" because the initial 
 
 The government agencies that received the Wolfe Island bird-kill report have been cautious in their responses, indicating they want to see more data before coming to any conclusions. Still, in a letter to TransAlta, an official of the Ontario Ministry of Natural Resources noted that the number of raptors and vultures killed at Wolfe Island were "among the highest" of any wind farm in the province. An Environment Canada official told TransAlta that the death rate among raptors "merits continued, close monitoring in the future."
 
+{% include routes.html %}

@@ -27,3 +27,4 @@ The iWindsurf.com website provides the basic wind velocity and direction plot fo
 
 #INSERTTOPIC:KingstonYachtClub#WindSensor
 
+{% include routes.html %}

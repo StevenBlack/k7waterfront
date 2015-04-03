@@ -20,3 +20,4 @@ Two articles explaining the situation:
 
 #NEWSITEMS:Beach,beaches,Grass Creek Bark,
 
+{% include routes.html %}

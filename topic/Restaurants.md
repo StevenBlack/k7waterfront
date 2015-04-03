@@ -18,6 +18,4 @@ Unfortunately, Kingston doesn't have very many destinations where you can eat wi
 <b>The [[Island Grill]]</b> on Wolfe Island
 <img src="http://k7waterfront.org/Images/IslandGrillViewFromTheDock.jpg">
 
-
-
-
+{% include routes.html %}

@@ -18,5 +18,4 @@ title: "Race"
 
 #NEWSITEMS:Regatta,Race,Dragon boat, CORK
 
-
-
+{% include routes.html %}

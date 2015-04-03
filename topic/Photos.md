@@ -10,5 +10,4 @@ title: "Photos"
 <img src="http://www3.sympatico.ca/bruce.rand/cover2.jpg">
 <h1>Boats in Collins Bay</h1>
 
-
-
+{% include routes.html %}

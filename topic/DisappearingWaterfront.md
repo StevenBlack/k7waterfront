@@ -39,3 +39,4 @@ jQuery.fn.vjustify=function() {
 };
 </script>
 
+{% include routes.html %}

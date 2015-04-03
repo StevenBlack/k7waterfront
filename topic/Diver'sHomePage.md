@@ -5,5 +5,4 @@ title: "Diver's Home Page"
 
 ---
 
-
-
+{% include routes.html %}

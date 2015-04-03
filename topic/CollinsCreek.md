@@ -12,3 +12,4 @@ The City of Kingston [[http://www.cityofkingston.ca/pdf/cityhall/committees/plan
 
 <img src="http://k7Waterfront.org/Images/CollinsCreekWatershedLg.jpg">
 
+{% include routes.html %}

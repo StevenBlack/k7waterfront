@@ -32,7 +32,4 @@ See the [[Kingston Board Sailing Association]].
 ##Able Sailing
 See [[Able Sail Kingston]].
 
-
-
-
-
+{% include routes.html %}

@@ -34,3 +34,4 @@ Website: http://www.wolfeislandgrill.com/
 
 See also more [[Restaurants|waterfront restaurants]] in the Kingston region.
 
+{% include routes.html %}

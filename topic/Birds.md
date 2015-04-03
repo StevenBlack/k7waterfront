@@ -22,6 +22,4 @@ title: "Birds"
 
 [[http://www.epa.gov/glnpo/image/viz_nat4.html Great Lakes birds and wildlife]] from the US EPA.
 
-
-
-
+{% include routes.html %}

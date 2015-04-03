@@ -29,3 +29,4 @@ Not to be confused with <h3 class="plain">The Sailor's Wind Kingston</h3> , a 36
 
 {{stub}}
 
+{% include routes.html %}

@@ -9,3 +9,4 @@ There are 1,865 islands in the Thousand Islands archipelago starting near Kingst
 
 See also the [[http://en.wikipedia.org/wiki/Thousand_Islands Wikipedia]] article on the Thousand Islands.
 
+{% include routes.html %}

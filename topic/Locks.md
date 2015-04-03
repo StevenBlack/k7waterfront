@@ -25,6 +25,4 @@ See: http://www.rideau-info.com/canal/locks/index.html
 
 http://www.rideau-info.com/canal/locks/index.html
 
-
-
-
+{% include routes.html %}

@@ -16,5 +16,4 @@ title: "Collins Bay"
 <h4>External links:</h4>
 <li> http://www.boldts.net/KingstonD.shtml
 
-
-
+{% include routes.html %}

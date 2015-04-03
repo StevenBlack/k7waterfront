@@ -9,3 +9,4 @@ title: "Points"
 See also the [[bays]] topic.
 #INSERTTOPIC:__GoogleDataMapPoints
 
+{% include routes.html %}

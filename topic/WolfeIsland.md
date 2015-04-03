@@ -13,5 +13,4 @@ Wolfe Island is the largest of the so-called Thousand Islands and is located jus
 <li> http://www.wolfeisland.com/
 <li> [[wikipedia:Wolfe_Island_(Ontario)|Wolfe Island in WikiPedia]]
 
-
-
+{% include routes.html %}

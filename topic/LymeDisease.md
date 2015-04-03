@@ -9,3 +9,4 @@ Here are some of the items we've posted about Lyme Disease-carrying ticks which 
 
 #NEWSITEMS:Lyme,Ticks
 
+{% include routes.html %}

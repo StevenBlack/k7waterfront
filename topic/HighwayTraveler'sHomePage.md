@@ -41,5 +41,4 @@ title: "Highway Traveler's Home Page"
 <li> [[http://www.ahoyrentals.com/packages.htm Skippered sailing packages]]
 </ul>
 
-
-
+{% include routes.html %}

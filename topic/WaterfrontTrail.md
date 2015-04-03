@@ -20,3 +20,4 @@ Direct links to PDF maps:
 * [[http://waterfronttrail.org/maps/wt-6_05.pdf Treasure Island Area <br><img src="Images/WaterfrontTreasureIsland.jpg">]]
 * [[http://waterfronttrail.org/maps/wt-6_06.pdf Pitts Ferry Area <br><img src="Images/WaterfrontTrailPittsFerry.jpg">]]
 
+{% include routes.html %}

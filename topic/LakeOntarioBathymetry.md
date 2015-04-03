@@ -15,3 +15,4 @@ Links to good Lake Ontario bathymetry resources
 <li> [[http://www.ngdc.noaa.gov/mgg/greatlakes/lakeontario_cdrom/images/a11_lg.jpg JPG of Galoo and Stony Basins]] (3150.63 KB)
 <li> [[http://www.ngdc.noaa.gov/mgg/greatlakes/lakeontario_cdrom/html/gmorph.htm Various clickable images and diagrams]]
 
+{% include routes.html %}

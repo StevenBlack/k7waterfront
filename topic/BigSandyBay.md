@@ -28,5 +28,4 @@ The [[http://www.bigsandybay.ca/ Friends of Big Sandy Bay]] maintains [[http://w
 
 #NEWSITEMS:Big Sandy Bay
 
-
-
+{% include routes.html %}

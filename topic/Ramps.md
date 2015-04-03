@@ -29,5 +29,4 @@ See also [[http://www.geocities.com/ottawaboatramps/ John Thompson's list of ram
 
 See also [[http://www.rideau-info.com/canal/boat-launch.html Boat Launches on the Rideau Canal]].
 
-
-
+{% include routes.html %}

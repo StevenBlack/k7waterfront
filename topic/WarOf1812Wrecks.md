@@ -16,3 +16,4 @@ There are three ships in Kingston waters that are flagships from the war of 1812
 
 Kingston has a vast and interesting maritime history and to have three ships that were flagships at one time or another during there life here is a phenomenon.
 
+{% include routes.html %}

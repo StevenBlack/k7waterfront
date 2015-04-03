@@ -31,8 +31,4 @@ Looking at the bottom profile in the diagrams of Kingston Harbour below, it's ea
 
 <img src="images/KingstonHarbourAreaBathymetry2mContours.jpg">
 
-
-
-
-
-
+{% include routes.html %}

@@ -15,4 +15,4 @@ A prime and mostly deserted Wolfe Island dock is "for hotel guests only", with e
 
 <h3>Confederation Basin docking fees</h3>[[http://k7waterfront.org/Topic/__Whig20070630 Started in summer 2007]].  Pay and [[http://muzzles-for-dogs.com/leather-dog-muzzles.html display]].
 
-
+{% include routes.html %}

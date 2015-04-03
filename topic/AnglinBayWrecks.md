@@ -20,3 +20,4 @@ The wrecks are not to be disturbed as they are archeological sites under the Ont
 
 <img src="images/AnglinBayJan06,5.jpg"><img src="images/AnglinBayJan06,6.jpg"><img src="images/AnglinBayJan06,7.jpg">
 
+{% include routes.html %}

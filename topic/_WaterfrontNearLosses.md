@@ -14,4 +14,4 @@ Citizens had to [[http://kcal.ca fight like hell]] to save Fluhrer park, [[http:
 <h3>Marine Museum of the Great Lakes</h3>
 Both the federal government and city have provided the Museum with "letters of comfort" supporting the goal of the Marine Museum remaining at the current location permanently.  But for a long while, things were looking bleak.
 
-
+{% include routes.html %}

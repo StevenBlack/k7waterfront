@@ -39,3 +39,4 @@ For more information contact **Jamie Linton** (Jamie.linton@queensu.ca, 344-0232
 
 #NEWSITEMS:RICHARDSON BEACH
 
+{% include routes.html %}

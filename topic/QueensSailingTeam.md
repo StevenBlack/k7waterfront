@@ -6,3 +6,5 @@ title: "Queens Sailing Team"
 ---
 
 #REDIRECT http://www.queenssailing.ca/
+
+{% include routes.html %}

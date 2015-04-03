@@ -7,3 +7,4 @@ title: "Cataraqui Canoe Club"
 
 #REDIRECT http://cataraquicanoe.on.ca/index.html
 
+{% include routes.html %}

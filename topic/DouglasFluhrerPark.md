@@ -28,3 +28,4 @@ title: "Douglas Fluhrer Park"
 ##Parking At Fluhrer Park
 #INSERTTOPIC:ParkingAtFluhrerPark
 
+{% include routes.html %}

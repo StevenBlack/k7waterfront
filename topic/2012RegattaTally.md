@@ -47,3 +47,4 @@ Here's the tally of races sailed v races scheduled.
 
 </table>
 
+{% include routes.html %}

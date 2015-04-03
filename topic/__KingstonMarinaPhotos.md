@@ -16,3 +16,4 @@ a {padding-right: 0px !important; background: none !important; text-decoration: 
 </div>
 <!-- End of Flickr Badge -->
 
+{% include routes.html %}

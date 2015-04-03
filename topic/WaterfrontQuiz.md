@@ -16,3 +16,4 @@ Guess, then click the photo to see
 <hr class="clearboth">
 ##Where Am I? #2
 
+{% include routes.html %}

@@ -15,7 +15,4 @@ title: "Fuel"
 <li> [[Collins Bay Marina]]
 <li> [[Treasure Island Marina]]
 
-
-
-
-
+{% include routes.html %}

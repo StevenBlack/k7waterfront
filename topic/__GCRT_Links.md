@@ -24,3 +24,4 @@ title: "__GCRT_Links"
 
 * [[http://k7waterfront.org/gcrtrail/COU_Agenda-2010.pdf Council Agenda]] from Sept 7th 2010
 
+{% include routes.html %}

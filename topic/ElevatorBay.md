@@ -14,3 +14,4 @@ title: "Elevator Bay"
 
 #NEWSITEMS:Elevator
 
+{% include routes.html %}

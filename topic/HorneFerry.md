@@ -37,3 +37,4 @@ $("#sched").hide()
                      });
 </script>
 
+{% include routes.html %}

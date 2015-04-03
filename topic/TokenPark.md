@@ -11,3 +11,4 @@ As part of the agreement between the developer (Homestead Landholdings) and the 
 
 #NEWSITEMS:Token Park
 
+{% include routes.html %}

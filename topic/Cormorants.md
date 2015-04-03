@@ -53,3 +53,4 @@ hub@collinsbaymarina.com
 There are [[http://www.cbc.ca/toronto/story/tor-cormorants20060501.html some who are fighting to protect cormorants]].  See also [[http://www.cbc.ca/story/news/national/2006/04/30/ruby-060430.html here]].
 </div>
 
+{% include routes.html %}

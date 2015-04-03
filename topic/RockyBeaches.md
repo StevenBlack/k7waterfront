@@ -13,6 +13,4 @@ See also: [[Richardson Beach]]
 
 #INSERTTOPIC:RichardsonBeach
 
-
-
-
+{% include routes.html %}

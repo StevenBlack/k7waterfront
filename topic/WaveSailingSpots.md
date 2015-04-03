@@ -11,3 +11,4 @@ Not meaning to steal their material, the image below is a teaser of their clicka
 
 [[http://www.geocities.com/kingstonboardsailing/maps/philspots.htm <img src="Images\WaveSailingSpots.jpg">]]
 
+{% include routes.html %}

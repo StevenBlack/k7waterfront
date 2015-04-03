@@ -29,3 +29,4 @@ $(function(){
 });
 </script>
 
+{% include routes.html %}

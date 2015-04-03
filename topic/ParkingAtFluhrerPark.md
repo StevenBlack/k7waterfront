@@ -11,3 +11,4 @@ So much for the idea of having a betterment to parking without paying  -- Is thi
 
 <a href="http://www.flickr.com/photos/kcal/187810608/" title="Photo Sharing"><img src="http://static.flickr.com/46/187810608_697b56cfe9_m.jpg" width="240" height="178" alt="Fluhrer Park Parking" /></a><a href="http://www.flickr.com/photos/kcal/187810548/" title="Photo Sharing"><img src="http://static.flickr.com/54/187810548_f36456adcb_m.jpg" width="240" height="178" alt="Fluhrer Park Parking" /></a>
 
+{% include routes.html %}

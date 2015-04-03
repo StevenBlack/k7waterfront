@@ -21,3 +21,4 @@ Today, Deadman's Bay is the location of the [[CFB Kingston Yacht Club]] and [[Ar
 
 #INSERTTOPIC:__GoogleMapDeadmanBay
 
+{% include routes.html %}

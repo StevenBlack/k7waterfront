@@ -11,3 +11,4 @@ title: "Cartwright Point"
 
 {{stub}}
 
+{% include routes.html %}

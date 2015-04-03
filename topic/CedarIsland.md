@@ -25,3 +25,5 @@ fading sunset.
 Source: [Thousand Islands Water Trail, Route 1](http://www.paddle1000.com/books/route1.pdf#page=3)
 
 See [Google Maps centered on Cedar Island](http://maps.google.com/maps?q=Kingston,+ON&ll=44.224321,-76.454115&spn=0.020539,0.056099&hl=en)
+
+{% include routes.html %}

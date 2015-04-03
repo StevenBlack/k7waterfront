@@ -11,3 +11,4 @@ title: "Wolfe Island Wind Project Cable10 Day Notice"
 
 <img src="http://K7Waterfront.org/Images/WolfeIslandCable10-DayPublicNoticeEnglish.jpg">
 
+{% include routes.html %}

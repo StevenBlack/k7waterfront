@@ -48,4 +48,4 @@ With only <a href="http://k7waterfront.org/KingstonWaterfrontNews012008.html#367
 <a href="http://k7waterfront.org/KingstonWaterfrontNews062008.html#3799"><img src="http://k7Waterfront.org/Images/PreTokenParkWalls-100h.jpg" class="floatright" alt="Kingston Marinas RFP"></a><h3>[[Token Park]] ( Block D ) seawalls  (2010)</h3>
 Lost are <strong>some 200m of dockable seawall</strong> in Confederation Basin. <a href="http://www.cityofkingston.ca/pdf/planning/blockd/BlockDPark_Phase1.pdf">What was built</a> is a tumblestone block finish, the minimum-cost option for Homestead Land Holdings.
 
-
+{% include routes.html %}

@@ -27,6 +27,4 @@ Website: http://www.forthenry.com/home.htm
 
 <body>&copy;Bruce Rand 2005
 
-
-
-
+{% include routes.html %}

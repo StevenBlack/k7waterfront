@@ -26,3 +26,4 @@ It's notable that the [[Cataraqui Region Conservation Authority]] has little if 
 
 {{stub}}
 
+{% include routes.html %}

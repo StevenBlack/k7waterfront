@@ -12,3 +12,4 @@ An image from the [[http://www.cityofkingston.ca/residents/recreation/parks/inde
 
 #NEWSITEMS:Lake Ontario Park, LOP
 
+{% include routes.html %}

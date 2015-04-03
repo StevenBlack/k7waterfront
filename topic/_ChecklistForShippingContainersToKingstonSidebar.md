@@ -35,3 +35,4 @@ Also:
 </ul>
 </div>
 
+{% include routes.html %}

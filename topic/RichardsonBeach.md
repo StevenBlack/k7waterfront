@@ -16,3 +16,4 @@ Richardson Beach, also known as "Emily Street", is a favorite location for winds
 
 #NEWSITEMS:Richardson Beach,Emily Street
 
+{% include routes.html %}

@@ -23,3 +23,4 @@ The <a href="http://KingstonYachtClub.com/Wind">KYC online wind sensor</a> is lo
 <img src="images/KYCCrane.jpg">
 <a name="news"></a>#NEWSITEMS:Kingston Yacht Club,KYC
 
+{% include routes.html %}

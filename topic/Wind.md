@@ -354,3 +354,4 @@ See also [[Wind Sensors]]
 <hr>
 #INSERTTOPIC:BooksAboutKingstonWind
 
+{% include routes.html %}

@@ -11,3 +11,4 @@ title: "News"
 $("a[href=/Topic/NewsFullArchive]").hide();
 </script>
 
+{% include routes.html %}

@@ -17,3 +17,4 @@ Website: http://www.rideau-info.com/canal/locks/46-49-kingstonmills.html
 
 <img src="http://k7waterfront.org/Images/Chart-KingstonMillsSwim.jpg" alt="Chart of Kingston Mills locks">
 
+{% include routes.html %}

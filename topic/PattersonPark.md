@@ -7,3 +7,4 @@ title: "Patterson Park"
 
 #REDIRECT PatersonPark here.
 
+{% include routes.html %}

@@ -11,8 +11,4 @@ title: "Visit"
 <b>Martello Towers</b>
 <li> http://www.boldts.net/Kingston4.shtml
 
-
-
-
-
-
+{% include routes.html %}

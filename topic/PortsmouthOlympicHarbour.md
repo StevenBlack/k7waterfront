@@ -49,3 +49,4 @@ Fax (613) 544-4776
 MetaDescription: Portsmouth Olympic Harbour marina in Kingston Ontario.
 MetaKeywords: Portsmouth Olympic Harbour Marina, Marina in Kingston, Sailing, Boating
 
+{% include routes.html %}

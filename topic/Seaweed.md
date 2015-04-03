@@ -20,3 +20,4 @@ Seaweed off the dock at the [[Island Grill]] in Barrett Bay, Sept 2006:<br>
 <b>Seaweed off the dock at the [[Rideau Marina]], Sept 2006:
  <p><img src="http://k7waterfront.org/Images/Seaweed2006RideauMarina.jpg" height="50%" width="50%">
 
+{% include routes.html %}

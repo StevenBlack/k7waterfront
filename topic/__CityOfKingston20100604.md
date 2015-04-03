@@ -22,5 +22,4 @@ Media contact information:
 Clint Long Training Officer, Kingston Fire and Rescue
 548-4001 ext 5221.
 
-
-
+{% include routes.html %}

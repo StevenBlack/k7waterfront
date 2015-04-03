@@ -14,3 +14,4 @@ See also [[Islands]] and [[Gunkhole|Gunkholing]].
 
 <img class="chartsegment" src="Images/Chart-Milton-Spectacles.jpg"><img class="chartsegment" src="Images/MiltonIslandDetail.jpg">
 
+{% include routes.html %}

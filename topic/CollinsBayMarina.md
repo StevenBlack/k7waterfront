@@ -31,3 +31,4 @@ See also the [[http://collinsbaymarina.com/ Collins Bay Marina website]].
 <h3>Collins Bay Marina Awards</h3>
 <img src="images/CollinsBay5anchoreco-rating2005.jpg" class="span-15"><img src="images/CBCASBA2.JPG" class="span-15 last"><img src="images/CASBAAward2006.jpg" class="span-15">
 
+{% include routes.html %}
