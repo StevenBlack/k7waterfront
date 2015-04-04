@@ -1,7 +1,7 @@
 ---
 layout: topic
-permalink: "/topic/CollinsBayMarina/"
-title: "Collins Bay Marina"
+permalink: /topic/CollinsBayMarina/
+title: Collins Bay Marina
 
 ---
 

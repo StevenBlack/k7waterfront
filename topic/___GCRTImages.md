@@ -1,7 +1,7 @@
 ---
 layout: topic
-permalink: "/topic/___GCRTImages/"
-title: "___GCRTImages"
+permalink: /topic/___GCRTImages/
+title: ___GCRTImages
 
 ---
 

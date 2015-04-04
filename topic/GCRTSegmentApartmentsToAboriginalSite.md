@@ -1,7 +1,7 @@
 ---
 layout: topic
-permalink: "/topic/GCRTSegmentApartmentsToAboriginalSite/"
-title: "GCRT Segment Apartments To Aboriginal Site"
+permalink: /topic/GCRTSegmentApartmentsToAboriginalSite/
+title: GCRT Segment Apartments To Aboriginal Site
 
 ---
 

@@ -1,7 +1,7 @@
 ---
 layout: topic
-permalink: "/topic/RideauMarina/"
-title: "Rideau Marina"
+permalink: /topic/RideauMarina/
+title: Rideau Marina
 
 ---
 

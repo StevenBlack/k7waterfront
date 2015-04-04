@@ -1,7 +1,7 @@
 ---
 layout: topic
-permalink: "/topic/GCRTSegmentBelleParkToApartments/"
-title: "GCRT Segment Belle Park To Apartments"
+permalink: /topic/GCRTSegmentBelleParkToApartments/
+title: GCRT Segment Belle Park To Apartments
 
 ---
 

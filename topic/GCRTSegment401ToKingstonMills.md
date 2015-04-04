@@ -1,7 +1,7 @@
 ---
 layout: topic
-permalink: "/topic/GCRTSegment401ToKingstonMills/"
-title: "GCRT Segment401 To Kingston Mills"
+permalink: /topic/GCRTSegment401ToKingstonMills/
+title: GCRT Segment401 To Kingston Mills
 
 ---
 

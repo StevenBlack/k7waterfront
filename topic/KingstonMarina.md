@@ -1,7 +1,7 @@
 ---
 layout: topic
-permalink: "/topic/KingstonMarina/"
-title: "Kingston Marina"
+permalink: /topic/KingstonMarina/
+title: Kingston Marina
 
 ---
 

@@ -1,7 +1,7 @@
 ---
 layout: topic
-permalink: "/topic/GCRTSegmentCausewayToRowingClub/"
-title: "GCRT Segment Causeway To Rowing Club"
+permalink: /topic/GCRTSegmentCausewayToRowingClub/
+title: GCRT Segment Causeway To Rowing Club
 
 ---
 

@@ -1,7 +1,7 @@
 ---
 layout: topic
-permalink: "/topic/PortsmouthOlympicHarbour/"
-title: "Portsmouth Olympic Harbour"
+permalink: /topic/PortsmouthOlympicHarbour/
+title: Portsmouth Olympic Harbour
 
 ---
 
