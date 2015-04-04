@@ -5,7 +5,7 @@ title: "Endangered"
 
 ---
 
-{{stub}}
+{% include stub.html %}
 ##Certifyably endangered things on our waterfront
 
 <ul>

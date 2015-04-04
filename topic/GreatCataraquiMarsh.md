@@ -24,6 +24,6 @@ It's notable that the [Cataraqui Region Conservation Authority][cataraquiregionc
 
 #INSERTTOPIC:__GoogleDataMapGreatCataraquiMarsh
 
-{{stub}}
+{% include stub.html %}
 
 {% include routes.html %}

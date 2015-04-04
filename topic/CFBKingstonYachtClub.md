@@ -22,6 +22,6 @@ Website: http://www.cfbkyc.com/
 </markers>
 </googlemapdata>
 
-{{stub}}
+{% include stub.html %}
 
 {% include routes.html %}

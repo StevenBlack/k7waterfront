@@ -9,6 +9,6 @@ title: "Cartwright Point"
 
 <img src="Images\Aerial\CartwrightPointAerial.jpg">
 
-{{stub}}
+{% include stub.html %}
 
 {% include routes.html %}

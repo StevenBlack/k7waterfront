@@ -7,6 +7,6 @@ title: "Environment"
 
 ##Environment
 
-{{stub}}
+{% include stub.html %}
 
 {% include routes.html %}

@@ -26,6 +26,6 @@ The navigation buoys in the Great Cataraqui River are maintained by Parks Canada
 Here's a nice photo set of The Cataraqui River: http://emily.gallery.whitelands.com/photos/kingston/kayaking/cataraquiriver
 ----
   Dec 8, 2006: The surface of the Cataraqui River froze overnight between December 7 and December 8 2006.
-{{stub}}
+{% include stub.html %}
 
 {% include routes.html %}

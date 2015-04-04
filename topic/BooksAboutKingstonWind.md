@@ -27,6 +27,6 @@ Not to be confused with <h3 class="plain">The Sailor's Wind Kingston</h3> , a 36
 </div>
 
 
-{{stub}}
+{% include stub.html %}
 
 {% include routes.html %}

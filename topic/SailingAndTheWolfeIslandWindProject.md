@@ -42,7 +42,7 @@ These things seem immediately evident:
 
 
 
-{{stub}}
+{% include stub.html %}
 ----
 These photos are from information displays at the March 28 2007 Wolfe Island Wind Project open house.  This would be a layman's powerpoint slide of the envelope of disrupted airflow over Wolfe Island.
 <img src="http://K7Waterfront.org/Images/WolfeIslandWindProjectWindRace01.jpg" class="image1px"><img src="http://K7Waterfront.org/Images/WolfeIslandWindProjectWindRace02.jpg" class="image1px"><img src="http://K7Waterfront.org/Images/WolfeIslandWindProjectKingstonWindLegend.jpg" class="image1px">
