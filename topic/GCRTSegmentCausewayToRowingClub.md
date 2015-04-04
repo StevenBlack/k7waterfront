@@ -1,15 +1,23 @@
 ---
 layout: topic
-permalink: /topic/GCRTSegmentCausewayToRowingClub/
+permalink: "/topic/GCRTSegmentCausewayToRowingClub/"
 title: GCRT Segment Causeway To Rowing Club
+imagefolder: http://k7Waterfront.org/GCRTrail/images/
+images:
+- url: CausewayToRowingClub_DougFluhrerParkTrail.jpg
+  caption: Children cycling in Doug Fluhrer Park
+- url: CausewayToRowingClub_DougFluhrerPark.jpg
+  caption: Doug Fluhrer Park
+- url: CausewayToRowingClub_WoolenMill.jpg
+  caption: Historic Woolen Mill on the Waterfront
 
 ---
 
 #INSERTTOPIC:__GCRT_Menu
-[[Image:settings|size=440px|baseuri=http://k7Waterfront.org/GCRTrail/images/]]
-[[Image:CausewayToRowingClub_DougFluhrerParkTrail.jpg|caption=Children cycling in Doug Fluhrer Park]]
-[[Image:CausewayToRowingClub_DougFluhrerPark.jpg|caption=Doug Fluhrer Park]]
-[[Image:CausewayToRowingClub_WoolenMill.jpg|caption=Historic Woolen Mill on the Waterfront]]
+
+
+
+
 ###Segment Description
 
 From the La Salle Causeway, the trail may proceed:

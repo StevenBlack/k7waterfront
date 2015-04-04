@@ -1,7 +1,10 @@
 ---
 layout: topic
-permalink: /topic/RideauMarina/
+permalink: "/topic/RideauMarina/"
 title: Rideau Marina
+images:
+- url: RideauMarinaTravelLift.jpg
+  caption: 25-Ton travel lift at Rideau Marina
 
 ---
 
@@ -11,7 +14,7 @@ Google[Rideau Marina]
 
 <a name="hoist">
 <h3>Hoisting capability at [Rideau Marina][rideaumarina]
-[[Image:RideauMarinaTravelLift.jpg|caption=25-Ton travel lift at Rideau Marina|size=400px]]
+
 * 25-Ton Travel Lift
 * 10-Ton Fork Lift
 

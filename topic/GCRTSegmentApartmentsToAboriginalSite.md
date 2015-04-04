@@ -1,17 +1,33 @@
 ---
 layout: topic
-permalink: /topic/GCRTSegmentApartmentsToAboriginalSite/
+permalink: "/topic/GCRTSegmentApartmentsToAboriginalSite/"
 title: GCRT Segment Apartments To Aboriginal Site
+imagefolder: http://k7Waterfront.org/GCRTrail/images/
+images:
+- url: ApartmentsToAboriginalSite_AreaWithAboriginalHistory.jpg
+  caption: The so-called "Outer Station" Native Archaeological Hunting and Fishing
+    Site
+- url: ApartmentsToAboriginalSite_EastEndOfCounter.jpg
+  caption: East end of John Counter Blvd.  Location of the proposed Third Crossing.  Music
+    Marina in background on left.
+- url: ApartmentsToAboriginalSite_JustNorthOfAboriginalArea.jpg
+  caption: Old railway connecting with current CN track just north of the Outer Station
+    site.
+- url: ApartmentsToAboriginalSite_NewTownhouseDevelopment.jpg
+  caption: Walking through the The River Park Housing Complex located on the northeast
+    corner of Montreal St and John Counter Blvd.
+- url: ApartmentsToAboriginalSite_RiverNearEndOfCounter.jpg
+  caption: Looking across the water from the Outer Station Archaeological site.
 
 ---
 
 #INSERTTOPIC:__GCRT_Menu
-[[Image:settings|size=440px|baseuri=http://k7Waterfront.org/GCRTrail/images/]]
-[[Image:ApartmentsToAboriginalSite_AreaWithAboriginalHistory.jpg|caption=The so-called "Outer Station" Native Archaeological Hunting and Fishing Site]]
-[[Image:ApartmentsToAboriginalSite_EastEndOfCounter.jpg|caption=East end of John Counter Blvd.  Location of the proposed Third Crossing.  Music Marina in background on left.]]
-[[Image:ApartmentsToAboriginalSite_JustNorthOfAboriginalArea.jpg|caption=Old railway connecting with current CN track just north of the Outer Station site.]]
-[[Image:ApartmentsToAboriginalSite_NewTownhouseDevelopment.jpg|caption=Walking through the The River Park Housing Complex located on the northeast corner of Montreal St and John Counter Blvd.]]
-[[Image:ApartmentsToAboriginalSite_RiverNearEndOfCounter.jpg|caption=Looking across the water from the Outer Station Archaeological site.]]
+
+
+
+
+
+
 ###Segment Description
 
 If and when the third crossing happens, the proposed trail will be integrated with it and proceed across to the east side of the Great Cataraqui River to integrate with the existing cycling paths there.

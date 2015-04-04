@@ -1,12 +1,17 @@
 ---
 layout: topic
-permalink: /topic/CollinsBayMarina/
+permalink: "/topic/CollinsBayMarina/"
 title: Collins Bay Marina
+images:
+- url: Hub/Aerial of CBM b.jpg
+  caption: Aerial view of Collins Bay Marina
+- url: CBMCrane.jpg
+  caption: Collins Bay Marina has impressive hoisting capability on-site
 
 ---
 
 ##Collins Bay Marina
-[[Image:Hub/Aerial of CBM b.jpg|caption=Aerial view of Collins Bay Marina|size=400px]]
+
 
 <strong>The Collins Bay Marina</strong> is located in the North East corner of [Collins Bay][collinsbay].
 
@@ -15,7 +20,7 @@ The [Collins Bay Yacht Club][collinsbayyachtclub] is here too.
 See also the [http://collinsbaymarina.com/](Collins Bay Marina website).
 
 <a name="crane"></a><h3>Hoisting services at [Collins Bay Marina][collinsbaymarina]
-[[Image:CBMCrane.jpg|caption=Collins Bay Marina has impressive hoisting capability on-site|size=400px]]
+
 <ul >
 <li> On-site mobile 65-ton crane
 <li> On-site mobile 45-ton crane

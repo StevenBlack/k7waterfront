@@ -1,7 +1,10 @@
 ---
 layout: topic
-permalink: /topic/KingstonMarina/
+permalink: "/topic/KingstonMarina/"
 title: Kingston Marina
+images:
+- url: 75TonCraneKingstonMarina.jpg
+  caption: Kingston Marina's 75-ton crane
 
 ---
 
@@ -16,7 +19,7 @@ Kingston Marina is operated by the adjacent [MetalCraft Marine][metalcraftmarine
 
 <a name="crane"></a>
 <h3>Hoisting at [Kingston Marina][kingstonmarina]
-[[Image:75TonCraneKingstonMarina.jpg|caption=Kingston Marina's 75-ton crane|size=400px]]
+
 
 <ul>
 <li> 75-ton crane

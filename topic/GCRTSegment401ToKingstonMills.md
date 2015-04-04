@@ -1,17 +1,29 @@
 ---
 layout: topic
-permalink: /topic/GCRTSegment401ToKingstonMills/
+permalink: "/topic/GCRTSegment401ToKingstonMills/"
 title: GCRT Segment401 To Kingston Mills
+imagefolder: http://k7Waterfront.org/GCRTrail/images/
+images:
+- url: 401ToKingstonMills_LocksAtKingstonMills.jpg
+  caption: 'Final Destination of the Trail:  The locks at Kingston Mills'
+- url: 401ToKingstonMills_LookingSouth.jpg
+  caption: Looking South
+- url: 401ToKingstonMills_MarshlandsNorthOf401.jpg
+  caption: Marshlands North of 401
+- url: 401ToKingstonMills_OldPrivateRrUnderpass.jpg
+  caption: Old private railway underpass
+- url: 401ToKingstonMills_SmallRun-Off.jpg
+  caption: " Run-off through old stone culvert"
 
 ---
 
 #INSERTTOPIC:__GCRT_Menu
-[[Image:settings|size=440px|baseuri=http://k7Waterfront.org/GCRTrail/images/]]
-[[Image:401ToKingstonMills_LocksAtKingstonMills.jpg|caption=Final Destination of the Trail:  The locks at Kingston Mills]]
-[[Image:401ToKingstonMills_LookingSouth.jpg|caption=Looking South]]
-[[Image:401ToKingstonMills_MarshlandsNorthOf401.jpg|caption=Marshlands North of 401]]
-[[Image:401ToKingstonMills_OldPrivateRrUnderpass.jpg|caption=Old private railway underpass]]
-[[Image:401ToKingstonMills_SmallRun-Off.jpg|caption= Run-off through old stone culvert]]
+
+
+
+
+
+
 ###Segment Description
 
 This section of the trail is two privately owned lots together comprising about 50 acres.  Most of the terrain is high ground although a drainage culvert was put in over 100 years ago to drain the farmland between the railway and Kingston Mills Road.

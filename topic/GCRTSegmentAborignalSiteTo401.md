@@ -1,15 +1,23 @@
 ---
 layout: topic
-permalink: /topic/GCRTSegmentAborignalSiteTo401/
+permalink: "/topic/GCRTSegmentAborignalSiteTo401/"
 title: GCRT Segment Aborignal Site To401
+imagefolder: http://k7Waterfront.org/GCRTrail/images/
+images:
+- url: AborignalSiteTo401_MarshAndRiver.jpg
+  caption: Looking east from the marsh on the west across the Great Cataraqui River
+- url: AborignalSiteTo401_MarshWith401InTheDistance.jpg
+  caption: Looking south and back towards the 401 in the distance
+- url: AborignalSiteTo401_RailroadBridgeUnder401.jpg
+  caption: Railroad bridge under 401 showing the central arch with the two train tracks.
 
 ---
 
 #INSERTTOPIC:__GCRT_Menu
-[[Image:settings|size=440px|baseuri=http://k7Waterfront.org/GCRTrail/images/]]
-[[Image:AborignalSiteTo401_MarshAndRiver.jpg|caption=Looking east from the marsh on the west across the Great Cataraqui River]]
-[[Image:AborignalSiteTo401_MarshWith401InTheDistance.jpg|caption=Looking south and back towards the 401 in the distance]]
-[[Image:AborignalSiteTo401_RailroadBridgeUnder401.jpg|caption=Railroad bridge under 401 showing the central arch with the two train tracks.]]
+
+
+
+
 ###Segment Description
 
 This segment of the trail is the longest, going from the Outer Station Archaeological Site to the 401.  The proposed trail would go through the marsh on the water side of the CN railway at a sufficient distance from the railway to alleviate safety concerns.  At the 401 railway underpass, the bridge has three arches.  The central arch is over two tracks.  The proposed trail would pass under the eastern arch.

@@ -1,7 +1,10 @@
 ---
 layout: topic
-permalink: /topic/PortsmouthOlympicHarbour/
+permalink: "/topic/PortsmouthOlympicHarbour/"
 title: Portsmouth Olympic Harbour
+images:
+- url: POH2TonCrane.jpg
+  caption: 2-Ton Crane at Portsmouth Olympic Harbour
 
 ---
 
@@ -22,7 +25,7 @@ See the [http://www.cityofkingston.ca/residents/recreation/marinas/ports.asp](PO
 
 
 <a name="hoist">
-[[Image:POH2TonCrane.jpg|caption=2-Ton Crane at Portsmouth Olympic Harbour|size=400px]]
+
 
 <h3>Hoist capability at [Portsmouth Olympic Harbour][portsmoutholympicharbour]
 <li>2-Ton Crane

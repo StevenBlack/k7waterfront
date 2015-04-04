@@ -1,18 +1,31 @@
 ---
 layout: topic
-permalink: /topic/GCRTSegmentRowingClubToBellePark/
+permalink: "/topic/GCRTSegmentRowingClubToBellePark/"
 title: GCRT Segment Rowing Club To Belle Park
+imagefolder: http://k7Waterfront.org/GCRTrail/images/
+images:
+- url: RowingclubToBellePark_BelleParkIsInTheDistance.jpg
+  caption: Gravel Berm along waterfront in Tannery with Belle Park in the distance
+- url: RowingclubToBellePark_City'sSewagePumpingPlant.jpg
+  caption: "Rowing Club dock and city's sewage pumping plant.\r\nNote fence currently
+    blocking access to waterfront."
+- url: RowingclubToBellePark_LookingNorthToBellePark.jpg
+  caption: Looking North to Belle Park.  Near possible location of bridge from Tannery
+    to Belle Park.
+- url: RowingclubToBellePark_OldRrLineToBellePark.jpg
+  caption: Old railway line to Belle Park parallel to Rideau St.
+- url: RowingclubToBellePark_TanneryLands.jpg
+  caption: Tannery Lands
 
 ---
 
 #INSERTTOPIC:__GCRT_Menu
-[[Image:settings|size=440px|baseuri=http://k7Waterfront.org/GCRTrail/images/]]
-[[Image:RowingclubToBellePark_BelleParkIsInTheDistance.jpg|caption=Gravel Berm along waterfront in Tannery with Belle Park in the distance]]
-[[Image:RowingclubToBellePark_City'sSewagePumpingPlant.jpg|caption=Rowing Club dock and city's sewage pumping plant.
-Note fence currently blocking access to waterfront.]]
-[[Image:RowingclubToBellePark_LookingNorthToBellePark.jpg|caption=Looking North to Belle Park.  Near possible location of bridge from Tannery to Belle Park.]]
-[[Image:RowingclubToBellePark_OldRrLineToBellePark.jpg|caption=Old railway line to Belle Park parallel to Rideau St.]]
-[[Image:RowingclubToBellePark_TanneryLands.jpg|caption=Tannery Lands]]
+
+
+
+
+
+
 ###Segment Description
 
 Proposed trail will proceed north along the waterfront in front of the sewage pumping plant to the Tannery property.
