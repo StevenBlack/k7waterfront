@@ -8,6 +8,7 @@ baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://k7waterfront.org" # the base hostname & protocol for your site
 twitter_username: k7Waterfront
 github_username:  StevenBlack/k7waterfront
+site.image_default_alt: "Kingston, Ontario Waterfront"
 
 # Build settings
 markdown: kramdown
