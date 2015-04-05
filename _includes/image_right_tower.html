@@ -1,6 +1,5 @@
 {% unless page.images == blank %}
-	<div class="col-md-4 pull-right">
-
+	<div class="col-md-6 pull-right">
 	{% for item in page.images %}
 		{% if item.alt %}
 		  {% assign alt = item.alt %}
@@ -13,11 +12,13 @@
 		{% else %}
 		  {% assign alt = site.image_default_alt %}
 		{% endif %}
-		<div class="clearfix">
-			{% if item.link %}<a href="{{ item.link }}">{% endif %}
-			<img alt="{{ alt }}" src="{{ item.url }}" class="img-responsive img-rounded img-thumbnail">
-			{% if item.link %}</a>{% endif %}
-			<div class="thumbcaption">{{ item.caption }}</div>
+		<div class="panel panel-default">
+			<div class="panel-body">
+				{% if item.link %}<a href="{{ item.link }}">{% endif %}
+				<img alt="{{ alt }}" src="{{ item.url }}" class="img-responsive img-rounded">
+				{% if item.link %}</a>{% endif %}
+			</div>
+			<div class="panel-footer">{{ item.caption }}</div>
 		</div>
 	{% endfor %}
 	</div>
