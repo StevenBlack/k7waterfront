@@ -1,0 +1,24 @@
+{% unless page.images == blank %}
+	<div class="col-md-4 pull-right">
+
+	{% for item in page.images %}
+		{% if item.alt %}
+		  {% assign alt = item.alt %}
+		{% elsif item.caption %}
+		  {% assign alt = item.caption %}
+		{% elsif post.alt %}
+		  {% assign alt = post.image_default_alt %}
+		{% elsif page.alt %}
+		  {% assign alt = page.image_default_alt %}
+		{% else %}
+		  {% assign alt = site.image_default_alt %}
+		{% endif %}
+		<div class="clearfix">
+			{% if item.link %}<a href="{{ item.link }}">{% endif %}
+			<img alt="{{ alt }}" src="{{ item.url }}" class="img-responsive img-rounded img-thumbnail">
+			{% if item.link %}</a>{% endif %}
+			<div class="thumbcaption">{{ item.caption }}</div>
+		</div>
+	{% endfor %}
+	</div>
+{% endunless %}
