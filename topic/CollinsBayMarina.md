@@ -9,10 +9,6 @@ images:
   caption: Collins Bay Marina has impressive hoisting capability on-site.
 
 ---
-
-##Collins Bay Marina
-
-
 **The Collins Bay Marina** is located in the North East corner of [Collins Bay][collinsbay].
 
 The [Collins Bay Yacht Club][collinsbayyachtclub] is here too.
