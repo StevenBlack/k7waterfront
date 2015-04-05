@@ -9,8 +9,10 @@ There's a lively diving scene in the Kingston area.
 
 #INSERTTOPIC:Wrecks
 
-##Charters<a href="http://www.divercity.on.ca/pathome.html">Pat's SCUBA Diving Charters</a> based at [Treasure Island marina][treasureislandmarina].
-<p>
+##Charters
+
+[Pat's SCUBA Diving Charters](http://www.divercity.on.ca/pathome.html) based at [Treasure Island marina][treasureislandmarina].
+
 
 
 #NEWSITEMS:Diving,Wreck

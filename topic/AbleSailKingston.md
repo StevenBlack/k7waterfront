@@ -14,10 +14,9 @@ Email: ask@kingstonyachtclub.com
 
 
 **ASK offers two learn to sail programs:**
-<ul>
-<li>The Youth program offers complete integration with the [http://kingstonyachtclub.com/lts/js.cfm](KYC Junior Sailing program). The sessions mirror the Junior Sailing 2 week session but are flexible to meet the needs of the sailor.
-<li>The Adult program provides supervised or instructional courses offered starting each June 5th. Course times are flexible and can be personalized to fit your schedule.
-</ul>
+
+* The Youth program offers complete integration with the [http://kingstonyachtclub.com/lts/js.cfm](KYC Junior Sailing program). The sessions mirror the Junior Sailing 2 week session but are flexible to meet the needs of the sailor.
+* The Adult program provides supervised or instructional courses offered starting each June 5th. Course times are flexible and can be personalized to fit your schedule.
 
 Able Sail Kingston uses a fleet of [http://www.accessdinghy.org/equipment/boats/303wide.htm](Access 303) and [http://martin16.com/](Martin 16) sailboats.
 
@@ -28,6 +27,7 @@ In summer 2006 Able Sail Kingston had a dozen adult sailors in the program, seve
 The program is open to anyone with a disability. We have sailors whose disability ranges from spinal injuries, to MS. It is committed to getting anyone into the boats, no matter their disability.
 
 **ASK boats can be steered**
+
 * manually,
 * with an electronic joystick used for sheering,
 * with a windlass system to operate the main and jib sheets,
