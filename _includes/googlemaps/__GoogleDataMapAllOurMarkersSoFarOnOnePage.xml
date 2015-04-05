@@ -1,0 +1,173 @@
+<googlemapdata>
+<size width="1000px" height="650px" />
+<centerpt lat="44.07772" lng="-76.452484" zoom="10" />
+<controls>
+  <control name="GSmallMapControl" />
+  <control name="GMapTypeControl"  />
+</controls>
+<markers list="1">
+  <marker lat="43.883917"         lng="-76.841917" label="R.H. Rae" />
+  <marker lat="43.903683"         lng="-76.768733" label="Manola" />
+  <marker lat="43.92819" lng="-76.585693"   label="Yorkshire Island"/>
+  <marker lat="43.930539" lng="-76.622086" label="Main Duck Island"/>
+  <marker lat="43.947844" lng="-76.802673" label="False Duck Island"/>
+  <marker lat="43.957978" lng="-76.835632" label="Timber Island"/>
+  <marker lat="43.964333"         lng="-76.801667" label="Annie Falconer" comment="95 ft" />
+  <marker lat="43.989356" lng="-76.973648" label="Waupoos Island"/>
+  <marker lat="44.016967"         lng="-76.604833" label="Douglas" />
+  <marker lat="44.018717"         lng="-76.602017" label="Frontenac" />
+  <marker lat="44.066127" lng="-76.549129" label="Pigeon Island"/>
+  <marker lat="44.075967"         lng="-76.734467" label="City of Sheboygan" />
+  <marker lat="44.099051"   lng="-76.49437" label="Caution!" comment="Watch your depth! Don't try to cut this corner at speed.  VERY shallow." />
+  <marker lat="44.099791" lng="-76.719761" label="Nut Island"/>
+  <marker lat="44.10731" lng="-76.444244" label="Big Sandy Bay" comment="The best white sand beach in the whole region" />
+  <marker lat="44.108789" lng="-76.73418" label="Amherst Bay"/>
+  <marker lat="44.110514" lng="-76.7062"  label="Long Point Bay"/>
+  <marker lat="44.111"            lng="-76.446004" label= "Big Sandy Bay." />
+  <marker lat="44.1125"           lng="-76.4462" label="Big Sandy Bay" comment="The best white sand beach in the whole region.  Relatively secluded too, and guaranteed mostly deserted in moderate Westerly or Southerly breezes." />
+  <marker lat="44.113583"         lng="-76.580067" label="George T. Davie" />
+  <marker lat="44.115075" lng="-76.786108" label="Wemps Bay"/>
+  <marker lat="44.124833"         lng="-76.558" label="Johnson" />
+  <marker lat="44.126833"         lng="-76.6028" label="Marsh" />
+  <marker lat="44.133681"         lng="-76.34556" label="Horne Ferry"/>
+  <marker lat="44.136033"         lng="-76.826917" label="Londonderry" />
+  <marker lat="44.137783"         lng="-76.619067" label="Cornwall" />
+  <marker lat="44.138609" lng="-76.457634" label="Reeds Bay"/>
+  <marker lat="44.139167"         lng="-76.5845" label="Comet" comment="65-90 ft" />
+  <marker lat="44.142633"         lng="-76.633783" label="Glendora" />
+  <marker lat="44.143283"         lng="-76.621433" label="Titanic" />
+  <marker lat="44.144817"         lng="-76.6195" label="Maple Glen" />
+  <marker lat="44.144917"         lng="-76.61525" label="Lusitania" />
+  <marker lat="44.144933"         lng="-76.61535" label="Queen Mary" />
+  <marker lat="44.145877"    lng="-76.365623"      label="Button Bay"/>
+  <marker lat="44.14775"         lng="-76.79375" label="Jamieson" />
+  <marker lat="44.151174" lng="-76.516342" label="Horseshoe Island"/>
+  <marker lat="44.155485" lng="-76.514797" label="Tucked in under Horseshoe Island" comment="Sheltered behind Horseshoe Island is a good spot.  Very shallow, rocky bottom, still good if the wind shifts to almost any other direction." />
+  <marker lat="44.16305"         lng="-76.56815" label="Aloha" comment="55 ft" />
+  <marker lat="44.163083"         lng="-76.5682" label="Effie Mae" />
+  <marker lat="44.166937" lng="-76.519775"   label="Simcoe Island"/>
+  <marker lat="44.167083"         lng="-76.537583" label="Horace Taber" />
+  <marker lat="44.167922" lng="-76.414719" label="Wolfe Island"/>
+  <marker lat="44.171832"         lng="-76.500249" label="Simcoe Island Ferry"/>
+  <marker lat="44.179742" lng="-76.288376" label="Carleton Island"/>
+  <marker lat="44.180727" lng="-76.495914" label="Under Simcoe Island" comment="Very well protected, can go close to shore, but it's a sandy bottom." />
+  <marker lat="44.182127"         lng="-76.762998" label="Loyalist Cove Yacht Club"/>
+  <marker lat="44.182127"         lng="-76.762998" label="Loyalist Cove Yacht Club"/>
+  <marker lat="44.183189" lng="-76.622772" label="Amherst Island"/>
+  <marker lat="44.183497"         lng="-76.7231" label="Amherst Island Ferry"/>
+  <marker lat="44.190697" lng="-76.542091"  label="Snake Island"/>
+  <marker lat="44.19279"  lng="-76.326141" label="Bayfield Island"/>
+  <marker lat="44.193282"  lng="-76.344681"    label="Bayfield Bay"/>
+  <marker lat="44.195436"         lng="-76.440296" label="General Wolfe" comment="Not really a marina, more a town dock where you can park for a short period (make sure you let the bartender know) to explore around Marysville for a while." />
+  <marker lat="44.196236"   lng="-76.446648" label="Goose Island" />
+  <marker lat="44.19839" lng="-76.591702" label="Salmon Island"/>
+  <marker lat="44.200051" lng="-76.438665" label="Barrett Bay"/>
+  <marker lat="44.201466"   lng="-76.4639" label="Garden Island"/>
+  <marker lat="44.206327" lng="-76.628265" label="Brother Islands"/>
+  <marker lat="44.207467"         lng="-76.52475" label="K.P.H." />
+  <marker lat="44.209219"        lng="-76.563334" label="Paterson Park" />
+  <marker lat="44.209383"         lng="-76.52475" label="Stacked Hulls" />
+  <marker lat="44.209483"         lng="-76.608267" label="Munson" comment="49-110 ft" />
+  <marker lat="44.210265" lng="-76.690235" label="Parrotts Bay"/>
+  <marker lat="44.211126" lng="-76.553764" label="Sand Bay" />
+  <marker lat="44.211803"  lng="-76.576552" label="Everitt Point Park" comment="Beautiful waterfront park with a georgeous flat-rock surface that, depending on water levels, you can venture out and sit upon, surrounded by crashing water in a breeze." />
+  <marker lat="44.212233"         lng="-76.45832" label="Wolfe Island Ferry" comment="Free for pedestrians." />
+  <marker lat="44.21291"        lng="-76.568055" label="Crerar Park" />
+  <marker lat="44.214467"         lng="-76.635783" label="Terry?s Tug" />
+  <marker lat="44.216017"        lng="-76.654572" label="Fairfield House Historical Museum" />
+  <marker lat="44.21654" lng="-76.58432" label="Horsey Bay"/>
+  <marker lat="44.216617"        lng="-76.531513" label="Lake Ontario Park" comment="A huge park with great waterfront views. Note that camping and carnaval rides are no longer offered at Lake Ontario Park." />
+  <marker lat="44.216632"        lng="-76.653242" label="Fairfield Park" />
+  <marker lat="44.21697" lng="-76.542435" label="Cataraqui Bay"/>
+  <marker lat="44.217893"         lng="-76.517329" label="Portsmouth Olympic Harbour"/>
+  <marker lat="44.217893"         lng="-76.517329" label="Portsmouth Olympic Harbour"/>
+  <marker lat="44.218093"        lng="-76.517887" label="P.O.H. Launch Ramp" comment="Excellent wide and steep concrete ramp. Suitable for virtually any tow vehicle and any boat.  POH has the best ramps in the area." />
+  <marker lat="44.219246"        lng="-76.517179" label="P.O.H. Launch Ramp" comment="Excellent wide and steep concrete ramp. Suitable for virtually any tow vehicle and any boat.  These are the best launch facilities in the area." />
+  <marker lat="44.219677"        lng="-76.517243" label="Portsmouth Olympic Harbour Park" comment="Not really directly on the water, but close enough" />
+  <marker lat="44.22063"        lng="-76.63599" label="Islandview Park" />
+  <marker lat="44.220846" lng="-76.398926"    label="Brown's Bay"/>
+  <marker lat="44.221984" lng="-76.490722" label="Murney Tower Museum" />
+  <marker lat="44.222014"         lng="-76.489735" label="MacDonald Memorial Park"  comment="This is where many of Kingstons best windsurfers launch thair boards on windy days."/>
+  <marker lat="44.222168"        lng="-76.494326"  label="Breakwater Park"/>
+  <marker lat="44.222306"         lng="-76.485636" label="Kingston Yacht Club" comment="The wooden 'T' dock is suitable for launching small boats on dollies.  The 'T' dock is pulled out for the winter so it's not available between late fall and early spring" />
+  <marker lat="44.223014"         lng="-76.486323" label="Kingston Yacht Club" comment="This is a private yacht club offering reciprocal priviledges but with limited visitor docking.  They sell fuel." />
+  <marker lat="44.223014"         lng="-76.486323" label="Kingston Yacht Club"/>
+  <marker lat="44.223036"         lng="-76.486602" label="Kingston Yacht Club" comment="The marine railway slip (cement launch) is suitable for small boats on dollies or on hand-moveable trailers.  There's a wooden dock alongside the ramp which is handy.  Often effectively blocked in early spring and in fall by boats on land for winter storage. " />
+  <marker lat="44.223706"        lng="-76.485486" label="Foot of West Street" comment="Cement launch.  Good manoevering space." />
+  <marker lat="44.223798"       lng="-76.484671" label="Ontario Park" comment="A narrow grassy waterfront park just East of the West Street launch ramp." />
+  <marker lat="44.22449"          lng="-76.48462" label="Pump House Steam Museum"/>
+  <marker lat="44.225613"        lng="-76.483232" label="Marine Museum of the Great Lakes"/>
+  <marker lat="44.225967"         lng="-76.416433" label="Wolfe Islander II" comment="40-85 ft" />
+  <marker lat="44.22675" lng="-76.451712" label="Cedar Island"/>
+  <marker lat="44.22705"          lng="-76.61084"   label="Lemoine Point Conservation Area"/>
+  <marker lat="44.227488" lng="-76.541834" label="Marshlands Conservation Area" />
+  <marker lat="44.227857" lng="-76.469736" label="Fort Frederick Museum" />
+  <marker lat="44.22798"          lng="-76.62036"          label="Collins Bay"/>
+  <marker lat="44.228226"         lng="-76.467247" label="RMC Campus" comment="The Royal Military College makes accessible the whole of its 2 linear kilometers of waterfront, and provides many classic views of Kingston and Fort Henry." />
+  <marker lat="44.228596"  lng="-76.37867" label="McDonnell Bay"/>
+  <marker lat="44.228826"         lng="-76.479456" label="Confederation Basin" comment="Not really a marina, more a town dock where you can park a short while for free and overnight for a fee." />
+  <marker lat="44.229088" lng="-76.45051" label="Whiskey Island"/>
+  <marker lat="44.229364"        lng="-76.47892" label="Confedration Park" comment="This park is across from Kingston City Hall." />
+  <marker lat="44.22958"        lng="-76.460209" label="Fort Henry" comment="Fort Henry is 19th century British military fortress and is both a museum and a spectacular historic site.  Its grounds stretch to the water though it's not exactly a people-friendly waterside.  For example, there is are paths or walkways near the water, and you'll need to ascend the big hill just to cross the moat that runs from the fort down to the water. "/>
+  <marker lat="44.22958"        lng="-76.460209" label="Fort Henry" comment="Fort Henry is 19th century British military fortress and is both a museum and a spectacular historic site.  Its grounds stretch to the water though it's not exactly a people-friendly waterside.  For example, there is are paths or walkways near the water, and you'll need to ascend the big hill just to cross the moat that runs from the fort down to the water. "/>
+  <marker lat="44.229641"       lng="-76.624489" label="Arthur Lower Park" />
+  <marker lat="44.231179" lng="-76.305885"  label="Holliday Bay"/>
+  <marker lat="44.231548"  lng="-76.463299" label="Navy Bay"/>
+  <marker lat="44.233516"  lng="-76.449223" label="Deadman Bay"/>
+  <marker lat="44.233777"         lng="-76.449974" label="CFB Kingston Yacht Club" comment="This is a private yacht club with no public facilities." />
+  <marker lat="44.2347"           lng="-76.4483"    label="Arrowhead Beach Park" comment="Narrow sand beach attached to a park with play structures.  The bottom can be weedy.  Perfect for an outing with little kids." />
+  <marker lat="44.2347"           lng="-76.4483" label="Arrowhead Beach Park" comment="Narrow sand beach attached to a park with play structures.  The bottom can be weedy.  Perfect for an outing with little kids." />
+  <marker lat="44.236129"         lng="-76.480615" label="MetalCraft Marine" comment="Metalcraft Marine are builders of aluminum high-speed fire and rescue boats sold worldwide."/>
+  <marker lat="44.236314"         lng="-76.479199" label="Kingston Marina" comment="A full service marina with the largest crane in the region." />
+  <marker lat="44.236314"         lng="-76.479199" label="Kingston Marina"/>
+  <marker lat="44.236836" lng="-76.473598" label="Inner Harbour" comment="Kingston's inner harbour is an ideal anchorage but you'll need a bridge lift to get there."/>
+  <marker lat="44.237113"        lng="-76.608524" label="Rotary Park" comment="Rotary Park is found at the end of Coverdale Ave and ... " />
+  <marker lat="44.237974"       lng="-76.607022" label="Collins Bay Marina"/>
+  <marker lat="44.238374"        lng="-76.481087" label="Doug Fluhrer Park" comment="Google Maps is wrong: the railroad tracks in this park are long gone.  A nice waterside park that's been shamelessly neglected by the City of Kingston for many years." />
+  <marker lat="44.238681"         lng="-76.605005" label="Collins Bay Marina"/>
+  <marker lat="44.238681"         lng="-76.605005" label="Collins Bay Marina"/>
+  <marker lat="44.239481"        lng="-76.612945" label="Government Warf on Collins Bay" comment="Cement launch, cement pier.  Not a lot of room to turn around for larger boats. It is best to back larger boats in from the road." />
+  <marker lat="44.239604" lng="-76.480036" label="Anglin Bay"/>
+  <marker lat="44.239942" lng="-76.465745" label="Green Bay Park" />
+  <marker lat="44.240218"         lng="-76.602108" label="Blue Woods Marina"/>
+  <marker lat="44.24028" lng="-76.605263" label="Deep in Collins Bay" comment="Deep into Collins Bay is okay in a SW breeze, the further in the better.  Shallow, muddy bottom.  If things get bleak, dock at one of the marinas at the apex of the bay." />
+  <marker lat="44.241141" lng="-76.466131" label="Green Bay"/>
+  <marker lat="44.242217" lng="-76.416693" label="Sibbit Park" comment="Google Maps doesn't get the shoreline quite right out here." />
+  <marker lat="44.242985"         lng="-76.479564" label="Orchard Park" comment="Cement launch.  This is a narrow ramp that leads to shallow water, just noth of the Wollen Mill building" />
+  <marker lat="44.242985" lng="-76.385965" label="The Spectacles"/>
+  <marker lat="44.243139"         lng="-76.479993" label="Emma Martin Park" comment="Google Maps gets the name of this one wrong."/>
+  <marker lat="44.244707" lng="-76.397724" label="Milton Island"/>
+  <marker lat="44.245138"        lng="-76.407938" label="Riverside Park" comment="Google Maps doesn't get the shoreline quite right out here.  Riverside park is a nice quiet park off Faircrest Blvd with a gradual slope that's ideal for launching a canoe." />
+  <marker lat="44.245138" lng="-76.395578" label="Behind Milton Island" comment="The lee of Milton Island offers some protection, especially if you can get into the bay that cuts into its East side." />
+  <marker lat="44.248765"        lng="-76.46965" label="Bell Island" comment="A nice wooded area surrounded by water.  Sand beach at its North Eastern end, but swim here at your peril since there is a pollution-leaching landfill closeby." />
+  <marker lat="44.249134" lng="-76.469307" label="Bells Island" />
+  <marker lat="44.250794" lng="-76.468191" label="Bell Island Park" comment="... but swim here at your peril since there's a pollution leaching landfill very close by."/>
+  <marker lat="44.25147"        lng="-76.478233" label="Bell Park Fairways" comment="A municipal 9-hole golf course with water views." />
+  <marker lat="44.252161"         lng="-76.4642" label="100 Ft Park" comment="This narrow park follwos a ravine, between Limeridge St and Medley Court, down to the river, then stretches South along the river bank for a short distance." />
+  <marker lat="44.25399"         lng="-76.465874" label="Rideau Marina" comment="Cement launch. A nice wide ramp that's also served by a 25-ton travel lift." />
+  <marker lat="44.254406"         lng="-76.46656" label="Rideau Marina" comment="A full service marina with a 25 ton travel lift." />
+  <marker lat="44.254406"         lng="-76.46656" label="Rideau Marina"/>
+  <marker lat="44.25479"   lng="-76.342449" label="Cassidys Bay"/>
+  <marker lat="44.256142"        lng="-76.467977" label="Lilla Burke Park" comment="Google Maps misplaces Rideau Marina on what is actually Lilla Burke Park, a nice waterside park with paths, picnic tables, and a play structure in a fine neighborhood.  An easy slope leads to a rocky beach that is a good place to launch a canoe, kayak, rowing shell, or a small sailboat" />
+  <marker lat="44.256942" lng="-76.38236" label="Milton Lookout Park" />
+  <marker lat="44.257756"         lng="-76.478963" label="Music's Marina"/>
+  <marker lat="44.259769"         lng="-76.464157"  label="Maclean Park" comment="Maclean Park starts behind the Pittsburgh Branch of the Kingston Public Library and paths stretch down to the waterfront where you'll find benches." />
+  <marker lat="44.263135"         lng="-76.377339" label="Treasure Island Marina"/>
+  <marker lat="44.263135"         lng="-76.377339" label="Treasure Island Marina"/>
+  <marker lat="44.263273"        lng="-76.377339" label="Treasure Island Marina" />
+  <marker lat="44.264134" lng="-76.306057" label="Howe Island"/>
+  <marker lat="44.275196"         lng="-76.325884" label="Howe Island Ferry (I)"/>
+  <marker lat="44.275688" lng="-76.327" label="Howe Island Ferry Park" />
+  <marker lat="44.279682"  lng="-76.311207" label="Joe Welsh Bay" />
+  <marker lat="44.282417" lng="-76.321292" label="English Landing Park" />
+  <marker lat="44.283001" lng="-76.508703" label="Little Cataraqui Conservation Area" />
+  <marker lat="44.2911"           lng="-76.3101"    label="Grass Creek Park" comment="A big park in very pleasant surroundings, and an ideal spot for a swim or to lainch a small boat from its beach.  This municipal park is an ideal picnic location, and it's located beside the MacLachlin Woodworking Museum." />
+  <marker lat="44.2911"           lng="-76.3101" label="Grass Creek Park" />
+  <marker lat="44.292893" lng="-76.258335"  label="Johnson Bay" />
+  <marker lat="44.294121"         lng="-76.43969"   label="Kingston Mills Locks" comment="A nice park that borders both Colonel By Lake and the Northern stretch of the Great Cataraqui River below the locks.  This is a great picnic spot, as well as a moderate to advanced rock-climing spot." />
+  <marker lat="44.295043" lng="-76.315155"    label="MacLachlan Woodworking Museum" comment="Located right next to Grass Creek Park." />
+  <marker lat="44.303704"         lng="-76.264472" label="Howe Island Ferry (II)"/>
+  <marker lat="44.307236"        lng="-76.424503" label="Rideau Acres Campground" comment="Good launch, steel grating over gravel. Accommodates boats up to 25 feet. Dock, parking and picnic tables available. Launch fee: $5" />
+  <marker lat="44.316667"         lng="-75.934217" label="Jodrey" />
+</markers>
+</googlemapdata>

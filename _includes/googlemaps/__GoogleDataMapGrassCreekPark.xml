@@ -1,0 +1,12 @@
+<googlemapdata>
+<title text="Grass Creek Park" />
+<size width="500px" height="400px" />
+<centerpt lat="44.286503" lng="-76.308975" />
+<controls>
+  <control name="GSmallMapControl" />
+  <control name="GMapTypeControl"  />
+</controls>
+<markers list="1">
+  <marker lat="44.2911"    lng="-76.3101"    label="Grass Creek Park" comment="A big park in very pleasant surroundings, and an ideal spot for a swim or to lainch a small boat from its beach.  This municipal park is an ideal picnic location, and it's located beside the MacLachlin Woodworking Museum." topic="GrassCreekPark" />
+</markers>
+</googlemapdata>

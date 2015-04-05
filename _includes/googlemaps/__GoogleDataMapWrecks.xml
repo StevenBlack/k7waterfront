@@ -1,0 +1,63 @@
+<googlemapdata>
+<title text="Wrecks in the Kingston region" />
+<size width="600px" height="600px" />
+<centerpt lat="44.08068" lng="-76.510162" zoom="10" type="satellite" />
+<controls>
+  <control name="GSmallMapControl" />
+  <control name="GMapTypeControl"  />
+</controls>
+<markers list="1">
+<marker id="W-Alberta" />
+<marker id="W-Aloha" />
+<marker id="W-AnnieFal" />
+<marker id="W-Atlasco" />
+<marker id="W-Augustus" />
+<marker id="W-BargeinC" />
+<marker id="W-BowRider" />
+<marker id="W-China" />
+<marker id="W-CityofSh" />
+<marker id="W-Cobourg" />
+<marker id="W-Comet" />
+<marker id="W-Cornwall" />
+<marker id="W-Douglas" />
+<marker id="W-DupontDr" />
+<marker id="W-EffieMae" />
+<marker id="W-Fabiola" />
+<marker id="W-Frontena" />
+<marker id="W-GeorgeAM" />
+<marker id="W-GeorgeTD" />
+<marker id="W-Glendora" />
+<marker id="W-Henrey" />
+<marker id="W-Hilda" />
+<marker id="W-HoraceTa" />
+<marker id="W-Jodrey" />
+<marker id="W-Johnson" />
+<marker id="W-KatieEcc" />
+<marker id="W-KPH" />
+<marker id="W-KGH" />
+<marker id="W-KYCwreck" />
+<marker id="W-Londonde" />
+<marker id="W-Louis" />
+<marker id="W-Lusitani" />
+<marker id="W-Manola" />
+<marker id="W-MapleGle" />
+<marker id="W-Mark1" />
+<marker id="W-Med" />
+<marker id="W-MonkeyWr" />
+<marker id="W-HMS-MTL" />
+<marker id="W-Munson" />
+<marker id="W-OliveBra" />
+<marker id="W-PenShoal" />
+<marker id="W-PrinceRe" />
+<marker id="W-QueenMar" />
+<marker id="W-RHRae" />
+<marker id="W-Simco" />
+<marker id="W-StackedH" />
+<marker id="W-TerrysTu" />
+<marker id="W-Titanic" />
+<marker id="W-TomsWre" />
+<marker id="W-Varona" />
+<marker id="W-WilliamJ" />
+<marker id="W-WolfeIsl" />
+</markers>
+</googlemapdata>

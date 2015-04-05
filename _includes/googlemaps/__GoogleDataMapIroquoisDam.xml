@@ -1,0 +1,10 @@
+<googlemapdata>
+<size width="500px" height="400px" />
+<centerpt lat="44.832987" lng="-75.300121" zoom="14"  type="satellite"/>
+<controls>
+  <control name="GSmallMapControl" />
+  <control name="GMapTypeControl"  />
+</controls>
+
+
+</googlemapdata>

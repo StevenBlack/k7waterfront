@@ -1,0 +1,21 @@
+<googlemapdata>
+<title text="Rocky beaches in the Kingston region" />
+<size width="600px" height="400px" />
+<centerpt lat="44.225028" lng="-76.549301" zoom="12"/>
+<controls>
+  <control name="GSmallMapControl" />
+  <control name="GMapTypeControl"  />
+</controls>
+<markers list="1">
+  <marker lat="44.229457" lng="-76.61376" label="Lemoine Point Beach"/>
+
+  <marker lat="44.222691" lng="-76.487417" label="Kingston Yacht Club Beach (private)" topic="Kingston Yacht Club" />
+
+  <marker lat="44.22203"  lng="-76.488812" label="Richardson Beach" comment="This is where many of Kingstons best windsurfers launch thair boards on windy days."/>
+
+  <marker lat="44.211803" lng="-76.576552" label="Everitt Point Park" comment="Beautiful waterfront park with a gorgeous flat-rock surface that, depending on water levels, you can venture out and sit upon, surrounded by crashing water in a breeze." />
+
+  <marker lat="44.20885" lng="-76.56136" label="Patterson Park Beach" comment="Flat-rock swimming area.  Big waves in a breeze.  Good windsurfing break too." />
+
+</markers>
+</googlemapdata>

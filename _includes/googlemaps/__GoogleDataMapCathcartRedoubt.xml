@@ -1,0 +1,8 @@
+<googlemapdata>
+<title text="Cathcart Redoubt" />
+<size width="500px" height="450px" />
+<centerpt lat="44.232224" lng="-76.451368" zoom="14" type="satellite" />
+<markers list="1">
+  <marker lat="44.224967" lng="-76.454458" label="Cathcart Redoubt" topic="Cathcart Redoubt" />
+</markers>
+</googlemapdata>

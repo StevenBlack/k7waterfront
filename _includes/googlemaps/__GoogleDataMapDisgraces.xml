@@ -1,0 +1,18 @@
+<googlemapdata>
+<title text="Disgraceful things on the Kingston waterfront" />
+<size width="500px" height="400px" />
+<centerpt lat="44.237205" lng="-76.486645" zoom="13"/>
+
+<markers list="1">
+  <marker lat="44.228872" lng="-76.47911" label="Confederation Basin's locked docks" comment="The Confederation Basin docks are behind a locked gate.  It's the only marina in the region that denies people the pleasure of strolling on the town docks." />
+
+  <marker lat="44.252946" lng="-76.47892" label="Belle Park leaching landfill" comment="The City of Kingston's notorious leaching dump. The City of Kingston delayed remedial action on this between 1998 and 2005 by appealing all the way to the Supreme Court of Canada before the City's case was summarily tossed." url="www.e-b-i.net/ebi/print.cfm?ContentID=12351" />
+
+  <marker lat="44.220938" lng="-76.502051" label="Soviet-epoch bunkers built in 2005" comment="Two bunkers built in 2005 by the City of Kingston without the slightest consideration for appearance, not even the colour of the brick."/>
+
+  <marker lat="44.246552" lng="-76.479435" label="City of Kingston overflow sewage discharge" comment="The City of Kingston has dumped over a billion litres of untreated overflow sewage in the past five years alons into the Great Cataraqui River." />
+
+  <marker lat="44.22835" lng="-76.480057" label="Radisson Hotel Kingston Harbourfront" comment="A hotel surrounded by water on three sides adjacent to Confederation Basin Marina.  It is ringed by a cement so-called 'waterfront walkway' that's bleak at best." />
+
+</markers>
+</googlemapdata>

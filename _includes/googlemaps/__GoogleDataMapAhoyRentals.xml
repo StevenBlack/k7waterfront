@@ -1,0 +1,12 @@
+<googlemapdata>
+<size width="400px" height="300px" />
+<title text="Ahoy Rentals" />
+<centerpt lat="44.227181" lng="-76.481924" zoom="14" />
+<markers>
+  <marker lat="44.224029" lng="-76.484306" label="Ahoy Rentals" />
+</markers>
+<controls>
+  <control name="GSmallMapControl" />
+  <control name="GMapTypeControl"  />
+</controls>
+</googlemapdata>

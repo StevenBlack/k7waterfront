@@ -1,0 +1,32 @@
+<googlemapdata>
+<title text="Club Racing Marks in Kingston Harbour" />
+<size width="750px" height="430px" />
+<centerpt lat="44.20928" lng="-76.539001" zoom="12" type="satellite" />
+<controls>
+  <control name="GSmallMapControl" />
+  <control name="GMapTypeControl"  />
+</controls>
+<markers list="1">
+  <marker lat="44.1844"  lng="-76.4914" label="KYC Race Mark B -- (KE2) " colour="red" pintext="B"/>
+  <marker lat="44.2153"  lng="-76.4703" label="KYC Race Mark C" colour="yellow" pintext="C"/>
+  <marker lat="44.2300"  lng="-76.4208" label="KYC Race Mark D - Bayfield Shoal (H43)" colour="green" pintext="D"/>
+  <marker lat="44.2147"  lng="-76.4994" label="KYC Race Mark E" colour="yellow" pintext="E"/>
+  <marker lat="44.2108"  lng="-76.5111" label="KYC Race Mark F - Penitentiary Shoal (K3)" colour="green" pintext="F"/>
+  <marker lat="44.2036"  lng="-76.5003" label="KYC Race Mark G" colour="yellow" pintext="G"/>
+  <marker lat="44.1975"  lng="-76.4886" label="KYC Race Mark H" colour="yellow" pintext="H"/>
+  <marker lat="44.2028"  lng="-76.4761" label="KYC Race Mark K" colour="yellow" pintext="K"/>
+  <marker lat="44.2078"  lng="-76.4642" label="KYC Race Mark M" colour="yellow" pintext="M"/>
+  <marker lat="44.2203"  lng="-76.4850" label="KYC Race Mark P" colour="yellow" pintext="P"/>
+  <marker lat="44.2142"  lng="-76.4875" label="KYC Race Mark R - Myles Shoal (K1)" colour="green" pintext="R"/>
+  <marker lat="44.2219"  lng="-76.4775" label="KYC Race Mark S" colour="yellow" pintext="S"/>
+  <marker lat="44.2083"  lng="-76.4947" label="KYC Race Mark X" colour="yellow" pintext="X"/>
+  <marker lat="44.2042"  lng="-76.4853" label="KYC Race Mark Y" colour="yellow" pintext="Y"/>
+
+  <marker lat="44.2030459"    lng="-76.6138274"  label="CBYC Race Mark A" colour="yellow" pintext="A"/>
+  <marker lat="44.2087586"    lng="-76.6297091"  label="CBYC Race Mark B" colour="yellow" pintext="B"/>
+  <marker lat="44.2030987"    lng="-76.6497162"  label="CBYC Race Mark C" colour="yellow" pintext="C"/>
+  <marker lat="44.1974928"    lng="-76.6568362"  label="CBYC Race Mark D" colour="yellow" pintext="D"/>
+  <marker lat="44.2037452"    lng="-76.6592311"  label="CBYC Race Mark E" colour="yellow" pintext="E"/>
+  <marker lat="44.2159252"    lng="-76.6521829"  label="CBYC Race Mark F" colour="yellow" pintext="F"/>
+  </markers>
+</googlemapdata>

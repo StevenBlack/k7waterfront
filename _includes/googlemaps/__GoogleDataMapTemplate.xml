@@ -1,0 +1,14 @@
+<googlemapdata>
+<title text="This is the title of this map" />
+<size width="500px" height="400px" />
+<centerpt lat="44.217647" lng="-76.51531" />
+<controls>
+  <control name="GSmallMapControl" />
+  <control name="GMapTypeControl"  />
+</controls>
+<markers list="1">
+  <marker lat="44.2"  lng="-76.51" label="This is marker #1"/>
+  <marker lat="44.21" lng="-76.513" label="This is marker #2"/>
+  <marker lat="44.22" lng="-76.518" label="This is marker #3"/>
+</markers>
+</googlemapdata>

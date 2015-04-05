@@ -1,0 +1,21 @@
+<googlemapdata>
+<title text="Waterfront Restaurants in Kingston" />
+<size width="700px" height="400px" />
+<centerpt lat="44.232655" lng="-76.448021" zoom="12" />
+<controls>
+  <control name="GSmallMapControl" />
+  <control name="GMapTypeControl"  />
+</controls>
+<markers list="1">
+  <marker lat="44.219615" lng="-76.391544" label="Brown's Bay Inn" topic="Brown's Bay Inn"/>
+  <marker lat="44.194021" lng="-76.439438" label="General Wolfe Hotel" />
+  <marker lat="44.218408" lng="-76.518005" label="Harbour Restaurant"/>
+  <marker lat="44.193775" lng="-76.441154" label="Island Grill" url="www.wolfeislandgrill.com" topic="Island Grill" comment="Great location, friendly, and as unpretentious a bar and restaurant as can possibly be.  Live music too, and docking for boats." />
+  <marker lat="44.230379" lng="-76.479135" label="Howard Johnson's Hotel" url="www.hojo.ca/" />
+  <marker lat="44.222945" lng="-76.486956" label="Kingston Yacht Club" topic="KingstonYachtClub" url="KingstonYachtClub.com" comment="Dining room is open to the public for lunch" />
+  <marker lat="44.219523" lng="-76.518016" label="Portsmouth Tavern"/>
+  <marker lat="44.241817" lng="-76.479306" label="River Mill" colour="gray" comment="Despite appearances, it's not really accessible by boat." />
+  <marker lat="44.22835"  lng="-76.480057" label="Radisson Hotel Kingston Harbourfront" comment="Top floor restaurant has a beautiful panorama." />
+  <marker lat="44.262781" lng="-76.379356" label="Treasure Island Marina" />
+</markers>
+</googlemapdata>

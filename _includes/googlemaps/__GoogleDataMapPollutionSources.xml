@@ -1,0 +1,28 @@
+<googlemapdata>
+<title text="Pollution sources on the Kingston waterfront" />
+<size width="500px" height="400px" />
+<centerpt lat="44.24151" lng="-76.483383" zoom="12"/>
+<controls>
+  <control name="GSmallMapControl" />
+  <control name="GMapTypeControl"  />
+</controls>
+<markers list="1">
+  <marker lat="44.252946" lng="-76.47892" label="Belle Park leaching landfill" comment="The City of Kingston's notorious leaching dump. The City of Kingston delayed remedial action on this between 1998 and 2005 by appealing all the way to the Supreme Court of Canada before the City's case was summarily tossed." url="www.e-b-i.net/ebi/print.cfm?ContentID=12351" />
+
+  <marker lat="44.246552" lng="-76.479435" label="City of Kingston overflow sewage discharge" comment="Over the years, the City of Kingston has dumped hundreds of millions, probably billions, of litres of untreated overflow sewage into the Great Cataraqui River." />
+
+  <marker lat="44.210019" lng="-76.548271" label="City of Kingston West water pollution control plant" />
+
+  <marker lat="44.237574" lng="-76.417809" label= "Ravensview wastewater treatment plant" />
+
+  <marker lat="44.225274" lng="-76.494198" label="Queen's University main campus" />
+
+  <marker lat="44.260814" lng="-76.508617" label="Alcan Kingston Works" />
+
+  <marker lat="44.216171" lng="-76.551361" label="DuPont Canada Kingston Site" />
+
+  <marker lat="44.24274" lng="-76.452484" label="Canadian Forces Base Area Support Unit Kingston" />
+
+
+</markers>
+</googlemapdata>

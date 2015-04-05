@@ -1,0 +1,10 @@
+<googlemapdata>
+<title text="Douglas Fluhrer Park" />
+<size width="500px" height="400px" />
+<centerpt lat="44.238927" lng="-76.481495" zoom="15" />
+<controls>
+  <control name="GSmallMapControl" />
+  <control name="GMapTypeControl"  />
+</controls>
+<infowindow text="Douglas Fluhrer Park"/>
+</googlemapdata>

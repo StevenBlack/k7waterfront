@@ -1,0 +1,10 @@
+<googlemapdata>
+<size width="500px" height="400px" />
+<title text="Big Sandy Bay" />
+<centerpt lat="44.111" lng="-76.446004" zoom="10" />
+<infowindow text="Big Sandy Bay." />
+<markers list="1">
+  <marker lat="44.111" lng="-76.446004" label= "Big Sandy Bay." />
+  <marker lat="44.099051" lng="-76.49437" label="Caution!" comment="Watch your depth! Don't try to cut this corner at speed.  VERY shallow." />
+</markers>
+</googlemapdata>

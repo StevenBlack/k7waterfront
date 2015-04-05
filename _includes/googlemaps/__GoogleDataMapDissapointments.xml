@@ -1,0 +1,18 @@
+<googlemapdata>
+<title text="Dissapointing things on the Kingston waterfront" />
+<size width="500px" height="400px" />
+<centerpt lat="44.228473" lng="-76.496773" zoom="13"/>
+
+<markers list="1">
+  <marker lat="44.224598" lng="-76.477718" label="Confederation Basin breakwall is inaccessible" comment="The waterfront breakwall that surrounds Confederation Basin could have been a marvelous pedestrian jetty. It isn't.  It's for birds only." />
+
+  <marker lat="44.228872" lng="-76.479135" label="Confederation Basin's direct and indirect services for boaters" comment="No fuel, no pumpout.  The closest grocery store, and the closest liquor store, are 650m away, and the closest beer store is 1.3 km away.  Also: no anchoring in the basin." />
+
+  <marker lat="44.222568" lng="-76.487761" label="Discontinuous waterfront trail" comment="The so-called waterfront trail is really a disjointed and largely abandoned collection of segments that don't amount to much. Also, Kingston is not an active or effective member of wider waterfront trail initiatives." topic="WaterfrontTrail" />
+
+  <marker lat="44.216786" lng="-76.517243" label="Portsmouth Olympic Harbour pier" comment="Peacefully hang-out after dark on the Portsmouth Olympic Harbour pier and a security guard will harass you to leave." />
+
+  <marker lat="44.218162" lng="-76.517662" label="Portsmouth Olympic Harbour crane" comment="For such a great harbour, what a minimalist crane!" />
+
+</markers>
+</googlemapdata>

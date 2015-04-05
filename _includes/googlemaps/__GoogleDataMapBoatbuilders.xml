@@ -1,0 +1,11 @@
+<googlemapdata>
+<size width="500px" height="400px" />
+<centerpt lat="44.2361" lng="-76.48061" zoom="14" />
+<controls>
+  <control name="GSmallMapControl" />
+  <control name="GMapTypeControl"  />
+</controls>
+<markers list="1">
+  <marker  lat="44.236129" lng="-76.480615" label="MetalCraft Marine" comment="Metalcraft Marine are builders of aluminum high-speed fire and rescue boats sold worldwide." url="www.metalcraftmarine.com" />
+</markers>
+</googlemapdata>

@@ -1,0 +1,9 @@
+<googlemapdata>
+<size width="500px" height="400px" />
+<centerpt lat="44.220538" lng="-76.506214" zoom="14" />
+<controls>
+  <control name="GSmallMapControl" />
+  <control name="GMapTypeControl"  />
+</controls>
+<infowindow text="Tett Centre"/>
+</googlemapdata>

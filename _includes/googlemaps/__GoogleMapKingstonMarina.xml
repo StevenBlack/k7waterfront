@@ -1,0 +1,13 @@
+<googlemapdata>
+<title text="Kingston Marina" />
+<size width="500px" height="400px" />
+<centerpt lat="44.236467" lng="-76.479435" zoom="14"  />
+<controls>
+  <control name="GSmallMapControl" />
+  <control name="GMapTypeControl"  />
+</controls>
+<infowindow text="Kingston Marina." />
+<markers>
+    <marker lat="44.236467" lng="-76.479435" label="Kingston Marina" />
+</markers>
+</googlemapdata>

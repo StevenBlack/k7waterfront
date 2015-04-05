@@ -1,0 +1,26 @@
+<googlemapdata>
+<title text="Anchoring in Southwesterly Breezes" />
+<size width="500px" height="400px" />
+<centerpt  lat="44.19254" lng="-76.5019" zoom="11" />
+<controls>
+  <control name="GSmallMapControl" />
+  <control name="GMapTypeControl"  />
+</controls>
+<markers list="1">
+  <marker lat="44.245138" lng="-76.395578" label="Behind Milton Island" comment="The lee of Milton Island offers some protection, especially if you can get into the bay that cuts into its East side." />
+
+  <marker lat="44.217155" lng="-76.394119" label="Browns Bay" comment="Browns Bay is reasonably sheltered from winds from the SW, however the bay is very shallow, and the bottom is flat-ish rock, so you'll need the right anchor with sufficient chain to sleep comfortably." />
+
+  <marker lat="44.229088" lng="-76.447849" label="In the lee of Cedar Island" comment="This is a pretty good place to anchor except for the nearby boat traffic, which tends to be significant on weekends and holidays" />
+
+  <marker lat="44.24028"  lng="-76.605263" label="Deep in Collins Bay" comment="Deep into Collins Bay is okay in a SW breeze, the further in the better.  Shallow, muddy bottom.  If things get bleak, dock at one of the marinas at the apex of the bay." />
+
+  <marker lat="44.196667" lng="-76.440811" label="Moorings off the Island Grill" comment="Ten moorings in 7 to 14 feet of water off the Island Grill, Wolfe Island" topic="Island Grill" />
+
+  <marker lat="44.236836" lng="-76.473598" label="Inner Harbour" comment="Kingston's inner harbour is an ideal anchorage but you'll need a bridge lift to get there if your vessel can't otherwise fit under the permanent span of the Lasalle Causeway."/>
+
+  <marker lat="44.155485" lng="-76.514797" label="Tucked in under Horseshoe Island" comment="Sheltered behind Horseshoe Island is a good spot.  Very shallow, rocky bottom, still good if the wind shifts to almost any other direction.  The downside: larger swells may carry around the island, so you may bob up and down somewhat." />
+
+  <marker lat="44.180604" lng="-76.497803" label="Under Simcoe Island" comment="Very well protected, can go close to shore, but it's a sandy bottom." />
+</markers>
+</googlemapdata>

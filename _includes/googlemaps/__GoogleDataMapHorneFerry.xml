@@ -1,0 +1,13 @@
+<googlemapdata>
+<title text="Horne Ferry" />
+<size width="400px" height="450px" />
+<centerpt lat="44.133681" lng="-76.34556" zoom="11" />
+<controls>
+  <control name="GSmallMapControl" />
+  <control name="GMapTypeControl"  />
+</controls>
+<markers>
+  <marker lat="44.133681" lng="-76.34556" label="Horne Ferry"  comment="Operates May to mid-October.  Fares apply. Call (613) 385-2262 or (315) 783-0638 for information." topic="Horne Ferry"  url="www.hornesferry.com" />
+
+</markers>
+</googlemapdata>

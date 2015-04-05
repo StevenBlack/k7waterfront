@@ -1,0 +1,12 @@
+<googlemapdata>
+<title text="Kingston Mills Locks" />
+<size width="400px" height="300px" />
+<centerpt lat="44.285274" lng="-76.431541" zoom="11" />
+<controls>
+  <control name="GSmallMapControl" />
+  <control name="GMapTypeControl"  />
+</controls>
+<markers>
+  <marker lat="44.292247" lng="-76.441884" label="Kingston Mills Locks"  />
+</markers>
+</googlemapdata>

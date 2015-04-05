@@ -1,0 +1,41 @@
+<googlemapdata>
+<title text="Bays in the Kingston region" />
+<size width="600px" height="450px" />
+<centerpt lat="44.160534" lng="-76.530762" zoom="10" type="satellite" />
+<markers list="1">
+  <marker lat="44.108789" lng="-76.73418"  label="Amherst Bay"/>
+  <marker lat="44.235852" lng="-76.479006" label="Anglin Bay"/>
+  <marker lat="44.200051" lng="-76.438665" label="Barrett Bay"/>
+  <marker lat="44.193282" lng="-76.344681" label="Bayfield Bay"/>
+  <marker lat="44.10731"  lng="-76.444244" label="Big Sandy Bay" comment="The best white sand beach in the whole region.  You don't want to be here if the wind comes up above 8-10 knots out of the West or Southwest." />
+  <marker lat="44.229211" lng="-76.223831" label="Brakey Bay" />
+  <marker lat="44.220846" lng="-76.398926" label="Brown's Bay"/>
+  <marker lat="44.145877" lng="-76.365623" label="Button Bay"/>
+  <marker lat="44.25479"  lng="-76.342449" label="Cassidys Bay"/>
+  <marker lat="44.21697"  lng="-76.542435" label="Cataraqui Bay"/>
+  <marker lat="44.22798"  lng="-76.62036"  label="Collins Bay"/>
+  <marker lat="44.231794" lng="-76.449909" label="Deadman Bay"/>
+  <marker lat="44.240526" lng="-76.465187" label="Green Bay" topic="Green Bay" />
+  <marker lat="44.229949" lng="-76.303482" label="Holliday Bay"/>
+  <marker lat="44.154499" lng="-76.518917" label="Horseshoe Island Bay"/>
+  <marker lat="44.21654"  lng="-76.58432"  label="Horsey Bay"/>
+  <marker lat="44.227734" lng="-76.273956" label="Irvine Bay" />
+  <marker lat="44.279191" lng="-76.309233" label="Joe Welsh Bay" />
+  <marker lat="44.292893" lng="-76.258335" label="Johnson Bay" />
+  <marker lat="44.207558" lng="-76.267262" label="Lewis Bay" />
+  <marker lat="44.110514" lng="-76.7062"   label="Long Point Bay"/>
+  <marker lat="44.228596" lng="-76.37867"  label="McDonnell Bay"/>
+  <marker lat="44.205712" lng="-76.318245" label="McGregor Bay" />
+  <marker lat="44.244769" lng="-76.396093" label="Milton Island Cove" topic="Milton Island" />
+  <marker lat="44.206573" lng="-76.254902" label="Murray Bay" />
+  <marker lat="44.231548" lng="-76.463299" label="Navy Bay"/>
+  <marker lat="44.210265" lng="-76.690235" label="Parrotts Bay"/>
+  <marker lat="44.094489" lng="-76.876831" label="Prinyer Cove" topic="PrinyersCove" />
+  <marker lat="44.138609" lng="-76.457634" label="Reeds Bay"/>
+  <marker lat="44.211126" lng="-76.553764" label="Sand Bay" />
+  <marker lat="44.299527" lng="-76.226406" label="Seburns Bay" />
+  <marker lat="44.180173" lng="-76.499004" label="Under Simcoe Island" comment="A nice shallow shelter, ideal when it's thumping out of the South-West.  White sand bottom.  The properties ashore here are PRIVATE." />
+  <marker lat="44.115075" lng="-76.786108" label="Wemps Bay"/>
+  <marker lat="44.206696" lng="-76.291122" label="Woodman Bay" />
+</markers>
+</googlemapdata>

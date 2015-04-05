@@ -1,0 +1,9 @@
+<googlemapdata>
+<size width="500px" height="400px" />
+<centerpt lat="44.233992" lng="-76.449952" zoom="14" />
+<controls>
+  <control name="GSmallMapControl" />
+  <control name="GMapTypeControl"  />
+</controls>
+<infowindow text="Arrowhead Beach Park" />
+</googlemapdata>

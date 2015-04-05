@@ -1,0 +1,17 @@
+<googlemapdata>
+<size width="700px" height="400px" />
+<centerpt lat="44.233885" lng="-76.565094" zoom="11" />
+<controls>
+  <control name="GSmallMapControl" />
+  <control name="GMapTypeControl"  />
+</controls>
+<markers list="1">
+  <marker lat="44.217893" lng="-76.517329" label="Portsmouth Olympic Harbour"/>
+  <marker lat="44.223014" lng="-76.486323" label="Kingston Yacht Club"/>
+  <marker lat="44.236314" lng="-76.479199" label="Kingston Marina"/>
+  <marker lat="44.254406" lng="-76.46656" label="Rideau Marina"/>
+  <marker lat="44.263135" lng="-76.377339" label="Treasure Island Marina"/>
+  <marker lat="44.238681" lng="-76.605005" label="Collins Bay Marina"/>
+  <marker lat="44.182127" lng="-76.762998" label="Loyalist Cove Yacht Club"/>
+</markers>
+</googlemapdata>

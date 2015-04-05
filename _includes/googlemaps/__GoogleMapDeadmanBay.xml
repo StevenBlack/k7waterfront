@@ -1,0 +1,9 @@
+<googlemapdata>
+<size width="500px" height="400px" />
+<centerpt lat="44.233546" lng="-76.448879" zoom="13" />
+<controls>
+  <control name="GSmallMapControl" />
+  <control name="GMapTypeControl"  />
+</controls>
+<infowindow text="Deadman Bay"/>
+</googlemapdata>

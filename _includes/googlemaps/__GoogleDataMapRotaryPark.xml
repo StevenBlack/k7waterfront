@@ -1,0 +1,8 @@
+<googlemapdata>
+<title text="Rotary Park" />
+<size width="320px" height="250px" />
+<centerpt lat="44.237328" lng="-76.606379" zoom="13" />
+<markers list="1">
+  <marker lat="44.237328" lng="-76.606379" label="Rotary Park" comment="Just North of Lemoine Point" topic="Rotary Park" />
+</markers>
+</googlemapdata>

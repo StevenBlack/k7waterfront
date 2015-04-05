@@ -1,0 +1,13 @@
+<script src="http://maps.google.com/maps?file=api&v=1&key=ABQIAAAA1p3H4HjgFRGggryYDUwteBR-GVf7FupmKPSRacfkHsUAYJ32hxQkhp8NHbvWfAqlbX-s46HBiGLxpQ" type="text/javascript"></script>
+    <div id="map" style="width: 500px; height: 400px"></div>
+    <script type="text/javascript">
+    //<![CDATA[
+
+    var map = new GMap(document.getElementById("map"));
+    map.addControl(new GSmallMapControl());
+    map.centerAndZoom(new GPoint(-76.603181,44.238727), 2);
+    map.openInfoWindow(map.getCenterLatLng(),
+                   document.createTextNode("Collins Bay Marina"))
+
+    //]]>
+    </script>

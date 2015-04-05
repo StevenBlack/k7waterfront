@@ -1,0 +1,24 @@
+<googlemapdata>
+<title text="Waterfront-related or waterfront accessible museums in the Kingston region" />
+<size width="800px" height="300px" />
+<centerpt lat="44.218385" lng="-76.535912" zoom="12" />
+<controls>
+  <control name="GSmallMapControl" />
+  <control name="GMapTypeControl"  />
+</controls>
+<markers list="1">
+  <marker lat="44.22958" lng="-76.460209" url="www.forthenry.com " label="Fort Henry" comment="Fort Henry is 19th century British military fortress and is both a museum and a spectacular historic site.  Its grounds stretch to the water though it's not exactly a people-friendly waterside.  For example, there is are paths or walkways near the water, and you'll need to ascend the big hill just to cross the moat that runs from the fort down to the water. "/>
+
+  <marker  lat="44.227857" lng="-76.469736" label="Fort Frederick Museum" />
+
+  <marker lat="44.295043" lng="-76.315155"    label="MacLachlan Woodworking Museum" comment="Located right next to Grass Creek Park." />
+
+  <marker lat="44.225613" lng="-76.483232" label="Marine Museum of the Great Lakes"/>
+
+  <marker lat="44.221984" lng="-76.490722" label="Murney Tower Museum" />
+
+  <marker lat="44.22449" lng="-76.48462" label="Pump House Steam Museum"/>
+
+  <marker lat="44.216017" lng="-76.654572" label="Fairfield House Historical Museum" />
+</markers>
+</googlemapdata>

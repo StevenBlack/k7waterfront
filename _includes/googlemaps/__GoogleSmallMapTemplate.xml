@@ -1,0 +1,9 @@
+<googlemapdata>
+<size width="500px" height="400px" />
+<centerpt lat="44.217647" lng="-76.51531" zoom="12" />
+<controls>
+  <control name="GSmallMapControl" />
+  <control name="GMapTypeControl"  />
+</controls>
+<infowindow text="Change Me!!"/>
+</googlemapdata>

@@ -1,0 +1,13 @@
+<googlemapdata>
+<size width="600px" height="400px" />
+<centerpt  lat="44.271263" lng="-76.449051" zoom="11" />
+<controls>
+  <control name="GSmallMapControl" />
+  <control name="GMapTypeControl"  />
+</controls>
+<markers list="1">
+  <marker lat="44.226873" lng="-76.450939" label="Cedar Island" comment="4 campsites operated by Parks Canada. Requires a boat to access in summer." />
+  <marker lat="44.24483"  lng="-76.397038" label="Milton Island" comment="3 campsites operated by Parks Canada.  Requires a boat to access in summer." />
+  <marker lat="44.304226" lng="-76.418667"  label="Rideau Acres Campground" url="www.rideauacres.com" />
+</markers>
+</googlemapdata>

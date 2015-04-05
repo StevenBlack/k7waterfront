@@ -1,0 +1,27 @@
+<googlemapdata>
+<title text="Sand beaches in the Kingston region" />
+<size width="500px" height="450px" />
+<centerpt lat="44.207312" lng="-76.455917" zoom="11"  type="satellite" />
+<controls>
+  <control name="GSmallMapControl" />
+  <control name="GMapTypeControl"  />
+</controls>
+<markers list="1">
+  <marker lat="44.218846" lng="-76.509733" label="Alwington Place Beach" comment="A private beach for the residents of Alwington Place" />
+
+  <marker lat="44.2347" lng="-76.4483" label="Arrowhead Beach Park" comment="Narrow sand beach attached to a park with play structures.  The bottom can be weedy.  Perfect for an outing with little kids." />
+
+  <marker lat="44.1125" lng="-76.4462" label="Big Sandy Bay" comment="The best white sand beach in the whole region.  Relatively secluded too, accessible mainly by boat but also via a long land trek. Guaranteed mostly deserted in moderate Westerly or Southerly breezes because the bay's sandy bottom isn't safe for anchoring boats in anything but very light chop." url="www.bigsandybay.ca/" topic="BigSandyBay" />
+
+  <marker lat="44.250794" lng="-76.468191" label="Bell Island Park" comment="... but swim here at your peril since there's a pollution-leaching landfill very close by."/>
+
+  <marker lat="44.212541" lng="-76.552391" label="Invista Beach" comment="On private land." />
+
+  <marker lat="44.2911" lng="-76.3101" label="Grass Creek Park" comment="Decent beach." topic="Grass Creek Park"/>
+
+  <marker lat="44.216955" lng="-76.532055" label="Lake Ontario Park Beach" topic="Lake Ontario Park" />
+
+  <marker lat="44.236713" lng="-76.610241" label="Rotary Park Beach" comment="Tiny, really only for toddlers or little kids." />
+
+</markers>
+</googlemapdata>

@@ -1,0 +1,22 @@
+<googlemapdata>
+<title text="Online Wind Sensors around Kingston" />
+<size width="500px" height="250px" />
+<centerpt lat="44.205589" lng="-76.534882"  zoom="12" />
+<controls>
+  <control name="GSmallMapControl" />
+  <control name="GMapTypeControl"  />
+</controls>
+
+<markers list="1">
+
+  <marker lat="44.218139" lng="-76.59668" label="Environment Canada / Kingston Airport" url="weatheroffice.ec.gc.ca/city/pages/on-69_metric_e.html" comment="This is the sensor that reports what you read in public weather forecasts.  Fairly accurate in all directions, though the Kingston Airport isn't as prone to the sea breezes found in Kingston Harbour. BEWARE: This sensor is offline between 11 pm and 7 am." />
+
+
+  <marker lat="44.222199" lng="-76.486087" label="Kingston Yacht Club" url="KingstonYachtClub.com/wind" comment="The KYC wind sensor is mounted on the club breakwall.  BEWARE: This sensor is not very reliable Northerly winds, and its data is often stale, so be sure to check the Last Updated label on the page." />
+
+
+
+  <marker lat="44.22226" lng="-76.488533" label="iWindsurf.com" url="www.iwindsurf.com/windandwhere.iws?siteID=121" comment="The iWindsurf.com wind sensor is at Richardson Beach, a popular winsurfing launch spot. BEWARE: This sensor is reliable only for winds from the Southern quadrant. BEWARE: This sensor does not report data collected between 8 pm and 6 am." />
+</markers>
+
+</googlemapdata>

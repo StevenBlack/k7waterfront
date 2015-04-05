@@ -1,0 +1,21 @@
+<googlemapdata>
+<size width="800px" height="600px" />
+<centerpt lat="44.251347" lng="-76.483383" zoom="12"/>
+
+<markers list="1">
+  <marker lat="44.218078" lng="-76.546297" label="Cataraqui Bay" />
+  <marker lat="44.223706" lng="-76.485486" label="Foot of West Street" comment="Cement launch.  Good manoevering space." />
+  <marker lat="44.239481" lng="-76.612945" label="Collins Bay Wharf" comment="Cement launch, cement pier.  Not a lot of room to turn around for larger boats. It is best to back larger boats in from the road." />
+  <marker lat="44.236898" lng="-76.478233" label="Kingston Marina" />
+  <marker lat="44.223036" lng="-76.486602" label="Kingston Yacht Club railway slip" comment="The marine railway slip (cement launch) is suitable for small boats on dollies or on hand-moveable trailers.  There's a wooden dock alongside the ramp which is handy.  Often effectively blocked in early spring and in fall by boats on land for winter storage. " />
+  <marker lat="44.222306" lng="-76.485636" label="Kingston Yacht Club T-dock" comment="The wooden 'T' dock is suitable for launching small boats on dollies.  The 'T' dock is hauled-out for winter so it's not available between late fall and early spring." />
+  <marker lat="44.216847" lng="-76.532221" label="Lake Ontario Park" comment="Free." />
+  <marker lat="44.193405" lng="-76.441154" label="Marysville 1" />
+  <marker lat="44.194513" lng="-76.438322" label="Marysville 2" />
+  <marker lat="44.242985" lng="-76.479564" label="Orchard Park" comment="Cement launch.  This is a narrow ramp that leads to shallow water, just noth of the Wollen Mill building" />
+  <marker lat="44.219246" lng="-76.517179" label="P.O.H. Launch Ramp N" comment="Excellent wide and steep concrete ramp. Suitable for virtually any tow vehicle and any boat.  These are the best launch facilities in the area." />
+  <marker lat="44.218093" lng="-76.517887" label="P.O.H. Launch Ramp S" comment="Excellent wide and steep concrete ramp. Suitable for virtually any tow vehicle and any boat.  POH has the best ramps in the area." />
+  <marker lat="44.307236" lng="-76.424503" label="Rideau Acres Campground" comment="Good launch, steel grating over gravel. Accommodates boats up to 25 feet. Dock, parking and picnic tables available. Launch fee: $5" />
+  <marker lat="44.25399"  lng="-76.465874" label="Rideau Marina" comment="Cement launch. A nice wide ramp that's also served by a 25-ton travel lift." topic="Rideau Marina" />
+  <marker lat="44.263273" lng="-76.377339" label="Treasure Island Marina" />
+</markers></googlemapdata>

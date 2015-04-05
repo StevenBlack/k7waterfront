@@ -1,0 +1,12 @@
+<googlemapdata>
+<title text="Great Cataraqui Marsh" />
+<size width="500px" height="400px" />
+<centerpt lat="44.271509" lng="-76.46656" />
+<controls>
+  <control name="GSmallMapControl" />
+  <control name="GMapTypeControl"  />
+</controls>
+<markers list="1">
+  <marker lat="44.271509" lng="-76.46656" label="Great Catagraqui Marsh" comment="One of the largest marshes in the entire Great Lakes region." />
+</markers>
+</googlemapdata>

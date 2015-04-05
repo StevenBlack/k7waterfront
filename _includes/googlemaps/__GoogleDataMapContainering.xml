@@ -1,0 +1,13 @@
+<googlemapdata>
+<title text="Container Logistics" />
+<size width="400px" height="300px" />
+<centerpt lat="44.240034" lng="-76.515312" zoom="12" />
+<controls>
+  <control name="GSmallMapControl" />
+  <control name="GMapTypeControl"  />
+</controls>
+<markers list="1">
+  <marker lat="44.218754" lng="-76.517372" label="Portsmouth Olympic Harbour"/>
+  <marker lat="44.252085" lng="-76.517286" label="DC Marine Ltd." comment="785 Sir John A. MacDonald, Kingston, Ontario, Tel. 613-544-5626"/>
+</markers>
+</googlemapdata>

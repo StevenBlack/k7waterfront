@@ -1,0 +1,8 @@
+<googlemapdata>
+<title text="Green Bay" />
+<size width="600px" height="450px" />
+<centerpt lat="44.240526" lng="-76.465187" zoom="15" />
+<markers list="1">
+  <marker lat="44.240526" lng="-76.465187" label="Green Bay" topic="Green Bay" colour="yellow" />
+</markers>
+</googlemapdata>

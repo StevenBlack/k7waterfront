@@ -1,0 +1,12 @@
+<googlemapdata>
+<size width="400px" height="300px" />
+<title text="Wolfe Island Ferry dock" />
+<centerpt lat="44.23247" lng="-76.478148" zoom="14" />
+<markers>
+  <marker lat="44.23247" lng="-76.478148" label="Kingston Wolfe Island Ferry dock" />
+</markers>
+<controls>
+  <control name="GSmallMapControl" />
+  <control name="GMapTypeControl"  />
+</controls>
+</googlemapdata>

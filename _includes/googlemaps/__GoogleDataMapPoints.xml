@@ -1,0 +1,61 @@
+<googlemapdata>
+<title text="Points of land in the Kingston region" />
+<size width="500px" height="450px" />
+<centerpt lat="44.186143" lng="-76.475143" zoom="12" type="satellite" />
+<markers list="1">
+  <marker lat="44.228534" lng="-76.391888" label="Abraham Head" />
+  <marker lat="44.255528" lng="-76.46553"  label="Barkers Point" />
+  <marker lat="44.179865" lng="-76.767483" label="Bath Point" />
+  <marker lat="44.094983" lng="-76.441669" label="Bear Point" />
+  <marker lat="44.133681" lng="-76.508961" label="Bells Point" />
+  <marker lat="44.118772" lng="-76.802502" label="Bluff Point" />
+  <marker lat="44.232347" lng="-76.389656" label="Brophy Point" />
+  <marker lat="44.301493" lng="-76.262112" label="Byrne Point" />
+  <marker lat="44.183558" lng="-76.335754" label="Carpenter Point" />
+  <marker lat="44.207927" lng="-76.549816" label="Carruthers Point" />
+  <marker lat="44.230441" lng="-76.448708" label="Cartwright Point" />
+  <marker lat="44.256819" lng="-76.346312" label="Cassidy's Point" />
+  <marker lat="44.298544" lng="-76.25061"  label="Cooks Point" />
+  <marker lat="44.215002" lng="-76.423731" label="Dawson Point" />
+  <marker lat="44.101886" lng="-76.783962" label="Drain's Point" />
+  <marker lat="44.102502" lng="-76.76405"  label="Emeric Point" />
+  <marker lat="44.211495" lng="-76.575394" label="Everett Point" />
+  <marker lat="44.205097" lng="-76.44536"  label="Ferguson Point" />
+  <marker lat="44.306407" lng="-76.235332" label="Firmans Point" />
+  <marker lat="44.181712" lng="-76.521149" label="Four Mile Point" />
+  <marker lat="44.300817" lng="-76.195421" label="Gillespies Point" />
+  <marker lat="44.292647" lng="-76.303482" label="Grass Creek Point" />
+  <marker lat="44.18048" lng="-76.675816"  label="Griffin Point" />
+  <marker lat="44.248273" lng="-76.345453" label="Hickey's Point" />
+  <marker lat="44.141073" lng="-76.355324" label="Hinkley Point" />
+  <marker lat="44.114335" lng="-76.84988"  label="Indian Point" />
+  <marker lat="44.202082" lng="-76.309061" label="Irvine Point" />
+  <marker lat="44.173463" lng="-76.722507" label="Kerr Point" />
+  <marker lat="44.231917" lng="-76.396523" label="Knapp Point" />
+  <marker lat="44.215063" lng="-76.579514" label="Lakeland Point" />
+  <marker lat="44.218508" lng="-76.615219" label="Lemoine Point" />
+  <marker lat="44.104598" lng="-76.488533" label="Long Point" />
+  <marker lat="44.17888" lng="-76.494112"  label="Luces Point" />
+  <marker lat="44.201097" lng="-76.326828" label="Macandie Point" />
+  <marker lat="44.188913" lng="-76.465702" label="Mill Point" />
+  <marker lat="44.249503" lng="-76.392574" label="Milton Point" />
+  <marker lat="44.20645"  lng="-76.685429" label="Nicholsons Point" />
+  <marker lat="44.150681" lng="-76.553593" label="Nine Mile Point" />
+  <marker lat="44.236898" lng="-76.333694" label="Oak Point" />
+  <marker lat="44.128014" lng="-76.811256" label="Pig Point" />
+  <marker lat="44.111993" lng="-76.843872" label="Pleasant Point" />
+  <marker lat="44.136761" lng="-76.353264" label="Point Alexandria" />
+  <marker lat="44.226381" lng="-76.469307" label="Point Frederick" />
+  <marker lat="44.22835" lng="-76.461067"  label="Point Henry" />
+  <marker lat="44.208419" lng="-76.564922" label="Point Pleasant" />
+  <marker lat="44.099667" lng="-76.876831" label="Prinyer Point" />
+  <marker lat="44.21371" lng="-76.527672"  label="Samson Point" />
+  <marker lat="44.251655" lng="-76.354036" label="Spit Head" />
+  <marker lat="44.158563" lng="-76.512394" label="Staley Point" />
+  <marker lat="44.17334" lng="-76.696243"  label="Stella Point" />
+  <marker lat="44.301432" lng="-76.239367" label="Thompsons Point" />
+  <marker lat="44.30481" lng="-76.25782"   label="Trident Point" />
+  <marker lat="44.10127" lng="-76.753492"  label="Wemps Point" />
+  <marker lat="44.134913" lng="-76.485615" label="Yotts Point" />
+</markers>
+</googlemapdata>

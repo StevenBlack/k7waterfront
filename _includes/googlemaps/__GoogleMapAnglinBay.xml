@@ -1,0 +1,9 @@
+<googlemapdata>
+<size width="500px" height="400px" />
+<centerpt lat="44.238251" lng="-76.479263" zoom="13" />
+<controls>
+  <control name="GSmallMapControl" />
+  <control name="GMapTypeControl"  />
+</controls>
+<infowindow text="Anglin Bay"/>
+</googlemapdata>

@@ -1,0 +1,28 @@
+<googlemapdata>
+<title text="Anchoring in Northerly Breezes" />
+<size width="500px" height="400px" />
+<centerpt  lat="44.203866" lng="-76.474457" zoom="11" />
+<controls>
+  <control name="GSmallMapControl" />
+  <control name="GMapTypeControl"  />
+</controls>
+<markers list="1">
+  <marker lat="44.245138" lng="-76.395578" label="Behind Milton Island" comment="Milton Island offers good protection, especially if you can get into the bay that cuts into its East side." />
+
+  <marker lat="44.229088" lng="-76.447849" label="In the lee of Cedar Island" comment="This is a pretty good place to anchor except for the nearby boat traffic, which tends to be significant on weekends and holidays" />
+
+  <marker lat="44.24028"  lng="-76.605263" label="Deep in Collins Bay" comment="Deep into Collins Bay is okay in a North breeze, the further in the better.  Shallow, muddy bottom.  If things get bleak, dock at one of the marinas at the apex of the bay." />
+
+  <marker lat="44.236836" lng="-76.473598" label="Inner Harbour" comment="Kingston's inner harbour is an OK anchorage in a North breeze but you'll need a bridge lift to get there if your vessel can't otherwise fit under the permanent span of the Lasalle Causeway."/>
+
+  <marker lat="44.155485" lng="-76.514797" label="Tucked in under Horseshoe Island" comment="Sheltered behind Horseshoe Island is a good spot.  Very shallow, rocky bottom, still good if the wind shifts to almost any other direction." />
+
+<marker lat="44.198328" lng="-76.465337" label="Tucked under Garden Island" comment="This is a really great spot in a North or East breeze.  Shallow, but the bottom (which you can probably see) is variable, either sand or, in the worst case, shelf rock.  Keep an eye on it." />
+
+<marker lat="44.254175" lng="-76.344166" label="Cassidy Bay" comment="Very good anchorage in all circumstances except the prevailing direction, where it's fair to middlin'.  Absolutely great bottom for anchoring.  Careful of the shoal on the South-side of the mouth of the Bay when going-in. " />
+
+<marker lat="44.23041" lng="-76.463814" label="Navy Bay" comment="Tucked between Royal Military College to the West and Fort Henry to the East, it's a picturesque and safe place in Northerly and Easterly breezes." />
+
+
+</markers>
+</googlemapdata>

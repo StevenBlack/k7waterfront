@@ -1,0 +1,26 @@
+<googlemapdata>
+<title text="Groceries, Beer, Liquor and Wine stores near the waterfront" />
+<size width="800px" height="300px" />
+<centerpt lat="44.219123" lng="-76.539688" zoom="12" />
+<controls>
+  <control name="GSmallMapControl" />
+  <control name="GMapTypeControl"  />
+</controls>
+<markers list="1">
+    <marker lat="44.21876"  lng="-76.64331" label="Beer store-1 " />
+    <marker lat="44.24169"  lng="-76.48482" label="Beer store-2 " />
+    <marker lat="44.23456"  lng="-76.49633" label="Beer store-3 " />
+    <marker lat="44.24105"  lng="-76.50931" label="Beer store-4 " />
+    <marker lat="44.23728"  lng="-76.56821" label="Beer store-5 " />
+    <marker lat="44.23751"  lng="-76.59290" label="Groceries-1" />
+    <marker lat="44.23326"  lng="-76.48076" label="Groceries-2" />
+    <marker lat="44.23809"  lng="-76.54551" label="Liquor store-1" />
+    <marker lat="44.21950"  lng="-76.64636" label="Liquor store-2" />
+    <marker lat="44.23298"  lng="-76.48067" label="Liquor store-3" />
+    <marker lat="44.24149"  lng="-76.51168" label="Liquor store-4" />
+    <marker lat="44.23728"  lng="-76.56971" label="WineRack-1" />
+    <marker lat="44.24323"  lng="-76.51661" label="WineRack-2" />
+    <marker lat="44.19082"  lng="-76.44355" label="General store" />
+</markers>
+</googlemapdata>
+(This map is under construction)

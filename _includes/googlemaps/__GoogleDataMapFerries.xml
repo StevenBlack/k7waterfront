@@ -1,0 +1,19 @@
+<googlemapdata>
+<title text="Ferries in the Kingston region" />
+<size width="800px" height="450px" />
+<centerpt lat="44.168415" lng="-76.666718" zoom="10" />
+<controls>
+  <control name="GSmallMapControl" />
+  <control name="GMapTypeControl"  />
+</controls>
+<markers list="1">
+  <marker lat="44.212233" lng="-76.45832"   label="Wolfe Island Ferry" comment="Free for cars and pedestrians. The more Eastern route is taken in winter." url="www.wolfeisland.com/ferry.php" />
+  <marker lat="44.275196" lng="-76.325884"  label="Howe Island County Ferry Service" comment="On demand, 24 hours. Capacity: 15 cars.  Fares apply.  Operated by Frontenac County. Call (613) 542-4959 or (613) 548-9400 for information or maximum length details"/>
+  <marker lat="44.304687" lng="-76.190186"  label="Howe Island Ferry (II)"/>
+  <marker lat="44.04318" lng="-77.048492"   label="Glenora Ferry" />
+  <marker lat="44.183497" lng="-76.7231"    label="Amherst Island Ferry"/>
+  <marker lat="44.171832" lng="-76.500249"  label="Simcoe Island Ferry" comment="Capacity: ? 3 cars.  Call (613) 385- 2216 for information or max length details."/>
+  <marker lat="44.133681" lng="-76.34556" label="Horne Ferry (Canada - USA)"  comment="Operates May to mid-October.  Fares apply. Call (613) 385-2262 or (315) 783-0638 for information." topic="Horne Ferry"  url="www.hornesferry.com" />
+
+</markers>
+</googlemapdata>

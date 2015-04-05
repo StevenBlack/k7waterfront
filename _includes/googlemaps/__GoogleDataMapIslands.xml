@@ -1,0 +1,31 @@
+<googlemapdata>
+<title text="Islands in the Kingston region" />
+<size width="500px" height="400px" />
+<centerpt lat="44.113226" lng="-76.522522" zoom="10" type="satellite" />
+<markers list="1">
+  <marker lat="44.162504" lng="-76.670837" label="Amherst Island"/>
+  <marker lat="44.19279"  lng="-76.326141" label="Bayfield Island"/>
+  <marker lat="44.249134" lng="-76.469307" label="Bells Island" />
+  <marker lat="44.206327" lng="-76.628265" label="Brother Islands"/>
+  <marker lat="44.179742" lng="-76.288376" label="Carleton Island"/>
+  <marker lat="44.22675"  lng="-76.451712" label="Cedar Island" topic="CedarIsland" />
+  <marker lat="43.947844" lng="-76.802673" label="False Duck Island"/>
+  <marker lat="44.201466" lng="-76.4639"   label="Garden Island" topic="GardenIsland" />
+  <marker lat="44.196236" lng="-76.446648" label="Goose Island" />
+  <marker lat="44.150435" lng="-76.518402" label="Horseshoe Island"/>
+  <marker lat="44.264134" lng="-76.306057" label="Howe Island"/>
+  <marker lat="43.930539" lng="-76.622086" label="Main Duck Island" topic="MainDuckIsland" />
+  <marker lat="44.244707" lng="-76.397724" label="Milton Island" topic="MiltonIsland" />
+  <marker lat="44.099791" lng="-76.719761" label="Nut Island"/>
+  <marker lat="44.066127" lng="-76.549129" label="Pigeon Island"/>
+  <marker lat="44.19839"  lng="-76.591702" label="Salmon Island"/>
+  <marker lat="44.166937" lng="-76.519775" label="Simcoe Island" topic="SimcoeIsland"  />
+  <marker lat="44.190697" lng="-76.542091" label="Snake Island" topic="Snake Island" />
+  <marker lat="44.242985" lng="-76.385965" label="The Spectacles"/>
+  <marker lat="43.957978" lng="-76.835632" label="Timber Island"/>
+  <marker lat="43.989356" lng="-76.973648" label="Waupoos Island"/>
+  <marker lat="44.229088" lng="-76.45051"  label="Whiskey Island"/>
+  <marker lat="44.167922" lng="-76.414719" label="Wolfe Island"/>
+  <marker lat="43.92819"  lng="-76.585693" label="Yorkshire Island"/>
+</markers>
+</googlemapdata>

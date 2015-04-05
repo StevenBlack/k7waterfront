@@ -1,0 +1,8 @@
+<googlemapdata>
+<title text="Paterson Park" />
+<size width="400px" height="250px" />
+<centerpt lat="44.219861" lng="-76.520805" zoom="12" />
+<markers list="1">
+  <marker lat="44.209219" lng="-76.563334" label="Paterson Park" />
+</markers>
+</googlemapdata>

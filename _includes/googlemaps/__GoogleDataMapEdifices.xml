@@ -1,0 +1,23 @@
+<googlemapdata>
+<title text="Edifice Complex" />
+<size width="500px" height="400px" />
+<centerpt lat="44.248396" lng="-76.522179" />
+<controls>
+  <control name="GSmallMapControl" />
+  <control name="GMapTypeControl"  />
+</controls>
+<markers list="1">
+  <marker lat="44.233339" lng="-76.479478" label="LVEC"/>
+  <marker lat="44.232155" lng="-76.487192" label="Grand Theatre"/>
+  <marker lat="44.230087" lng="-76.481162" label="Market Square"/>
+  <marker lat="44.226535" lng="-76.482396"  label="Block D"/>
+
+  <marker lat="44.225228" lng="-76.483083"  label="Marine Museum"/>
+  <marker lat="44.24898" lng="-76.495056"  label="Police station"/>
+  <marker lat="44.24184" lng="-76.420394"  label="Ravensview"/>
+
+  <marker lat="44.273752" lng="-76.568656"  label="Multiplex"/>
+
+
+</markers>
+</googlemapdata>

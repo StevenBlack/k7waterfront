@@ -1,0 +1,12 @@
+<googlemapdata>
+<title text="Arrowhead Beach Park" />
+<size width="500px" height="450px" />
+<centerpt lat="44.232224" lng="-76.451368" zoom="14" />
+<controls>
+  <control name="GSmallMapControl" />
+  <control name="GMapTypeControl"  />
+</controls>
+<markers list="1">
+  <marker lat="44.2347" lng="-76.4483" label="Arrowhead Beach Park" comment="Narrow sand beach attached to a park with play structures.  The bottom can be weedy.  Perfect for an outing with little kids." />
+</markers>
+</googlemapdata>

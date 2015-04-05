@@ -1,0 +1,30 @@
+<googlemapdata>
+<title text="Marinas in the Kingston region" />
+<size width="750px" height="400px" />
+<centerpt lat="44.233885" lng="-76.500893" zoom="12" />
+<markers list="1">
+  <marker lat="44.240218" lng="-76.602108" label="Blue Woods Marina"/>
+
+  <marker lat="44.233777" lng="-76.449974" label="CFB Kingston Yacht Club" comment="This is a private yacht club with no public facilities." />
+
+  <marker lat="44.238681" lng="-76.605005" label="Collins Bay Marina"  topic="Collins Bay Marina" />
+
+  <marker lat="44.228826" lng="-76.479456" label="Confederation Basin" comment="Not really a marina, more a town dock where you can park a short while for free and overnight for a fee." topic="Confederation Basin" Topic="Confed" />
+
+  <marker lat="44.195436" lng="-76.440296" label="General Wolfe" comment="Not really a marina, more a town dock where you can park for a short period (make sure you let the bartender know) to explore around Marysville for a while." />
+
+  <marker lat="44.236314" lng="-76.479199" label="Kingston Marina" topic="Kingston Marina" comment="A full service marina with the largest crane in the region." />
+
+  <marker lat="44.223014" lng="-76.486323" label="Kingston Yacht Club" comment="This is a private yacht club offering reciprocal priviledges but with limited visitor docking.  They sell fuel." />
+
+  <marker lat="44.182127" lng="-76.762998" label="Loyalist Cove Yacht Club"/>
+
+  <marker lat="44.257756" lng="-76.478963" label="Music Marina"/>
+
+  <marker lat="44.217893" lng="-76.517329" label="Portsmouth Olympic Harbour" topic="Portsmouth Olympic Harbour" />
+
+  <marker lat="44.254406" lng="-76.46656"  label="Rideau Marina" comment="A full service marina with a 25 ton travel lift." topic="Rideau Marina" />
+
+  <marker lat="44.263135" lng="-76.377339" label="Treasure Island Marina"/>
+</markers>
+</googlemapdata>

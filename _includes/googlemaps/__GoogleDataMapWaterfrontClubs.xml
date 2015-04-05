@@ -1,0 +1,16 @@
+<googlemapdata>
+<size width="600px" height="400px" />
+<centerpt lat="44.255528" lng="-76.424332" zoom="11" />
+<controls>
+  <control name="GSmallMapControl" />
+  <control name="GMapTypeControl"  />
+</controls>
+<markers list="1">
+  <marker lat="44.222945"  lng="-76.486956" label="Kingston Yacht Club" topic="KingstonYachtClub" url="KingstonYachtClub.com" />
+  <marker lat="44.238896"  lng="-76.603589" label="Collins Bay Yacht Club" topic="CollinsBayYachtClub" url="collinsbaymarina.com/cbyc" />
+  <marker lat="44.233946"  lng="-76.450896" label="CFB Kingston Yacht Club" />
+  <marker lat="44.245015"  lng="-76.480014" label="Kingston Rowing Club and Kingston Canoe Club" url="www.rowkingston.on.ca/" />
+  <marker lat="44.304933"  lng="-76.258078" label="Trident Yacht Club" />
+  <marker lat="44.230379"  lng="-76.46553"  label="RMC Windsurfing Club" url="www.rmcwindsurfing.com" />
+</markers>
+</googlemapdata>
