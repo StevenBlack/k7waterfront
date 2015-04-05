@@ -18,7 +18,9 @@ In General: There are [nearly zero camping facilities][camping] on water in the 
 ##Portsmouth Olympic Harbour
 
 <img src="Images/POHPier.jpg">
-<p>Here's the POH pier, where they don't like people to be hangin' out.
+
+Here's the POH pier, where they don't like people to be hangin' out.
+
 #INSERTTOPIC:PortsmouthOlympicHarbour#hoist
 
 {% include routes.html %}
