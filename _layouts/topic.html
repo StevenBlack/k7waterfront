@@ -10,14 +10,10 @@ layout: default
 
 	<div class="col-md-9">
 		<header class="post-header">
-			<h1 class="post-title">
-				{{ page.title }}
-			{{% if page.premise %}}
-			<br><small>{{ page.premise }}</small>
-			{{% endif %}}
-			</h1>
+			<h1 class="post-title">{{ page.title }}{{% unless page.premise == blank %}}<br><small>{{ page.premise }}</small>{{% endunless %}}</h1>
 		</header>
 		<article class="post-content">
+			{% include image_right_tower.html %}
 			{{ content }}
 		</article>
 	</div>
