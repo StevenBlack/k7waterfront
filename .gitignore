@@ -1,3 +1,4 @@
 _site
 .sass-cache
 node-modules
+_config_secret.yml
