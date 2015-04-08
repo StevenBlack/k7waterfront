@@ -2,18 +2,20 @@
 layout: topic
 permalink: "/topic/CollinsBay/"
 title: "Collins Bay"
+mapping:
+  latitude: 44.227980
+  longitude: -76.620360
 
 ---
 
-##Collins Bay
+**Collins Bay** is situated at the western end of the municipality of Kingston.
 
-<b>Collins Bay</b> is situated at the western end of the municipality of Kingston.
+{% render_map %}
 
-#INSERTTOPIC:__GoogleMapCollinsBay
+* [Collins Bay Marina][collinsbaymarina]
 
-<li> [Collins Bay Marina][collinsbaymarina]
+####External links:####
 
-<h4>External links:</h4>
-<li> http://www.boldts.net/KingstonD.shtml
+* Photos from [boldts.net](http://www.boldts.net/KingstonD.shtml)
 
 {% include routes.html %}
