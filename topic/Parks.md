@@ -2,10 +2,15 @@
 layout: topic
 permalink: "/topic/Parks/"
 title: "Parks"
+mapping:
+  layers: k7waterfront.org/maps/kml/park.kml
 
 ---
 
 ##Waterfront parks in the Kingston area
+
+{% render_map %}
+
 
 Most people are very surprised when they see how many waterfront parks are in the Kingston region.
 

@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?><kml xmlns="http://www.opengis.net/kml/2.2"><Document><Placemark>
+<name>Alwington Place Beach</name>
+<description><![CDATA[
+  A private beach for the residents of Alwington Place
+]]></description>
+<Point>
+  <coordinates>-76.509733,44.218846</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Arrowhead Beach Park</name>
+<description><![CDATA[
+  Narrow sand beach attached to a park with play structures.  The bottom can be weedy.  Perfect for an outing with kids.
+]]></description>
+<Point>
+  <coordinates>-76.448300,44.234700</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Bell Island Park Beach</name>
+<description><![CDATA[
+  Swim here at your peril since there's a pollution-leaching landfill very close by.
+]]></description>
+<Point>
+  <coordinates>-76.468191,44.250794</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Dupont Beach</name>
+<description><![CDATA[
+  On private land.
+]]></description>
+<Point>
+  <coordinates>-76.552391,44.212541</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Environment Canada / Kingston Airport</name>
+<description><![CDATA[
+  This is the sensor that reports what you read in public weather forecasts.  Fairly accurate in all directions, though the Kingston Airport isn't as prone to the sea breezes found in Kingston Harbour. BEWARE: This sensor is offline between 11 pm and 7 am.
+]]></description>
+<Point>
+  <coordinates>-76.596680,44.218139</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Kingston Yacht Club Beach (private)</name>
+<description><![CDATA[
+  Private beach.
+]]></description>
+<Point>
+  <coordinates>-76.487417,44.222691</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Lake Ontario Park Beach</name>
+<description><![CDATA[
+  
+]]></description>
+<Point>
+  <coordinates>-76.532055,44.216955</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Lemoine Point Beach</name>
+<description><![CDATA[
+  
+]]></description>
+<Point>
+  <coordinates>-76.613760,44.229457</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Richardson Beach</name>
+<description><![CDATA[
+  This is where many of Kingstons best windsurfers launch thair boards on windy days.
+]]></description>
+<Point>
+  <coordinates>-76.488812,44.222030</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Rotary Park Beach</name>
+<description><![CDATA[
+  Tiny, really only for toddlers or little kids.
+]]></description>
+<Point>
+  <coordinates>-76.610241,44.236713</coordinates>
+</Point>
+</Placemark>
+</Document></kml>

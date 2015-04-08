@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?><kml xmlns="http://www.opengis.net/kml/2.2"><Document><Placemark>
+<name>Amherst Island Ferry</name>
+<description><![CDATA[
+  The 33-car Frontenac II provides the regular service, 365 days a year.
+]]></description>
+<Point>
+  <coordinates>-76.723100,44.183497</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Glenora Ferry</name>
+<description><![CDATA[
+  
+]]></description>
+<Point>
+  <coordinates>-77.048492,44.043180</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Horne Ferry</name>
+<description><![CDATA[
+  Operates May to mid-October.  Fares apply. Call (613) 385-2262 or (315) 783-0638 for information.
+]]></description>
+<Point>
+  <coordinates>-76.345560,44.133681</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Howe Island County Ferry Service</name>
+<description><![CDATA[
+  On demand, 24 hours. Capacity: 15 cars.  Fares apply.  Operated by Frontenac County. Call (613) 542-4959 or (613) 548-9400 for information or maximum length details
+]]></description>
+<Point>
+  <coordinates>-76.325884,44.275196</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Howe Island Ferry (II)</name>
+<description><![CDATA[
+  
+]]></description>
+<Point>
+  <coordinates>-76.190186,44.304687</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Howe Island Ferry Park</name>
+<description><![CDATA[
+  
+]]></description>
+<Point>
+  <coordinates>-76.327000,44.275688</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Simcoe Island Ferry</name>
+<description><![CDATA[
+  Capacity: – 3 cars.  Call (613) 385- 2216 for information or max length details.
+]]></description>
+<Point>
+  <coordinates>-76.500249,44.171832</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Wolfe Island Ferry</name>
+<description><![CDATA[
+  Free for cars and pedestrians. The more Eastern route is taken in winter.
+]]></description>
+<Point>
+  <coordinates>-76.458320,44.212233</coordinates>
+</Point>
+</Placemark>
+</Document></kml>

@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?><kml xmlns="http://www.opengis.net/kml/2.2"><Document><Placemark>
+<name>CFB Kingston Yacht Club</name>
+<description><![CDATA[
+  This is a private yacht club with no public facilities, but with reciprocal priviledges.
+]]></description>
+<Point>
+  <coordinates>-76.449974,44.233777</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Collins Bay Yacht Club</name>
+<description><![CDATA[
+  
+]]></description>
+<Point>
+  <coordinates>-76.603589,44.238896</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Kingston Rowing Club</name>
+<description><![CDATA[
+  
+]]></description>
+<Point>
+  <coordinates>-76.480014,44.245015</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Kingston Yacht Club</name>
+<description><![CDATA[
+  This is a private yacht club offering reciprocal priviledges but with limited visitor docking.  The KYC dining room is open to the public for lunch.
+]]></description>
+<Point>
+  <coordinates>-76.486323,44.223014</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Kingston Yacht Club Beach (private)</name>
+<description><![CDATA[
+  Private beach.
+]]></description>
+<Point>
+  <coordinates>-76.487417,44.222691</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Loyalist Cove Yacht Club</name>
+<description><![CDATA[
+  
+]]></description>
+<Point>
+  <coordinates>-76.762998,44.182127</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>RMC Windsurfing Club</name>
+<description><![CDATA[
+  
+]]></description>
+<Point>
+  <coordinates>-76.465530,44.230379</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Trident Yacht Club</name>
+<description><![CDATA[
+  
+]]></description>
+<Point>
+  <coordinates>-76.258078,44.304933</coordinates>
+</Point>
+</Placemark>
+</Document></kml>

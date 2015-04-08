@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?><kml xmlns="http://www.opengis.net/kml/2.2"><Document><Placemark>
+<name>Collins Bay Wharf</name>
+<description><![CDATA[
+  Cement launch, cement pier.  Not a lot of room to turn around for larger boats. It is best to back larger boats in from the road.
+]]></description>
+<Point>
+  <coordinates>-76.612945,44.239481</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Environment Canada / Kingston Airport</name>
+<description><![CDATA[
+  This is the sensor that reports what you read in public weather forecasts.  Fairly accurate in all directions, though the Kingston Airport isn't as prone to the sea breezes found in Kingston Harbour. BEWARE: This sensor is offline between 11 pm and 7 am.
+]]></description>
+<Point>
+  <coordinates>-76.596680,44.218139</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Foot of West Street</name>
+<description><![CDATA[
+  Cement launch.  Good manoevering space.
+]]></description>
+<Point>
+  <coordinates>-76.485486,44.223706</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Kingston Marina</name>
+<description><![CDATA[
+  A full service marina with the largest crane in the region.
+]]></description>
+<Point>
+  <coordinates>-76.478233,44.236898</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Kingston Yacht Club T-dock</name>
+<description><![CDATA[
+  The wooden 'T' dock is suitable for launching small boats on dollies.  The 'T' dock is hauled-out for winter so it's not available between late fall and early spring.
+]]></description>
+<Point>
+  <coordinates>-76.485636,44.222306</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Kingston Yacht Club railway slip</name>
+<description><![CDATA[
+  The marine railway slip (cement launch) is suitable for small boats on dollies or on hand-moveable trailers.  There's a wooden dock alongside the ramp which is handy.  Often effectively blocked in early spring and in fall by boats on land for winter storage.
+]]></description>
+<Point>
+  <coordinates>-76.486602,44.223036</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Marysville 1</name>
+<description><![CDATA[
+  
+]]></description>
+<Point>
+  <coordinates>-76.441154,44.193405</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Marysville 2</name>
+<description><![CDATA[
+  
+]]></description>
+<Point>
+  <coordinates>-76.438322,44.194513</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Orchard Park</name>
+<description><![CDATA[
+  Cement launch.  This is a narrow ramp that leads to shallow water, just noth of the Wollen Mill building
+]]></description>
+<Point>
+  <coordinates>-76.479564,44.242985</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>P.O.H. Launch Ramp N</name>
+<description><![CDATA[
+  Excellent wide and steep concrete ramp. Suitable for virtually any tow vehicle and any boat.  These are the best launch facilities in the area.
+]]></description>
+<Point>
+  <coordinates>-76.517179,44.219246</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>P.O.H. Launch Ramp S</name>
+<description><![CDATA[
+  Excellent wide and steep concrete ramp. Suitable for virtually any tow vehicle and any boat.  POH has the best ramps in the area.
+]]></description>
+<Point>
+  <coordinates>-76.517887,44.218093</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Rideau Acres Campground</name>
+<description><![CDATA[
+  Good launch, steel grating over gravel. Accommodates boats up to 25 feet. Dock, parking and picnic tables available. Launch fee: $5
+]]></description>
+<Point>
+  <coordinates>-76.424503,44.307236</coordinates>
+</Point>
+</Placemark>
+</Document></kml>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?><kml xmlns="http://www.opengis.net/kml/2.2"><Document><Placemark>
+<name>iWindsurf.com</name>
+<description><![CDATA[
+  The iWindsurf.com wind sensor is at Richardson Beach, a popular winsurfing launch spot. BEWARE: This sensor is reliable only for winds from the Southern quadrant. BEWARE: This sensor does not report data collected between 8 pm and 6 am.
+]]></description>
+<Point>
+  <coordinates>-76.488533,44.222260</coordinates>
+</Point>
+</Placemark>
+</Document></kml>

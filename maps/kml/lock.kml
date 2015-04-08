@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?><kml xmlns="http://www.opengis.net/kml/2.2"><Document><Placemark>
+<name>Kingston Mills Locks</name>
+<description><![CDATA[
+  A nice park that borders both Colonel By Lake and the Northern stretch of the Great Cataraqui River below the locks.  This is a great picnic spot, as well as a moderate to advanced rock-climing spot.
+]]></description>
+<Point>
+  <coordinates>-76.441884,44.292247</coordinates>
+</Point>
+</Placemark>
+</Document></kml>

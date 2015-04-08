@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?><kml xmlns="http://www.opengis.net/kml/2.2"><Document><Placemark>
+<name>Environment Canada / Kingston Airport</name>
+<description><![CDATA[
+  This is the sensor that reports what you read in public weather forecasts.  Fairly accurate in all directions, though the Kingston Airport isn't as prone to the sea breezes found in Kingston Harbour. BEWARE: This sensor is offline between 11 pm and 7 am.
+]]></description>
+<Point>
+  <coordinates>-76.596680,44.218139</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Fairfield House Historical Museum</name>
+<description><![CDATA[
+  
+]]></description>
+<Point>
+  <coordinates>-76.654572,44.216017</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Fort Frederick Museum</name>
+<description><![CDATA[
+  
+]]></description>
+<Point>
+  <coordinates>-76.469736,44.227857</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Fort Henry</name>
+<description><![CDATA[
+  Fort Henry is 19th century British military fortress and is both a museum and a spectacular historic site.  Its grounds stretch to the water though it's not exactly a people-friendly waterside.  For example, there are no paths or walkways down near the water, and moats block circumambulation at the water's edge.
+]]></description>
+<Point>
+  <coordinates>-76.460209,44.229580</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>MacLachlan Woodworking Museum</name>
+<description><![CDATA[
+  Located right next to Grass Creek Park.
+]]></description>
+<Point>
+  <coordinates>-76.315155,44.295043</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Marine Museum of the Great Lakes</name>
+<description><![CDATA[
+  
+]]></description>
+<Point>
+  <coordinates>-76.483232,44.225613</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Murney Tower Museum</name>
+<description><![CDATA[
+  
+]]></description>
+<Point>
+  <coordinates>-76.490722,44.221984</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Pump House Steam Museum</name>
+<description><![CDATA[
+  
+]]></description>
+<Point>
+  <coordinates>-76.484620,44.224490</coordinates>
+</Point>
+</Placemark>
+</Document></kml>

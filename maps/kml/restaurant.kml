@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?><kml xmlns="http://www.opengis.net/kml/2.2"><Document><Placemark>
+<name>Brown's Bay Inn</name>
+<description><![CDATA[
+  
+]]></description>
+<Point>
+  <coordinates>-76.391544,44.219615</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>General Wolfe Hotel</name>
+<description><![CDATA[
+  
+]]></description>
+<Point>
+  <coordinates>-76.439438,44.194021</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Harbour Restaurant</name>
+<description><![CDATA[
+  
+]]></description>
+<Point>
+  <coordinates>-76.518005,44.218408</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Howard Johnson's Hotel</name>
+<description><![CDATA[
+  
+]]></description>
+<Point>
+  <coordinates>-76.479135,44.230379</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Island Grill</name>
+<description><![CDATA[
+  Great location, friendly, and as unpretentious a bar and restaurant as can possibly be.  Live music too, and docking for boats.
+]]></description>
+<Point>
+  <coordinates>-76.441154,44.193775</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>Portsmouth Tavern</name>
+<description><![CDATA[
+  
+]]></description>
+<Point>
+  <coordinates>-76.518016,44.219523</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name>River Mill</name>
+<description><![CDATA[
+  Despite appearances, it's not really accessible by boat.
+]]></description>
+<Point>
+  <coordinates>-76.479306,44.241817</coordinates>
+</Point>
+</Placemark>
+</Document></kml>

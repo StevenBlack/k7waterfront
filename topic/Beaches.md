@@ -2,11 +2,17 @@
 layout: topic
 permalink: "/topic/Beaches/"
 title: "Beaches"
+mapping:
+  layers: 
+    - http://k7waterfront.org/maps/kml/beach.kml
+
 
 ---
 
 ##Beaches
 {{_contents}}
+
+{% render_map %}
 
 There are no "official" beaches in Kingston.  There are, however, several good waterside places to hang out.
 
