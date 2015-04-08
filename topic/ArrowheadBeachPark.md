@@ -11,9 +11,11 @@ mapping:
 ---
 
 ##Arrowhead Beach Park
+
 Arrowhead Beach Park is located on Southern edge of [CFB Kingston][cfbkingston] on [Deadman Bay][deadmanbay].
 
 {% render_map %}
+
 
 <img src="Images\Aerial\ArrowheadBeachParkAerial.jpg">
 
