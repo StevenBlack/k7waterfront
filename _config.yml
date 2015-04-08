@@ -10,5 +10,8 @@ twitter_username: k7Waterfront
 github_username:  StevenBlack/k7waterfront
 site.image_default_alt: "Kingston, Ontario Waterfront"
 
+mapping:
+    provider: google_js
+
 # Build settings
 markdown: kramdown
