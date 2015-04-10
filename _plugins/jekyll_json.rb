@@ -5,10 +5,10 @@ module Jekyll
 
         def initialize(tag_name, text, tokens)
             @key = text.strip
+            @hash_to_jsonify = Jekyll.configuration({})[@key]
             super
         end
         def render(context)
-            @hash_to_jsonify = context.registers[:site].config[@key]
             @data = context['page'][@key]
             # this isn't a sophisticated merge. if there are nested
             # hashes, it'll completely overwrite them (so if you have
