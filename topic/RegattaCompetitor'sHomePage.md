@@ -2,48 +2,47 @@
 layout: topic
 permalink: "/topic/RegattaCompetitor'sHomePage/"
 title: "Regatta Competitor's Home Page"
+premise: A place for everything a regatta competitor should know about Kingston
 
 ---
 
-<strong>A place for everything a regatta competitor should know about Kingston</strong>
-<div class="floatright" style="width: 600px; overflow: hidden;">
 <img src="http://K7Waterfront.org/Images/AerialHarbourFlatNorthShore600.jpg">
-</div>
-<h2 class="plain">Sailing
-<ul  class="simplebullet">
-<li> [What to expect][regattacompetitors-whattoexpect], for first-time competitors.
-<li> [Kingston's wind][wind] and local [wind sensors][windsensors]
-<li> [Surface water temperatures][water temperatures]: updated daily.
-<li> [Current][current]
-<li> [Magnetic anomalies][magneticanomalies]: Why, where, and how much.
-<li> Notes on Kingston's traditional sailing competition zones:
-<ul  class="simplebullet">
+
+###Sailing
+
+*  [What to expect][regattacompetitors-whattoexpect], for first-time competitors.
+*  [Kingston's wind][wind] and local [wind sensors][windsensors]
+*  [Surface water temperatures][water temperatures]: updated daily.
+*  [Current][current]
+*  [Magnetic anomalies][magneticanomalies]: Why, where, and how much.
+*  Notes on Kingston's traditional sailing competition zones:
+
 <img src="http://K7Waterfront.org/Images/PhysicalGeographyTopology2.jpg" class="span-13 right">
-<li> [Courses Map][coursesmap]: An overview of all CORK's competition circles. 
-<li> [Course Alpha][coursealpha]: Kingston's premiere circle.
-<li> [Course Charlie][coursecharlie]: Traditionally used for smaller dinghies.
-<li> [Course Foxtrot][coursefoxtrot]: Championship circle, further out into the lake.
-<li> Kingston Harbour is festooned with [Club racing marks][clubracingmarks].
-</ul>
 
-</ul>
-<h2 class="plain">Sailing Regatta history
-<ul  class="simplebullet">
-<li> Our [Regatta History][listofmajorregattasinkingston] lists past winners, people to consult.
-</ul>
+*  [Courses Map][coursesmap]: An overview of all CORK's competition circles.
+*  [Course Alpha][coursealpha]: Kingston's premiere circle.
+*  [Course Charlie][coursecharlie]: Traditionally used for smaller dinghies.
+*  [Course Foxtrot][coursefoxtrot]: Championship circle, further out into the lake.
+*  Kingston Harbour is festooned with [Club racing marks][clubracingmarks].
 
-<h2 class="plain">Logistics
-<ul  class="simplebullet">
-<li> [http://cork.org](CORK)
-<li> [Clubs][clubs] and [Marinas][marinas], all with facilities.
-<li> [Cranes][cranes]
-<li> [Checklist For Shipping Containers To Kingston][checklistforshippingcontainerstokingston].  Everything you need to plan.
-</ul>
 
-<h2 class="plain">Dragon Boats
-<ul  class="simplebullet">
-<li> [http://k7waterfront.org/Topic/KingstonDragonBoatFestival](Kingston Dragon Boat Festival)
-</ul>
+###Sailing Regatta history
+
+*  Our [Regatta History][listofmajorregattasinkingston] lists past winners, people to consult.
+
+
+###Logistics
+
+*  [http://cork.org](CORK)
+*  [Clubs][clubs] and [Marinas][marinas], all with facilities.
+*  [Cranes][cranes]
+*  [Checklist For Shipping Containers To Kingston][checklistforshippingcontainerstokingston].  Everything you need to plan.
+
+
+###Dragon Boats
+
+*  [http://k7waterfront.org/Topic/KingstonDragonBoatFestival](Kingston Dragon Boat Festival)
+
 
 #INSERTTOPIC:BooksAboutKingstonWind
 

@@ -16,6 +16,31 @@ layout: default
 	</div>
 
 	<div class="col-md-9">
+		<div class="col-md-6 list-group">
+			<a class="list-group-item list-group-item-info">Starting Points</a>
+			<a href="/topic/OurBestPages" class="list-group-item">Our Best Pages</a>
+			<a href="/topic/DisappearingWaterfront" class="list-group-item">Kingston's disappearing waterfront</a>
+			<!-- <a href="/topic/MajorGeographicFeatures" class="list-group-item">Geographic features</a> -->
+			<a href="topic/WaterLevels" class="list-group-item">Water levels</a>
+			<a href="topic/WaterTemperatures" class="list-group-item">Water temperature</a>
+			<a href="/topic/Resident'sHomePage" class="list-group-item">Resident's home page</a>
+			<a href="/topic/Cruiser'sHomePage" class="list-group-item">Cruiser's home page</a>
+			<!-- <a href="/topic/HighwayTraveler'sHomePage" class="list-group-item">Highway traveller's home page</a> -->
+		</div>
+		<div class="col-md-6 list-group">
+			<a class="list-group-item list-group-item-info">For Regatta Competitors</a>
+			<a href="/topic/RegattaCompetitor'sHomePage" class="list-group-item">Regatta competitor home page</a>
+			<a href="topic/ListOfMajorRegattasInKingston" class="list-group-item">	Regatta history</a>
+			<a class="list-group-item list-group-item-info">For Board Sailors</a>
+			<a href="http://www.kiteboardingkingston.com/" class="list-group-item">Kiteboarding Kingston</a>
+			<a href="/topic/WaveSailingSpots" class="list-group-item">Wave sailing spots in Kingston</a>
+
+
+		</div>
+	</div>
+
+	<div class="col-md-9">
+		<h2>News</h2>
 		{% for post in site.posts limit:15 %}
 			{% include post-panel.html %}
 		{% endfor %}

@@ -1,14 +1,12 @@
 ---
 layout: topic
 permalink: "/topic/WaterTemperatures/"
-title: "Water Temperatures"
+title: "Current water temperature in Eastern Lake Ontario"
 
 ---
 
-<h3>Current water temperature in Eastern Lake Ontario</h3>
-
-<a href="http://www.coastwatch.msu.edu/ontario/o2.gif" class="imagelink">http://www.coastwatch.msu.edu/ontario/o2.gif</a>
-
 <img src="http://www.coastwatch.msu.edu/ontario/o2.gif">
+
+<img src="http://www.glerl.noaa.gov/wr/ahps/curfcst/plots/ONT_WTEMP.GIF">
 
 {% include routes.html %}
