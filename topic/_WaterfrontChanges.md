@@ -13,6 +13,6 @@ A prime and mostly deserted Wolfe Island dock is "for hotel guests only", with e
 
 <h3>Big Sandy Bay beach fees (since 2006)</h3>An [http://www.bigsandybay.ca/faq/admission-fees]($8 per head) fee for day-use is now in place.
 
-<h3>Confederation Basin docking fees</h3>[http://k7waterfront.org/Topic/__Whig20070630](Started in summer 2007).  Pay and [http://muzzles-for-dogs.com/leather-dog-muzzles.html](display).
+<h3>Confederation Basin pay-and-display docking fees</h3>[http://k7waterfront.org/Topic/__Whig20070630](Started in summer 2007).
 
 {% include routes.html %}

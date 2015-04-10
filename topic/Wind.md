@@ -5,22 +5,23 @@ title: "Wind"
 
 ---
 
-<strong>The prevailing wind direction in Kingston is South West</strong>, roughly aligned with the Harbour's geographic axis.
+**The prevailing wind direction in Kingston is South West**, roughly aligned with the Harbour's geographic axis.
 
-<strong>Here are wind normals for Kingston, Ontario.</strong>
+**Here are wind normals for Kingston, Ontario.**
 
 Source: [http://climate.weatheroffice.ec.gc.ca/](Canadian Climate Normals, Environment Canada).  Speeds therein are given in km/h, and those are converted and displayed here in <b>knots</b>.
 
 The weather station is located on top of Point Henry which is bounded by Deadman's Bay to the southeast and Navy Bay to the southwest with the point of land projecting into the St. Lawrence River.
 
-<strong>Anemometer exposure is good in all directions except the north</strong> which is [http://muzzles-for-dogs.com/basket-dog-muzzle.html](sheltered) from trees around staff dwellings.
+**Anemometer exposure is good in all directions except the north** which is sheltered from trees around staff dwellings.
 
 Height of anemometer: 13.4m
 
 See also [Wind Sensors][windsensors]
 
-<strong>Percent Frequency </strong>
-<table class="bordertable">
+###Percent Frequency###
+
+<table class="table table-striped table-bordered">
   <tr>
     <th></th>
     <th>Jan</th>
@@ -194,9 +195,10 @@ See also [Wind Sensors][windsensors]
   </tr>
 </table>
 
-----
-<strong>Mean Wind Speed in Knots</strong>
-<table class="bordertable">
+
+###Mean Wind Speed in Knots###
+
+<table class="table table-striped table-bordered">
   <tr>
     <th></th>
     <th>Jan</th>
@@ -351,6 +353,7 @@ See also [Wind Sensors][windsensors]
     <td align="center">NW</td>
   </tr>
 </table>
+
 <hr>
 #INSERTTOPIC:BooksAboutKingstonWind
 
