@@ -1,7 +1,7 @@
 
 module Jekyll
     class MapTag < Liquid::Tag
-        
+
         def initialize(tag_name, text, tokens)
             @config = Jekyll.configuration({})['mapping']
             @engine = @config['provider']
@@ -40,7 +40,7 @@ module Jekyll
     end
 
     class MapIndexTag < Liquid::Tag
-        
+
         def initialize(tag_name, text, tokens)
             @data = Jekyll.configuration({})['mapping']
             @engine = @data['provider']
@@ -108,7 +108,7 @@ module Jekyll
                         window.onload = function () { jekyllMapping.loadScript(#{@data.to_json}); };
                     </script>
                     "
-            end   
+            end
             if (@engine == 'openstreetmap')
                 return "
                     <div id='jekyll-mapping' style='height:#{@height}px;width:#{@width}px;'>
@@ -117,7 +117,7 @@ module Jekyll
                         window.onload = function () { jekyllMapping.mappingInitialize(#{@data.to_json}); };
                     </script>
                     "
-            end         
+            end
         end
     end
 end
