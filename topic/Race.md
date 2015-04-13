@@ -12,7 +12,7 @@ title: "Race"
 
 [Collins Bay Yacht Club][collinsbayyachtclub] races keelboats on Thursday evenings and some weekends.
 
-[http://home.cogeco.ca/~rckingston/](Radio controlled boats)
+[Radio controlled boats](http://home.cogeco.ca/~rckingston/)
 
 #INSERTTOPIC:ClubRacingMarks
 

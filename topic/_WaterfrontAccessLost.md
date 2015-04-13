@@ -18,7 +18,7 @@ Denied to <a href="http://kingstonwhigstandard.com/ArticleDisplay.aspx?e=3061018
 
 
 <a href="http://k7waterfront.org/KingstonWaterfrontNews092007.html#3577"><img src="http://k7Waterfront.org/Images/FtHeryAccess100h.jpg"  class="floatright bottom" title="Fort Henry: off limits, because we say so."></a><h3>Chains at Fort Henry<br>(since 2007)</h3>
-Which [http://k7waterfront.org/Topic/__Whig20070810](keeps visitors off the hill), and away from the water.  Go straight to the giftshop. One of the finest water vistas in Canada is not for you.  Because we arbitrarily say so.
+Which [keeps visitors off the hill](http://k7waterfront.org/Topic/__Whig20070810), and away from the water.  Go straight to the giftshop. One of the finest water vistas in Canada is not for you.  Because we arbitrarily say so.
 
 
 <a href="http://dolphinscubaclub.blogspot.ca/search/label/Tett%20Centre"><img src="http://3.bp.blogspot.com/_MuW11ed9-Co/Rl7-7lOotlI/AAAAAAAAAY0/9cyWwbIo0x4/s200/SANY0191.JPG" class="floatright"></a><h3>Diving from the Tett Centre / Morton Street<br>(since 2011)</h3>
@@ -30,7 +30,7 @@ An interesting natural walking and bike trail that's adjacent or within view of 
 
 
 <a href="http://www.flickr.com/photos/k7waterfront/2534181077/in/photostream/" class="imagelink"><img src="http://k7waterfront.org/images/NoFishingCauseway100h.jpg" alt="No fishing off the Lasalle Causeway in Kingston" class="floatright" title="No fishing.  Period."></a><h3>"No Fishing" off the Lasalle Causeway<br>(since 2007)</h3>
-A favorite downtown fishing spot is [http://k7waterfront.org/Topic/__Whig20070813](closed by officious desk-flying knobs).
+A favorite downtown fishing spot is [closed by officious desk-flying knobs](http://k7waterfront.org/Topic/__Whig20070813).
 
 
 <h3>Anchoring prohibited inside Confederation Basin  (since 2005 (?))</h3>

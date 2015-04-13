@@ -25,16 +25,16 @@ Source:   http://www.avironmontreal.com/en/club/basin_history.html
 
 <hr class="clearboth">
 
-<h3>Greece -- [http://www.olympicproperties.gr/contents.asp?id=83](Schinias Rowing Centre)
+<h3>Greece -- [Schinias Rowing Centre](http://www.olympicproperties.gr/contents.asp?id=83)
 <img src="http://www.olympicproperties.gr/olympicproperties/imageupload/sxinias_front_02.jpg" class="histphotowrap">
 
-See also: [http://maps.google.com/maps?hl=en&t=k&ll=38.15045400,24.01362400&q=Greece&spn=0.021096,0.047048](Google Map view)
+See also: [Google Map view](http://maps.google.com/maps?hl=en&t=k&ll=38.15045400,24.01362400&q=Greece&spn=0.021096,0.047048)
 
 <hr class="clearboth">
 
 
 <h3>Boston</h3>
-Interesting: [http://www.communityrowing.org/handbook/charlesriver.htm](Charles River Traffic Patterns and Safety Rules, Revised 2001)
+Interesting: [Charles River Traffic Patterns and Safety Rules, Revised 2001](http://www.communityrowing.org/handbook/charlesriver.htm)
 <li> Collegiate 2000m Course
 <li> High School 1500m Course: Same as collegiate, but starts 500m closer to Mass Ave (Harvard) Bridge)
 <li> Head of the Charles Regatta 5000m Course www.hocr.org
@@ -45,12 +45,12 @@ Interesting: [http://www.communityrowing.org/handbook/charlesriver.htm](Charles 
 
 <h3>Burnaby BC</h3>
 
-[http://www.city.burnaby.bc.ca/__shared/assets/Burnaby_Lake_Rejuvenation_-_Engineering_Report773.pdf#page=24](Burnaby Lake Rejuvenation Engineering Report) -- A detailed (DETAILED) engineering report including dredging specifications, basin cross sections, etc.  Interesting.  Therein, this is Table 1:
+[Burnaby Lake Rejuvenation Engineering Report) -- A detailed (DETAILED](http://www.city.burnaby.bc.ca/__shared/assets/Burnaby_Lake_Rejuvenation_-_Engineering_Report773.pdf#page=24) engineering report including dredging specifications, basin cross sections, etc.  Interesting.  Therein, this is Table 1:
 <img src="http://k7waterfront.org/Images/BurnabyRowingTable1.jpg">
 
 <hr class="clearboth">
 
-<h3>From [http://www.worldrowing.com/index.php?pageid=71](FISA)</h3>
+<h3>From [FISA](http://www.worldrowing.com/index.php?pageid=71)</h3>
 <a href="http://www.worldrowing.com/index.php?pageid=71"><img src="http://k7waterfront.org/Images/FISARulesOfRacing.jpg"></a>
 
 {% include routes.html %}

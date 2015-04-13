@@ -6,7 +6,7 @@ title: "_AgendaGCRT"
 ---
 
 ##Agenda for the next GCRT meeting
-**Meeting time: Friday November 19th, 4:00 PM, on [http://skype.com](Skype)**
+**Meeting time: Friday November 19th, 4:00 PM, on [Skype](http://skype.com)**
 ###Agenda items
 * Introductions (welcome Mary, Edward, Susan and Steven)
 * Approve Agenda and/or add any last minute items

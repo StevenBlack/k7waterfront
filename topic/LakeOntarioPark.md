@@ -5,11 +5,11 @@ title: "Lake Ontario Park"
 
 ---
 
-See also [http://www.friendsoflakeontariopark.org/](Friends of Lake Ontario Park) and [http://www.mckendry.net/Lake_Ontario_Park_&_Area/Lake_Ontario_Park_&_Area.htm](Linda McKendry's page).
+See also [Linda McKendry's page](http://www.friendsoflakeontariopark.org/](Friends of Lake Ontario Park) and [http://www.mckendry.net/Lake_Ontario_Park_&_Area/Lake_Ontario_Park_&_Area.htm).
 
-An image from the [http://www.cityofkingston.ca/residents/recreation/parks/index.asp](City of Kingston Parks page)
+An image from the [City of Kingston Parks page](http://www.cityofkingston.ca/residents/recreation/parks/index.asp)
 
-[http://www.cityofkingston.ca/residents/recreation/parks/index.asp](<img src="http://www.cityofkingston.ca/img/maps/parks/lakeont_park.gif">)
+[<img src="http://www.cityofkingston.ca/img/maps/parks/lakeont_park.gif">](http://www.cityofkingston.ca/residents/recreation/parks/index.asp)
 
 #NEWSITEMS:Lake Ontario Park, LOP
 

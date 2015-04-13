@@ -6,7 +6,7 @@ title: "Ravensview Project"
 ---
 
 **Some references**
-* [http://k7waterfront.org/files/June2008Newsletter_Lowres.pdf](June 2008 Project Newsletter)
+* [June 2008 Project Newsletter](http://k7waterfront.org/files/June2008Newsletter_Lowres.pdf)
 * [Pollution][pollution] sources in the Kingston region.
 
 #NEWSITEMS:Ravensview

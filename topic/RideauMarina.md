@@ -8,7 +8,7 @@ images:
 
 ---
 
-See the [http://www.rideaumarina.on.ca](Rideau Marina Website)
+See the [Rideau Marina Website](http://www.rideaumarina.on.ca)
 
 Google[Rideau Marina]
 

@@ -15,9 +15,9 @@ K7L 4V1
 Telephone (613) 548-1239
 Fax (416) 366-8041
 
-See the [http://www.treasureislandmarina.com/](Treasure Island Marina website).
+See the [Treasure Island Marina website](http://www.treasureislandmarina.com/).
 
-See [http://maps.google.com/maps?q=Kingston,+ON&ll=44.258233,-76.369400&spn=0.020527,0.056099&hl=en](Google Maps view of Treasure Island), and [Treasure Island Marina][treasureislandmarina].
+See [Google Maps view of Treasure Island](http://maps.google.com/maps?q=Kingston,+ON&ll=44.258233,-76.369400&spn=0.020527,0.056099&hl=en), and [Treasure Island Marina][treasureislandmarina].
 
 <img src="Images\Aerial\TreasureIslandAerial.jpg">
 

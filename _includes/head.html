@@ -7,24 +7,11 @@
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta name="description" content="">
+    <meta name="description" content="{{page.metadescription}}">
     <meta name="author" content="">
-
-    <title>
-      {% if page.title %}
-        {{ page.title }}
-      {% else %}
-        {{ site.title }}
-      {% endif %}
-    </title>
-
-    <!-- Bootstrap Core CSS -->
+    <title>{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}</title>
     <link href="{{ url_base }}/css/bootstrap.min.css" rel="stylesheet">
-
-    <!-- Custom CSS -->
     <link href="{{ url_base }}/css/modern-business.css" rel="stylesheet">
-
-    <!-- Custom Fonts -->
     <link href="{{ url_base }}/font-awesome/css/font-awesome.min.css" rel="stylesheet" type="text/css">
 
     <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
@@ -34,10 +21,5 @@
         <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
     <![endif]-->
 
-    {% if page.style %}
-      <style>
-        {{ page.style }}
-      </style>
-    {% endif %}
-
+    {% if page.style %}<style>{{ page.style }}</style>{% endif %}
 </head>

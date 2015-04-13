@@ -21,11 +21,11 @@ Kingston's waterfront has a lot to offer, and you don't need access to a boat to
 
 ###Get involved as a volunteer!###
 Many waterfront [upcoming events][upcomingevents] need volunteers.
-  
+
 *  Volunteering is a great way to get yourself out on the water.
 *  It's also a great way to meet great people.  Volunteers are givers.
-*  Volunteer for [http://cork.org/volunteer.html](CORK) which runs intensively through most of August but also all summer long.
-  
+*  Volunteer for [CORK](http://cork.org/volunteer.html) which runs intensively through most of August but also all summer long.
+
 
 ###Get proactive!###
 Most of Kingston's [oustanding waterfront clubs][clubs] offer:
@@ -34,7 +34,7 @@ Most of Kingston's [oustanding waterfront clubs][clubs] offer:
 *  Typically these are open to non-members.
 *  Book these early in the Spring because they are often sold-out.
 *  This typically comes with new-membership discounts that encourage course-taking non-members to join.
-  
+
 
 ###Get invited!###
 The majority of sailors, rowers, and powerboaters got their start because someone took them out on the water.  Consider simply asking someone to take you out.  It works!
@@ -58,7 +58,7 @@ The reason Kingston's waterfront is fundamentally ruined is because citizens in 
 
 ###Explore this website###
 
-*  Read and follow the latest [http://k7waterfront.org/K7WaterfrontRSS.html](waterfront news)
+*  Read and follow the latest [waterfront news](http://k7waterfront.org/K7WaterfrontRSS.html)
 *  Here are some of our [best pages][our best pages].
 *  Here's a [list of all the topics in this website][alphabetic topic list].
 *  Be aware of, and consider working towards improving, our waterfront-related [disappointments][disappointments] and [disgraces][disgraces].

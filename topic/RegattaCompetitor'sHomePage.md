@@ -33,7 +33,7 @@ premise: A place for everything a regatta competitor should know about Kingston
 
 ###Logistics
 
-*  [http://cork.org](CORK)
+*  [CORK](http://cork.org)
 *  [Clubs][clubs] and [Marinas][marinas], all with facilities.
 *  [Cranes][cranes]
 *  [Checklist For Shipping Containers To Kingston][checklistforshippingcontainerstokingston].  Everything you need to plan.
@@ -41,7 +41,7 @@ premise: A place for everything a regatta competitor should know about Kingston
 
 ###Dragon Boats
 
-*  [http://k7waterfront.org/Topic/KingstonDragonBoatFestival](Kingston Dragon Boat Festival)
+*  [Kingston Dragon Boat Festival](http://k7waterfront.org/Topic/KingstonDragonBoatFestival)
 
 
 #INSERTTOPIC:BooksAboutKingstonWind
