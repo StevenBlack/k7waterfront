@@ -1,15 +1,13 @@
 ---
 layout: topic
 permalink: "/topic/Ramps/"
-title: "Ramps"
+title: "Launch ramps in the Kingston area"
 mapping:
-  layers: 
+  layers:
     - http://k7waterfront.org/maps/kml/ramp.kml
 
 ---
 
-
-<h1>Launch ramps in the Kingston area</h1>
 
 {% render_map %}
 
@@ -23,8 +21,8 @@ mapping:
 ###Launch ramp at [Treasure Island Marina][treasureislandmarina]
 <img src="http://k7Waterfront.org/Images/TreasureIslandLaunchRamp.JPG">
 
-See also [http://www.geocities.com/ottawaboatramps/](John Thompson's list of ramps in the Ottawa and Eastern Ontario area), a few of which are in the Kingston region.
+See also [John Thompson's list of ramps in the Ottawa and Eastern Ontario area](http://www.geocities.com/ottawaboatramps/), a few of which are in the Kingston region.
 
-See also [http://www.rideau-info.com/canal/boat-launch.html](Boat Launches on the Rideau Canal).
+See also [Boat Launches on the Rideau Canal](http://www.rideau-info.com/canal/boat-launch.html).
 
 {% include routes.html %}

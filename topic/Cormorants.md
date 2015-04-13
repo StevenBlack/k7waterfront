@@ -13,7 +13,7 @@ title: "Cormorants"
 
 In short, they are denuding local islands of all vegetation.
 
-For general cormorant information, see [http://en.wikipedia.org/wiki/Double-crested_Cormorant]("Double-crested Cormorant" on Wikipedia)
+For general cormorant information, see ["Double-crested Cormorant" on Wikipedia](http://en.wikipedia.org/wiki/Double-crested_Cormorant)
 
 The following letter was read on CBC's Ontario Today program on May 2nd 2006:
 
@@ -38,13 +38,13 @@ The following letter was read on CBC's Ontario Today program on May 2nd 2006:
 
 ###Other links###
 
-*  [http://www.ofah.org/Cormorants/News.cfm?A=Grab&DocID=16](Cormorant populations threaten islands)  -- Gerard Menard
-*  [http://www.great-lakes.org/6-11-01.html#nz8](Cormorant Management in Lake Ontario's Eastern Basin)
-*  [http://www.great-lakes.org/6-11-01.html#nz10](Diet of Cormorants from the Pigeon and Snake Island Colonies)
-*  [http://www.great-lakes.org/6-11-01.html#nz11](Diet of Cormorants from Three St. Lawrence River Colonies)
-*  [http://www.dec.state.ny.us/website/dfwmr/cormorant/cormsec102.pdf](Double-Crested Cormorant Predation on Smallmouth Bass and Other Fishes of the Eastern Basin of Lake Ontario -- Summary of 2002 Studies)
+*  [Cormorant populations threaten islands](http://www.ofah.org/Cormorants/News.cfm?A=Grab&DocID=16)  -- Gerard Menard
+*  [Cormorant Management in Lake Ontario's Eastern Basin](http://www.great-lakes.org/6-11-01.html#nz8)
+*  [Diet of Cormorants from the Pigeon and Snake Island Colonies](http://www.great-lakes.org/6-11-01.html#nz10)
+*  [Diet of Cormorants from Three St. Lawrence River Colonies](http://www.great-lakes.org/6-11-01.html#nz11)
+*  [Double-Crested Cormorant Predation on Smallmouth Bass and Other Fishes of the Eastern Basin of Lake Ontario -- Summary of 2002 Studies](http://www.dec.state.ny.us/website/dfwmr/cormorant/cormsec102.pdf)
 
 
-There are [http://www.cbc.ca/toronto/story/tor-cormorants20060501.html](some who are fighting to protect cormorants).  See also [http://www.cbc.ca/story/news/national/2006/04/30/ruby-060430.html](here).
+There are [here](http://www.cbc.ca/toronto/story/tor-cormorants20060501.html](some who are fighting to protect cormorants).  See also [http://www.cbc.ca/story/news/national/2006/04/30/ruby-060430.html).
 
 {% include routes.html %}

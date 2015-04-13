@@ -16,6 +16,6 @@ mapping:
 
 ####External links:####
 
-* Photos from [boldts.net](http://www.boldts.net/KingstonD.shtml)
+* Photos from [http://www.boldts.net/KingstonD.shtml](boldts.net)
 
 {% include routes.html %}

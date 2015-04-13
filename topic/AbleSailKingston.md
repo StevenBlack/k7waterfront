@@ -2,6 +2,8 @@
 layout: topic
 permalink: "/topic/AbleSailKingston/"
 title: "Able Sail Kingston"
+metadescription: Able Sail Kingston is an adapted sailing program based at the Kingston Yacht Club
+metakeywords: Adapted Sailing, Kingston Yacht Club, Kingston, Kingston Ontario
 
 ---
 
@@ -9,20 +11,20 @@ title: "Able Sail Kingston"
 
 <div id="flickrBadgeTarget"></div>
 
-See the [http://ablesailkingston.ca](Able Sail Website).
+See the [Able Sail Website](http://ablesailkingston.ca).
 Email: ask@kingstonyachtclub.com
 
 
 **ASK offers two learn to sail programs:**
 
-* The Youth program offers complete integration with the [http://kingstonyachtclub.com/lts/js.cfm](KYC Junior Sailing program). The sessions mirror the Junior Sailing 2 week session but are flexible to meet the needs of the sailor.
+* The Youth program offers complete integration with the [KYC Junior Sailing program](http://kingstonyachtclub.com/lts/js.cfm). The sessions mirror the Junior Sailing 2 week session but are flexible to meet the needs of the sailor.
 * The Adult program provides supervised or instructional courses offered starting each June 5th. Course times are flexible and can be personalized to fit your schedule.
 
-Able Sail Kingston uses a fleet of [http://www.accessdinghy.org/equipment/boats/303wide.htm](Access 303) and [http://martin16.com/](Martin 16) sailboats.
+Able Sail Kingston uses a fleet of [Martin 16](http://www.accessdinghy.org/equipment/boats/303wide.htm](Access 303) and [http://martin16.com/) sailboats.
 
-See, for example, [http://kingstonyachtclub.com/ablesail/cork2006/index.cfm](Able Sail at CORK 2006) including [http://cork.org/results2006/M16.HTM](Martin 16 CORK results).
+See, for example, [Martin 16 CORK results](http://kingstonyachtclub.com/ablesail/cork2006/index.cfm](Able Sail at CORK 2006) including [http://cork.org/results2006/M16.HTM).
 
-In summer 2006 Able Sail Kingston had a dozen adult sailors in the program, several of whom came out a weekly basis. [http://www.ontariosailing.ca/Programs/Accessible_Sailing/Audrey_Kobayashi.php](Audrey Kobayashi), program director, is the Ontario Champion for disabled sailing, winning every regatta she entered, including [http://cork.org/results2006/M16.HTM](CORK) and [http://www.martin16class.org/events/coupequebec.php](Coupe du Quebec). Several other sailors competed for the first time this year and placed very well.
+In summer 2006 Able Sail Kingston had a dozen adult sailors in the program, several of whom came out a weekly basis. [http://cork.org/results2006/M16.HTM) and [Coupe du Quebec)(http://www.martin16class.org/events/coupequebec.php](Audrey Kobayashi]()http://www.ontariosailing.ca/Programs/Accessible_Sailing/Audrey_Kobayashi.php), program director, is the Ontario Champion for disabled sailing, winning every regatta she entered, including [CORK). Several other sailors competed for the first time this year and placed very well.
 
 The program is open to anyone with a disability. We have sailors whose disability ranges from spinal injuries, to MS. It is committed to getting anyone into the boats, no matter their disability.
 
@@ -36,7 +38,7 @@ The program is open to anyone with a disability. We have sailors whose disabilit
 
 Able Sail Kingston also [trains its volunteers](http://www.sailing.ca/news/headline.asp?numNewsID=1169).
 
-See also the CYA page about [http://www.sailing.ca/competitive/events/disabled.shtm](Events for Sailors with Disabilities), and the [http://ontariosailing.ca/Racing/Schedules/AbleSail__2006.php](Ontario Sailing Able Sail page).
+See also the CYA page about [Ontario Sailing Able Sail page](http://www.sailing.ca/competitive/events/disabled.shtm](Events for Sailors with Disabilities), and the [http://ontariosailing.ca/Racing/Schedules/AbleSail__2006.php).
 
 
 Address:
@@ -45,10 +47,9 @@ Address:
  Kingston, ON K7L 2V3
 
 
-**See also a good photo set of [http://flickr.com/photos/ablesailkingston/](Able Sail Kingston on Flickr)**
+**See also a good photo set of [Able Sail Kingston on Flickr](http://flickr.com/photos/ablesailkingston/)**
 ----
-MetaDescription: Able Sail Kingston is an adapted sailing program based at the Kingston Yacht Club
-MetaKeywords: Adapted Sailing, Kingston Yacht Club, Kingston, Kingston Ontario
+
 
 <!-- Start of Flickr Badge -->
 <style type="text/css">

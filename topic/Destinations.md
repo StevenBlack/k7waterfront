@@ -48,7 +48,7 @@ Walkable, cycleable, interesting.
 
 ##Inland Lakes
 
-###[http://www.loughboroughinn.on.ca/](The Loughborough Inn)
+###[The Loughborough Inn](http://www.loughboroughinn.on.ca/)
 One of Ontario’s luxury resorts located on pristine Loughborough Lake and only minutes from Kingston.  Offers exclusive access to a variety of Kingston area attractions, exquisite Ontario hiking trails and some of the best fishing in Ontario.
 
 

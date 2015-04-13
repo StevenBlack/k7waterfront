@@ -7,7 +7,7 @@ title: "Fish found in Kingston area waters"
 
 <div class="imagewrap" style="float:right;width:580px;">
 	<p>
-		<strong>Here's an image of a poster you can 
+		<strong>Here's an image of a poster you can
 		<a href="http://www.seagrant.wisc.edu/greatlakesfish/poster.html">order</a>:</strong>
 		<a href="http://www.seagrant.wisc.edu/greatlakesfish/poster.html"><img src="http://www.seagrant.wisc.edu/greatlakesfish/Graphics/PosterLG.jpg"></a>
 	</p>
@@ -27,35 +27,35 @@ See also [Fishing][fishing]
 
 > Source: http://www.pc.gc.ca/progs/amnc-nmca/plan/gla6_E.asp
 
-[http://www.mnr.gov.on.ca/MNR/fishing/threat.html](Stop the Invasion!) -- Harmful Exotic Species: Ontario's waters are threatened by exotic species that can be spread unknowingly by anglers and boaters.
+[Stop the Invasion!](http://www.mnr.gov.on.ca/MNR/fishing/threat.html) -- Harmful Exotic Species: Ontario's waters are threatened by exotic species that can be spread unknowingly by anglers and boaters.
 
 See the [Trout and Salmon Identification Guide][troutandsalmonidentificationguide].
 
-[http://users.aol.com/nyanglers/species.html](Fresh Water Fish Species)
+[Fresh Water Fish Species](http://users.aol.com/nyanglers/species.html)
 
-### From The [http://www.glfc.org/lakecom/loc/mgmt_unit/](Lake Ontario Management Unit)###
+### From The [Lake Ontario Management Unit](http://www.glfc.org/lakecom/loc/mgmt_unit/)###
 
-* [http://www.glfc.org/lakecom/loc/mgmt_unit/02_Ch1.pdf](Lake Ontario Pelagic Fish 1: Prey Fish)
-* [http://www.glfc.org/lakecom/loc/mgmt_unit/02_Ch2.pdf](Lake Ontario Pelagic Fish 2: Salmon and Trout)
-* [http://www.glfc.org/lakecom/loc/mgmt_unit/02_Ch3.pdf](Lake Ontario Offshore Benthic Fish)
-* [http://www.glfc.org/lakecom/loc/mgmt_unit/02_Ch4.pdf](Lake Ontario Nearshore Fish)
-* [http://www.glfc.org/lakecom/loc/mgmt_unit/02_Ch5.pdf](St. Lawrence River Fish)
-* [http://www.glfc.org/lakecom/loc/mgmt_unit/02_Ch6.pdf](Lake Ontario Commercial Fishery)
-* [http://www.glfc.org/lakecom/loc/mgmt_unit/02_Ch8.pdf](Bay of Quinte Recreational Fishery)
-* [http://www.glfc.org/lakecom/loc/mgmt_unit/02_Ch10.pdf](Two Decades of Commercial Fishery Management on Lake Ontario, 1981-2001)
-* [http://www.glfc.org/lakecom/loc/mgmt_unit/02_Ch12.pdf](Atlantic Salmon Restoration in Lake Ontario)
+* [Lake Ontario Pelagic Fish 1: Prey Fish](http://www.glfc.org/lakecom/loc/mgmt_unit/02_Ch1.pdf)
+* [Lake Ontario Pelagic Fish 2: Salmon and Trout](http://www.glfc.org/lakecom/loc/mgmt_unit/02_Ch2.pdf)
+* [Lake Ontario Offshore Benthic Fish](http://www.glfc.org/lakecom/loc/mgmt_unit/02_Ch3.pdf)
+* [Lake Ontario Nearshore Fish](http://www.glfc.org/lakecom/loc/mgmt_unit/02_Ch4.pdf)
+* [St. Lawrence River Fish](http://www.glfc.org/lakecom/loc/mgmt_unit/02_Ch5.pdf)
+* [Lake Ontario Commercial Fishery](http://www.glfc.org/lakecom/loc/mgmt_unit/02_Ch6.pdf)
+* [Bay of Quinte Recreational Fishery](http://www.glfc.org/lakecom/loc/mgmt_unit/02_Ch8.pdf)
+* [Two Decades of Commercial Fishery Management on Lake Ontario, 1981-2001](http://www.glfc.org/lakecom/loc/mgmt_unit/02_Ch10.pdf)
+* [Atlantic Salmon Restoration in Lake Ontario](http://www.glfc.org/lakecom/loc/mgmt_unit/02_Ch12.pdf)
 
 ----
 
-A good [http://www.aquatic.uoguelph.ca/fish/fish.htm](fish website for kids) (Guelph University)
+A good [fish website for kids) (Guelph University](http://www.aquatic.uoguelph.ca/fish/fish.htm)
 
 ###More scholarly sources of regional fish information###
 
-Lake Ontario Fish Communities and Fisheries: 
+Lake Ontario Fish Communities and Fisheries:
 
-* [http://www.mnr.gov.on.ca/mnr/pubs/lakeontario/report/2001/report2001.html](2001 ANNUAL REPORT OF THE LAKE ONTARIO MANAGEMENT UNIT)
-* [http://www.glsc.usgs.gov/_files/atlas/volumes/volume11.pdf](ATLAS OF THE SPAWNING AND NURSERY AREAS OF GREAT LAKES FISHES VOLUME XI -- Lake Ontario) (119 pages)
-* [http://www.glsc.usgs.gov/_files/atlas/volumes/volume12.pdf](ATLAS OF THE SPAWNING AND NURSERY AREAS OF GREAT LAKES FISHES VOLUME XII -- St. Lawrence River) (37 pages)
+* [2001 ANNUAL REPORT OF THE LAKE ONTARIO MANAGEMENT UNIT](http://www.mnr.gov.on.ca/mnr/pubs/lakeontario/report/2001/report2001.html)
+* [ATLAS OF THE SPAWNING AND NURSERY AREAS OF GREAT LAKES FISHES VOLUME XI -- Lake Ontario) (119 pages](http://www.glsc.usgs.gov/_files/atlas/volumes/volume11.pdf)
+* [ATLAS OF THE SPAWNING AND NURSERY AREAS OF GREAT LAKES FISHES VOLUME XII -- St. Lawrence River) (37 pages](http://www.glsc.usgs.gov/_files/atlas/volumes/volume12.pdf)
 
 #NEWSITEMS:Fish,Fishing
 

@@ -3,7 +3,7 @@ layout: topic
 permalink: "/topic/Beaches/"
 title: "Beaches in the Kingston area"
 mapping:
-  layers: 
+  layers:
     - http://k7waterfront.org/maps/kml/beach.kml
 
 
@@ -18,6 +18,7 @@ There are no "official" beaches in Kingston.  There are, however, several good w
 
 #INSERTTOPIC:RockyBeaches
 
-#NEWSITEMS:Beach,beaches,Grass Creek Bark,
+#NEWSITEMS:Beach,beaches,Grass Creek Park,
+
 
 {% include routes.html %}

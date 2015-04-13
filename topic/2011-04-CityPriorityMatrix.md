@@ -7,9 +7,9 @@ title: "2011-04- City Priority Matrix"
 
 
 ##Waterfront Items on the City of Kingston Priority Status Matrix April 2011
-Posted for the [http://www.cityofkingston.ca/pdf/council/agenda/2011/COU_Agenda-0911.pdf](April 5 2011 Council Meeting), this [http://www.cityofkingston.ca/pdf/council/agenda/2011/COU_A0911-11120.pdf](78-item priority matrix)
+Posted for the [78-item priority matrix](http://www.cityofkingston.ca/pdf/council/agenda/2011/COU_Agenda-0911.pdf](April 5 2011 Council Meeting), this [http://www.cityofkingston.ca/pdf/council/agenda/2011/COU_A0911-11120.pdf)
 
-**Summary:** 7 of 78 items concern waterfront and, of those, just three (Richardson Beach, Cataraqui River Trail, and Lake Ontario Park) involve access and recreation.  One of the seven items, the Tett Centre, is likely to be a significant [http://k7waterfront.org/KingstonWaterfrontNews092010.html#4208](accessibility downgrade) -- see also [http://k7waterfront.org/KingstonWaterfrontNews032009.html#3958](here) -- despite early noise otherwise.
+**Summary:** 7 of 78 items concern waterfront and, of those, just three (Richardson Beach, Cataraqui River Trail, and Lake Ontario Park) involve access and recreation.  One of the seven items, the Tett Centre, is likely to be a significant [here](http://k7waterfront.org/KingstonWaterfrontNews092010.html#4208](accessibility downgrade) -- see also [http://k7waterfront.org/KingstonWaterfrontNews032009.html#3958) -- despite early noise otherwise.
 
 <table class="bordertable">
 	<tr>
@@ -38,7 +38,7 @@ Posted for the [http://www.cityofkingston.ca/pdf/council/agenda/2011/COU_Agenda-
 	</tr>
 	<tr>
 		<td>43</td>
-		<td>Feasibility of a [http://k7waterfront.org/Topic/GreatCataraquiRiverTrail](Multipurpose Trail) on the West Side of the Greater Cataraqui River from the LaSalle Causeway to Kingston Mills Road</td>
+		<td>Feasibility of a [Multipurpose Trail](http://k7waterfront.org/Topic/GreatCataraquiRiverTrail) on the West Side of the Greater Cataraqui River from the LaSalle Causeway to Kingston Mills Road</td>
 		<td>2011 Q2</td>
 		<td></td>
 	</tr>

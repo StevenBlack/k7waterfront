@@ -11,15 +11,15 @@ images:
 <strong>Kingston's Portsmouth Olympic Harbour marina</strong>  is located in the [Portsmouth Village][portsmouthvillage] area of Kingston.  This facility  was built to host the [yachting events of the 1976 Olympics][listofmajorregattasinkingston].  It is owned and operated by the City of Kingston. There are currently 259 slips in operation here.
 <div class="sidebar">
 <strong>Facts about POH</strong>
-Approximately 100 transient visits in 2007. [http://k7waterfront.org/files/RFPforMarinaDevelopmentStrategyandBusinessPlan.pdf#page=20]((1))
+Approximately 100 transient visits in 2007. [(1)](http://k7waterfront.org/files/RFPforMarinaDevelopmentStrategyandBusinessPlan.pdf#page=20)
 
-Transient boaters length of stay averages between 1.6 and 1.8 nights in 2007 [http://k7waterfront.org/files/RFPforMarinaDevelopmentStrategyandBusinessPlan.pdf#page=20]((2))</div>
+Transient boaters length of stay averages between 1.6 and 1.8 nights in 2007 [(2)](http://k7waterfront.org/files/RFPforMarinaDevelopmentStrategyandBusinessPlan.pdf#page=20)</div>
 
-  Currently ([http://k7waterfront.org/files/RFPforMarinaDevelopmentStrategyandBusinessPlan.pdf#page=9](2008)) Portsmouth Olympic Harbour has <strong>230 seasonal berths</strong> and approximately <strong>20 slips for transient boaters</strong>.
+  Currently ([2008)](http://k7waterfront.org/files/RFPforMarinaDevelopmentStrategyandBusinessPlan.pdf#page=9) Portsmouth Olympic Harbour has <strong>230 seasonal berths</strong> and approximately <strong>20 slips for transient boaters</strong>.
 
 <img src="http://home.ca.inter.net/~gkmd/portsmouth.jpg"><br><b>Portsmouth Olympic Harbour
 
-See the [http://www.cityofkingston.ca/residents/recreation/marinas/ports.asp](POH page) on the City of Kingston website, as well as the general [http://www.cityofkingston.ca/residents/recreation/marinas/index.asp](City of Kingston municipal marinas page).
+See the [City of Kingston municipal marinas page](http://www.cityofkingston.ca/residents/recreation/marinas/ports.asp](POH page) on the City of Kingston website, as well as the general [http://www.cityofkingston.ca/residents/recreation/marinas/index.asp).
 
 <a href="http://www.cityofkingston.ca/residents/recreation/marinas/ports.asp"><img src="http://www.cityofkingston.ca/img/maps/parks/olymharb.gif" border="0"></a>
 
@@ -33,7 +33,7 @@ See the [http://www.cityofkingston.ca/residents/recreation/marinas/ports.asp](PO
 
 <a name="external links">
 <h4>External links:</h4>
-See [http://maps.google.com/maps?q=Kingston,+ON&ll=44.218877,-76.516471&spn=0.020541,0.056099&hl=en](Google Maps view of Portsmouth Olympic Harbour).
+See [Google Maps view of Portsmouth Olympic Harbour](http://maps.google.com/maps?q=Kingston,+ON&ll=44.218877,-76.516471&spn=0.020541,0.056099&hl=en).
 
 <strong>VIRTUAL KINGSTON</striuong>
 Panoramic images of the Portsmouth Olympic Harbour in Kingston, Ontario, Canada

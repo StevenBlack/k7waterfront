@@ -20,11 +20,11 @@ See also [Lake Ontario Bathymetry][lakeontariobathymetry]
 <img src="http://www.ottawa.rasc.ca/astronomy/earth_craters/possible_craters/14_charity3d_sm.jpg" alt="" border="0">
 <img src="http://k7waterfront.org/Images/CharityShoal.jpg">
 
-Here's a [http://www.ngdc.noaa.gov/mgg/greatlakes/lakeontario_cdrom/images/a12_lg.jpg](large .jpg of Charity Shoal).
+Here's a [large .jpg of Charity Shoal](http://www.ngdc.noaa.gov/mgg/greatlakes/lakeontario_cdrom/images/a12_lg.jpg).
 
-Here's a [http://www.glerl.noaa.gov/pubs/fulltext/2001/20010012.pdf](paper discussing Charity Shoal).
+Here's a [paper discussing Charity Shoal](http://www.glerl.noaa.gov/pubs/fulltext/2001/20010012.pdf).
 
 ----
-* See [http://lighthouse.boatnerd.com/gallery/Ontario/EastCharityShoal.htm](East Charity Shoal light<br> <img src="http://k7waterfront.org/Images/EastCharityShoalLight.jpg">).
+* See [East Charity Shoal light<br> <img src="http://k7waterfront.org/Images/EastCharityShoalLight.jpg">](http://lighthouse.boatnerd.com/gallery/Ontario/EastCharityShoal.htm).
 
 {% include routes.html %}

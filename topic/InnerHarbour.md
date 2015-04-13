@@ -12,7 +12,7 @@ Shallow, weedy, underused, and certainly unappreciated.
 See [Envisioning A Future For The Inner Harbour][envisioningafuturefortheinnerharbour].
 
 Home to
-<li> [http://www.rowkingston.on.ca/](Kingston Rowing Club)
+<li> [Kingston Rowing Club](http://www.rowkingston.on.ca/)
 <li> [Kingston Marina][kingstonmarina]
 <li> [Rideau Marina][rideaumarina]
 <li> [MetalCraft Marine][metalcraftmarine]

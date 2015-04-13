@@ -13,7 +13,7 @@ images:
 
 The [Collins Bay Yacht Club][collinsbayyachtclub] is here too.
 
-See also the [http://collinsbaymarina.com/](Collins Bay Marina website).
+See also the [Collins Bay Marina website](http://collinsbaymarina.com/).
 
 ###Hoisting services at [Collins Bay Marina][collinsbaymarina]###
 

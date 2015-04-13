@@ -5,7 +5,7 @@ title: "City Marinas2007 Financials"
 
 ---
 
-Source: [http://k7waterfront.org/files/RFPforMarinaDevelopmentStrategyandBusinessPlan.pdf#page=26](Marina Sustainability and Development Strategy and Business Plan).
+Source: [Marina Sustainability and Development Strategy and Business Plan](http://k7waterfront.org/files/RFPforMarinaDevelopmentStrategyandBusinessPlan.pdf#page=26).
 
 
 

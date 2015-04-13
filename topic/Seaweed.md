@@ -9,8 +9,8 @@ title: "Seaweed"
 
 
 
-A great Seaweed reference: [http://k7waterfront.org/Files/PermitsforAquaticPlantControlApplicantGuide2005.pdf](Permits for Aquatic Plant Control Applicant Guide 2005) (6.9 Mb PDF)
-[http://k7waterfront.org/Files/PermitsforAquaticPlantControlApplicantGuide2005.pdf](<img src="http://k7waterfront.org/Images/PermitsforAquaticPlantControlApplicantGuide2005.jpg">)
+A great Seaweed reference: [Permits for Aquatic Plant Control Applicant Guide 2005) (6.9 Mb PDF](http://k7waterfront.org/Files/PermitsforAquaticPlantControlApplicantGuide2005.pdf)
+[<img src="http://k7waterfront.org/Images/PermitsforAquaticPlantControlApplicantGuide2005.jpg">](http://k7waterfront.org/Files/PermitsforAquaticPlantControlApplicantGuide2005.pdf)
 
 <b>In [Collins Bay][collinsbay]:</b>  Predominately Eurasian Milfoil, some Curly-leaf Pondweed, Coontail, White Water Lily, and Tape Grass.
 
