@@ -8,7 +8,7 @@ title: "St Lawrence River Board Teleconference-2008-03-18"
 <strong>A summary of the March 18 2008 St Lawrence River Board Teleconference</strong>
 
 <p class="info">Thanks to <a href="web.mac.com/mike.hill">Mike Hill</a> of the <a href="http://dolphinscubaclub.blogspot.com/">Dolphins</a> for providing this.</p>
-It's well worth [http://www.islrbc.org/new-Version/faqs.html](browsing the FAQ page) on the Board's website for more information about many of the topics raised during the Conference.
+It's well worth [browsing the FAQ page](http://www.islrbc.org/new-Version/faqs.html) on the Board's website for more information about many of the topics raised during the Conference.
 
 <blockquote>
 <p>I'm not sure how many of you had a chance to listen in to the Teleconference held by the International St Lawrence River Board of Control.  For those who didn't manage to do so, I thought that there might be some interest in notes from the event, which was very well run and supported.
