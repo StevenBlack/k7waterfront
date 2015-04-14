@@ -8,10 +8,12 @@ title: "Envisioning A Future For The Inner Harbour"
 ##Envisioning A Future For The Inner Harbour
 
 <div class="backgroundcomment">
+
 Original source: http://www.cityofkingston.ca/cityhall/committees/keaf/innerharbour.asp, preserved here because material on the City of Kingston website can arbitrarily dissapear without notice.
 
 The excerpt below from KEAF's Second Progress Report to Council includes the results of a 2002 public workshop on the future of the city's inner harbour.
 </div>
+
 ###INTRODUCTION###
 
 Kingston's Inner Harbour - that beautiful stretch of marsh and water that reaches five km from Highway 401 south to LaSalle Causeway - is so big its perimeter totals 10 per cent of the city's 150 km shoreline. Yet many of us are hardly aware of it. Despite its size and location adjacent to the centre of our community, most of us rarely glance at it, use it, live round it, work by it or even think about it. When we say our city is on the water, we are more likely to mean Lake Ontario and the St. Lawrence River than the mouth of the Great Cataraqui River - the Inner Harbour.
@@ -39,6 +41,7 @@ What follows is a description of the process we used and the results obtained. W
 ###DATA COMPILATION AND GAP ANALYSIS###
 
 Our first step was to commission a technical study that provided a unified picture of all the environmental information about the Inner Harbour accumulated during the last 30 years. Our goal was to find out what we know and don't know, and what gaps in information need to be filled before council can make plans for the harbour's environmental future. The harbour has been studied frequently. We found a total of over 100 studies on the harbour's water and sediment quality, bio-diversity and past land use. Briefly, the results of the Data Compilation and Gap Analysis were:
+
 <ul>
    <li>Physical characteristics The Inner Harbour is a shallow body of water. Its average depth is 3.6 feet and it has been described as a submerged wetland. It is 1.6 km wide in the south narrowing to 0.3 km in the north. It receives surface drainage from a 930-km2 area and flushes about 76 times a year or about every five days on average. Although the Inner Harbour is located in the city, the municipality does not own the bed of the harbour. Transport Canada is largely responsible south of Belle Island, and Parks Canada largely responsible north of the island.
    <li>Ecosystem and marsh The marsh dominates the northern portion of the harbour. A provincially and federally significant wetland, the marsh plays a major role in the spring and fall migration of waterfowl and terrestrial bird species. It is a swallow migration area that becomes a roost in July and August for tens of thousands of swallows. The marsh is home to several important plant, mammal, aquatic, reptile and amphibian species as well. What we lack is a current inventory of what is there and information on trends in the ecosystem.

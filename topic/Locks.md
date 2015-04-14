@@ -1,11 +1,10 @@
 ---
 layout: topic
 permalink: "/topic/Locks/"
-title: "Locks"
+title: "Locks in the Kingston area"
 
 ---
 
-<h1>Locks in the Kingston area</h1>
 {{_contents}}
 #INSERTTOPIC:KingstonMillsLocks
 
