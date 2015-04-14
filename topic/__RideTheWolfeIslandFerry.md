@@ -5,7 +5,7 @@ title: "__RideTheWolfeIslandFerry"
 
 ---
 
-<h3> Ride the [Wolfe Island Ferry][wolfeislandferry]</h3><a href="http://K7Waterfront.org/Topic/WolfeIslandFerry"><img src="http://K7Waterfront.org/Images/WolfeIslandFerryHighwayMap.jpg" class="floatright image1px"></a>
+### Ride the [Wolfe Island Ferry][wolfeislandferry]###<a href="http://K7Waterfront.org/Topic/WolfeIslandFerry"><img src="http://K7Waterfront.org/Images/WolfeIslandFerryHighwayMap.jpg" class="floatright image1px"></a>
 <ul>
 <li> See our [Wolfe Island Ferry][wolfeislandferry] page.
 <li> The Wolfe Island Ferry is free for cars and pedestrians.  You may leave the car in the (free) ferry park lot on the Kingston-side because you can do a lot on foot upon arrival in Marysville.

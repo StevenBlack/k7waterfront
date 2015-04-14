@@ -6,7 +6,7 @@ title: "Good anchoring in the Kingston area"
 ---
 <div class="panel panel-danger">
 	<div class="panel-heading">
-		<h3 class="panel-title">This is a disclaimer.  Take Note!</h3>
+		<h3 class="panel-title">This is a disclaimer.  Take Note!###
 	</div>
 	<div class="panel-body">
 		<p>This website and its operators make no warranties, expressed or implied, about the suitability of any particular anchorage.  You must understand that conditions such as bottom qualities, and bottom-holding ability, can vary significantly from place to place within an anchorage and over time.</p>

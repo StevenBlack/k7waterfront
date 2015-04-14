@@ -48,8 +48,8 @@ premise: A place for everything a regatta competitor should know about Kingston
 
 <a href="http://www.flickr.com/photos/k7waterfront/462434656/" title="Photo Sharing"><img src="http://farm1.static.flickr.com/227/462434656_c945b4d6b4_o.jpg" width="908" height="596" alt="Kingston Harbour" /></a>
 
- Here's an interesting look at the physical geography of the region, that <i>may</i> provide insight into wind flows around Kingston.
-The transition from gray to green isn't great by any means, but it <i>may</i> provide some insight on surface friction.
+ Here's an interesting look at the physical geography of the region, that *may* provide insight into wind flows around Kingston.
+The transition from gray to green isn't great by any means, but it *may* provide some insight on surface friction.
 
 <img src="http://K7Waterfront.org/Images/AerialHarbourFlatNorthShore.jpg">
 

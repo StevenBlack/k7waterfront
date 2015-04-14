@@ -9,7 +9,7 @@ A yearly dragon boat festival held in the [Great Cataraqui River][greatcataraqui
 
 Website: http://www.dragonboats.org
 
-<strong>Here's a diagram of the site plan near the finish line for this year's event.</strong>
+**Here's a diagram of the site plan near the finish line for this year's event.**
 
 <img src="http://k7Waterfront.org/Images/DragonBoatsSitePlan.gif">
 

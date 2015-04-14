@@ -5,8 +5,14 @@ title: "Contact Information for this website"
 
 ---
 
-<h3>Website owner and manager</h3>
+###Website owner and manager###
 
-<p><strong>Steven Black</strong><br> steve@k7waterfront.org <br> [http://stevenblack.com) <br> Office: (613](http://stevenblack.com) 542-3293</p>
+**Steven Black**
+
+steve@k7waterfront.org
+
+[http://stevenblack.com](http://stevenblack.com)
+
+Office: 613-542-3293
 
 {% include routes.html %}

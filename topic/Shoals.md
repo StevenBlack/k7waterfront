@@ -9,8 +9,8 @@ title: "Shoals"
 
 See also [Lake Ontario Bathymetry][lakeontariobathymetry]
 
-<h3>Charity Shoal</h3>
-<b>Notes on Charity Shoal:  </b> It's a crater.
+###Charity Shoal###
+**Notes on Charity Shoal:  ** It's a crater.
 
 * Diameter: ~1 Km,
 * Location: Lake Ontario, Canada N 44 02' W 76 29' (Holleford Cater: N 44 28' W 76 38'

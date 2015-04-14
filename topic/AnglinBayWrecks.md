@@ -5,7 +5,6 @@ title: "Anglin Bay Wrecks"
 
 ---
 
-<h3>Wrecks in Anglin Bay</h3>
 January 31, 2006
 
 With low water levels (January 2006) various wrecks in the Kingston area become more visible.  Among these are shipwrecks located just outside Anglin Bay.

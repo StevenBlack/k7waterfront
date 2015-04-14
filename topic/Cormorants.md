@@ -9,7 +9,7 @@ title: "Cormorants"
 
 <img align="right" src="http://upload.wikimedia.org/wikipedia/en/thumb/f/fb/Phalacrocorax-auritus-007.jpg/240px-Phalacrocorax-auritus-007.jpg">
 
-(Double-crested Cormorant -- <i>Phalacrocorax auritus</i>)
+(Double-crested Cormorant -- *Phalacrocorax auritus*)
 
 In short, they are denuding local islands of all vegetation.
 

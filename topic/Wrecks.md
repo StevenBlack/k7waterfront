@@ -24,7 +24,7 @@ See also the <a href="http://dolphinscubaclub.blogspot.com/">CFB Kingston Dolphi
 * <a href="http://www.ontariodiving.com">Ontario Diving</a> (forum)
 * <a href="http://www.Kingstonunderwater.com">Photos of wrecks from Picton to Cornwall</a>
 
-<b>Generally, or further afield</b>:
+**Generally, or further afield**:
 and [Prince Edward County information](http://www.pec.on.ca/other/scuba.html#wrecks)
 and: [Great Canadian Lakes: The Graveyards of Lake Ontario](http://www.greatcanadianlakes.com/ontario/lake_ontario/his_page3.htm)
 

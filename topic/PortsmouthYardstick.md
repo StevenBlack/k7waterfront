@@ -5,7 +5,7 @@ title: "Portsmouth Yardstick"
 
 ---
 
-The <b>Portsmouth Yardstick</b> is a handicapping formula that includes small boats and dinghys.
+The **Portsmouth Yardstick** is a handicapping formula that includes small boats and dinghys.
 
 From http://www.ussailing.org/portsmouth/:
 <blockquote>

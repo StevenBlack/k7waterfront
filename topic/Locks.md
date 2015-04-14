@@ -19,7 +19,7 @@ Also: http://www.boldts.net/Kingston5.shtml
 49 locks in total, 125 miles to Ottawa.
 See: http://www.rideau-info.com/canal/locks/index.html
 
-<h3>Rideau Canal Lock Profile</h3>
+###Rideau Canal Lock Profile###
 (Scroll to the right)
 <img src="http://k7waterfront.org/Images/RideauCanalLockProfile.jpg">
 

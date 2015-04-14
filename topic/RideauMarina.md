@@ -13,7 +13,7 @@ See the [Rideau Marina Website](http://www.rideaumarina.on.ca)
 Google[Rideau Marina]
 
 <a name="hoist">
-<h3>Hoisting capability at [Rideau Marina][rideaumarina]
+###Hoisting capability at [Rideau Marina][rideaumarina]
 
 * 25-Ton Travel Lift
 * 10-Ton Fork Lift

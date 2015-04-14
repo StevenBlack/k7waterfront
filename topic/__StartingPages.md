@@ -8,12 +8,12 @@ title: "__StartingPages"
 ##Specialized starting places for this website
 
 <ul>
-<li> <b>Are you a Kingston resident?</b>
+<li> **Are you a Kingston resident?**
   <ul>
   <li> Are you waterfront user or stakeholder?  See our [stakeholder's home page][stakeholder'shomepage]
   <li> Are you interested in local waterfront issues? See our [resident's start page][resident'sstartpage]
   </ul>
-<li> <b>Planning a visit to Kingston?</b>
+<li> **Planning a visit to Kingston?**
   <ul>
   <li> Traveling by car and want to get out on the water? See our [visitor's home page][visitor'shomepage].
   <li> Traveling by boat? See our [cruiser's home page][cruiser'shomepage].

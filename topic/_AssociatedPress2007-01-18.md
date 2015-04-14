@@ -17,7 +17,7 @@ The only other confirmed appearance in the Great Lakes region was last November 
 
 The red mysid has "strong potential" to severely affect the lake's food chain, O'Neill said. Typically, the shrimp feast on phytoplankton and zooplankton, the foundation of the lake's food chain. Zooplankton are also what many young fish thrive on.
 
-<strong>Enlisting the public</strong>
+**Enlisting the public**
 
 U.S. scientists are asking the public's help to catalog the extent of the red mysid invasion.
 
@@ -37,7 +37,7 @@ So far, scientists have found red mysid only off Nine Mile Point in eastern Lake
 
 David MacNeill, a fisheries specialist with New York Sea Grant, said Lake Ontario offers a friendly habitat for the red mysid, which prefers warm, shallow waters with rocky bottoms, It likes to swim near the shore and near piers.
 
-<strong>Russian roulette</strong>
+**Russian roulette**
 
 "It's hard to make predictions," said MacNeill, noting that there are a number of species of fish that will eat the red mysid, which could balance some of their negative influence.
 

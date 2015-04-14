@@ -5,9 +5,9 @@ title: "Snake Island"
 
 ---
 
-<p align="center"><img src="http://home.ca.inter.net/~gkmd/oldsnake.jpg"><br>1830 Watercolour of Snake Island and the Lower Gap <i>Ontario Archives Reference 10002212</i></p>
+<p align="center"><img src="http://home.ca.inter.net/~gkmd/oldsnake.jpg"><br>1830 Watercolour of Snake Island and the Lower Gap *Ontario Archives Reference 10002212*</p>
 
-<blockquote><p><b>Snake Island</b>is a low bar of sand and bush off Simcoe Island's Four Mile Point. Vessels may find safe passage to Kingston from the Lower Gap either between Snake and Simcoe islands, or between Snake Island and the mainland. Over the years, Snake Island has claimed more than its share of unwary vessels, not all of which survived.
+<blockquote><p>**Snake Island**is a low bar of sand and bush off Simcoe Island's Four Mile Point. Vessels may find safe passage to Kingston from the Lower Gap either between Snake and Simcoe islands, or between Snake Island and the mainland. Over the years, Snake Island has claimed more than its share of unwary vessels, not all of which survived.
 
 <p>Today, surrounded by shoals and shallows, the island is far more difficult  to see than the navigation buoys surrounding it. This was not always so. In  1858, the Board of Works erected a stone tower on Snake Island at a cost of some 3000 pounds. The lantern was 35 feet above the lake level and, with a lens six feet in diameter, shone a steady red light which was visible for six miles.
 

@@ -18,7 +18,7 @@ Kingston Marina is operated by the adjacent [MetalCraft Marine][metalcraftmarine
 #INSERTTOPIC:__GoogleMapKingstonMarina
 
 <a name="crane"></a>
-<h3>Hoisting at [Kingston Marina][kingstonmarina]
+###Hoisting at [Kingston Marina][kingstonmarina]
 
 
 <ul>

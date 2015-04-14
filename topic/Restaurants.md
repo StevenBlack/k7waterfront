@@ -9,13 +9,13 @@ title: "Restaurants"
 Unfortunately, Kingston doesn't have very many destinations where you can eat with a water view.
 #INSERTTOPIC:__GoogleDataMapWaterfrontRestaurants
 
-<b>The Pourtsmouth Tavern</b> near [Portsmouth Olympic Harbour][portsmoutholympicharbour]
+**The Pourtsmouth Tavern** near [Portsmouth Olympic Harbour][portsmoutholympicharbour]
 <img src="Images/PortsmouthTavern.jpg">
 ----
-<b>The [Brown's Bay Inn][brown'sbayinn]</b> on Wolfe Island
+**The [Brown's Bay Inn][brown'sbayinn]** on Wolfe Island
 <img src="http://k7waterfront.org/Images/BrownsBayInn01.jpg">
 ----
-<b>The [Island Grill][islandgrill]</b> on Wolfe Island
+**The [Island Grill][islandgrill]** on Wolfe Island
 <img src="http://k7waterfront.org/Images/IslandGrillViewFromTheDock.jpg">
 
 {% include routes.html %}

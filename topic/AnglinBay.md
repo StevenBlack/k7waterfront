@@ -7,7 +7,7 @@ title: "Anglin Bay"
 
 ##Anglin Bay
 
-<b>Anglin Bay is a small bay on the South Western shore of the [Great Cataraqui River][greatcataraquiriver].
+**Anglin Bay is a small bay on the South Western shore of the [Great Cataraqui River][greatcataraquiriver].
 #INSERTTOPIC:__GoogleMapAnglinBay
 ----
 #INSERTTOPIC:AnglinBayWrecks

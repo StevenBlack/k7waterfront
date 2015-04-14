@@ -5,7 +5,7 @@ title: "St Lawrence River Board Teleconference-2008-03-18"
 
 ---
 
-<strong>A summary of the March 18 2008 St Lawrence River Board Teleconference</strong>
+**A summary of the March 18 2008 St Lawrence River Board Teleconference**
 
 <p class="info">Thanks to <a href="web.mac.com/mike.hill">Mike Hill</a> of the <a href="http://dolphinscubaclub.blogspot.com/">Dolphins</a> for providing this.</p>
 It's well worth [browsing the FAQ page](http://www.islrbc.org/new-Version/faqs.html) on the Board's website for more information about many of the topics raised during the Conference.
@@ -13,7 +13,7 @@ It's well worth [browsing the FAQ page](http://www.islrbc.org/new-Version/faqs.h
 <blockquote>
 <p>I'm not sure how many of you had a chance to listen in to the Teleconference held by the International St Lawrence River Board of Control.  For those who didn't manage to do so, I thought that there might be some interest in notes from the event, which was very well run and supported.
 <hr>
-<p><strong>Notes from the teleconference held on March 18th, 2008 with a central meeting place in Rochester NY</strong>.  The Conference opened at 7 pm and closed at 8:25 pm with an expression of appreciation for everyone's interest and attention from the Chairman.
+<p>**Notes from the teleconference held on March 18th, 2008 with a central meeting place in Rochester NY**.  The Conference opened at 7 pm and closed at 8:25 pm with an expression of appreciation for everyone's interest and attention from the Chairman.
 <p>A total of 37 telephone correspondents listened in to the conference.   The operator remarked that a particularly large number of subscribers had dialed in from Kingston (testimony to the success of CPS and K7 publicity for the event?)
 <p>The Meeting opened with a briefing from the American alternate chair - speaking to the slide briefing pack provided in advance of the conference.
 <p>Questions then alternated between members of the Rochester audience and telephone subscribers.  Briefly, they covered the following points  (a couple have been missed):

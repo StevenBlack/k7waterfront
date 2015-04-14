@@ -12,7 +12,7 @@ Original source: http://www.cityofkingston.ca/cityhall/committees/keaf/innerharb
 
 The excerpt below from KEAF's Second Progress Report to Council includes the results of a 2002 public workshop on the future of the city's inner harbour.
 </div>
-<h3>INTRODUCTION</h3>
+###INTRODUCTION###
 
 Kingston's Inner Harbour - that beautiful stretch of marsh and water that reaches five km from Highway 401 south to LaSalle Causeway - is so big its perimeter totals 10 per cent of the city's 150 km shoreline. Yet many of us are hardly aware of it. Despite its size and location adjacent to the centre of our community, most of us rarely glance at it, use it, live round it, work by it or even think about it. When we say our city is on the water, we are more likely to mean Lake Ontario and the St. Lawrence River than the mouth of the Great Cataraqui River - the Inner Harbour.
 
@@ -22,7 +22,7 @@ But is this the real situation or a misconception? And what choices do we have?
 
 In fact, the entire Inner Harbour has a great deal to offer. Much of the harbour is in better condition than its reputation would suggest. Because this beautiful area has been largely ignored for the past 30 years, we still have many opportunities to shape and ensure its future as both a natural and developed resource. The task is to decide how to restore it, revitalize it and enjoy its remarkable assets.
 
-<h3>DEVELOPING A PLAN</h3>
+###DEVELOPING A PLAN###
 
 In January 2000, Kingston City Council created the Kingston Environmental Advisory Forum (KEAF). This volunteer organization is charged with identifying the city's most pressing environmental issues and priorities and helping council develop an environmental strategy for the city. In July 2000, KEAF conducted a public consultation at which participants identified the Inner Harbour as one of the community's top environmental concerns. Council concurred and asked KEAF for advice on the future of the harbour
 
@@ -36,7 +36,7 @@ We are now part way through this process that will give us information on which 
 
 What follows is a description of the process we used and the results obtained. We have consulted the public twice for ideas about what the Inner Harbour could be, and we would like to take one more opportunity to invite anyone to contact us about their reactions to the ideas elicited thus far. We also welcome more constructive ideas. The public's collective vision will help us assign priorities to information gaps and make our recommendations to council.
 
-<h3>DATA COMPILATION AND GAP ANALYSIS</h3>
+###DATA COMPILATION AND GAP ANALYSIS###
 
 Our first step was to commission a technical study that provided a unified picture of all the environmental information about the Inner Harbour accumulated during the last 30 years. Our goal was to find out what we know and don't know, and what gaps in information need to be filled before council can make plans for the harbour's environmental future. The harbour has been studied frequently. We found a total of over 100 studies on the harbour's water and sediment quality, bio-diversity and past land use. Briefly, the results of the Data Compilation and Gap Analysis were:
 <ul>
@@ -61,7 +61,7 @@ Here's what we don't know about these contaminants.
 
 We don't know the total extent of the contaminated sediments, nor do we know if, how, or to what extent they're being re-distributed or re-suspended. We have limited information on the effects of contamination on the ecosystem and we don't know if contaminants are present in a form and concentration that can be taken up by humans. As a result, we don't know, for example, whether it's always safe to swim in the water - it might be if the sediments aren't disturbed - and we don't know how much they move around when motor boats churn up the water. Should City Council plan for possible water sports or should this portion of the harbour be a harbour that is seen but not played on or in? Does council need to develop a recreation management plan for the Inner Harbour?
 
-<h3>VISIONS FOR THE INNER HARBOUR'S FUTURE</h3>
+###VISIONS FOR THE INNER HARBOUR'S FUTURE###
 
 We presented the results of the Data Compilation and Gap Analysis to a public workshop attended by representatives of 36 different organizations. The presentation was accompanied by a video tour that reminded participants of how the shore around the Inner Harbour is used today. It showed the following:
 <ul>
@@ -94,7 +94,7 @@ The main themes that emerged from the public consultation are:
         13. Do not touch the marsh.
 </ul>
 
-<h3>RECOMMENDATIONS</h3>
+###RECOMMENDATIONS###
 
 Based on these visions for a revitalized Inner Harbour, KEAF will rank the technical information gaps revealed in the Data Compilation and Gap Analysis report. The process will conclude with KEAF making recommendations on what council should do environmentally to reaclize the public's vision of the Inner Harbour's future. In this way, KEAF hopes it will help City Council achieve its goal, established in 2000, to adopt a comprehensive plan for the Inner Harbour.
 

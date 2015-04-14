@@ -5,9 +5,9 @@ title: "In Depth SCUBA Service"
 
 ---
 
-<b>Kevin Ripley</b>
+**Kevin Ripley**
 
-<b>InDepth SCUBA Service</b>
+**InDepth SCUBA Service**
 17 Deerchase Ct,
 Kanata, Ontario
 

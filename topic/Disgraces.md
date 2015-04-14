@@ -33,9 +33,9 @@ Google[Belle Park Landfill]
 
 The problem is it's the waterfront, and the city's primiere park, and not the back-lot behind the Dairy Queen.  This is nothing less than the total disreguard for aesthetics. At minimum the brick used should have matched that of the plant itself, or more generally, the colours found on most of Kingston's buildings, and not the bargain-basement bricks we see here. -- [Steven Black][stevenblack]
 
-Well, '<i>total</i> disregard for aesthetics' may be a bit strong. Absolutes are always so troublesome. It could be better, but as waterfront plant and equipment, it probably compares favourably with an oil refinery. Or some grain elevators. Or a coal fired power plant. Or most of the Toronto waterfront.---  Gary MacDonald 
+Well, '*total* disregard for aesthetics' may be a bit strong. Absolutes are always so troublesome. It could be better, but as waterfront plant and equipment, it probably compares favourably with an oil refinery. Or some grain elevators. Or a coal fired power plant. Or most of the Toronto waterfront.---  Gary MacDonald
 
-Agreed, mostly.  I drove past there yesterday and the main plant is limestone-coloured, as are the Queen's residences across the street.  That they chose a rather generic brick, as opposed to grey brick, or stone or even faux-stone for these cubes, tells me there was no serious consideration given to aesthetics.  Couple that with the prime waterfront location of these things, and this to me suggests a <i>total</i> disreguard for aesthetics.  But whatever, I agree, they certainly could have done a much nicer job.  -- [Steven Black][stevenblack]
+Agreed, mostly.  I drove past there yesterday and the main plant is limestone-coloured, as are the Queen's residences across the street.  That they chose a rather generic brick, as opposed to grey brick, or stone or even faux-stone for these cubes, tells me there was no serious consideration given to aesthetics.  Couple that with the prime waterfront location of these things, and this to me suggests a *total* disreguard for aesthetics.  But whatever, I agree, they certainly could have done a much nicer job.  -- [Steven Black][stevenblack]
 
 #INSERTTOPIC:__FlickrBadgeSovietBlocks
 

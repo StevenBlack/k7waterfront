@@ -5,7 +5,7 @@ title: "__IndustrialPollution2003"
 
 ---
 
-<h3>Industrial Pollution 2003, "K7" postal code</h3>
+###Industrial Pollution 2003, "K7" postal code###
 Source: http://www.pollutionwatch.org/
 
 <table border="0">
@@ -15,7 +15,7 @@ Source: http://www.pollutionwatch.org/
   <tr>
     <td colspan="6" class="boldText">Search Parameters:
     <!-- Search province -->Province: Across Canada
-    Postal Code Start with:  <b>K7</b>
+    Postal Code Start with:  **K7**
     <!-- Search pollution type -->Pollution Type: On-site Releases with Combined Air Release
     <!-- Search year -->Year: 2003
  </td>

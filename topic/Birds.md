@@ -12,9 +12,9 @@ title: "Waterfowl in the Kingston area"
 
 [Kingston Field Naturalists 2004 Checklist of Birds (368 species)](http://www.kingstonfieldnaturalists.org/checklists/kingstonbirds.pdf)
 
-<b>Hot local topic:</b> [Cormorants][cormorants]
+**Hot local topic:** [Cormorants][cormorants]
 
-<b>Some reports from field naturalists:</b>
+**Some reports from field naturalists:**
 1998: [Archived Birding Reports - 1998](http://www.web-nat.com/bic/ont/Archives/arckin98.htm)
 1999: [Archived Birding Reports - 1999](http://www.web-nat.com/bic/ont/Archives/arckin99.htm)
 2000: [Archived Birding Reports - 2000](http://www.web-nat.com/bic/ont/Archives/arckin2002.htm)

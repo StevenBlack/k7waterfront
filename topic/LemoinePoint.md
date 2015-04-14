@@ -5,7 +5,7 @@ title: "Lemoine Point"
 
 ---
 
-<h4>External links:</h4>
+####External links:####
 <li> http://www.cataraquiregion.on.ca/lands/lemoine.htm
 <li> http://www.boldts.net/KingstonE.shtml
 

@@ -7,8 +7,8 @@ title: "Fish found in Kingston area waters"
 
 <div class="imagewrap" style="float:right;width:580px;">
 	<p>
-		<strong>Here's an image of a poster you can
-		<a href="http://www.seagrant.wisc.edu/greatlakesfish/poster.html">order</a>:</strong>
+		**Here's an image of a poster you can
+		<a href="http://www.seagrant.wisc.edu/greatlakesfish/poster.html">order</a>:**
 		<a href="http://www.seagrant.wisc.edu/greatlakesfish/poster.html"><img src="http://www.seagrant.wisc.edu/greatlakesfish/Graphics/PosterLG.jpg"></a>
 	</p>
 </div>

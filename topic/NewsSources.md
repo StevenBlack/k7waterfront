@@ -13,12 +13,12 @@ title: "News Sources"
 <li> [Great Lakes Information Network](http://www.great-lakes.net/infocenter/).
 <li> [Great Lakes Fish Consumption Advisories](http://www.great-lakes.net/envt/flora-fauna/wildlife/fishadv.html)
 
-<h4>Aerial Photographs
+####Aerial Photographs
 <li> http://maps.cityofkingston.ca/onsite/
 
 
 
-<h4>Water Temperature
+####Water Temperature
 <li> [Eastern Lake Ontario Surface Temperatures](http://www.coastwatch.msu.edu/ontario/o2.html).
 <li> [Henderson Harbour to Cape Vincent Surface Temperature](http://www.coastwatch.msu.edu/ontario/o23.html).
 

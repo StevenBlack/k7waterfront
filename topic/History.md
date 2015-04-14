@@ -28,15 +28,15 @@ Lasalle Causeway, 1924
 City Hall, 1936
 
 <iframe src="http://home.ca.inter.net/~gkmd/sail/shoaltowerr.htm" width=100% height="200" name="myles" frameborder="1" scrolling=yes ></iframe>
-<p align="center"><img src="http://home.ca.inter.net/~gkmd/drydock.jpg"><br><b>Kingston Drydock.</b>
+<p align="center"><img src="http://home.ca.inter.net/~gkmd/drydock.jpg"><br>**Kingston Drydock.**
 You may recognize this as the present day site of the Marine Museum of the Great Lakes</p>
 
-<blockquote><b><u>How Deadman's Bay Got Its Name</u>
+<blockquote>**<u>How Deadman's Bay Got Its Name</u>
 
-<p>In 1847, during construction of the Martello Tower on Cedar Island - "Cathcart Redoubt", a group of 23 workers were returning home from Cedar Island.  A heavy swell caused the overloaded boat to capsize. Two swam to safety. Another four survived by clinging to the overturned boat. But 17 died. As a result of this, Hamilton Cove, between Cedar Island and Point Henry was renamed <i>Deadman's Bay.</b></i></p></blockquote>
+<p>In 1847, during construction of the Martello Tower on Cedar Island - "Cathcart Redoubt", a group of 23 workers were returning home from Cedar Island.  A heavy swell caused the overloaded boat to capsize. Two swam to safety. Another four survived by clinging to the overturned boat. But 17 died. As a result of this, Hamilton Cove, between Cedar Island and Point Henry was renamed *Deadman's Bay.***</p></blockquote>
 <hr>
 
-<b><font color="navy" face="Bimini" size="5">The Myles Shoal, <font size="4">off the Kingston Yacht Club, is a local "watermark" for sailors. It got its name from a near tragedy:</b></font>
+**<font color="navy" face="Bimini" size="5">The Myles Shoal, <font size="4">off the Kingston Yacht Club, is a local "watermark" for sailors. It got its name from a near tragedy:**</font>
 
 <iframe src="http://home.ca.inter.net/~gkmd/sail/Myles.htm" width=100% height="200" name="myles" frameborder="1"
 

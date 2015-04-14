@@ -5,7 +5,7 @@ title: "Snowbirds Airshow Safety Zone"
 
 ---
 
-Here's a diagram of the <strong>patrolled safety zone</strong> in effect in Kingston Harbour for the Snowbirds airshows that come to Kingston semi-regularly.  The next display is scheduled for Wednesday June 27 2007 at 5:30 PM.
+Here's a diagram of the **patrolled safety zone** in effect in Kingston Harbour for the Snowbirds airshows that come to Kingston semi-regularly.  The next display is scheduled for Wednesday June 27 2007 at 5:30 PM.
 
 For obvious reasons, you don't want to be in this box at any time during the airshow, and if you are inside it, expect to be swiftly directed out.  Keep this area in mind as you leave the dock to enjoy the display.
 

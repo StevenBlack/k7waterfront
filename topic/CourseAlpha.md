@@ -9,7 +9,7 @@ title: "Course Alpha"
 #INSERTTOPIC:__RegattaCourseMenu
 <img src="http://K7Waterfront.org/Images/ChartCourseAlpha800.jpg" class="image1px floatright" alt="Alpha Course in Kingston Harbour">
 
-<strong>Course Alpha</strong> is Kingston's primary sailing regatta circle.
+**Course Alpha** is Kingston's primary sailing regatta circle.
 
 Over the years, [many major championships][listofmajorregattasinkingston] have been hosted on Course Alpha.
 
@@ -26,7 +26,7 @@ Course Alpha is usually the "inside" race circle when sailing instructions provi
 
 ###For race officers
 <ul>
-<li>A <strong>1 1/4-mile diameter circle</strong> is shown in the diagram.  Weather legs up to 1 1/2-miles in length are possible on Course Alpha.
+<li>A **1 1/4-mile diameter circle** is shown in the diagram.  Weather legs up to 1 1/2-miles in length are possible on Course Alpha.
 
 <li>In [prevailing breezes][wind] (S -> SW -> W), committee boat anchoring on Course Alpha can be difficult due to depth and the variable holding quality of the bottom.
 
@@ -34,7 +34,7 @@ Course Alpha is usually the "inside" race circle when sailing instructions provi
 
 <li>Beware of [Magnetic Anomalies][magneticanomalies], especially closer to the Kingston shore.  In prevailing breezes, expect to see declinations up to 8 degrees east of normal at the committee boat, with declinations reaching normal the closer to Simcoe Island.
 
-<li><strong>When anchoring operations in an East breeze</strong>: be aware that [Snake Island Bank][snakeislandbank] is effectively a lee shore.  It's very shallow, knarly, and you don't want any boats ending up there.
+<li>**When anchoring operations in an East breeze**: be aware that [Snake Island Bank][snakeislandbank] is effectively a lee shore.  It's very shallow, knarly, and you don't want any boats ending up there.
 </ul>
 
 ###Boat traffic

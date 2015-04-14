@@ -23,8 +23,8 @@ With thanks to <a href="http://www.google.com/search?num=100&hl=en&lr=&newwindow
 ###Somewhat related background:
 
 * [Magnetic Declination FAQ](http://www.geocities.com/magnetic_declination/)
-* [Magnetic <i>declination</i> chart of North America](http://gsc.nrcan.gc.ca/geomag/field/pdf/magnetic_declination_chart.canada.2000.pdf) -- Declination at Kingston is 13 degrees West.
-* [Magnetic <i>inclination</i> chart of North America](http://gsc.nrcan.gc.ca/geomag/field/pdf/magnetic_inclination_chart.canada.2000.pdf) -- Inclination at Kingston is between 71 and 72 degrees North from horizontal.
+* [Magnetic *declination* chart of North America](http://gsc.nrcan.gc.ca/geomag/field/pdf/magnetic_declination_chart.canada.2000.pdf) -- Declination at Kingston is 13 degrees West.
+* [Magnetic *inclination* chart of North America](http://gsc.nrcan.gc.ca/geomag/field/pdf/magnetic_inclination_chart.canada.2000.pdf) -- Inclination at Kingston is between 71 and 72 degrees North from horizontal.
 
 From [BoatNerd, facts and figures about Lake Ontario](http://www.boatnerd.com/facts-figures/lkont.htm):
 

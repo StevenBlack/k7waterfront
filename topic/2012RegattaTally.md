@@ -6,7 +6,7 @@ title: "2012 Regatta Tally"
 ---
 
 ##2012 Race Tally for Regattas
-2012 was an <strong>amazing year for sailing regattas</strong> in Kingston.  For the most part, the winds of 2012 were reliable and amazing.
+2012 was an **amazing year for sailing regattas** in Kingston.  For the most part, the winds of 2012 were reliable and amazing.
 
 Here's the tally of races sailed v races scheduled.
 

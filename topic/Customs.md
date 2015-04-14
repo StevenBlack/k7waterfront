@@ -9,13 +9,13 @@ title: "Customs"
 
 (Updated September 22 2010)
 
-Once you arrive call the following number to report to Canada Customs: <strong>1-888-CANPASS</strong>
+Once you arrive call the following number to report to Canada Customs: **1-888-CANPASS**
 
 Kingston is served by the [Canada Border Services Agency Office #420](http://www.cbsa-asfc.gc.ca/contact/listing/offices/office171-e.html) which is located in Trenton.
 
 You can speak directly to an agent during regular business hours, Monday to Friday (08:00 - 16:00 local time / except holidays).  Press "0" to speak to an agent.
 
-<strong>[The Canada Border Services Agency Office in Kingston has the following services:](http://www.cbsa-asfc.gc.ca/contact/listing/offices/office171-e.html)</strong>
+**[The Canada Border Services Agency Office in Kingston has the following services:](http://www.cbsa-asfc.gc.ca/contact/listing/offices/office171-e.html)**
 
 
 * Commercial Vessel (C/VESS)
@@ -37,7 +37,7 @@ You can speak directly to an agent during regular business hours, Monday to Frid
 * RMC Yacht Club
 
 
-<strong>TAKE NOTE</strong>: The [LANSDOWNE (Thousand Islands Bridge) office](http://www.cbsa-asfc.gc.ca/contact/listing/indexpages/index1282-e.html#d1282) serves these locations just East of Kingston:
+**TAKE NOTE**: The [LANSDOWNE (Thousand Islands Bridge) office](http://www.cbsa-asfc.gc.ca/contact/listing/indexpages/index1282-e.html#d1282) serves these locations just East of Kingston:
 
 * Treasure Island Marina and eastwards which includes
 * Trident Yacht Club

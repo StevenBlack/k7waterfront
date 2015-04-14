@@ -42,7 +42,7 @@ The majority of sailors, rowers, and powerboaters got their start because someon
 *  We have many [marinas][marinas] in the region serving boaters who collectively own thousands of boats.
 *  Each one of those boats requires yearly maintenance, which comes from elbow-grease.
 *  Many of these boats require more than one person to operate, and many don't leave the dock for lack of crew.
-*  Therefore <strong>it never hurts to ask</strong>, especially it that comes with an <strong>offer or willingness to help</strong> with chores, or help with crewing.
+*  Therefore **it never hurts to ask**, especially it that comes with an **offer or willingness to help** with chores, or help with crewing.
 *  It doesn't hurt to have proper clothing, soft-soled shoes, a lifejacket, snacks, and beverages when attempting to get yourself invited.
 
 

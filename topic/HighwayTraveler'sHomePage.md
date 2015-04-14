@@ -8,7 +8,7 @@ premise: You're passing Kingston on the highway.  Maybe you've got kids with you
 
 ##A place for advising highway travelers about stopover opportunities on Kingston's waterfront
 
-<h3> [Kingston Mills][kingstonmillslocks]</h3>
+### [Kingston Mills][kingstonmillslocks]###
 
 <a href="http://K7Waterfront.org/Topic/KingstonMillsLocks"><img src="http://K7Waterfront.org/Images/KingstonMillLocksHighwayMap.jpg" class="floatright image1px"></a>
 
@@ -27,7 +27,7 @@ premise: You're passing Kingston on the highway.  Maybe you've got kids with you
 </ul>
 
 #INSERTTOPIC:__RideTheWolfeIslandFerry
-<h3> Chill in one of many [waterfront parks][parks]</h3><a href="http://K7Waterfront.org/Topic/Parks"><img src="http://K7Waterfront.org/Images/ParksMap.jpg" class="floatright image1px"></a>
+### Chill in one of many [waterfront parks][parks]###<a href="http://K7Waterfront.org/Topic/Parks"><img src="http://K7Waterfront.org/Images/ParksMap.jpg" class="floatright image1px"></a>
 <ul>
 <li> See our [waterfront parks][parks] page
 <li> All have picnic tables and benches
@@ -35,7 +35,7 @@ premise: You're passing Kingston on the highway.  Maybe you've got kids with you
 <li> See our [beaches][beaches] topic, though don't be surprised to find a beach is posted.
 </ul>
 
-<h3><a href="http://www.ahoyrentals.com/">Ahoy Rentals</a></h3>
+###<a href="http://www.ahoyrentals.com/">Ahoy Rentals</a>###
 <a href="http://www.ahoyrentals.com/" class="imagelink"><img src="http://K7Waterfront.org/Images/AhoyRentalsMap.jpg" class="floatright image1px"></a>
 <ul>
 <li> See the <a href="http://www.ahoyrentals.com/">Ahoy Rentals</a> website

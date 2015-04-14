@@ -7,7 +7,7 @@ metakeywords: Adapted Sailing, Kingston Yacht Club, Kingston, Kingston Ontario
 
 ---
 
-<strong>Able Sail Kingston</strong> (ASK) is a not-for-profit organization that provides recreational sailing programs to Kingston's community of disabled persons.
+**Able Sail Kingston** (ASK) is a not-for-profit organization that provides recreational sailing programs to Kingston's community of disabled persons.
 
 <div id="flickrBadgeTarget"></div>
 

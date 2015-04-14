@@ -7,8 +7,8 @@ title: "__ListOfMajorRegattasInKingston"
 
 <h2 style="margin-bottom:0.5em;">List of the more important regattas that Kingston has hosted over the years
 <img src="http://finn.wikis.com/graphics/weatherleg.jpg" alt="Finn Master World Championship Kingston, weather leg" class="span-30">
-<div><b>Above: Finn Master World Championships, 2001</b></div>
-<h3>World Championships</h3>
+<div>**Above: Finn Master World Championships, 2001**</div>
+###World Championships###
 <table class="bordertable" style="float:right; clear:right;">
 <tr>
 <td colspan="3">
@@ -91,7 +91,7 @@ title: "__ListOfMajorRegattasInKingston"
 2003: [[http://cork.org/archive/results_2003.html#alb Albacore World Championships]] (Barney Harris, David Byron, USA)
 2005: [[http://cork.org/results2005/L2W.HTM Laser II World Championships]] (Trevor McEwen, Ian McEwen, Kingston, CAN)
 <div class="floatleft" style="border: 1px dashed black; margin: 3px; padding: 3px; width:80%;">
-<strong>2007: Volvo Youth Sailing ISAF World Championships</strong>
+**2007: Volvo Youth Sailing ISAF World Championships**
 <img src="http://k7waterfront.org/Images/VolvoYouth2007.jpg" class="floatleft" alt="Volvo Youth Worlds">
 <a href="http://www.youthworlds2007.org/Results/blas.html">Boy's One Person Dinghy: Laser</a> (Pavlos Kontides, Cyprus)
 <a href="http://www.youthworlds2007.org/Results/grad.html">Girl's One Person Dinghy: Laser Radial</a> (Gabrielle King, AUS)
@@ -106,7 +106,7 @@ title: "__ListOfMajorRegattasInKingston"
 
 **2009: Byte CII World Championshops** (August 23-27)
 
-<h3>North American Championships</h3>
+###North American Championships###
 1978: [[http://www.laserinternational.org/archives/arcna.htm Laser North Americans]] (Andrew Menkart)
 1985: [[http://www.laserinternational.org/archives/arcna.htm Laser North Americans]] (Mike Martin, USA)
 1988: [[http://www.laserinternational.org/archives/arcna.htm Laser North Americans]] (Jeff Boyd, Kingston, Canada)
@@ -156,7 +156,7 @@ title: "__ListOfMajorRegattasInKingston"
 **2009: 29er North Americans (August 23-27)**
 **2009: 49er North Americans (August 23-27)**
 
-<h3>List by year</h3>
+###List by year###
 1898: [[http://www.lyrawaters.org/History/Previousregattas/past_sites.htm LYRA]]
 
 1902: [[http://www.lyrawaters.org/History/Previousregattas/past_sites.htm LYRA]]
@@ -315,7 +315,7 @@ title: "__ListOfMajorRegattasInKingston"
 
 <div class="floatleft" style="border: 1px dashed black; margin: 3px; padding: 3px; width:80%;">
 
-<strong>2007: Volvo Youth Sailing ISAF World Championships</strong>
+**2007: Volvo Youth Sailing ISAF World Championships**
 <img src="http://k7waterfront.org/Images/VolvoYouth2007.jpg" class="floatleft" alt="Volvo Youth Worlds">
 <a href="http://www.youthworlds2007.org/Results/blas.html">Boy's One Person Dinghy: Laser</a> (Pavlos Kontides, Cyprus)
 <a href="http://www.youthworlds2007.org/Results/grad.html">Girl's One Person Dinghy: Laser Radial</a> (Gabrielle King, AUS)

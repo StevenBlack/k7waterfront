@@ -20,7 +20,7 @@ title: "Horseshoe Island"
 #flickr_badge_wrapper {background-color:#ffffff;border: solid 1px #000000}
 #flickr_badge_source {padding:0 !important; font: 11px Arial, Helvetica, Sans serif !important; color:#666666 !important;}
 </style>
-<table id="flickr_badge_uber_wrapper" cellpadding="0" cellspacing="10" border="0"><tr><td><a href="http://www.flickr.com" id="flickr_www">www.<strong style="color:#3993ff">flick<span style="color:#ff1c92">r</span></strong>.com</a><table cellpadding="0" cellspacing="10" border="0" id="flickr_badge_wrapper">
+<table id="flickr_badge_uber_wrapper" cellpadding="0" cellspacing="10" border="0"><tr><td><a href="http://www.flickr.com" id="flickr_www">www.<strong style="color:#3993ff">flick<span style="color:#ff1c92">r</span>**.com</a><table cellpadding="0" cellspacing="10" border="0" id="flickr_badge_wrapper">
 <tr>
 <script type="text/javascript" src="http://www.flickr.com/badge_code_v2.gne?count=5&display=random&size=m&layout=h&source=user_set&user=7856700%40N04&set=72157600187821582&context=in%2Fset-72157600187821582%2F"></script>
 </tr>

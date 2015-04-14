@@ -10,13 +10,13 @@ title: "_ChecklistForShippingContainersToKingstonSidebar"
  See also:
 [How to pack 4 29ers in a container (9 pages)](http://www.29ernorthamerican.org/howto/29erContainer.pdf)
 
-<strong>Other Helpful Info</strong>
+**Other Helpful Info**
 <ul>
 <li><a href="http://en.wikipedia.org/wiki/Shipping_containers#Biggest_ISO_container_companies">List of the biggest ISO container companies</a>
 <li><a href="http://www.tis-gdv.de/tis_e/containe/arten/standard/standard.htm">Standard containers</a>: standard ocean freight containers have the following dimensions:
 <ul>
-<li><strong>External</strong>: 8ft wide (2.44m) x 8 ft' 6 in. (2.6m.) high,  and the usual lengths are 20 ft (6.1 m) and 40 ft (12.2 m).
-<li><strong>Internal</strong>: 7' 10" (2.353 m) wide , 7' 8.625" (2.388 m) high, and 19' 4.25" (5.899 m) or 39' 5.375" (12.024 m) long.
+<li>**External**: 8ft wide (2.44m) x 8 ft' 6 in. (2.6m.) high,  and the usual lengths are 20 ft (6.1 m) and 40 ft (12.2 m).
+<li>**Internal**: 7' 10" (2.353 m) wide , 7' 8.625" (2.388 m) high, and 19' 4.25" (5.899 m) or 39' 5.375" (12.024 m) long.
 </ul>
 
 <img src="http://k7Waterfront.org/Images/CargoSecuringInContainer.jpg">

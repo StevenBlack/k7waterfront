@@ -5,7 +5,7 @@ title: "__KingstonMarinaPhotos"
 
 ---
 
-<strong>Photos</strong> from [Flickr](http://flickr.com/photos/metalcraftmarine)
+**Photos** from [Flickr](http://flickr.com/photos/metalcraftmarine)
 <!-- Start of Flickr Badge -->
 <style type="text/css">
 .flickr_badge {  }

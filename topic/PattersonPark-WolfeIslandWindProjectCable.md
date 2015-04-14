@@ -6,7 +6,7 @@ title: "Patterson Park- Wolfe Island Wind Project Cable"
 ---
 
 <div class="sidebar" style="width: 300px;">
-<strong>Project Documents</strong>
+**Project Documents**
 <a href="http://K7Waterfront.org/Files/WolfeIslandWindProject/CM1_Welcome_Jan30.pdf">CM1_Welcome_Jan30.pdf</a>
 <a href="http://K7Waterfront.org/Files/WolfeIslandWindProject/CM1-02_AlternativeRoutesConsidered.pdf">CM1-02_AlternativeRoutesConsidered.pdf</a>
 <a href="http://K7Waterfront.org/Files/WolfeIslandWindProject/CM1-01_ProjectOverview.pdf">CM1-01_ProjectOverview.pdf</a>
@@ -27,35 +27,35 @@ title: "Patterson Park- Wolfe Island Wind Project Cable"
 
   See also [Wolfe Island Wind Project Cable 10 Day Notice][wolfeislandwindprojectcable10daynotice]
 
-<strong>This topic contains background material related to the landing of the ~230 kV cable from the proposed [Wolfe Island Wind Project][wolfeislandwindproject] through a very popular swimming spot and fantastic windsurfing wave break off [Patterson Park][pattersonpark].  This is a long page, so scroll.</strong>
+**This topic contains background material related to the landing of the ~230 kV cable from the proposed [Wolfe Island Wind Project][wolfeislandwindproject] through a very popular swimming spot and fantastic windsurfing wave break off [Patterson Park][pattersonpark].  This is a long page, so scroll.**
 
 <a href="http://www.wolfeislandwind.com/Jan07_Display_Panels.htm">Panels from the January 30, 2007 Community Meeting</a>
 
 
-<h3>1. Preferred Cable Route: south of Front Road (2007) (Detail)</h3>
+###1. Preferred Cable Route: south of Front Road (2007) (Detail)###
 <img src="http://K7Waterfront.org/Files/WolfeIslandWindProject/PreferredRouteSouthOfFrontRoad(2007)Detail.jpg" border="0">
 
 ----
 
-<h3>2. The 230 kV Transmission Route Underwater Corridor Plan</h3>
-<h4>As presented by project proponents</h4>
+###2. The 230 kV Transmission Route Underwater Corridor Plan###
+####As presented by project proponents####
 <img src="http://K7Waterfront.org/Files/WolfeIslandWindProject/230kVTransmissionRouteUnderwaterCorridor.jpg" border="0">
 
-<p><h4>Overlayed on Chart 2017 (Kingston Harbour)</h4>
+<p>####Overlayed on Chart 2017 (Kingston Harbour)####
 <img src="http://K7Waterfront.org/Images/Chart-WolfeIslandWindProjectCable.jpg" border="0">
 
-<p><h4>Chart 2017 (Detail) showing ACTUAL charted location of existing cable</h4>
+<p>####Chart 2017 (Detail) showing ACTUAL charted location of existing cable####
 <img src="http://K7Waterfront.org/Files/WolfeIslandWindProject/Chart201701(Detail).jpg" border="0">
 
 ----
 
-<h3>4. Construction Sequence and Cable Trench Detail</h3>
+###4. Construction Sequence and Cable Trench Detail###
 Presumably, this is for land segments.
 <img src="http://K7Waterfront.org/Files/WolfeIslandWindProject/ConstructionSequenceAndCableTrenchDetail.jpg" border="0">
 
 ----
 
-<h3>5. Kingston Boardsailing Association Clickable Map</h3>
+###5. Kingston Boardsailing Association Clickable Map###
 Map is Clickable
 <MAP name=surfsites>
 <AREA onmouseover="West Everett Break" shape=RECT target="" alt="West Everett Break" coords=177,52,299,74 href="http://www.geocities.com/kingstonboardsailing/maps/philspots.htm#West Everett Break">

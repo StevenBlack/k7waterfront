@@ -5,7 +5,7 @@ title: "United States Coast Guard Safety Zones"
 
 ---
 
-<h3>In October 2006, here's what the USCG proposes for safety zones for occasional firing practice.</h3>
+###In October 2006, here's what the USCG proposes for safety zones for occasional firing practice.###
 
 Clearly the impact on Kingston's boating, diving, fishing, and tourism trade is negligible.
 

@@ -15,8 +15,8 @@ title: "Lasalle Causeway"
 <img align="right" src="http://www.tc.gc.ca/programs/surface/bridges/images/Lasalle_Causeway.jpg">
 <img src="Images/Aerial/LasalleCausewayAerial.JPG">
 
-<b>Description:</b> http://www.tc.gc.ca/programs/surface/bridges/lasalledescription.htm
-<b>History:</b> http://www.tc.gc.ca/programs/surface/bridges/lasallehistory.htm
+**Description:** http://www.tc.gc.ca/programs/surface/bridges/lasalledescription.htm
+**History:** http://www.tc.gc.ca/programs/surface/bridges/lasallehistory.htm
 
 
 

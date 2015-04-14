@@ -7,7 +7,7 @@ title: "Island Grill"
 
 ##The Island Grill
 
-<i>The Grill</i> is a friendly and unpretentious bar and restaurant a few steps East of the [Wolfe Island Ferry][wolfeislandferry] dock on the [Wolfe Island][wolfeisland] side.
+*The Grill* is a friendly and unpretentious bar and restaurant a few steps East of the [Wolfe Island Ferry][wolfeislandferry] dock on the [Wolfe Island][wolfeisland] side.
 
 They have **two outdoor patios** and, or course, **indoor service** too.
 

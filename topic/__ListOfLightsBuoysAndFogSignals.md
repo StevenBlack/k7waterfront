@@ -7,11 +7,11 @@ title: "__ListOfLightsBuoysAndFogSignals"
 
 <table border="1">
   <tr>
-    <td colspan="11"><strong>LAKE ONTARIO</strong> </td>
+    <td colspan="11">**LAKE ONTARIO** </td>
   </tr>
   <tr>
     <td colspan="11"><br />
-    <strong>Kingston Harbour</strong><br />
+    **Kingston Harbour**<br />
     </td>
   </tr>
   <tr>
@@ -43,7 +43,7 @@ title: "__ListOfLightsBuoysAndFogSignals"
     <td>Cylindrical mast.<br />
     6.9</td>
     <td>Privately maintained by Ministry of Transportation - Kingston.<br />
-    Year round.<strong>Chart:2017</strong></td>
+    Year round.**Chart:2017**</td>
   </tr>
   <tr>
     <td>405.5</td>
@@ -59,7 +59,7 @@ title: "__ListOfLightsBuoysAndFogSignals"
     <td>3</td>
     <td>White mast.<br />
     4.9</td>
-    <td>Seasonal.<strong>Chart:2017</strong></td>
+    <td>Seasonal.**Chart:2017**</td>
   </tr>
   <tr>
     <td><em>405.6</em> </td>
@@ -75,8 +75,8 @@ title: "__ListOfLightsBuoysAndFogSignals"
     <td><em>Red spar, marked "KH2".</em> </td>
     <td><em>Seasonal.</em><br />
     <em>(In place Year round.)</em><br />
-    <strong>Chart:2017</strong><br />
-    <strong>Edn 10/08(B08-125)</strong></td>
+    **Chart:2017**<br />
+    **Edn 10/08(B08-125)**</td>
   </tr>
   <tr>
     <td>405.8</td>
@@ -91,7 +91,7 @@ title: "__ListOfLightsBuoysAndFogSignals"
     <td>8</td>
     <td>White cylindrical tower, green upper portion.<br />
     4.8</td>
-    <td>Year round.<strong>Chart:2017</strong></td>
+    <td>Year round.**Chart:2017**</td>
   </tr>
   <tr>
     <td>406.1</td>
@@ -107,7 +107,7 @@ title: "__ListOfLightsBuoysAndFogSignals"
     <td>Cylindrical mast.<br />
     9.8</td>
     <td>Privately maintained.<br />
-    Seasonal.<strong>Chart:2017</strong></td>
+    Seasonal.**Chart:2017**</td>
   </tr>
   <tr>
     <td>406.2</td>
@@ -123,7 +123,7 @@ title: "__ListOfLightsBuoysAndFogSignals"
     <td>Cylindrical mast.<br />
     7.0</td>
     <td>Privately maintained.<br />
-    Seasonal.<strong>Chart:2017</strong></td>
+    Seasonal.**Chart:2017**</td>
   </tr>
   <tr>
     <td>406.3</td>
@@ -139,7 +139,7 @@ title: "__ListOfLightsBuoysAndFogSignals"
     <td>Cylindrical mast.<br />
     6.8</td>
     <td>Privately maintained.<br />
-    Seasonal.<strong>Chart:2017</strong></td>
+    Seasonal.**Chart:2017**</td>
   </tr>
   <tr>
     <td>406.4</td>
@@ -155,7 +155,7 @@ title: "__ListOfLightsBuoysAndFogSignals"
     <td>Cylindrical mast.<br />
     6.8</td>
     <td>Privately maintained.<br />
-    Seasonal.<strong>Chart:2017</strong></td>
+    Seasonal.**Chart:2017**</td>
   </tr>
   <tr>
     <td><em>407</em> </td>
@@ -172,8 +172,8 @@ title: "__ListOfLightsBuoysAndFogSignals"
     <td><em>Green spar, marked "K1".</em> </td>
     <td><em>Seasonal.</em><br />
     <em>(In place Year round.).</em><br />
-    <strong>Chart:2017</strong><br />
-    <strong>Edn 10/08(B08-126)</strong></td>
+    **Chart:2017**<br />
+    **Edn 10/08(B08-126)**</td>
   </tr>
   <tr>
     <td>407.5</td>
@@ -188,7 +188,7 @@ title: "__ListOfLightsBuoysAndFogSignals"
     <td></td>
     <td>Black cylindrical mast.</td>
     <td>Privately maintained by the Kingston Public Utilities.<br />
-    Year round.<strong>Chart:2017</strong></td>
+    Year round.**Chart:2017**</td>
   </tr>
   <tr>
     <td><em>409</em> </td>
@@ -205,8 +205,8 @@ title: "__ListOfLightsBuoysAndFogSignals"
     <td><em>Green spar, marked "K3".</em> </td>
     <td><em>Seasonal.</em><br />
     <em>(In place Year round.)</em><br />
-    <strong>Chart:2017</strong><br />
-    <strong>Edn 10/08(B08-127)</strong></td>
+    **Chart:2017**<br />
+    **Edn 10/08(B08-127)**</td>
   </tr>
   <tr>
     <td>410</td>
@@ -221,7 +221,7 @@ title: "__ListOfLightsBuoysAndFogSignals"
     <td>8</td>
     <td>White cylindrical tower, green upper portion.<br />
     6.2</td>
-    <td>Seasonal.<strong>Chart:2017</strong></td>
+    <td>Seasonal.**Chart:2017**</td>
   </tr>
   <tr>
     <td>411</td>
@@ -237,7 +237,7 @@ title: "__ListOfLightsBuoysAndFogSignals"
     <td></td>
     <td>Skeleton mast.</td>
     <td>Privately maintained.<br />
-    Year round.<strong>Chart:2017</strong></td>
+    Year round.**Chart:2017**</td>
   </tr>
   <tr>
     <td>411.5</td>
@@ -253,7 +253,7 @@ title: "__ListOfLightsBuoysAndFogSignals"
     <td></td>
     <td>Cylindrical mast.</td>
     <td>Privately maintained.<br />
-    Year round.<strong>Chart:2017</strong></td>
+    Year round.**Chart:2017**</td>
   </tr>
   <tr>
     <td>412</td>
@@ -273,7 +273,7 @@ title: "__ListOfLightsBuoysAndFogSignals"
     7.4</td>
     <td>Green from 041° to 045°15'; white from 045°15' to 046°45'; red from 046°45' to 051°.<br />
     White sector indicates preferred channel.<br />
-    Seasonal.<strong>Chart:2017</strong></td>
+    Seasonal.**Chart:2017**</td>
   </tr>
   <tr>
     <td><em>415</em> </td>
@@ -290,8 +290,8 @@ title: "__ListOfLightsBuoysAndFogSignals"
     <td><em>Green spar, marked "K5".</em> </td>
     <td><em>Seasonal.</em><br />
     <em>(In place Year round.)</em><br />
-    <strong>Chart:2017</strong><br />
-    <strong>Edn 10/08(B08-128)</strong></td>
+    **Chart:2017**<br />
+    **Edn 10/08(B08-128)**</td>
   </tr>
   <tr>
     <td><em>416</em> </td>
@@ -307,8 +307,8 @@ title: "__ListOfLightsBuoysAndFogSignals"
     <td><em>Red spar, marked "K8".</em> </td>
     <td><em>Seasonal.</em><br />
     <em>(In place Year round.)</em><br />
-    <strong>Chart:2017</strong><br />
-    <strong>Edn 10/08(B08-129)</strong></td>
+    **Chart:2017**<br />
+    **Edn 10/08(B08-129)**</td>
   </tr>
   <tr>
     <td><em>417</em> </td>
@@ -324,8 +324,8 @@ title: "__ListOfLightsBuoysAndFogSignals"
     <td><em>Green spar, marked "K9".</em> </td>
     <td><em>Seasonal.</em><br />
     <em>(In place Year round.).</em><br />
-    <strong>Chart:2018</strong><br />
-    <strong>Edn 10/08(B08-130)</strong></td>
+    **Chart:2018**<br />
+    **Edn 10/08(B08-130)**</td>
   </tr>
   <tr>
     <td><em>418</em> </td>
@@ -342,8 +342,8 @@ title: "__ListOfLightsBuoysAndFogSignals"
     <td><em>Green spar, marked "KN3".</em> </td>
     <td><em>Seasonal.</em><br />
     <em>(In place Year round.).</em><br />
-    <strong>Chart:2017</strong><br />
-    <strong>Edn 10/08(B08-131)</strong></td>
+    **Chart:2017**<br />
+    **Edn 10/08(B08-131)**</td>
   </tr>
   <tr>
     <td>419<br />
@@ -363,8 +363,8 @@ title: "__ListOfLightsBuoysAndFogSignals"
     14.5<br />
     </td>
     <td>Flash 2 s; eclipse 8 s.<br />
-    Seasonal.<strong>Chart:2017</strong><br />
-    <strong>Edn 09/08(B08-092)</strong></td>
+    Seasonal.**Chart:2017**<br />
+    **Edn 09/08(B08-092)**</td>
   </tr>
   <tr>
     <td><em>420</em> </td>
@@ -380,8 +380,8 @@ title: "__ListOfLightsBuoysAndFogSignals"
     <td></td>
     <td><em>Red spar, marked "K10".</em> </td>
     <td><em>Seasonal.</em><br />
-    <em>(In place Year round.)</em><strong>Chart:2018</strong><br />
-    <strong>Edn 11/08(B08-132)</strong></td>
+    <em>(In place Year round.)</em>**Chart:2018**<br />
+    **Edn 11/08(B08-132)**</td>
   </tr>
   <tr>
     <td>421</td>
@@ -397,7 +397,7 @@ title: "__ListOfLightsBuoysAndFogSignals"
     <td>6</td>
     <td>White square skeleton tower, red upper portion.<br />
     16.8</td>
-    <td>Seasonal.<strong>Chart:2017</strong></td>
+    <td>Seasonal.**Chart:2017**</td>
   </tr>
   <tr>
     <td><em>422</em> </td>
@@ -413,8 +413,8 @@ title: "__ListOfLightsBuoysAndFogSignals"
     <td></td>
     <td><em>Red spar, marked "M6".</em> </td>
     <td><em>Seasonal.</em><br />
-    <em>(In place Year round.)</em><strong>Chart:2064</strong><br />
-    <strong>Edn 11/08(B08-133)</strong></td>
+    <em>(In place Year round.)</em>**Chart:2064**<br />
+    **Edn 11/08(B08-133)**</td>
   </tr>
   <tr>
     <td><em>422.5</em> </td>
@@ -430,8 +430,8 @@ title: "__ListOfLightsBuoysAndFogSignals"
     <td></td>
     <td><em>Green spar, marked "M7".</em> </td>
     <td><em>Seasonal.</em><br />
-    <em>(In place Year round.)</em><strong>Chart:2064</strong><br />
-    <strong>Edn 11/08(B08-134)</strong></td>
+    <em>(In place Year round.)</em>**Chart:2064**<br />
+    **Edn 11/08(B08-134)**</td>
   </tr>
   <tr>
     <td><em>423</em> </td>
@@ -447,8 +447,8 @@ title: "__ListOfLightsBuoysAndFogSignals"
     <td></td>
     <td><em>Red spar, marked "MM2".</em> </td>
     <td><em>Seasonal.</em><br />
-    <em>(In place Year round.)</em><strong>Chart:2064</strong><br />
-    <strong>Edn 11/08(B08-135)</strong></td>
+    <em>(In place Year round.)</em>**Chart:2064**<br />
+    **Edn 11/08(B08-135)**</td>
   </tr>
   <tr>
     <td>424</td>
@@ -466,8 +466,8 @@ title: "__ListOfLightsBuoysAndFogSignals"
     24.8</td>
     <td>Flash 0.3 s; eclipse 5.7 s.<br />
     Emergency light.<br />
-    Seasonal.<strong>Chart:2064</strong><br />
-    <strong>Edn 03/07(B07-003)</strong></td>
+    Seasonal.**Chart:2064**<br />
+    **Edn 03/07(B07-003)**</td>
   </tr>
   <tr>
     <td>424.1424.2</td>
@@ -488,7 +488,7 @@ title: "__ListOfLightsBuoysAndFogSignals"
     <td>Visible in line of range<br />
     Seasonal.<br />
     Visible in line of range<br />
-    Seasonal.<strong>Chart:2064</strong></td>
+    Seasonal.**Chart:2064**</td>
   </tr>
   <tr>
     <td><em>425</em> </td>
@@ -504,8 +504,8 @@ title: "__ListOfLightsBuoysAndFogSignals"
     <td></td>
     <td><em>Green spar, marked "M9".</em> </td>
     <td><em>Seasonal.</em><br />
-    <em>(In place Year round.)</em><strong>Chart:2064</strong><br />
-    <strong>Edn 11/08(B08-136)</strong></td>
+    <em>(In place Year round.)</em>**Chart:2064**<br />
+    **Edn 11/08(B08-136)**</td>
   </tr>
   <tr>
     <td><em>426</em> </td>
@@ -521,8 +521,8 @@ title: "__ListOfLightsBuoysAndFogSignals"
     <td></td>
     <td><em>Red spar, marked "M10".</em> </td>
     <td><em>Seasonal.</em><br />
-    <em>(In place Year round.)</em><strong>Chart:2064</strong><br />
-    <strong>Edn 11/08(B08-137)</strong></td>
+    <em>(In place Year round.)</em>**Chart:2064**<br />
+    **Edn 11/08(B08-137)**</td>
   </tr>
   <tr>
     <td><em>426.5</em> </td>
@@ -538,8 +538,8 @@ title: "__ListOfLightsBuoysAndFogSignals"
     <td></td>
     <td><em>Green spar, marked "K11".</em> </td>
     <td><em>Seasonal.</em><br />
-    <em>(In place Year round.)</em><strong>Chart:2064</strong><br />
-    <strong>Edn 11/08(B08-138)</strong></td>
+    <em>(In place Year round.)</em>**Chart:2064**<br />
+    **Edn 11/08(B08-138)**</td>
   </tr>
   <tr>
     <td>427</td>
@@ -555,7 +555,7 @@ title: "__ListOfLightsBuoysAndFogSignals"
     <td>8</td>
     <td>Hexagonal tower, red and white horizontal bands.<br />
     19.0</td>
-    <td>Seasonal.<strong>Chart:2064</strong></td>
+    <td>Seasonal.**Chart:2064**</td>
   </tr>
   <tr>
     <td><em>427.3</em> </td>
@@ -571,8 +571,8 @@ title: "__ListOfLightsBuoysAndFogSignals"
     <td></td>
     <td><em>Red spar, marked "K12".</em> </td>
     <td><em>Seasonal.</em><br />
-    <em>(In place Year round.)</em><strong>Chart:2064</strong><br />
-    <strong>Edn 11/08(B08-139)</strong></td>
+    <em>(In place Year round.)</em>**Chart:2064**<br />
+    **Edn 11/08(B08-139)**</td>
   </tr>
   <tr>
     <td><em>428</em> </td>
@@ -588,8 +588,8 @@ title: "__ListOfLightsBuoysAndFogSignals"
     <td></td>
     <td><em>Red spar, marked "K14".</em> </td>
     <td><em>Seasonal.</em><br />
-    <em>(In place Year round.)</em><strong>Chart:2064</strong><br />
-    <strong>Edn 11/08(B08-140)</strong></td>
+    <em>(In place Year round.)</em>**Chart:2064**<br />
+    **Edn 11/08(B08-140)**</td>
   </tr>
   <tr>
     <td>429</td>
@@ -605,10 +605,10 @@ title: "__ListOfLightsBuoysAndFogSignals"
     <td>6</td>
     <td>White skeleton tower.<br />
     13.0</td>
-    <td>Seasonal.<strong>Chart:2064</strong></td>
+    <td>Seasonal.**Chart:2064**</td>
   </tr>
   <tr>
-    <td colspan="11"><strong>North Channel</strong><br />
+    <td colspan="11">**North Channel**<br />
     </td>
   </tr>
   <tr>
@@ -639,7 +639,7 @@ title: "__ListOfLightsBuoysAndFogSignals"
     <td>3</td>
     <td>White skeleton tower, white triangular daymark.<br />
     17.2</td>
-    <td>Seasonal.<strong>Chart:2017</strong></td>
+    <td>Seasonal.**Chart:2017**</td>
   </tr>
   <tr>
     <td>430.2</td>
@@ -656,7 +656,7 @@ title: "__ListOfLightsBuoysAndFogSignals"
     <td>White cylindrical tower, green upper portion.<br />
     5.2</td>
     <td>Seasonal.<br />
-    <strong>Chart:2018</strong></td>
+    **Chart:2018**</td>
   </tr>
   <tr>
     <td>431</td>
@@ -672,7 +672,7 @@ title: "__ListOfLightsBuoysAndFogSignals"
     <td>5</td>
     <td>White cylindrical tower, red upper portion.<br />
     9.7</td>
-    <td>Seasonal.<strong>Chart:2018</strong></td>
+    <td>Seasonal.**Chart:2018**</td>
   </tr>
   <tr>
     <td>432</td>
@@ -687,7 +687,7 @@ title: "__ListOfLightsBuoysAndFogSignals"
     <td></td>
     <td>Mast.</td>
     <td>Privately maintained.<br />
-    Seasonal.<strong>Chart:2018</strong></td>
+    Seasonal.**Chart:2018**</td>
   </tr>
   <tr>
     <td><em>434.5</em> </td>
@@ -703,8 +703,8 @@ title: "__ListOfLightsBuoysAndFogSignals"
     <td></td>
     <td><em>Red spar, marked "KN8".</em> </td>
     <td><em>Seasonal.</em><br />
-    <em>(In place Year round.)</em><strong>Chart:2018</strong><br />
-    <strong>Edn 11/08(B08-141)</strong></td>
+    <em>(In place Year round.)</em>**Chart:2018**<br />
+    **Edn 11/08(B08-141)**</td>
   </tr>
   <tr>
   </tr>
@@ -721,8 +721,8 @@ title: "__ListOfLightsBuoysAndFogSignals"
     <td></td>
     <td><em>Red spar, marked "KM2".</em> </td>
     <td><em>Seasonal.</em><br />
-    <em>(In place Year round.)</em><strong>Chart:2018</strong><br />
-    <strong>Edn 11/08(B08-142)</strong></td>
+    <em>(In place Year round.)</em>**Chart:2018**<br />
+    **Edn 11/08(B08-142)**</td>
   </tr>
   <tr>
     <td><em>436</em> </td>
@@ -738,8 +738,8 @@ title: "__ListOfLightsBuoysAndFogSignals"
     <td></td>
     <td><em>Red spar, marked "KM4".</em> </td>
     <td><em>Seasonal.</em><br />
-    <em>(In place Year round.)</em><strong>Chart:2018</strong><br />
-    <strong>Edn 11/08(B08-143)</strong></td>
+    <em>(In place Year round.)</em>**Chart:2018**<br />
+    **Edn 11/08(B08-143)**</td>
   </tr>
   <tr>
     <td><em>437</em> </td>
@@ -754,8 +754,8 @@ title: "__ListOfLightsBuoysAndFogSignals"
     <td></td>
     <td><em>Green spar, marked "KM5".</em> </td>
     <td><em>Seasonal.</em><br />
-    <em>(In place Year round.)</em><strong>Chart:2018</strong><br />
-    <strong>Edn 11/08(B08-144)</strong></td>
+    <em>(In place Year round.)</em>**Chart:2018**<br />
+    **Edn 11/08(B08-144)**</td>
   </tr>
   <tr>
     <td>438</td>
@@ -771,14 +771,14 @@ title: "__ListOfLightsBuoysAndFogSignals"
     <td>6</td>
     <td>White cylindrical tower, red upper portion.<br />
     8.7</td>
-    <td>Seasonal.<strong>Chart:2018</strong></td>
+    <td>Seasonal.**Chart:2018**</td>
   </tr>
 </table>
 <table border="1" cellspacing="1" summary="table used for formatting only">
   <caption></caption>
   <tr>
     <td colspan="11">
-      <strong>ST. LAWRENCE RIVER - CANADIAN MIDDLE CHANNEL</strong>
+      **ST. LAWRENCE RIVER - CANADIAN MIDDLE CHANNEL**
     </td>
   </tr>
   <tr>
@@ -808,8 +808,8 @@ title: "__ListOfLightsBuoysAndFogSignals"
     <td></td>
     <td></td>
     <td><em>Red spar, marked "U4".</em> </td>
-    <td><em>Seasonal.</em><strong>Chart:1436</strong><br />
-    <strong>Edn. 06/06(B06-002)</strong> </td>
+    <td><em>Seasonal.</em>**Chart:1436**<br />
+    **Edn. 06/06(B06-002)** </td>
   </tr>
   <tr>
     <td>354</td>
@@ -825,7 +825,7 @@ title: "__ListOfLightsBuoysAndFogSignals"
     <td>3</td>
     <td>White cylindrical tower, red upper portion.<br />
     4.9</td>
-    <td>Seasonal.<strong>Chart:1436</strong></td>
+    <td>Seasonal.**Chart:1436**</td>
   </tr>
   <tr>
     <td>355</td>
@@ -841,7 +841,7 @@ title: "__ListOfLightsBuoysAndFogSignals"
     <td>3</td>
     <td>White cylindrical tower, red upper portion.<br />
     7.2</td>
-    <td>Seasonal.<strong>Chart:1436</strong></td>
+    <td>Seasonal.**Chart:1436**</td>
   </tr>
   <tr>
     <td><em>356</em> </td>
@@ -856,8 +856,8 @@ title: "__ListOfLightsBuoysAndFogSignals"
     <td></td>
     <td></td>
     <td><em>Green spar, marked "U11".</em> </td>
-    <td><em>Seasonal.</em><strong>Chart:1436</strong><br />
-    <strong>Edn. 06/06(B06-004)</strong> </td>
+    <td><em>Seasonal.</em>**Chart:1436**<br />
+    **Edn. 06/06(B06-004)** </td>
   </tr>
   <tr>
     <td><em>357</em> </td>
@@ -873,8 +873,8 @@ title: "__ListOfLightsBuoysAndFogSignals"
     <td></td>
     <td><em>Green spar, marked "U13".</em> </td>
     <td><em>Winter spar.</em><br />
-    <em>Seasonal.</em><strong>Chart:1436</strong><br />
-    <strong>Edn. 09/06(B06-030)</strong> </td>
+    <em>Seasonal.</em>**Chart:1436**<br />
+    **Edn. 09/06(B06-030)** </td>
   </tr>
   <tr>
     <td>358</td>
@@ -890,7 +890,7 @@ title: "__ListOfLightsBuoysAndFogSignals"
     <td>3</td>
     <td>White cylindrical tower, red upper portion.<br />
     7.1</td>
-    <td>Seasonal.<strong>Chart:1436</strong></td>
+    <td>Seasonal.**Chart:1436**</td>
   </tr>
   <tr>
     <td>359</td>
@@ -907,7 +907,7 @@ title: "__ListOfLightsBuoysAndFogSignals"
     <td>White cylindrical tower, green upper portion.<br />
     4.9</td>
     <td>Seasonal.<br />
-    <strong>Chart:1436</strong></td>
+    **Chart:1436**</td>
   </tr>
   <tr>
     <td><em>360</em> </td>
@@ -922,8 +922,8 @@ title: "__ListOfLightsBuoysAndFogSignals"
     <td></td>
     <td><em>Red spar, marked "U20".</em> </td>
     <td><em>Winter spar.</em><br />
-    <em>Seasonal.</em><strong>Chart:1436</strong><br />
-    <strong>Edn. 09/06(B06-031)</strong> </td>
+    <em>Seasonal.</em>**Chart:1436**<br />
+    **Edn. 09/06(B06-031)** </td>
   </tr>
   <tr>
     <td>361</td>
@@ -939,7 +939,7 @@ title: "__ListOfLightsBuoysAndFogSignals"
     <td>5</td>
     <td>White cylindrical tower, red upper portion.<br />
     6.1</td>
-    <td>Seasonal.<strong>Chart:1436</strong></td>
+    <td>Seasonal.**Chart:1436**</td>
   </tr>
   <tr>
     <td>361.2</td>
@@ -955,7 +955,7 @@ title: "__ListOfLightsBuoysAndFogSignals"
     <td>3</td>
     <td>White cylindrical tower, green upper portion.<br />
     8.6</td>
-    <td>Seasonal.<strong>Chart:1436</strong></td>
+    <td>Seasonal.**Chart:1436**</td>
   </tr>
   <tr>
     <td>361.3</td>
@@ -972,7 +972,7 @@ title: "__ListOfLightsBuoysAndFogSignals"
     <td>White cylindrical tower, red upper portion.<br />
     7.6</td>
     <td>Seasonal.<br />
-    <strong>Chart:1437</strong></td>
+    **Chart:1437**</td>
   </tr>
   <tr>
     <td>361.5</td>
@@ -988,7 +988,7 @@ title: "__ListOfLightsBuoysAndFogSignals"
     <td>3</td>
     <td>White cylindrical tower, green upper portion.<br />
     8.9</td>
-    <td>Seasonal.<strong>Chart:1437</strong></td>
+    <td>Seasonal.**Chart:1437**</td>
   </tr>
   <tr>
     <td>362</td>
@@ -1005,7 +1005,7 @@ title: "__ListOfLightsBuoysAndFogSignals"
     <td>White cylindrical tower, red upper portion.<br />
     6.1</td>
     <td>Seasonal.<br />
-    <strong>Chart:1437</strong></td>
+    **Chart:1437**</td>
   </tr>
   <tr>
     <td>362.3</td>
@@ -1022,7 +1022,7 @@ title: "__ListOfLightsBuoysAndFogSignals"
     <td>White cylindrical tower, green upper portion.<br />
     6.1</td>
     <td>Seasonal.<br />
-    <strong>Chart:1437</strong></td>
+    **Chart:1437**</td>
   </tr>
   <tr>
     <td>362.5</td>
@@ -1038,7 +1038,7 @@ title: "__ListOfLightsBuoysAndFogSignals"
     <td>3</td>
     <td>White cylindrical tower, red upper portion.<br />
     6.1</td>
-    <td>Seasonal.<strong>Chart:1437</strong></td>
+    <td>Seasonal.**Chart:1437**</td>
   </tr>
   <tr>
     <td>363</td>
@@ -1054,7 +1054,7 @@ title: "__ListOfLightsBuoysAndFogSignals"
     <td>3</td>
     <td>White cylindrical tower, green upper portion.<br />
     6.1</td>
-    <td>Seasonal.<strong>Chart:1437</strong></td>
+    <td>Seasonal.**Chart:1437**</td>
   </tr>
   <tr>
     <td>363.2</td>
@@ -1070,7 +1070,7 @@ title: "__ListOfLightsBuoysAndFogSignals"
     <td>3</td>
     <td>White cylindrical tower, red upper portion.<br />
     7.6</td>
-    <td>Seasonal.<strong>Chart:1437</strong></td>
+    <td>Seasonal.**Chart:1437**</td>
   </tr>
   <tr>
     <td><em>364</em> </td>
@@ -1086,8 +1086,8 @@ title: "__ListOfLightsBuoysAndFogSignals"
     <td></td>
     <td><em>Red spar, marked "H20".</em> </td>
     <td><em>Winter spar.</em><br />
-    <em>Seasonal.</em><strong>Chart:1437</strong><br />
-    <strong>Edn. 09/07(B06-032)</strong> </td>
+    <em>Seasonal.</em>**Chart:1437**<br />
+    **Edn. 09/07(B06-032)** </td>
   </tr>
   <tr>
     <td><em>364.4</em> </td>
@@ -1103,8 +1103,8 @@ title: "__ListOfLightsBuoysAndFogSignals"
     <td></td>
     <td><em>Red spar, marked "H22".</em> </td>
     <td><em>Winter spar.</em><br />
-    <em>Seasonal.</em><strong>Chart:1437</strong><br />
-    <strong>Edn. 09/06(B06-033)</strong> </td>
+    <em>Seasonal.</em>**Chart:1437**<br />
+    **Edn. 09/06(B06-033)** </td>
   </tr>
   <tr>
     <td><em>364.6</em> </td>
@@ -1120,8 +1120,8 @@ title: "__ListOfLightsBuoysAndFogSignals"
     <td></td>
     <td><em>Green spar, marked "H23".</em> </td>
     <td><em>Winter spar.</em><br />
-    <em>Seasonal.</em><strong>Chart:1437</strong><br />
-    <strong>Edn 10/06(B06-059)</strong> </td>
+    <em>Seasonal.</em>**Chart:1437**<br />
+    **Edn 10/06(B06-059)** </td>
   </tr>
   <tr>
     <td>364.9</td>
@@ -1135,7 +1135,7 @@ title: "__ListOfLightsBuoysAndFogSignals"
     <td>7.8</td>
     <td>3</td>
     <td>White cylindrical tower, red upper portion.</td>
-    <td>Seasonal.<strong>Chart:1437</strong></td>
+    <td>Seasonal.**Chart:1437**</td>
   </tr>
   <tr>
     <td>365</td>
@@ -1152,7 +1152,7 @@ title: "__ListOfLightsBuoysAndFogSignals"
     <td>White cylindrical tower, green upper portion.<br />
     7.2</td>
     <td>Seasonal.<br />
-    <strong>Chart:1437</strong></td>
+    **Chart:1437**</td>
   </tr>
   <tr>
     <td>365.2</td>
@@ -1168,7 +1168,7 @@ title: "__ListOfLightsBuoysAndFogSignals"
     <td>3</td>
     <td>White cylindrical tower, red upper portion.<br />
     7.2</td>
-    <td>Seasonal.<strong>Chart:1437</strong></td>
+    <td>Seasonal.**Chart:1437**</td>
   </tr>
   <tr>
     <td>365.3</td>
@@ -1183,7 +1183,7 @@ title: "__ListOfLightsBuoysAndFogSignals"
     <td>7.2</td>
     <td>3</td>
     <td>White cylindrical tower, red upper portion.</td>
-    <td>Seasonal.<strong>Chart:1437</strong></td>
+    <td>Seasonal.**Chart:1437**</td>
   </tr>
   <tr>
     <td><em>365.4</em> </td>
@@ -1199,8 +1199,8 @@ title: "__ListOfLightsBuoysAndFogSignals"
     <td></td>
     <td><em>Red spar, marked "H26".</em> </td>
     <td><em>Winter spar.</em><br />
-    <em>Seasonal.</em><strong>Chart:1437</strong><br />
-    <strong>Edn. 09/06(B06-034)</strong> </td>
+    <em>Seasonal.</em>**Chart:1437**<br />
+    **Edn. 09/06(B06-034)** </td>
   </tr>
   <tr>
     <td><em>365.5</em> </td>
@@ -1216,8 +1216,8 @@ title: "__ListOfLightsBuoysAndFogSignals"
     <td></td>
     <td><em>Red spar, marked "H30".</em> </td>
     <td><em>Winter spar.</em><br />
-    <em>Seasonal.</em><strong>Chart:1438</strong><br />
-    <strong>Edn. 09/06(B06-035)</strong> </td>
+    <em>Seasonal.</em>**Chart:1438**<br />
+    **Edn. 09/06(B06-035)** </td>
   </tr>
   <tr>
     <td><em>365.8</em> </td>
@@ -1233,8 +1233,8 @@ title: "__ListOfLightsBuoysAndFogSignals"
     <td></td>
     <td><em>Green spar, marked "J5".</em> </td>
     <td><em>Winter spar.</em><br />
-    <em>Seasonal.</em><strong>Chart:1438</strong><br />
-    <strong>Edn 10/06(B06-058)</strong> </td>
+    <em>Seasonal.</em>**Chart:1438**<br />
+    **Edn 10/06(B06-058)** </td>
   </tr>
   <tr>
     <td>366</td>
@@ -1251,7 +1251,7 @@ title: "__ListOfLightsBuoysAndFogSignals"
     <td>White cylindrical tower, red upper portion.<br />
     6.1</td>
     <td>Seasonal.<br />
-    <strong>Chart:1438</strong></td>
+    **Chart:1438**</td>
   </tr>
   <tr>
     <td><em>366.2</em> </td>
@@ -1266,8 +1266,8 @@ title: "__ListOfLightsBuoysAndFogSignals"
     <td></td>
     <td><em>Green spar, marked "J5/3".</em> </td>
     <td><em>Winter spar.</em><br />
-    <em>Seasonal.</em><strong>Chart:1438</strong><br />
-    <strong>Edn. 09/06(B06-036)</strong> </td>
+    <em>Seasonal.</em>**Chart:1438**<br />
+    **Edn. 09/06(B06-036)** </td>
   </tr>
   <tr>
     <td>366.5</td>
@@ -1284,7 +1284,7 @@ title: "__ListOfLightsBuoysAndFogSignals"
     <td>White cylindrical mast.<br />
     3.0</td>
     <td>Privately maintained by Gordon Marine.<br />
-    Seasonal.<strong>Chart:1438</strong></td>
+    Seasonal.**Chart:1438**</td>
   </tr>
   <tr>
     <td>367</td>
@@ -1300,7 +1300,7 @@ title: "__ListOfLightsBuoysAndFogSignals"
     <td>6</td>
     <td>White cylindrical tower, red upper portion.<br />
     5.0</td>
-    <td>Seasonal.<strong>Chart:1438</strong></td>
+    <td>Seasonal.**Chart:1438**</td>
   </tr>
   <tr>
     <td><em>367.3</em> </td>
@@ -1315,8 +1315,8 @@ title: "__ListOfLightsBuoysAndFogSignals"
     <td></td>
     <td><em>Red spar, marked "J8".</em> </td>
     <td><em>Winter spar.</em><br />
-    <em>Seasonal.</em><strong>Chart:1438</strong><br />
-    <strong>Edn 10/06(B06-037)</strong> </td>
+    <em>Seasonal.</em>**Chart:1438**<br />
+    **Edn 10/06(B06-037)** </td>
   </tr>
   <tr>
     <td><em>367.6</em> </td>
@@ -1332,8 +1332,8 @@ title: "__ListOfLightsBuoysAndFogSignals"
     <td></td>
     <td><em>Green spar, marked "J11".</em> </td>
     <td><em>Winter spar.</em><br />
-    <em>Seasonal.</em><strong>Chart:1438</strong><br />
-    <strong>Edn 10/06(B06-041)</strong> </td>
+    <em>Seasonal.</em>**Chart:1438**<br />
+    **Edn 10/06(B06-041)** </td>
   </tr>
   <tr>
     <td>368</td>
@@ -1349,7 +1349,7 @@ title: "__ListOfLightsBuoysAndFogSignals"
     <td>4</td>
     <td>White cylindrical tower, red upper portion.<br />
     6.1</td>
-    <td>Seasonal.<strong>Chart:1438</strong></td>
+    <td>Seasonal.**Chart:1438**</td>
   </tr>
   <tr>
     <td><em>368.2</em> </td>
@@ -1364,7 +1364,7 @@ title: "__ListOfLightsBuoysAndFogSignals"
     <td></td>
     <td><em>Orange and white.</em> </td>
     <td><em>Privately maintained by the Rideau St. Lawrence Cruise Ships.</em><br />
-    <em>Seasonal.</em><strong>Chart:1438</strong> </td>
+    <em>Seasonal.</em>**Chart:1438** </td>
   </tr>
   <tr>
     <td><em>368.5</em> </td>
@@ -1380,8 +1380,8 @@ title: "__ListOfLightsBuoysAndFogSignals"
     <td></td>
     <td><em>Green spar, marked "J15".</em> </td>
     <td><em>Winter spar.</em><br />
-    <em>Seasonal.</em><strong>Chart:1438</strong><br />
-    <strong>Edn 10/06(B06-042)</strong> </td>
+    <em>Seasonal.</em>**Chart:1438**<br />
+    **Edn 10/06(B06-042)** </td>
   </tr>
   <tr>
     <td>369</td>
@@ -1397,7 +1397,7 @@ title: "__ListOfLightsBuoysAndFogSignals"
     <td>3</td>
     <td>White cylindrical tower, green upper portion.<br />
     5.0</td>
-    <td>Seasonal.<strong>Chart:1438</strong></td>
+    <td>Seasonal.**Chart:1438**</td>
   </tr>
   <tr>
     <td><em>369.5</em> </td>
@@ -1414,8 +1414,8 @@ title: "__ListOfLightsBuoysAndFogSignals"
     <td></td>
     <td><em>Red, green and red spar, marked "JVB".</em> </td>
     <td><em>Winter spar.</em><br />
-    <em>Seasonal.</em><strong>Chart:1438</strong><br />
-    <strong>Edn 10/06(B06-043)</strong> </td>
+    <em>Seasonal.</em>**Chart:1438**<br />
+    **Edn 10/06(B06-043)** </td>
   </tr>
   <tr>
     <td>370</td>
@@ -1431,7 +1431,7 @@ title: "__ListOfLightsBuoysAndFogSignals"
     <td>3</td>
     <td>White square skeleton tower, orange rectangular daymark.<br />
     7.6</td>
-    <td>Seasonal.<strong>Chart:1438</strong></td>
+    <td>Seasonal.**Chart:1438**</td>
   </tr>
   <tr>
     <td><em>371</em> </td>
@@ -1447,8 +1447,8 @@ title: "__ListOfLightsBuoysAndFogSignals"
     <td></td>
     <td><em>Green spar, marked "JE17".</em> </td>
     <td><em>Winter spar.</em><br />
-    <em>Seasonal.</em><strong>Chart:1438</strong><br />
-    <strong>Edn 10/06(B06-044)</strong> </td>
+    <em>Seasonal.</em>**Chart:1438**<br />
+    **Edn 10/06(B06-044)** </td>
   </tr>
   <tr>
     <td>371.2</td>
@@ -1464,7 +1464,7 @@ title: "__ListOfLightsBuoysAndFogSignals"
     <td>3</td>
     <td>White cylindrical tower, green upper portion.<br />
     7.6</td>
-    <td>Seasonal.<strong>Chart:1438</strong></td>
+    <td>Seasonal.**Chart:1438**</td>
   </tr>
   <tr>
     <td><em>371.4</em> </td>
@@ -1480,8 +1480,8 @@ title: "__ListOfLightsBuoysAndFogSignals"
     <td></td>
     <td><em>Red spar, marked "H32".</em> </td>
     <td><em>Winter spar.</em><br />
-    <em>Seasonal.</em><strong>Chart:1438</strong><br />
-    <strong>Edn 10/06(B06-045)</strong> </td>
+    <em>Seasonal.</em>**Chart:1438**<br />
+    **Edn 10/06(B06-045)** </td>
   </tr>
   <tr>
     <td><em>371.6</em> </td>
@@ -1496,8 +1496,8 @@ title: "__ListOfLightsBuoysAndFogSignals"
     <td></td>
     <td><em>Red spar, marked "H34".</em> </td>
     <td><em>Winter spar.</em><br />
-    <em>Seasonal.</em><strong>Chart:1438</strong><br />
-    <strong>Edn 10/06(B06-047)</strong> </td>
+    <em>Seasonal.</em>**Chart:1438**<br />
+    **Edn 10/06(B06-047)** </td>
   </tr>
   <tr>
     <td><em>371.8</em> </td>
@@ -1513,7 +1513,7 @@ title: "__ListOfLightsBuoysAndFogSignals"
     <td><em>Orange and white.</em> </td>
     <td><em>Pivately maintained.</em><br />
     <em>Winter spar.</em><br />
-    <em>Seasonal.</em><strong>Chart:1438</strong> </td>
+    <em>Seasonal.</em>**Chart:1438** </td>
   </tr>
 </table>
 

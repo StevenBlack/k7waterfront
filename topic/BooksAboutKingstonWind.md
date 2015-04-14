@@ -6,10 +6,10 @@ title: "Books About Kingston Wind"
 ---
 
 
-A place to list books where <strong>Kingston's Wind is discussed and analyzed</strong>.
+A place to list books where **Kingston's Wind is discussed and analyzed**.
 
 <div class="item" style="width: 500px;">
-Stuart Walker talks about Kingston in <h3 class="plain">The Sailor's Wind</h3>.
+Stuart Walker talks about Kingston in <h3 class="plain">The Sailor's Wind###.
 
 Buy it: ISBN 0393045552
 
@@ -22,7 +22,7 @@ Buy it: ISBN 0393045552
 
 
 <div class="item" style="width: 500px;">
-Not to be confused with <h3 class="plain">The Sailor's Wind Kingston</h3> , a 36-page pamphlet which is part of a series that also includes Rochester and Annapolis.
+Not to be confused with <h3 class="plain">The Sailor's Wind Kingston### , a 36-page pamphlet which is part of a series that also includes Rochester and Annapolis.
 <img src="http://k7waterfront.org/Images/SailorsWindPamphlet.jpg" class="floatleft">
 </div>
 

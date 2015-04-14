@@ -9,7 +9,7 @@ title: "Wind"
 
 **Here are wind normals for Kingston, Ontario.**
 
-Source: [Canadian Climate Normals, Environment Canada](http://climate.weatheroffice.ec.gc.ca/).  Speeds therein are given in km/h, and those are converted and displayed here in <b>knots</b>.
+Source: [Canadian Climate Normals, Environment Canada](http://climate.weatheroffice.ec.gc.ca/).  Speeds therein are given in km/h, and those are converted and displayed here in **knots**.
 
 The weather station is located on top of Point Henry which is bounded by Deadman's Bay to the southeast and Navy Bay to the southwest with the point of land projecting into the St. Lawrence River.
 
