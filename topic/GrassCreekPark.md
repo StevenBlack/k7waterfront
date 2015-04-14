@@ -5,11 +5,10 @@ title: "Grass Creek Park"
 
 ---
 
-##Grass Creek Park
 One of our many [waterfront parks][parks]
 
 
- [http://courses.civil.queensu.ca/civl206/Seminar%20Sessions/Session%205%20Coastal%20Engineering/Grass%20Creek%20Park.pdf](A proposal for a dock at Grass Creek Park) (a student's Civil Engineering project)
+[A proposal for a dock at Grass Creek Park - a student's Civil Engineering project](http://courses.civil.queensu.ca/civl206/Seminar%20Sessions/Session%205%20Coastal%20Engineering/Grass%20Creek%20Park.pdf)
 
 #INSERTTOPIC:__GoogleDataMapGrassCreekPark
 

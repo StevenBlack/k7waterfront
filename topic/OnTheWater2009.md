@@ -15,18 +15,17 @@ This full-page ad purports to showcase some great things "On the Water", therefo
 
 The items circled, the Kingston Buskers Rendezvous, and the Limestone City Blues Festival, nave **'NOTHING**' whatsoever to do with our waterfront.
 
-In fact, if you go to these events, you'll be greeted by the [http://k7waterfront.org/Topic/DisappearingWaterfront](locked gates of Confederation Basin Marina).
+In fact, if you go to these events, you'll be greeted by the [locked gates of Confederation Basin Marina](http://k7waterfront.org/Topic/DisappearingWaterfront).
 
 **Who is well-served by misleading residents and visitors about our waterfront?**
 
 Look at the list as a whole.  How many of these events are about getting people in, or on, the water?
 
 **Just two**.
-<ol>
-<li>At the [http://collinsbaymarina.com/SafeBoating.html](Don't Rock The Boat) event at Collins Bay Marina (which is really great) you can try canoes and kayaks, and you can take a ride in a powerboat.  Lots of other things too. </li>
 
-<li>At the Kingston Kids Perch Fishing Derby at POH you and your kids will be on a dock with a fishing rod in-hand.</li>
-</ol>
+* At the [Don't Rock The Boat) event at Collins Bay Marina (which is really great](http://collinsbaymarina.com/SafeBoating.html) you can try canoes and kayaks, and you can take a ride in a powerboat.  Lots of other things too.
+
+* At the Kingston Kids Perch Fishing Derby at POH you and your kids will be on a dock with a fishing rod in-hand.
 
 None of those two water-accessiblity focused events is near downtown.
 
@@ -36,6 +35,6 @@ That sums-up our so-called "wonderful waterfront".  **It's pathetic**, to be bru
 
 Kingston's waterfront resource is, if anything, **a spectacular underachievement**.
 
-**Related**:  KEDCO's grossly misleading (and ultimately botched) [http://k7waterfront.org/KingstonWaterfrontNews012008.html#3687](waterfront promotion website).
+**Related**:  KEDCO's grossly misleading (and ultimately botched) [waterfront promotion website](http://k7waterfront.org/KingstonWaterfrontNews012008.html#3687).
 
 {% include routes.html %}

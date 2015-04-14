@@ -22,8 +22,8 @@ Kurt is an electrician with 12 years of experience with wind and solar including
 off-grid systems.  Chris is an inspiring speaker, an entrepreneur in solar systems, and a former member
 of Canada's armed forces.
 
-Speakers:  Kurt Streicher, Owner of [http://www.downundersolar.ca/](Downunder Solar) in Kingston and
-Chris Weissflog, Founder [http://www.ecogenenergy.ca/](EcoGen Energy Inc), Kemptville
+Speakers:  Kurt Streicher, Owner of [Downunder Solar](http://www.downundersolar.ca/) in Kingston and
+Chris Weissflog, Founder [EcoGen Energy Inc](http://www.ecogenenergy.ca/), Kemptville
 
 Information: http://kingston.cps-ecp.org
 

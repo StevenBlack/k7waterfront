@@ -8,10 +8,11 @@ title: "Checklist For Shipping Containers To Kingston"
 ###=For sail training or for regattas<h2 class="floatleft span-15">How to ship containers to Canada / Kingston
 {{_contents}}
 <h3>Regardless of where you are coming from</h3>
+
 #INSERTTOPIC:_ChecklistForShippingContainersToKingstonSidebar
 <ol>
 <li> <strong>Get yourself a customs broker</strong>.
- <ul><li>For example, for European sailors, call [http://www.kerrylogistics.com](Kerry Logistics) in the UK or a similar Broker, such as [http://www.schenker.com/index_en/index.html](Schenker).
+ <ul><li>For example, for European sailors, call [Schenker](http://www.kerrylogistics.com](Kerry Logistics) in the UK or a similar Broker, such as [http://www.schenker.com/index_en/index.html).
  </ul>
 <li> <strong>Select a shipper</strong>.  CAST, Mersk, P&O, Schenker, some shipper with a container depot close to where you are.
      <ul>     <li> CAST has a depot in Montreal.  Speak with <strong>Andre Morenci</strong> who has handled competitive sailors and their gear in the past.
@@ -33,9 +34,9 @@ title: "Checklist For Shipping Containers To Kingston"
           </ul>
      </ul>
 
-  <li> <strong>Discuss with your Broker</strong> whether you need a [http://www.uscib.org/index.asp?documentID=1843](Carnet), or if you will just pay a [http://www.shipnorthamerica.com/htmfiles/gloss_cust_tempbond.htm](temporary import bond).
+  <li> <strong>Discuss with your Broker</strong> whether you need a [temporary import bond](http://www.uscib.org/index.asp?documentID=1843](Carnet), or if you will just pay a [http://www.shipnorthamerica.com/htmfiles/gloss_cust_tempbond.htm).
     <ul>
-      <li> The [http://www.uscib.org/index.asp?documentID=1843](Carnet) is a little more expensive but usually pays for itself in the long run, especially if you are going to be in North America for a while going in and out of Canada and the US.
+      <li> The [Carnet](http://www.uscib.org/index.asp?documentID=1843) is a little more expensive but usually pays for itself in the long run, especially if you are going to be in North America for a while going in and out of Canada and the US.
       <li> <strong>The best thing about a Carnet: You can land in one country, and ship back from another</strong>.
          <ul>
          <li>Example: Land in Montreal or Halifax, and it could leave via a US port.
@@ -54,10 +55,10 @@ title: "Checklist For Shipping Containers To Kingston"
 
   <li><strong>If your container is travelling by ship</strong>, and landing in a Canadian port, there are three options.
      <ul>
-       <li> [www.port-montreal.com Port of Montreal][www.port-montreal.comportofmontreal] which is about [http://tinyurl.com/2b86q3](300 km driving distance from Kingston)
-       <li> [http://www.portofhalifax.ca/](Port of Halifax) East Coast, [http://tinyurl.com/2b86q3](1500 km driving distance from Kingston), the shortest route being partly through the state of Maine, USA.
+       <li> [www.port-montreal.com Port of Montreal][www.port-montreal.comportofmontreal] which is about [300 km driving distance from Kingston](http://tinyurl.com/2b86q3)
+       <li> [1500 km driving distance from Kingston](http://www.portofhalifax.ca/](Port of Halifax) East Coast, [http://tinyurl.com/2b86q3), the shortest route being partly through the state of Maine, USA.
        <li> [www.portvancouver.com Port of Vancouver][www.portvancouver.comportofvancouver] West Coast, about 4,000 km driving distance.
-       <li> You could ship to a US port. [http://tinyurl.com/2o6t5m](Boston), 690 km away, for example.
+       <li> You could ship to a US port. [Boston](http://tinyurl.com/2o6t5m), 690 km away, for example.
      </ul>
 
   <li> <strong>Decide where to unload your container</strong>.  You can do this at the port, at a more local depot, or at the Yacht Club or sailing venue.
@@ -74,10 +75,10 @@ title: "Checklist For Shipping Containers To Kingston"
   Kingston, Ontario
   Tel. 613-544-5626</pre>
 <ul>
-<li><s>They have a ramp where a truck can back up, and the container can be be unloaded without taking the container off the truck.</s> 
+<li><s>They have a ramp where a truck can back up, and the container can be be unloaded without taking the container off the truck.</s>
            <li><s>This is especially useful for Coach boats which are too heavy to lift in and out of a container.</s>
            <li><s>Most dinghies can be loaded and unloaded with muscle power.</s>
-           <li><s>It is only about 3 minutes drive from [Portsmouth Olympic Harbour][portsmoutholympicharbour].</s> 
+           <li><s>It is only about 3 minutes drive from [Portsmouth Olympic Harbour][portsmoutholympicharbour].</s>
 #INSERTTOPIC:__GoogleDataMapContainering
          </ul>
       </ul>
@@ -97,7 +98,7 @@ title: "Checklist For Shipping Containers To Kingston"
 <h3>If you are coming from Europe</h3>
 
 <ol>
-<li> <strong>Brokers</strong>.  Call [http://www.kerrylogistics.com](Kerry Logistics) in the UK or a similar Broker, such as [http://www.schenker.com/index_en/index.html](Scheinker).
+<li> <strong>Brokers</strong>.  Call [Scheinker](http://www.kerrylogistics.com](Kerry Logistics) in the UK or a similar Broker, such as [http://www.schenker.com/index_en/index.html).
 
 
 <li> <strong>The EU is much easier to cross borders</strong>.  <strong>Canada and the US are very distinct entities</strong>.  "North America" is not like "Europe".  Have your act pulled-together, and in order, if you cross borders here.

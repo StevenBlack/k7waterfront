@@ -6,12 +6,15 @@ title: "Confederation Basin"
 ---
 
 City operated marina since 1967, the 100th anniversary of Canadian confederation.
-<div class="sidebar">
-<strong>Facts about Confed</strong>
-Approximately 4,297 transient visits in 2007. [http://k7waterfront.org/files/RFPforMarinaDevelopmentStrategyandBusinessPlan.pdf#page=19]((1))
 
-Transient boaters length of stay averages between 1.6 and 1.8 nights in 2007 [http://k7waterfront.org/files/RFPforMarinaDevelopmentStrategyandBusinessPlan.pdf#page=19]((2))</div>
-See this [http://www.cityofkingston.ca/visitors/marinas/conf.asp](City of Kingston web page) as well as the [http://www.cityofkingston.ca/residents/recreation/marinas/index.asp](City of Kingston municipal marinas page)
+<div class="sidebar">
+
+<strong>Facts about Confed</strong>
+
+Approximately 4,297 transient visits in 2007. [(1)](http://k7waterfront.org/files/RFPforMarinaDevelopmentStrategyandBusinessPlan.pdf#page=19)
+
+Transient boaters length of stay averages between 1.6 and 1.8 nights in 2007 [(2)](http://k7waterfront.org/files/RFPforMarinaDevelopmentStrategyandBusinessPlan.pdf#page=19)</div>
+See this [City of Kingston municipal marinas page](http://www.cityofkingston.ca/visitors/marinas/conf.asp](City of Kingston web page) as well as the [http://www.cityofkingston.ca/residents/recreation/marinas/index.asp)
 
 See too: http://www.virtualkingston.ca/fullscreens/floramacdonaldbasin/macdonaldbasin_01.html
 
@@ -21,21 +24,15 @@ The <b><i>Flora MacDonald Confederation Basin</b></i> is usually referred to as 
 
 Major expansion in 1988.  Currently 384 slips.   There is no fuel, and no pumpout, at Confederation basin.
 
-  Currently ([http://k7waterfront.org/files/RFPforMarinaDevelopmentStrategyandBusinessPlan.pdf#page=9](2008)) Confederation Basin consists of <strong>160 seasonal berths</strong> and approximately <strong>215 slips for transient traffic</strong>.
+  Currently ([2008)](http://k7waterfront.org/files/RFPforMarinaDevelopmentStrategyandBusinessPlan.pdf#page=9) Confederation Basin consists of <strong>160 seasonal berths</strong> and approximately <strong>215 slips for transient traffic</strong>.
 
 <img class="chartsegment" src="images\Chart-Confed.jpg"><img class="chartsegment" src="images\Chart-HistConfed.jpg">
 
-An image from the [http://www.cityofkingston.ca/residents/recreation/parks/index.asp](City of Kingston Parks page):
+An image from the [City of Kingston Parks page](http://www.cityofkingston.ca/residents/recreation/parks/index.asp):
 
-[http://www.cityofkingston.ca/residents/recreation/parks/index.asp](<img src="http://www.cityofkingston.ca/img/maps/parks/confed_basin.gif">)
+[<img src="http://www.cityofkingston.ca/img/maps/parks/confed_basin.gif">](http://www.cityofkingston.ca/residents/recreation/parks/index.asp)
 
 #NEWSITEMS:Confederation
 
-
-<b>For more information</b>, contact:
-Ed Leeman,
-Supervisor Facility Operations
-Phone (613) 546-4291 Ext. 1805
-Fax (613) 544-4776
 
 {% include routes.html %}

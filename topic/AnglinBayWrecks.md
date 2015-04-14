@@ -16,7 +16,7 @@ Parts of hulls (particularly ribs) can be seen slightly above the ice surface to
 
 Many of these ships belonged to the Montreal Transportation Company whose shipyard used to be at the entrance to Anglin Bay, and Canada Steamship Lines (CSL), headquartered in Montreal.
 
-The wrecks are not to be disturbed as they are archeological sites under the Ontario Heritage Act.  See also [http://www.culture.gov.on.ca/english/culdiv/heritage/arch_define.htm](Regulation to Define Archaeology Terms in the Ontario Heritage Act) and [http://www.culture.gov.on.ca/english/culdiv/heritage/archwat.htm](Underwater Archaeology: Ontario's Marine Heritage)
+The wrecks are not to be disturbed as they are archeological sites under the Ontario Heritage Act.  See also [Underwater Archaeology: Ontario's Marine Heritage](http://www.culture.gov.on.ca/english/culdiv/heritage/arch_define.htm](Regulation to Define Archaeology Terms in the Ontario Heritage Act) and [http://www.culture.gov.on.ca/english/culdiv/heritage/archwat.htm)
 
 <img src="images/AnglinBayJan06,5.jpg"><img src="images/AnglinBayJan06,6.jpg"><img src="images/AnglinBayJan06,7.jpg">
 
