@@ -10,8 +10,14 @@ twitter_username: k7Waterfront
 github_username:  StevenBlack/k7waterfront
 site.image_default_alt: "Kingston, Ontario Waterfront"
 
-mapping:
-    provider: google_js
-
 # Build settings
 markdown: kramdown
+kramdown:
+  parse_block_html: true
+
+exclude: [ "node_modules", "modern-business", "maps", "readme.md", "package.json", "gruntfile.js", "gruntoptions.json", "j.sh",  ]
+
+mapping:
+  provider: google_js
+  api_key: AIzaSyBRrF26FZMJ-8yWzfhGrZ899_a_EdM56Uk
+
