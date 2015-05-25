@@ -6,7 +6,6 @@ mapping:
   layers:
     - http://k7waterfront.org/maps/kml/beach.kml
 
-
 ---
 
 {% render_map %}
@@ -14,9 +13,11 @@ mapping:
 There are no "official" beaches in Kingston.  There are, however, several good waterside places to hang out.
 
 
-#INSERTTOPIC:SandBeaches
+#This is a test
+{:.foo .bar}
 
-#INSERTTOPIC:RockyBeaches
+{% include_article SandBeaches.md %}
+{% include_article RockyBeaches.md %}
 
 #NEWSITEMS:Beach,beaches,Grass Creek Park,
 

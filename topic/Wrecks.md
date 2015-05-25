@@ -1,13 +1,17 @@
 ---
 layout: topic
 permalink: "/topic/Wrecks/"
-title: "Wrecks"
+title: "Wrecks in the Kingston area"
+mapping:
+  layers:
+    - http://k7waterfront.org/maps/kml/wreck.kml
 
 ---
 
-##Wrecks in the Kingston area
+{% render_map %}
 
-<div class="sidebar"  style="width:300px">
+
+
 #INSERTTOPIC:ListOfShoreDives
 
 

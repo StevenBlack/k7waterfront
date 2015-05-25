@@ -1,12 +1,21 @@
 ---
 layout: topic
 permalink: "/topic/Cranes/"
-title: "Cranes"
+title: "Waterfront cranes and hoists"
 
 ---
 
-##Cranes and hoists on the Kingston area waterfront
 Here's the inventory of marine-related crane services in the immediate Kingston area.
+
+{% include_article CollinsBayMarina.md %}
+
+{% include_article KingstonMarina.md %}
+
+{% include_article PortsmouthOlympicHarbour.md %}
+
+{% include_article RideauMarina.md %}
+
+
 #INSERTTOPIC:CollinsBayMarina#crane
 #INSERTTOPIC:KingstonMarina#crane
 #INSERTTOPIC:PortsmouthOlympicHarbour#hoist

@@ -1,11 +1,10 @@
 ---
 layout: topic
 permalink: "/topic/ListOfShoreDives/"
-title: "List Of Shore Dives"
+title: "List Of Kingston's Shore Dives"
 
 ---
 
-## Some of Kingston's Shore Dives
 * [Marine Museum][marinemuseum] barge
 * Cars off the [Pump House Steam Museum](http://www.marmuseum.ca/engine1.htm)
 * Wreck off the City PUC dock
